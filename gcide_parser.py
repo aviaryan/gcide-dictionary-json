@@ -2,11 +2,13 @@ import json
 from bs4 import BeautifulSoup
 
 
-fix_er = True # Fix entry reference,hyperlinks . convert (Bacteria : See Bacterium.) to (Bacteria : ___Bacterium)
 indent = 0 # indent of output alphabet-wise json ; make it to None for single-line compressed output
 indent_main = None # indent of dictionary.json
 remove_as = False # remove example sentences from defn .. like 'as, a valuable item' . These give examples of how the word is used
-strict = True # remove words that don't start with alphabet . e.g. suffixes (-ing in i, -s in s)
+strict = False # remove words that don't start with alphabet . e.g. suffixes (-ing in i, -s in s)
+all_lowercase = True # make all words lowercase (not their definitions)
+
+fix_er = True # Fix entry reference,hyperlinks . convert (Bacteria : See Bacterium.) to (Bacteria : ___Bacterium)
 remove_orphans = True # remove words without definition
 ascii_output = False # if false, outputs unicode (recommended)
 
@@ -22,9 +24,11 @@ def gcide_xml2json(xml, alphabet):
 		if p.find('ent') != None:
 			if strict and ent.lower().startswith(alphabet) == False and ent != '':
 				del dic[ent]
-			if remove_orphans and ent != '' and len(dic[ent]) == 0: # word with no meanings
+			elif remove_orphans and ent != '' and len(dic[ent]) == 0: # word with no meanings
 				del dic[ent]
 			ent = p.find_all('ent')[-1].get_text() # get the root word, last one
+			if all_lowercase:
+				ent = ent.lower()
 			if ent not in dic:
 				dic[ent] = []
 		if ent == '':
@@ -33,7 +37,10 @@ def gcide_xml2json(xml, alphabet):
 		if defn != None:
 			defnt = defn.get_text()
 			if fix_er and defnt.find('See') * defnt.find('Same as') == 0 and defn.find('er') != None:
-				dic[ent] += ['___' + defn.find('er').get_text()]
+				er = defn.find('er').get_text()
+				if all_lowercase:
+					er = er.lower()
+				dic[ent] += ['___' + er]
 			else:
 				if remove_as and defn.find('as') != None:
 					defn.find('as').clear()
@@ -45,7 +52,7 @@ def gcide_xml2json(xml, alphabet):
 
 if __name__ == '__main__':
 	a2z = 'abcdefghijklmnopqrstuvwxyz'
-	a2z = 's'
+	# a2z = 's'
 	mdic = {}
 	for _ in a2z:
 		fname = 'xml_files/gcide_' + _ + '.xml'
