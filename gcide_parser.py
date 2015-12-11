@@ -31,9 +31,10 @@ def gcide_xml2json(xml, alphabet):
 							only_alpha and ent != '' and ent.isalpha() == False )
 			if delete_entry:
 				for _ent in ents:
-					del dic[_ent]
+					if _ent in dic: del dic[_ent] # band age and Band Age .. same when lowercase
 
-			ents = [i.get_text() for i in p.find_all('ent')]
+			ents = [i.get_text().lower() if all_lowercase else i.get_text() for i in p.find_all('ent')]
+			ents = [i for i in ents[:-1] if i[0:1].isalpha()] + [ents[-1]] # remove suffixes from same words cuz they are not my job
 			ent = ents[-1] # get the root word, last one
 			if all_lowercase:
 				ent = ent.lower()
