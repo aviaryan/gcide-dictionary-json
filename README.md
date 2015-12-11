@@ -1,13 +1,13 @@
 # GCIDE Dictionary
 
-GCIDE dictionary in json format. Note that this is not the complete dictionary, just words with their definitions.
+[GCIDE dictionary](https://www.ibiblio.org/webster/) in json format. Note that this is not the complete dictionary, just the words with their definitions.
 
 
 ### Using
 
-The uncompressed, formatted dictionary json files arranged alphabetically are inside the [json_files](json_files/) folder. The compressed all-in-one file is [dictionary.json](dictionary.json).
+The formatted dictionary json files, arranged alphabetically are inside the [json_files](json_files/) folder. The compressed all-in-one file is [dictionary.json](dictionary.json).
 
-The basic structure of these files is like
+The basic structure of these files looks like
 
 ```javascript
 "word1": [
@@ -46,3 +46,4 @@ If you want to have control over the output json files, there are some variables
 ### Similar Projects
 
 * [adambom/dictionary](https://github.com/adambom/dictionary)
+* [javierjulio/dictionary](https://github.com/javierjulio/dictionary)
