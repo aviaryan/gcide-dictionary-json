@@ -3,9 +3,12 @@ from bs4 import BeautifulSoup
 
 
 fix_er = True # Fix entry reference,hyperlinks . convert (Bacteria : See Bacterium.) to (Bacteria : ___Bacterium)
-indent = 0 # indent of ouput json ; make it to None for single-line compressed output
+indent = 0 # indent of output alphabet-wise json ; make it to None for single-line compressed output
+indent_main = None # indent of dictionary.json
 remove_as = False # remove example sentences from defn .. like 'as, a valuable item' . These give examples of how the word is used
 strict = True # remove words that don't start with alphabet . e.g. suffixes (-ing in i, -s in s)
+remove_orphans = True # remove words without definition
+ascii_output = False # if false, outputs unicode (recommended)
 
 
 def gcide_xml2json(xml, alphabet):
@@ -19,7 +22,7 @@ def gcide_xml2json(xml, alphabet):
 		if p.find('ent') != None:
 			if strict and ent.lower().startswith(alphabet) == False and ent != '':
 				del dic[ent]
-			if ent != '' and len(dic[ent]) == 0: # word with no meanings
+			if remove_orphans and ent != '' and len(dic[ent]) == 0: # word with no meanings
 				del dic[ent]
 			ent = p.find_all('ent')[-1].get_text() # get the root word, last one
 			if ent not in dic:
@@ -48,10 +51,10 @@ if __name__ == '__main__':
 		fname = 'xml_files/gcide_' + _ + '.xml'
 		print('Doing :', _)
 		mdic[_] = gcide_xml2json(fname, _)
-		open('json_files/gcide_' + _ + '.json', 'w', encoding='utf-8').write(json.dumps(mdic[_], ensure_ascii=False, indent=indent, sort_keys=True))
+		open('json_files/gcide_' + _ + '.json', 'w', encoding='utf-8').write(json.dumps(mdic[_], ensure_ascii=ascii_output, indent=indent, sort_keys=True))
 
 	fdic = {}
 	for _ in mdic:
 		fdic.update(mdic[_])
 	print('writing dictionary.json')
-	open('dictionary.json', 'w', encoding = 'utf-8').write(json.dumps(fdic, ensure_ascii=False, sort_keys=True))
+	open('dictionary.json', 'w', encoding='utf-8').write(json.dumps(fdic, indent = indent_main, ensure_ascii=ascii_output, sort_keys=True))
