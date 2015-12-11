@@ -7,7 +7,7 @@ indent_main = None # indent of dictionary.json
 remove_as = False # remove example sentences from defn .. like 'as, a valuable item' . These give examples of how the word is used
 remove_prefix = False # remove words that don't start with alphabet . e.g. suffixes (-ing in i, -s in s)
 all_lowercase = True # make all words lowercase (not their definitions)
-only_alpha = False # words consisting of only alphabets allowed. e.g. removes words separated by spaces or dashes etc
+only_alpha = False # words consisting of only alphabets allowed. e.g. removes words having spaces or dashes etc
 
 fix_er = True # Fix entry reference,hyperlinks . convert (Bacteria : See Bacterium.) to (Bacteria : ___Bacterium)
 remove_orphans = True # remove words without definition
