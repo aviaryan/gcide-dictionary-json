@@ -1,6 +1,6 @@
-# GCide Dictionary JSON
+# GCIDE Dictionary JSON
 
-Gcide dictionary in JSON format. Note that this is not the complete dictionary, just words with their definitions.
+GCIDE dictionary in JSON format. Note that this is not the complete dictionary, just words with their definitions.
 
 
 ### Using
