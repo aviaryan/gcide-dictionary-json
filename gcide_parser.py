@@ -13,6 +13,8 @@ fix_er = True # Fix entry reference,hyperlinks . convert (Bacteria : See Bacteri
 remove_orphans = True # remove words without definition
 ascii_output = False # if false, outputs unicode (recommended)
 
+gen_minimal = True
+
 
 def gcide_xml2json(xml, alphabet):
 	fname = xml
@@ -68,3 +70,11 @@ if __name__ == '__main__':
 		fdic.update(mdic[_])
 	print('writing dictionary.json')
 	open('dictionary.json', 'w', encoding='utf-8').write(json.dumps(fdic, indent = indent_main, ensure_ascii=ascii_output, sort_keys=True))
+
+	if gen_minimal:
+		for i in fdic:
+			if len(fdic[i]) > 0:
+				fdic[i] = fdic[i][0]
+			else:
+				fdic[i] = ''
+		open('dictionary_minimal.json', 'w', encoding='utf-8').write(json.dumps(fdic, indent = indent_main, ensure_ascii=ascii_output, sort_keys=True))

@@ -5,7 +5,11 @@
 
 ### Using
 
-The formatted dictionary json files, arranged alphabetically are inside the [json_files](json_files/) folder. The compressed all-in-one file is [dictionary.json](dictionary.json).
+The formatted dictionary json files, arranged alphabetically are inside the [json_files](json_files/) folder. 
+
+The compressed all-in-one file is [dictionary.json](dictionary.json).
+
+There is also a minimal form of dictionary.json which only has **one definition per word** (the first one). The file is [dictionary_minimal.json](dictionary_minimal.json).
 
 The basic structure of these files looks like
 
