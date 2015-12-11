@@ -1,6 +1,6 @@
 # GCIDE Dictionary
 
-[GCIDE dictionary](https://www.ibiblio.org/webster/) in json format. Note that this is not the complete dictionary, just the words with their definitions.
+[GCIDE dictionary](https://www.ibiblio.org/webster/) in json format. Note that this is not a complete version of GCIDE dictionary, it only has words and their definitions.
 
 
 ### Using
