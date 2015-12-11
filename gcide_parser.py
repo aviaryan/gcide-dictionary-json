@@ -4,10 +4,10 @@ from bs4 import BeautifulSoup
 
 indent = 0 # indent of output alphabet-wise json ; make it to None for single-line compressed output
 indent_main = None # indent of dictionary.json
-remove_as = False # remove example sentences from defn .. like 'as, a valuable item' . These give examples of how the word is used
+remove_as = True # remove example sentences from defn .. like 'as, a valuable item' . These give examples of how the word is used
 remove_prefix = False # remove words that don't start with alphabet . e.g. suffixes (-ing in i, -s in s)
 all_lowercase = True # make all words lowercase (not their definitions)
-only_alpha = False # words consisting of only alphabets allowed. e.g. removes words having spaces or dashes etc.
+only_alpha = True # words consisting of only alphabets allowed. e.g. removes words having spaces or dashes etc.
 
 fix_er = True # Fix entry reference,hyperlinks . convert (Bacteria : See Bacterium.) to (Bacteria : ___Bacterium)
 remove_orphans = True # remove words without definition
@@ -25,13 +25,17 @@ def gcide_xml2json(xml, alphabet):
 
 	for p in soup.find_all('p'):
 		if p.find('ent') != None:
-			if remove_prefix and ent.lower().startswith(alphabet) == False and ent != '':
+			delete_entry = max( remove_prefix and ent.lower().startswith(alphabet) == False and ent != '' ,
+							remove_orphans and ent != '' and len(dic[ent]) == 0 ,
+							only_alpha and ent != '' and ent.isalpha() == False )
+			if delete_entry:
 				del dic[ent]
-			elif remove_orphans and ent != '' and len(dic[ent]) == 0: # word with no meanings
-				del dic[ent]
-			elif only_alpha and ent != '' and ent.isalpha() == False:
-				del dic[ent]
+
+			# ents = p.find_all('ent')
+			# if len(ents) > 1:
+			# 	ents = [i.get_text() for i in ent]
 			ent = p.find_all('ent')[-1].get_text() # get the root word, last one
+
 			if all_lowercase:
 				ent = ent.lower()
 			if ent not in dic:
