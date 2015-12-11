@@ -22,6 +22,7 @@ def gcide_xml2json(xml, alphabet):
 	soup = BeautifulSoup(data, 'lxml')
 	dic = {}
 	ent = ''
+	ents = []
 
 	for p in soup.find_all('p'):
 		if p.find('ent') != None:
@@ -29,15 +30,15 @@ def gcide_xml2json(xml, alphabet):
 							remove_orphans and ent != '' and len(dic[ent]) == 0 ,
 							only_alpha and ent != '' and ent.isalpha() == False )
 			if delete_entry:
-				del dic[ent]
+				for _ent in ents:
+					del dic[_ent]
 
-			# ents = p.find_all('ent')
-			# if len(ents) > 1:
-			# 	ents = [i.get_text() for i in ent]
-			ent = p.find_all('ent')[-1].get_text() # get the root word, last one
-
+			ents = [i.get_text() for i in p.find_all('ent')]
+			ent = ents[-1] # get the root word, last one
 			if all_lowercase:
 				ent = ent.lower()
+			for _ent in ents[:-1]: # init all same words
+				dic[_ent] = ['___' + ent]
 			if ent not in dic:
 				dic[ent] = []
 		if ent == '':
