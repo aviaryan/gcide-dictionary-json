@@ -34,6 +34,9 @@
 "An adjective suffix meaning full of, abounding in, having, possessing the qualities of, like; as in gracious, abounding in grace; arduous, full of ardor; bulbous, having bulbs, bulblike; riotous, poisonous, piteous, joyous, etc",
 "A suffix denoting that the element indicated by the name bearing it, has a valence lower than that denoted by the termination -ic; as, nitrous, mercurous, ferrous, sulphurous, etc., as contrasted with nitric, mercuric, ferric, sulphuric, etc"
 ],
+"ahura-mazda": [
+"___ormazd"
+],
 "o": [
 "O, the fifteenth letter of the English alphabet, derives its form, value, and name from the Greek O, through the Latin. The letter came into the Greek from the Phœnician, which possibly derived it ultimately from the Egyptian. Etymologically, the letter o is most closely related to a, e, and u; as in E. bone, AS. b&amacr;n; E. stone, AS. st&amacr;n; E. broke, AS. brecan to break; E. bore, AS. beran to bear; E. dove, AS. d&umacr;fe; E. toft, tuft; tone, tune; number, F. nombre",
 "Among the ancients, O was a mark of triple time, from the notion that the ternary, or number 3, is the most perfect of numbers, and properly expressed by a circle, the most perfect figure",
@@ -166,6 +169,9 @@
 "obconic": [
 "Conical, but having the apex downward; inversely conical"
 ],
+"obconical": [
+"___obconic"
+],
 "obcordate": [
 "Heart-shaped, with the attachment at the pointed end; inversely cordate; as, an obcordate petal or leaf"
 ],
@@ -201,6 +207,12 @@
 "obdure": [
 "To harden",
 "Obdurate; hard"
+],
+"obdured": [
+"___obdure"
+],
+"obduredness": [
+"___obdureness"
 ],
 "obdureness": [
 "Hardness"
@@ -294,6 +306,9 @@
 "obfirm": [
 "To make firm; to harden in resolution"
 ],
+"obfirmate": [
+"___obfirm"
+],
 "obfirmation": [
 "Hardness of heart; obduracy"
 ],
@@ -356,6 +371,9 @@
 ],
 "object file": [
 "A computer program which has been translated into machine language by a compiler and assembler, but not yet linked into an executable program; sometimes called an obj file, because its file name typically has the extension “obj”"
+],
+"object program": [
+"___object file"
 ],
 "object-oriented": [
 "Using data structures called objects, which encapsulate data and typically are accessed by passing messages, which in turn may trigger internal procedures within the object which are invisible outside the object"
@@ -860,6 +878,9 @@
 "obsessional": [
 "Persistently and abnormally preoccupied with some unreasonable idea"
 ],
+"obsessive": [
+"___obsessional"
+],
 "obsidian": [
 "A kind of glass produced by volcanoes.  It is usually of a black color, and opaque, except in thin splinters"
 ],
@@ -914,6 +935,9 @@
 "obstetric": [
 "Of or pertaining to childbirth, midwifery, or the period around the time of the birth of children; as, the obstetric art",
 "Of or pertaining to obstetrics; as, the obstetric unit of a hospital"
+],
+"obstetrical": [
+"___obstetric"
 ],
 "obstetricate": [
 "To perform the office of midwife",
@@ -1098,6 +1122,9 @@
 "obtuse-angled": [
 "Having an obtuse angle; as, an obtuse-angled triangle"
 ],
+"obtuse-angular": [
+"___obtuse-angled"
+],
 "obtusely": [
 "In an obtuse manner"
 ],
@@ -1161,6 +1188,9 @@
 ],
 "obvolute": [
 "Overlapping; contorted; convolute; -- applied primarily, in botany, to two opposite leaves, each of which has one edge overlapping the nearest edge of the other, and secondarily to a circle of several leaves or petals which thus overlap"
+],
+"obvoluted": [
+"___obvolute"
 ],
 "oby": [
 "___obi"
@@ -1434,6 +1464,9 @@
 "ochlocratic": [
 "Of or pertaining to ochlocracy; having the form or character of an ochlocracy; mobocratic"
 ],
+"ochlocratical": [
+"___ochlocratic"
+],
 "ochotonidae": [
 "A natural family of mammals including pikas and extinct forms"
 ],
@@ -1441,6 +1474,7 @@
 "Ocherous"
 ],
 "ochre": [
+"___ocher",
 "___ocher"
 ],
 "ochrea": [
@@ -1451,7 +1485,11 @@
 "Wearing or furnished with an ochrea or legging; wearing boots; booted",
 "Provided with ochrea, or sheathformed stipules, as the rhubarb, yellow dock, and knotgrass"
 ],
+"ochreated": [
+"___ochreate"
+],
 "ochreous": [
+"___ocherous",
 "___ocherous"
 ],
 "ochrey": [
@@ -1475,8 +1513,11 @@
 "ocreate": [
 "___ochreate"
 ],
+"ocreated": [
+"___ocreate"
+],
 "octa-": [
-"A prefix meaning eight. See Octo-"
+"___octo-"
 ],
 "octachord": [
 "An instrument of eight strings; a system of eight tones"
@@ -1527,6 +1568,9 @@
 ],
 "octandrian": [
 "Of or pertaining to the Octandria; having eight distinct stamens"
+],
+"octandrous": [
+"___octandrian"
 ],
 "octane": [
 "Any one of a group of metametric hydrocarbons (C8H18) of the methane (paraffin) series.  The most important is a colorless, volatile, inflammable liquid, found in petroleum, and a constituent of gasoline or ligroin"
@@ -1647,6 +1691,9 @@
 "octogynian": [
 "Having eight pistils; octagynous"
 ],
+"octogynous": [
+"___octogynian"
+],
 "octoic": [
 "Pertaining to, derived from, or resembling, octane; -- used specifically, to designate any one of a group of acids, the most important of which is called caprylic acid"
 ],
@@ -1700,12 +1747,18 @@
 "octosyllabic": [
 "Consisting of or containing eight syllables"
 ],
+"octosyllabical": [
+"___octosyllabic"
+],
 "octosyllable": [
 "Octosyllabic",
 "A word of eight syllables"
 ],
 "octothorp": [
 "A typographic symbol (#) having two vertical lines intersected by two horizontal lines.  It is also called the crosshatch, hash, numeral sign and number sign; in the U. S. it is commonly called the pound sign, especially to designate the symbol as used on digital telephone dials, but this can be confusing to Europeans who think of the pound sign as the symbol for the British pound.  It is commonly used as a symbol for the word number; as in #36 (meaning: number thirty-six)"
+],
+"octothorpe": [
+"___octothorp"
 ],
 "octoyl": [
 "A hypothetical radical (C7H15.CO.), regarded as the essential residue of octoic acid"
@@ -1743,6 +1796,9 @@
 "oculate": [
 "Furnished with eyes",
 "Having spots or holes resembling eyes; ocellated"
+],
+"oculated": [
+"___oculate"
 ],
 "oculiform": [
 "In the form of an eye; resembling an eye; as, an oculiform pebble"
@@ -1785,6 +1841,9 @@
 ],
 "odalman": [
 "A man or woman having odal, or able to share in it by inheritance"
+],
+"odalwoman": [
+"___odalman"
 ],
 "odd": [
 "Not paired with another, or remaining over after a pairing; without a mate; unmatched; single; as, an odd shoe; an odd glove",
@@ -2005,6 +2064,9 @@
 "odyl": [
 "___od"
 ],
+"odyle": [
+"___odyl"
+],
 "odylic": [
 "Of or pertaining to odyle; odic; as, odylic force"
 ],
@@ -2048,10 +2110,14 @@
 "oeiliad": [
 "A glance of the eye; an amorous look"
 ],
+"oeillade": [
+"___oeiliad"
+],
 "oelet": [
 "An eye, bud, or shoot, as of a plant; an oilet"
 ],
 "oenanthate": [
+"___oenanthate",
 "A salt or ester of oenanthic acid; as, testosterone oenanthate is sold as an anabolic steroid; also called enanthate"
 ],
 "oenanthic": [
@@ -2101,6 +2167,9 @@
 ],
 "oersted": [
 "The C. G. S. unit of magnetic reluctance or resistance, equal to the reluctance of a centimeter cube of air (or vacuum) between parallel faces.  Also, a reluctance in which unit magnetomotive force sets up unit flux"
+],
+"oesophageal": [
+"___oesophagus"
 ],
 "oesophagus": [
 "___esophagus"
@@ -2164,6 +2233,9 @@
 ],
 "off-center": [
 "situated away from the center or axis"
+],
+"off-centered": [
+"___off-center"
 ],
 "off-color": [
 "humorously vulgar; mildly obscene; risque; as, an off-color joke"
@@ -2449,6 +2521,9 @@
 "offside": [
 "Illegally beyond a prescribed line or area or ahead of the ball or puck; -- in sports such as football or hockey; as, the touchdown was nullified because the left tackle was offside"
 ],
+"offsides": [
+"___offside"
+],
 "offskip": [
 "That part of a landscape which recedes from the spectator into the distance"
 ],
@@ -2464,6 +2539,9 @@
 ],
 "offuscate": [
 "___obfuscate"
+],
+"offuscation": [
+"___offuscate"
 ],
 "oft": [
 "Often; frequently; not rarely; many times",
@@ -2539,6 +2617,9 @@
 "ogress": [
 "A female ogre"
 ],
+"ogrism": [
+"___ogreism"
+],
 "ogygian": [
 "Of or pertaining to Ogyges, a mythical king of ancient Attica, or to a great deluge in Attica in his days; hence, primeval; of obscure antiquity"
 ],
@@ -2592,6 +2673,9 @@
 "oil-fired": [
 "Using oil as a fuel; as, an oil-fired furnace"
 ],
+"oil-heater": [
+"___oil heater"
+],
 "oil-silk": [
 "Silk treated with oil to make it water-tight; -- it is used to make raincoats"
 ],
@@ -2633,6 +2717,9 @@
 ],
 "oilnut": [
 "The buffalo nut. See Buffalo nut, under Buffalo"
+],
+"oilrig": [
+"___oil rig"
 ],
 "oilseed": [
 "___castor bean"
@@ -2693,6 +2780,9 @@
 "oker": [
 "___ocher"
 ],
+"okey": [
+"___okeh"
+],
 "okinawa": [
 "the largest island of the central Ryukyu Islands",
 "A campaign in the closing days of World War II in the Pacific (April-June 1945); in savage close-quarter fighting US marines and regular army troops took the island from the Japanese; considered the greatest victory of the Pacific campaign for the Americans"
@@ -2734,9 +2824,7 @@
 "The combined territories of Europe, Asia, and Africa.  The Eastern Hemisphere, as distinguished from The Americas, Australia, and the Pacific Islands"
 ],
 "old-fashioned": [
-"Formed according to old or obsolete fashion or pattern; belonging to or characteristic of times past; adhering to old customs, styles, or ideas; as, an old-fashioned dress, girl; old-fashioned wire-rimmed glasses",
-"Unacceptable or suboptimum because of having been superseded by something more recent; outmoded{2}; out-of-date",
-"Unfashionably out of date; out of style"
+"___old fashioned"
 ],
 "old-gentlemanly": [
 "Pertaining to an old gentleman, or like one"
@@ -2836,6 +2924,9 @@
 "Olefiant gas, or ethylene. See Ethylene",
 "Any one of the series of unsaturated hydrocarbons of which ethylene is the type; a member of the alkene series of hydrocarbons; an alkene"
 ],
+"olefine": [
+"___olefin"
+],
 "oleic": [
 "Pertaining to, derived from, or contained in, oil; as, oleic acid, an acid of the acrylic acid series found combined with glyceryl in the form of olein in certain animal and vegetable fats and oils, such as sperm oil, olive oil, etc.  At low temperatures the acid is crystalline, but melts to an oily liquid above 14° C"
 ],
@@ -2882,6 +2973,9 @@
 "oleosity": [
 "The state or quality of being oily or fat; fatness"
 ],
+"oleous": [
+"___oleose"
+],
 "oleraceous": [
 "Pertaining to pot herbs; of the nature or having the qualities of herbs for cookery; esculent"
 ],
@@ -2916,6 +3010,9 @@
 "olid": [
 "Having a strong, disagreeable smell; fetid"
 ],
+"olidous": [
+"___olid"
+],
 "olifant": [
 "An elephant",
 "An ancient horn, made of ivory"
@@ -2935,6 +3032,9 @@
 "oligarchic": [
 "Of or pertaining to oligarchy, or government by a few"
 ],
+"oligarchical": [
+"___oligarchic"
+],
 "oligarchist": [
 "An advocate or supporter of oligarchy"
 ],
@@ -2945,6 +3045,9 @@
 "Hematite or specular iron ore; -- prob. so called in allusion to its feeble magnetism, as compared with magnetite",
 "Of or pertaining to hematite"
 ],
+"oligistic": [
+"___oligist"
+],
 "oligo-": [
 "A combining form from Gr. 'oli`gos, few, little, small"
 ],
@@ -2952,6 +3055,7 @@
 "Of, pertaining to, or designating, certain strata which occupy an intermediate position between the Eocene and Miocene periods"
 ],
 "oligochaeta": [
+"___oligochaeta",
 "An order of Annelida which includes the earthworms and related species, including some small freshwater species"
 ],
 "oligochaete": [
@@ -3078,12 +3182,21 @@
 "An athlete who competes in the Olympics",
 "Pertaining to, characteristic of, or fitting for one of the gods on Olympus; grand, majestic, or aloof"
 ],
+"olympian games": [
+"___olympic games"
+],
 "olympianism": [
 "Worship of the Olympian gods, esp. as a dominant cult or religion"
+],
+"olympic": [
+"___olympian"
 ],
 "olympic games": [
 "The greatest of the national festivals of the ancient Greeks, consisting of athletic games and races, dedicated to Olympian Zeus, celebrated once in four years at Olympia, and continuing five days",
 "A modified revival of the ancient Olympian games, consisting of international athletic games, races, etc., now held once in four years, the first having been at Athens in 1896"
+],
+"olympics": [
+"___olympic games"
 ],
 "olympionic": [
 "An ode in honor of a victor in the Olympic games"
@@ -3114,6 +3227,7 @@
 "A game at cards, borrowed from the Spaniards, and usually played by three persons"
 ],
 "ombre": [
+"___omber",
 "A large Mediterranean food fish (Umbrina cirrhosa): -- called also umbra, and umbrine"
 ],
 "ombrometer": [
@@ -3131,6 +3245,9 @@
 ],
 "omelet": [
 "A dish consisting of eggs beaten up with a little flour, etc., and cooked in a frying pan until just set into a semisolid consistency; it may be folded around e.g. ham or cheese or jelly; as, a plain omelet.  When additional ingredients are mixed in, the names of the ingredients may be mentioned in the name of the omelet; as, a ham and cheese omelet; a bacon and cheese omelet"
+],
+"omelette": [
+"___omelet"
 ],
 "omen": [
 "An occurrence supposed to portend, or show the character of, some future event; any indication or action regarded as a foreshowing; a foreboding; a presage; an augury",
@@ -3246,12 +3363,18 @@
 "omnipercipience": [
 "Perception of everything"
 ],
+"omnipercipiency": [
+"___omnipercipience"
+],
 "omnipercipient": [
 "Perceiving everything"
 ],
 "omnipotence": [
 "The state of being omnipotent; almighty power; hence, one who is omnipotent; the Deity",
 "Unlimited power of a particular kind; as, love's omnipotence"
+],
+"omnipotency": [
+"___omnipotence"
 ],
 "omnipotent": [
 "Able in every respect and for every work; unlimited in ability; all-powerful; almighty; as, the Being that can create worlds must be omnipotent",
@@ -3357,6 +3480,9 @@
 "omphalopter": [
 "An optical glass that is convex on both sides"
 ],
+"omphaloptic": [
+"___omphalopter"
+],
 "omphalos": [
 "The navel"
 ],
@@ -3413,6 +3539,9 @@
 "on-license": [
 "a license to sell liquor for consumption on the premises"
 ],
+"on-line": [
+"___online"
+],
 "on-looker": [
 "A person who observes an event; a looker-on; a spectator"
 ],
@@ -3427,6 +3556,9 @@
 ],
 "on-the-scene": [
 "Being or occurring at the place or time in question; as, an on-the-scene newscast"
+],
+"on-the-spot": [
+"___on-the-scene"
 ],
 "onager": [
 "A military engine acting like a sling, which threw stones from a bag or wooden bucket, and was operated by machinery",
@@ -3444,6 +3576,9 @@
 ],
 "onagraceous": [
 "Pertaining to, or resembling, a natural order of plants (Onagraceae or Onagrarieae), which includes the fuchsia, the willow-herb (Epilobium), and the evening primrose (Œnothera)"
+],
+"onagrarieous": [
+"___onagraceous"
 ],
 "onanism": [
 "Self-pollution; masturbation"
@@ -3544,6 +3679,9 @@
 "one-hand": [
 "Employing one hand; as, the one-hand alphabet. See Dactylology"
 ],
+"one-handed": [
+"___one-hand"
+],
 "one-hitter": [
 "A game in which a pitcher allows the opposing team only one hit"
 ],
@@ -3602,8 +3740,14 @@
 "An interpreter of dreams",
 "Of or pertaining to the interpretation of dreams"
 ],
+"oneirocritical": [
+"___oneirocritic"
+],
 "oneirocriticism": [
 "The art of interpreting dreams"
+],
+"oneirocritics": [
+"___oneirocriticism"
 ],
 "oneiromancy": [
 "Divination by means of dreams"
@@ -3708,6 +3852,9 @@
 "onomantic": [
 "Of or pertaining to onomancy"
 ],
+"onomantical": [
+"___onomantic"
+],
 "onomastic": [
 "Applied to a signature when the body of the instrument is in another's handwriting"
 ],
@@ -3782,6 +3929,9 @@
 ],
 "ontogenic": [
 "Ontogenetic"
+],
+"ontogeny": [
+"___ontogenesis"
 ],
 "ontologic": [
 "Ontological"
@@ -3881,6 +4031,9 @@
 "oomiac": [
 "A long, broad boat used by the Eskimos"
 ],
+"oomiak": [
+"___oomiac"
+],
 "oon": [
 "One"
 ],
@@ -3892,6 +4045,9 @@
 ],
 "oopack": [
 "A kind of black tea"
+],
+"oopak": [
+"___oopack"
 ],
 "oophore": [
 "An alternately produced form of certain cryptogamous plants, as ferns, mosses, and the like, which bears antheridia and archegonia, and so has sexual fructification, as contrasted with the sporophore, which is nonsexual, but produces spores in countless number.  In ferns the oophore is a minute prothallus; in mosses it is the leafy plant"
@@ -3941,6 +4097,9 @@
 ],
 "ooticoid": [
 "A half oviparous, or an oviparous, mammal; a marsupial or monotreme"
+],
+"ootocoid": [
+"___ooticoid"
 ],
 "ootype": [
 "The part of the oviduct of certain trematode worms in which the ova are completed and furnished with a shell"
@@ -4148,6 +4307,9 @@
 "operance": [
 "The act of operating or working; operation"
 ],
+"operancy": [
+"___operance"
+],
 "operand": [
 "The symbol, quantity, or thing upon which a mathematical operation is performed; -- called also faciend"
 ],
@@ -4168,6 +4330,9 @@
 ],
 "operatic": [
 "Of or pertaining to the opera or to operas; characteristic of, suitable for, or resembling, the opera; as, an operatic voice"
+],
+"operatical": [
+"___operatic"
 ],
 "operating": [
 "pr. p. of operate; as, the operating conditions of the oxidation pond",
@@ -4231,6 +4396,9 @@
 "operculate": [
 "Closed by a lid or cover, as the capsules of the mosses",
 "Having an operculum, or an apparatus for protecting the gills; -- said of shells and of fishes"
+],
+"operculated": [
+"___operculate"
 ],
 "operculiferous": [
 "Bearing an operculum"
@@ -4301,6 +4469,9 @@
 "ophiologic": [
 "Of or pertaining to ophiology"
 ],
+"ophiological": [
+"___ophiologic"
+],
 "ophiologist": [
 "One versed in the natural history of serpents"
 ],
@@ -4354,6 +4525,9 @@
 ],
 "ophiurioidea": [
 "A class of star-shaped echinoderms having a disklike body, with slender, articulated arms, which are not grooved beneath and are often very fragile; -- called also Ophiuroida and Ophiuridea. See Illust. under Brittle star"
+],
+"ophiuroidea": [
+"___ophiurioidea"
 ],
 "ophryon": [
 "The supraorbital point"
@@ -4461,6 +4635,7 @@
 "One who is opinionated"
 ],
 "opiniatre": [
+"___opiniator",
 "___opiniaster"
 ],
 "opiniatrety": [
@@ -4520,11 +4695,17 @@
 "opisthobranchia": [
 "A division of gastropod Mollusca, in which the breathing organs are usually situated behind the heart.  It includes the tectibranchs and nudibranchs"
 ],
+"opisthobranchiata": [
+"___opisthobranchia"
+],
 "opisthobranchiate": [
 "Of or pertaining to the Opisthobranchiata"
 ],
 "opisthocoelian": [
 "Concave behind; -- applied especially to vertebrae in which the anterior end of the centrum is convex and the posterior concave"
+],
+"opisthocoelous": [
+"___opisthocoelian"
 ],
 "opisthodome": [
 "A back chamber; especially, that part of the naos, or cella, farthest from the main entrance, sometimes having an entrance of its own, and often used as a treasury"
@@ -4558,6 +4739,9 @@
 ],
 "opobalsam": [
 "The old name of the aromatic resinous juice of the Balsamodendron opobalsamum, now commonly called balm of Gilead. See under Balm"
+],
+"opobalsamum": [
+"___opobalsam"
 ],
 "opodeldoc": [
 "A kind of plaster, said to have been invented by Mindererus, -- used for external injuries",
@@ -4594,6 +4778,9 @@
 ],
 "opplete": [
 "Filled; crowded"
+],
+"oppleted": [
+"___opplete"
 ],
 "oppletion": [
 "The act of filling up, or the state of being filled up; fullness"
@@ -4656,6 +4843,9 @@
 ],
 "opposer": [
 "One who opposes; an opponent; an antagonist; an adversary"
+],
+"opposing": [
+"___opposed"
 ],
 "opposite": [
 "Placed over against; standing or situated over against or in front; facing; -- often with to; as, a house opposite to the Exchange; the concert hall and the state theater stood opposite each other on the plaza",
@@ -4780,6 +4970,9 @@
 "Of or pertaining to the eye; ocular; as, the optic nerves (the first pair of cranial nerves) which are distributed to the retina; the optic (or optical) axis of the eye. See Illust. of Brain, and Eye",
 "Relating to the science of optics or to devices designed to assist vision; as, optical works; optical equipment"
 ],
+"optical": [
+"___optic"
+],
 "optical activity": [
 "the ability of a chemical compound to rotate the plane of plane-polarized light.  This is found only in chemicals whose molecular structure does not have a plane of symmetry, and is common in biochemical compounds"
 ],
@@ -4864,6 +5057,9 @@
 "optocoele": [
 "The cavity of one of the optic lobes of the brain in many animals"
 ],
+"optocoelia": [
+"___optocoele"
+],
 "optogram": [
 "An image of external objects fixed on the retina by the photochemical action of light on the visual purple. See Optography"
 ],
@@ -4901,6 +5097,9 @@
 "opuscle": [
 "A small or petty work"
 ],
+"opuscule": [
+"___opuscle"
+],
 "opusculum": [
 "An opuscule"
 ],
@@ -4923,6 +5122,9 @@
 ],
 "orach": [
 "A genus (Atriplex) of herbs or low shrubs of the Goosefoot family, most of them with a mealy surface"
+],
+"orache": [
+"___orach"
 ],
 "oracle": [
 "The answer of a god, or some person reputed to be a god, to an inquiry respecting some affair or future event, as the success of an enterprise or battle",
@@ -4963,6 +5165,9 @@
 ],
 "orang-outang": [
 "An arboreal anthropoid ape (Pongo pygmaeus, formerly Simia satyrus), which inhabits Borneo and Sumatra.  Often called simply orang.  It is now an endangered species"
+],
+"orang-utan": [
+"___orang-outang"
 ],
 "orange": [
 "The fruit of a tree of the genus Citrus (Citrus Aurantium).  It is usually round, and consists of pulpy carpels, commonly ten in number, inclosed in a leathery rind, which is easily separable, and is reddish yellow when ripe",
@@ -5054,6 +5259,9 @@
 "orb weaver": [
 "Any spider of the family Araneidae (called also Argiopidae) that spins a web with a pattern of lines spiraling outward from the center.  They have eight similar eyes.  The golden orb weaver, Mephila clavipes, is known for the remarkable dragline silk it produces for use as a frame for its web and as a line on which it can plummet down and nab prey.  This silk has a high tensile strength and is stronger than the toughest current synthetic polymer (Kevlar)"
 ],
+"orb-weaver": [
+"___orb weaver"
+],
 "orbate": [
 "Bereaved; fatherless; childless"
 ],
@@ -5065,6 +5273,9 @@
 ],
 "orbic": [
 "Spherical; orbicular; orblike; circular"
+],
+"orbical": [
+"___orbic"
 ],
 "orbicle": [
 "A small orb, or sphere"
@@ -5078,6 +5289,9 @@
 "orbiculate": [
 "That which is orbiculate; especially, a solid the vertical section of which is oval, and the horizontal section circular",
 "Made, or being, in the form of an orb; having a circular, or nearly circular, or a spheroidal, outline"
+],
+"orbiculated": [
+"___orbiculate"
 ],
 "orbiculation": [
 "The state or quality of being orbiculate; orbicularness"
@@ -5117,6 +5331,9 @@
 ],
 "orbitude": [
 "Orbation"
+],
+"orbity": [
+"___orbitude"
 ],
 "orbulina": [
 "A genus of minute living Foraminifera having a globular shell"
@@ -5471,6 +5688,9 @@
 "orf": [
 "A bright-colored domesticated variety of the id.  See Id"
 ],
+"orfe": [
+"___orf"
+],
 "orfgild": [
 "Restitution for cattle; a penalty for taking away cattle"
 ],
@@ -5493,6 +5713,9 @@
 ],
 "organdie": [
 "A kind of transparent light but stiff muslin"
+],
+"organdy": [
+"___organdie"
 ],
 "organelle": [
 "a specialized part of a cell performing a specific function, usually visible under the microscope as a distinct object; it is analogous to an organ{2}, but on a microscopic scale"
@@ -5528,6 +5751,9 @@
 ],
 "organismal": [
 "of or pertaining to organism (definition 2)"
+],
+"organismic": [
+"___organismal"
 ],
 "organist": [
 "One who plays on the organ",
@@ -5595,6 +5821,9 @@
 "organographic": [
 "Of or pertaining to organography"
 ],
+"organographical": [
+"___organographic"
+],
 "organographist": [
 "One versed in organography"
 ],
@@ -5634,6 +5863,9 @@
 ],
 "organule": [
 "One of the essential cells or elements of an organ. See Sense organule, under Sense"
+],
+"organum": [
+"___organon"
 ],
 "organy": [
 "___origan"
@@ -5742,6 +5974,12 @@
 "An aspect or fronting to the east; especially (Arch.), the placing of a church so that the chancel, containing the altar toward which the congregation fronts in worship, will be on the east end",
 "A return to first principles; an orderly arrangement"
 ],
+"oriented": [
+"___orientated"
+],
+"orienting": [
+"___orientating"
+],
 "orientness": [
 "The quality or state of being orient or bright; splendor"
 ],
@@ -5752,8 +5990,14 @@
 "The ancient royal standard of France",
 "A standard or ensign, in battle"
 ],
+"oriflamme": [
+"___oriflamb"
+],
 "origan": [
 "A genus of aromatic labiate plants, including the sweet marjoram (Origanum Marjorana) and the wild marjoram (Origanum vulgare)"
+],
+"origanum": [
+"___origan"
 ],
 "origenism": [
 "The opinions of Origen of Alexandria, who lived in the 3d century, one of the most learned of the Greek Fathers.  Prominent in his teaching was the doctrine that all created beings, including Satan, will ultimately be saved"
@@ -5881,6 +6125,7 @@
 "A genus of tropical shrubs and trees having usually odd-pinnate leaves with large leaflets and pink to reddish wood"
 ],
 "ormuzd": [
+"___ormazd",
 "The good principle, or being, of the ancient Persian religion; same as Ormazd. See also Ahriman"
 ],
 "orn": [
@@ -5942,6 +6187,9 @@
 "ornithologic": [
 "Of or pertaining to ornithology; as, her ornithological interests"
 ],
+"ornithological": [
+"___ornithologic"
+],
 "ornithologist": [
 "One skilled in ornithology; a student of ornithology; one who describes birds"
 ],
@@ -5990,6 +6238,9 @@
 ],
 "orographic": [
 "Of or pertaining to orography"
+],
+"orographical": [
+"___orographic"
 ],
 "orography": [
 "That branch of science which treats of mountains and mountain systems; orology; as, the orography of Western Europe"
@@ -6093,6 +6344,9 @@
 ],
 "orsedew": [
 "Leaf metal of bronze; Dutch metal. See under Dutch"
+],
+"orsedue": [
+"___orsedew"
 ],
 "orseille": [
 "___archil"
@@ -6202,6 +6456,9 @@
 "orthoepic": [
 "Of or pertaining to orthoepy, or correct pronunciation"
 ],
+"orthoepical": [
+"___orthoepic"
+],
 "orthoepist": [
 "One who is skilled in orthoepy"
 ],
@@ -6239,6 +6496,9 @@
 "Of or pertaining to orthography, or right spelling; also, correct in spelling; as, orthographical rules; the letter was orthographic",
 "Of or pertaining to right lines or angles"
 ],
+"orthographical": [
+"___orthographic"
+],
 "orthographically": [
 "In an orthographical manner"
 ],
@@ -6270,8 +6530,14 @@
 "orthopaedic": [
 "___otrthopedic"
 ],
+"orthopaedics": [
+"___orthopaedic"
+],
 "orthopedic": [
 "Of, pertaining to, or employed in, orthopedics; relating to the prevention or cure of deformities of children, or, in general, of the human body at any age; as, orthopedic surgery; an orthopedic hospital"
+],
+"orthopedical": [
+"___orthopedic"
 ],
 "orthopedics": [
 "The art or practice of correcting disorders or deformities of the spine and joints, or, by extension, any deformities of the human body"
@@ -6290,6 +6556,9 @@
 ],
 "orthopnoea": [
 "Specifically, a morbid condition in which respiration can be performed only in an erect posture; by extension, any difficulty of breathing"
+],
+"orthopny": [
+"___orthopnoea"
 ],
 "orthopod": [
 "An orthopedist"
@@ -6348,6 +6617,9 @@
 "orthotropic": [
 "Having the longer axis vertical; -- said of erect stems"
 ],
+"orthotropous": [
+"___orthotropal"
+],
 "orthoxylene": [
 "That variety of xylene (C6H4(CH3)2) in which the two methyl groups are in the ortho position; a colorless, liquid, combustible hydrocarbon resembling benzene"
 ],
@@ -6371,6 +6643,9 @@
 ],
 "oryal": [
 "___oriel"
+],
+"oryall": [
+"___oryal"
 ],
 "oryctere": [
 "The aard-vark (Orycteropus afer)"
@@ -6623,6 +6898,9 @@
 "osphradium": [
 "The olfactory organ of some Mollusca.  It is connected with the organ of respiration"
 ],
+"ospray": [
+"___osprey"
+],
 "osprey": [
 "The fishhawk (Pandion haliaetus)"
 ],
@@ -6747,6 +7025,9 @@
 "ostensorium": [
 "___monstrance"
 ],
+"ostensory": [
+"___ostensorium"
+],
 "ostent": [
 "Appearance; air; mien",
 "Manifestation; token; portent"
@@ -6811,6 +7092,9 @@
 "osteogenic": [
 "Osteogenetic"
 ],
+"osteogeny": [
+"___osteogenesis"
+],
 "osteographer": [
 "An osteologist"
 ],
@@ -6828,6 +7112,9 @@
 ],
 "osteologic": [
 "Of or pertaining to osteology"
+],
+"osteological": [
+"___osteologic"
 ],
 "osteologist": [
 "One who is skilled in osteology; an osteologer"
@@ -7012,6 +7299,9 @@
 "Assisting the sense of hearing; as, an otacoustic instrument",
 "An instrument to facilitate hearing, as an ear trumpet"
 ],
+"otacousticon": [
+"___otacoustic"
+],
 "otaheite apple": [
 "The fruit of a Polynesian anacardiaceous tree (Spondias dulcis), also called vi-apple.  It is rather larger than an apple, and the rind has a flavor of turpentine, but the flesh is said to taste like pineapples"
 ],
@@ -7041,6 +7331,9 @@
 "othergates": [
 "In another manner"
 ],
+"otherguess": [
+"___otherguise"
+],
 "otherguise": [
 "Of another kind or sort; in another way"
 ],
@@ -7055,6 +7348,9 @@
 ],
 "otherwhile": [
 "At another time, or other times; sometimes; occasionally"
+],
+"otherwhiles": [
+"___otherwhile"
 ],
 "otherwise": [
 "In a different manner; in another way, or in other ways; differently; contrarily",
@@ -7113,11 +7409,17 @@
 "otography": [
 "A description of the ear"
 ],
+"otolite": [
+"___otolith"
+],
 "otolith": [
 "One of the small bones or particles of calcareous or other hard substance in the internal ear of vertebrates, and in the auditory organs of many invertebrates; an ear stone.  Collectively, the otoliths are called ear sand and otoconite"
 ],
 "otolithic": [
 "Of or pertaining to otoliths"
+],
+"otolitic": [
+"___otolithic"
 ],
 "otological": [
 "Of or pertaining to otology"
@@ -7162,6 +7464,9 @@
 "Any carnivorous animal of the genera Lutra, Enhydra, and related genera of the family Mustelidae.  Several species are described.  They have large, flattish heads, short ears, and webbed toes.  They are aquatic, and feed on fish.  The sea otter (Enhydra lutris) also eats clams, crabs, starfish, abalone, and other marine animals; they may come to the surface, and lying on their backs using the stomach as a table, may be seen cracking open the shell of its prey with a rock.  The common otter of Europe is Lutra vulgaris; the North American otter (or American otter) is Lutra Canadensis, which inhabits marshes, streams and rivers; other species inhabit South America and Asia.  The North American otter adult is about three to four feet long (including the tail) and weighs from 10 to 30 pounds; the sea otter is commonly four feet long and 45 pounds (female) or 60 pounds (male).  Their fur is soft and valuable, and in the nineteenth century they were hunted extensively.  The sea otter was hunted to near extinction by 1900, and is now protected.  Fewer than 3,000 sea otters are believed to live along the central California coast",
 "The larva of the ghost moth. It is very injurious to hop vines",
 "A corruption of Annotto"
+],
+"otter hound": [
+"___otterhound"
 ],
 "otterhound": [
 "A small hardy British hound having long pendulous ears and a thick coarse shaggy coat with an oily undercoat; bred in England for hunting otters.  Called also otter dog"
@@ -7242,6 +7547,9 @@
 "ounding": [
 "Waving"
 ],
+"oundy": [
+"___ounded"
+],
 "ouphe": [
 "A fairy; a goblin; an elf"
 ],
@@ -7317,6 +7625,9 @@
 "To give out; to dispose of; to sell",
 "To come or go out; to get out or away; to become public",
 "Expressing impatience, anger, a desire to be rid of; -- with the force of command; go out; begone; away; off"
+],
+"out and out": [
+"___out-and-out"
 ],
 "out-and-out": [
 "Without any reservation or disguise; downright; plain; unqualified; absolute; as, an out and out villain; an out-and-out lie",
@@ -7845,11 +8156,17 @@
 "outluster": [
 "To excel in brightness or luster"
 ],
+"outlustre": [
+"___outluster"
+],
 "outlying": [
 "Lying or being at a distance from the central part, or the main body; being on, or beyond, the frontier; exterior; remote; detached"
 ],
 "outmaneuver": [
 "To surpass, or get an advantage of, in maneuvering; to outwit or frustrate by clever stratagems; to outgeneral"
+],
+"outmanoeuvre": [
+"___outmaneuver"
 ],
 "outmantle": [
 "To excel in mantling; hence, to excel in splendor, as of dress"
@@ -8049,6 +8366,9 @@
 ],
 "outroar": [
 "To exceed in roaring"
+],
+"outrode": [
+"___outroad"
 ],
 "outromance": [
 "To exceed in romantic character"
@@ -8330,6 +8650,7 @@
 "the quality or state of being outside or directed toward or relating to the outside or exterior; as, the outwardness of the world"
 ],
 "outwards": [
+"___outward",
 "___outward"
 ],
 "outwatch": [
@@ -8415,6 +8736,9 @@
 "Broadly elliptical",
 "A body or figure in the shape of an egg, or popularly, of an ellipse"
 ],
+"ovalbumen": [
+"___ovalbumin"
+],
 "ovalbumin": [
 "The albumin from white of eggs; egg albumin; -- in distinction from serum albumin. See Albumin"
 ],
@@ -8426,6 +8750,9 @@
 ],
 "ovant": [
 "Exultant"
+],
+"ovarial": [
+"___ovarian"
 ],
 "ovarian": [
 "Of or pertaining to an ovary"
@@ -8538,10 +8865,14 @@
 "Too busy; officious"
 ],
 "over-embellish": [
+"___over-embellish",
 "To embellish excessively; to render too ornate or complicated"
 ],
 "over-embellished": [
 "marked by elaborate rhetoric and many figures of speech"
+],
+"over-emphasize": [
+"___overemphasize"
 ],
 "over-garment": [
 "An outer garment"
@@ -8552,6 +8883,9 @@
 "over-the-counter": [
 "able to be sold legally without a doctor's prescription; -- of medicinal drugs.  Contrasted with prescription",
 "not quoted on a stock exchange; sold only through private negotiations between buyer and seller; -- of securities; as, over-the-counter stocks"
+],
+"over-the-top": [
+"___over the top"
 ],
 "overabound": [
 "To be exceedingly plenty or superabundant"
@@ -9183,6 +9517,9 @@
 "A strict examination with a view to correction or repairs",
 "A major repair or a revision for the purpose of improvement"
 ],
+"overhauling": [
+"___overhaul"
+],
 "overhead": [
 "Aloft; above; in or attached to the ceiling or roof; in the story or upon the floor above; in the zenith",
 "same as overhead expenses",
@@ -9191,6 +9528,9 @@
 ],
 "overhead charges": [
 "Those general charges or expenses in any business which cannot be charged up as belonging exclusively to any particular part of the work or product, as where different kinds of goods are made, or where there are different departments in a business; -- called also fixed charges, establishment charges, or (in a manufacturing business) administration charges, selling charges, and distribution charges, etc"
+],
+"overhead expenses": [
+"___overhead charges"
 ],
 "overhear": [
 "To hear more of (anything) than was intended to be heard; to hear by accident or artifice",
@@ -9779,6 +10119,9 @@
 "oversearch": [
 "To search all over"
 ],
+"overseas": [
+"___oversea"
+],
 "overseason": [
 "To season too highly"
 ],
@@ -9983,6 +10326,9 @@
 ],
 "oversubtile": [
 "Excessively subtle"
+],
+"oversubtle": [
+"___oversubtile"
 ],
 "oversum": [
 "A sum or quantity over; surplus"
@@ -10328,6 +10674,9 @@
 "ovipositing": [
 "The depositing of eggs, esp. by insects"
 ],
+"oviposition": [
+"___ovipositing"
+],
 "ovipositor": [
 "The organ with which many insects and some other animals deposit their eggs.  Some ichneumon files have a long ovipositor fitted to pierce the eggs or larvae of other insects, in order to lay their own eggs within the same"
 ],
@@ -10349,6 +10698,9 @@
 "ovoid": [
 "Resembling an egg in shape; egg-shaped; ovate; as, an ovoidal apple",
 "A solid resembling an egg in shape"
+],
+"ovoidal": [
+"___ovoid"
 ],
 "ovolo": [
 "A round, convex molding. See Illust. of Column"
@@ -10488,8 +10840,14 @@
 "owse": [
 "Tanner's ooze. See Ooze, 3"
 ],
+"owser": [
+"___owse"
+],
 "ox": [
 "The male of bovine quadrupeds, especially the domestic animal when castrated and grown to its full size, or nearly so. The word is also applied, as a general name, to any species of bovine animals, male and female"
+],
+"ox-tongue": [
+"___oxtongue"
 ],
 "oxacid": [
 "___oxyacid"
@@ -10641,6 +10999,9 @@
 "oxidise": [
 "___oxidize"
 ],
+"oxidised": [
+"___oxidise"
+],
 "oxidizable": [
 "Capable of being oxidized"
 ],
@@ -10784,11 +11145,20 @@
 "oxygonal": [
 "Having acute angles"
 ],
+"oxygonial": [
+"___oxygonal"
+],
 "oxyhaemacyanin": [
 "___haemacyanin"
 ],
+"oxyhaemocyanin": [
+"___oxyhaemacyanin"
+],
 "oxyhaemoglobin": [
 "___hemoglobin"
+],
+"oxyhemoglobin": [
+"___oxyhaemoglobin"
 ],
 "oxyhydrogen": [
 "Of, pertaining to, or consisting of, a mixture of oxygen and hydrogen at over 5000° F"
@@ -10819,6 +11189,9 @@
 ],
 "oxyopia": [
 "Excessive acuteness of sight"
+],
+"oxyopy": [
+"___oxyopia"
 ],
 "oxyphenic": [
 "Pertaining to, or designating, the phenol formerly called oxyphenic acid, and now oxyphenol and pyrocatechin. See Pyrocatechin"
@@ -10877,6 +11250,9 @@
 "oyster": [
 "Any marine bivalve mollusk of the genus Ostrea. They are usually found adhering to rocks or other fixed objects in shallow water along the seacoasts, or in brackish water in the mouth of rivers. The common European oyster (Ostrea edulis), and the American oyster (Ostrea Virginiana), are the most important species",
 "A name popularly given to the delicate morsel contained in a small cavity of the bone on each side of the lower part of the back of a fowl"
+],
+"oyster catcher": [
+"___oystercatcher"
 ],
 "oyster-green": [
 "A green membranous seaweed (Ulva) often found growing on oysters but common on stones, piles, etc"

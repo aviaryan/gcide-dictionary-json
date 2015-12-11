@@ -30,6 +30,9 @@
 "wacke": [
 "A soft, earthy, dark-colored rock or clay derived from the alteration of basalt"
 ],
+"wacky": [
+"___wacke"
+],
 "wad": [
 "Woad",
 "A little mass, tuft, or bundle, as of hay or tow",
@@ -38,6 +41,9 @@
 "To form into a mass, or wad, or into wadding; as, to wad tow or cotton",
 "To insert or crowd a wad into; as, to wad a gun; also, to stuff or line with some soft substance, or wadding, like cotton; as, to wad a cloak",
 "An earthy oxide of manganese, or mixture of different oxides and water, with some oxide of iron, and often silica, alumina, lime, or baryta; black ocher. There are several varieties"
+],
+"wadd": [
+"___wad"
 ],
 "waddie": [
 "___waddy"
@@ -969,6 +975,9 @@
 "wardenry": [
 "The office or jurisdiction of a warden"
 ],
+"wardenship": [
+"___wardenry"
+],
 "warder": [
 "One who wards or keeps; a keeper; a guard",
 "A truncheon or staff carried by a king or a commander in chief, and used in signaling his will"
@@ -1847,6 +1856,9 @@
 "water feather": [
 "The water violet (Hottonia palustris); also, the less showy American plant Hottonia inflata"
 ],
+"water feather-foil": [
+"___water feather"
+],
 "water flag": [
 "A European species of Iris (Iris Pseudacorus) having bright yellow flowers"
 ],
@@ -2048,6 +2060,9 @@
 "water ousel": [
 "Any one of several species of small insessorial birds of the genus Cinclus (or Hydrobates), especially the European water ousel (Cinclus aquaticus), and the American water ousel (Cinclus Mexicanus). These birds live about the water, and are in the habit of walking on the bottom of streams beneath the water in search of food"
 ],
+"water ouzel": [
+"___water ousel"
+],
 "water parsnip": [
 "Any plant of the aquatic umbelliferous genus Sium, poisonous herbs with pinnate or dissected leaves and small white flowers"
 ],
@@ -2145,6 +2160,9 @@
 ],
 "water rattle": [
 "The diamond rattlesnake (Crotalus adamanteus); -- so called from its preference for damp places near water"
+],
+"water rattler": [
+"___water rattle"
 ],
 "water rice": [
 "Indian rice.  See under Rice"
@@ -2391,6 +2409,9 @@
 "waterlander": [
 "One of a body of Dutch Anabaptists who separated from the Mennonites in the sixteenth century; -- so called from a district in North Holland denominated Waterland"
 ],
+"waterlandian": [
+"___waterlander"
+],
 "waterleaf": [
 "Any plant of the American genus Hydrophyllum, herbs having white or pale blue bell-shaped flowers"
 ],
@@ -2506,6 +2527,9 @@
 ],
 "waucht": [
 "A large draught of any liquid"
+],
+"waught": [
+"___waucht"
 ],
 "waul": [
 "To cry as a cat; to squall; to wail"
@@ -2886,19 +2910,7 @@
 "Weapons, collectively; as, an array of weaponry"
 ],
 "wear": [
-"___weir",
-"To cause to go about, as a vessel, by putting the helm up, instead of alee as in tacking, so that the vessel's bow is turned away from, and her stern is presented to, the wind, and, as she turns still farther, her sails fill on the other side; to veer",
-"To carry or bear upon the person; to bear upon one's self, as an article of clothing, decoration, warfare, bondage, etc.; to have appendant to one's body; to have on; as, to wear a coat; to wear a shackle",
-"To have or exhibit an appearance of, as an aspect or manner; to bear; as, she wears a smile on her countenance",
-"To use up by carrying or having upon one's self; hence, to consume by use; to waste; to use up; as, to wear clothes rapidly",
-"To impair, waste, or diminish, by continual attrition, scraping, percussion, on the like; to consume gradually; to cause to lower or disappear; to spend",
-"To cause or make by friction or wasting; as, to wear a channel; to wear a hole",
-"To form or shape by, or as by, attrition",
-"To endure or suffer use; to last under employment; to bear the consequences of use, as waste, consumption, or attrition; as, a coat wears well or ill; -- hence, sometimes applied to character, qualifications, etc.; as, a man wears well as an acquaintance",
-"To be wasted, consumed, or diminished, by being used; to suffer injury, loss, or extinction by use or time; to decay, or be spent, gradually",
-"The act of wearing, or the state of being worn; consumption by use; diminution by friction; as, the wear of a garment",
-"The thing worn; style of dress; the fashion",
-"The result of wearing or use; consumption, diminution, or impairment due to use, friction, or the like; as, the wear of this coat has been good"
+"___weir"
 ],
 "wearable": [
 "Capable of being worn; suitable to be worn"
@@ -3179,6 +3191,9 @@
 "To fasten with a wedge, or with wedges; as, to wedge a scythe on the snath; to wedge a rail or a piece of timber in its place",
 "To cut, as clay, into wedgelike masses, and work by dashing together, in order to expel air bubbles, etc"
 ],
+"wedge gage": [
+"___wedge gauge"
+],
 "wedge gauge": [
 "A wedge with a graduated edge, to measure the width of a space into which it is thrust"
 ],
@@ -3283,6 +3298,9 @@
 "Well",
 "A whirlpool",
 "A kind of trap or snare for fish, made of twigs"
+],
+"weely": [
+"___weel"
 ],
 "ween": [
 "To think; to imagine; to fancy"
@@ -3393,11 +3411,17 @@
 "wehrgeld": [
 "___weregild"
 ],
+"wehrgelt": [
+"___wehrgeld"
+],
 "wehrwolf": [
 "___werewolf"
 ],
 "weigela": [
 "A hardy garden shrub (Diervilla Japonica) belonging to the Honeysuckle family, with white or red flowers. It was introduced from China"
+],
+"weigelia": [
+"___weigela"
 ],
 "weigh": [
 "A corruption of Way, used only in the phrase under weigh",
@@ -3785,7 +3809,7 @@
 "Having no wem, or blemish; spotless"
 ],
 "wen": [
-"An indolent, encysted tumor of the skin; especially, a sebaceous cyst"
+"___wynn"
 ],
 "wen-li": [
 "The higher literary idiom of Chinese, that of the canonical books and of all composition pretending to literary standing.  It employs a classical or academic diction, and a more condensed and sententious style than Mandarin, and differs also in the doubling and arrangement of words"
@@ -3816,6 +3840,9 @@
 "Of or pertaining the Wends, or their language",
 "The language of the Wends"
 ],
+"wendish": [
+"___wendic"
+],
 "wends": [
 "A Slavic tribe which once occupied the northern and eastern parts of Germany, of which a small remnant exists"
 ],
@@ -3830,6 +3857,9 @@
 ],
 "wennish": [
 "Having the nature of a wen; resembling a wen; as, a wennish excrescence"
+],
+"wenny": [
+"___wennish"
 ],
 "wenona": [
 "A sand snake (Charina plumbea) of Western North America, of the family Erycidae"
@@ -3869,6 +3899,9 @@
 ],
 "werk": [
 "___work"
+],
+"werke": [
+"___werk"
 ],
 "wern": [
 "To refuse"
@@ -3928,6 +3961,7 @@
 "Belonging or relating to the West Indies"
 ],
 "west indian": [
+"___west india",
 "A native of, or a dweller in, the West Indies"
 ],
 "westering": [
@@ -3966,6 +4000,9 @@
 ],
 "westwardly": [
 "In a westward direction"
+],
+"westwards": [
+"___westward"
 ],
 "westy": [
 "Dizzy; giddy"
@@ -4149,6 +4186,9 @@
 "wharl": [
 "A guttural pronunciation of the letter r; a burr.  See Burr, n., 6"
 ],
+"wharling": [
+"___wharl"
+],
 "wharp": [
 "A kind of fine sand from the banks of the Trent, used as a polishing powder"
 ],
@@ -4177,6 +4217,9 @@
 ],
 "whatnot": [
 "A kind of stand, or piece of furniture, having shelves for books, ornaments, etc.; an étagère"
+],
+"whatnot shelf": [
+"___whatnot"
 ],
 "whatso": [
 "Whatsoever; whosoever; whatever; anything that"
@@ -4394,6 +4437,7 @@
 "Whether"
 ],
 "where": [
+"___wher",
 "At or in what place; hence, in what situation, position, or circumstances; -- used interrogatively",
 "At or in which place; at the place in which; hence, in the case or instance in which; -- used relatively",
 "To what or which place; hence, to what goal, result, or issue; whither; -- used interrogatively and relatively; as, where are you going?",
@@ -4407,6 +4451,9 @@
 "About where; near what or which place; -- used interrogatively and relatively; as, whereabouts did you meet him?",
 "Concerning which; about which",
 "The place where a person or thing is; as, they did not know his whereabouts"
+],
+"whereabouts": [
+"___whereabout"
 ],
 "whereas": [
 "At which place; where",
@@ -4559,6 +4606,9 @@
 "whichever": [
 "Whether one or another; whether one or the other; which; that one (of two or more) which; as, whichever road you take, it will lead you to town"
 ],
+"whichsoever": [
+"___whichever"
+],
 "whidah bird": [
 "Any one of several species of finchlike birds belonging to the genus Vidua, native of Asia and Africa. In the breeding season the male has very long, drooping tail feathers. Called also vida finch, whidah finch, whydah bird, whydah finch, widow bird, and widow finch"
 ],
@@ -4697,6 +4747,7 @@
 "The quality or state of being whimsical; freakishness; whimsical disposition"
 ],
 "whimsy": [
+"___whimsey",
 "A whimsey"
 ],
 "whimwham": [
@@ -4949,11 +5000,13 @@
 "A small lathe for turning wooden pins"
 ],
 "whiskey": [
-"___whisky",
-"A light carriage built for rapid motion; -- called also tim-whiskey"
+"___whisky"
 ],
 "whiskey ring": [
 "A conspiracy of distillers and government officials during the administration of President Grant to defraud the government of the excise taxes. The frauds were detected in 1875 through the efforts of the Secretary of the Treasury B. H. Bristow, and most of the offenders were convicted"
+],
+"whiskeyfied": [
+"___whiskyfied"
 ],
 "whiskin": [
 "A shallow drinking bowl"
@@ -4963,7 +5016,11 @@
 "Large; great"
 ],
 "whisky": [
+"___whiskey",
 "An intoxicating liquor distilled from grain, potatoes, etc., especially in Scotland, Ireland, and the United States. In the United States, whisky is generally distilled from maize, rye, or wheat, but in Scotland and Ireland it is often made from malted barley"
+],
+"whisky ring": [
+"___whiskey ring"
 ],
 "whiskyfied": [
 "Drunk with whisky; intoxicated"
@@ -5175,7 +5232,7 @@
 "A whitlow"
 ],
 "whitehead": [
-"The blue-winged snow goose"
+"___whitehead torpedo"
 ],
 "whitehead torpedo": [
 "A form of self-propelling torpedo"
@@ -5449,11 +5506,16 @@
 ],
 "whop": [
 "___whap",
+"___whap",
 "___whap"
 ],
 "whopper": [
+"___whapper",
 "One who, or that which, whops",
 "something very large, especially a big lie. Same as Whapper, but the more common spelling"
+],
+"whopping": [
+"___whapping"
 ],
 "whore": [
 "A woman who practices unlawful sexual commerce with men, especially one who prostitutes her body for hire; a prostitute; a harlot",
@@ -5539,6 +5601,9 @@
 "whydah bird": [
 "The whidah bird"
 ],
+"whydah finch": [
+"___whydah bird"
+],
 "wicca": [
 "A religion derived from pre-Christian times, also called Witchcraft{4}, which practices a benevolent reverence for nature, and recognizes two deities, variously viewed as Mother & Father, Goddess & God, Female & Male, etc.; its practitioners are called Wiccans, Wiccas, or witches.  Since there is no central authority to propagate dogma, the beliefs and practices of Wiccans vary significantly",
 "A practitioner of Wicca, also commonly called a Wiccan, Wicca, or witch"
@@ -5548,7 +5613,7 @@
 "An adherent or practitioner of Wicca"
 ],
 "wich": [
-"A variant of 1st wick"
+"___wick"
 ],
 "wichitas": [
 "A tribe of Indians native of the region between the Arkansas and Red rivers. They are related to the Pawnees.  See Pawnees"
@@ -5603,11 +5668,23 @@
 "wickiup": [
 "Vars of Wikiup"
 ],
+"wickliffite": [
+"___wiclifite"
+],
+"wickyup": [
+"___wickiup"
+],
 "wiclifite": [
 "___wyclifite"
 ],
 "wicopy": [
 "___leatherwood"
+],
+"widal reaction": [
+"___widal's test"
+],
+"widal test": [
+"___widal's test"
 ],
 "widal's test": [
 "A test for typhoid fever based on the fact that blood serum of one affected, in a bouillon culture of typhoid bacilli, causes the bacilli to agglutinate and lose their motility"
@@ -5768,9 +5845,7 @@
 "Becoming or life; of or pertaining to a wife"
 ],
 "wig": [
-"A covering for the head, consisting of hair interwoven or united by a kind of network, either in imitation of the natural growth, or in abundant and flowing curls, worn to supply a deficiency of natural hair, or for ornament, or according to traditional usage, as a part of an official or professional dress, the latter especially in England by judges and barristers",
-"An old seal; -- so called by fishermen",
-"To censure or rebuke; to hold up to reprobation; to scold"
+"___wigg"
 ],
 "wigan": [
 "A kind of canvaslike cotton fabric, used to stiffen and protect the lower part of trousers and of the skirts of women's dresses, etc.; -- so called from Wigan, the name of a town in Lancashire, England"
@@ -5903,6 +5978,12 @@
 "wilful": [
 "___willful"
 ],
+"wilfully": [
+"___wilful"
+],
+"wilfulness": [
+"___wilful"
+],
 "wiliness": [
 "The quality or state of being wily; craftiness; cunning; guile"
 ],
@@ -6005,6 +6086,9 @@
 ],
 "willying": [
 "The process of cleansing wool, cotton, or the like, with a willy, or willow"
+],
+"willywaw": [
+"___williwaw"
 ],
 "wilne": [
 "To wish; to desire"
@@ -6208,6 +6292,9 @@
 ],
 "windlestrae": [
 "A grass used for making ropes or for plaiting, esp. Agrostis Spica-ventis"
+],
+"windlestraw": [
+"___windlestrae"
 ],
 "windmill": [
 "A mill operated by the power of the wind, usually by the action of the wind upon oblique vanes or sails which radiate from a horizontal shaft"
@@ -6530,6 +6617,9 @@
 ],
 "wire-heel": [
 "A disease in the feet of a horse or other beast"
+],
+"wire-puller": [
+"___wirepuller"
 ],
 "wire-pulling": [
 "The act of pulling the wires, as of a puppet; hence, secret influence or management, especially in politics; intrigue"
@@ -6989,6 +7079,9 @@
 "witwal": [
 "The golden oriole"
 ],
+"witwall": [
+"___witwal"
+],
 "witworm": [
 "One who, or that which, feeds on or destroys wit"
 ],
@@ -7009,6 +7102,9 @@
 "wiver": [
 "A fabulous two-legged, winged creature, like a cockatrice, but having the head of a dragon, and without spurs",
 "The weever"
+],
+"wivern": [
+"___wiver"
 ],
 "wives": [
 "pl. of Wife"
@@ -7089,6 +7185,15 @@
 ],
 "woesome": [
 "Woeful"
+],
+"woful": [
+"___woeful"
+],
+"wofully": [
+"___woefully"
+],
+"wofulness": [
+"___woefulness"
 ],
 "woke": [
 "Wake"
@@ -7178,6 +7283,9 @@
 "A carnivorous mammal (Gulo gulo formerly Gulo luscus), of the weasel family Mustelidae, about the size of a large badger; called also glutton and carcajou. It is a native of the northern parts of America, Europe, and Asia",
 "A nickname for an inhabitant of Michigan"
 ],
+"wolverine": [
+"___wolverene"
+],
 "wolverine state": [
 "Michigan; -- a nickname"
 ],
@@ -7200,6 +7308,9 @@
 ],
 "womanhead": [
 "Womanhood"
+],
+"womanhede": [
+"___womanhead"
 ],
 "womanhood": [
 "The state of being a woman; the distinguishing character or qualities of a woman, or of womankind",
@@ -7386,6 +7497,12 @@
 "wood-wash": [
 "___woadwaxen"
 ],
+"wood-wax": [
+"___wood-wash"
+],
+"wood-waxen": [
+"___wood-wash"
+],
 "woodbind": [
 "Woodbine"
 ],
@@ -7440,6 +7557,9 @@
 "woodhack": [
 "The yaffle"
 ],
+"woodhacker": [
+"___woodhack"
+],
 "woodhewer": [
 "A woodpecker"
 ],
@@ -7491,6 +7611,9 @@
 ],
 "woodrock": [
 "A compact woodlike variety of asbestus"
+],
+"woodroof": [
+"___woodruff"
 ],
 "woodruff": [
 "A little European herb (Asperula odorata) having a pleasant taste. It is sometimes used for flavoring wine.  See Illust. of Whorl"
@@ -7824,6 +7947,9 @@
 "workways": [
 "In a working position or manner; as, a T rail placed workwise, i.e., resting on its base"
 ],
+"workwise": [
+"___workways"
+],
 "workwoman": [
 "A woman who performs any work; especially, a woman skilled in needlework"
 ],
@@ -7932,6 +8058,9 @@
 ],
 "worral": [
 "An Egyptian fork-tongued lizard, about four feet long when full grown"
+],
+"worrel": [
+"___worral"
 ],
 "worrier": [
 "One who worries"
@@ -8050,6 +8179,12 @@
 "woteth": [
 "3d pers. sing. pres. of Wit, to know"
 ],
+"wottest": [
+"___wotest"
+],
+"wotteth": [
+"___woteth"
+],
 "wou-wou": [
 "The agile, or silvery, gibbon; -- called also camper.  See Gibbon"
 ],
@@ -8162,6 +8297,9 @@
 ],
 "wrannock": [
 "The common wren"
+],
+"wranny": [
+"___wrannock"
 ],
 "wrap": [
 "To snatch up; transport; -- chiefly used in the p. p. wrapt",
@@ -8304,6 +8442,9 @@
 ],
 "wrecking": [
 "a. & n. from Wreck, v"
+],
+"wreeke": [
+"___wreke"
 ],
 "wreke": [
 "___wreak"
@@ -8617,6 +8758,9 @@
 "wust": [
 "imp. of Wit"
 ],
+"wuste": [
+"___wust"
+],
 "wyandots": [
 "___hurons"
 ],
@@ -8625,6 +8769,9 @@
 ],
 "wych-hazel": [
 "The wych-elm; -- so called because its leaves are like those of the hazel"
+],
+"wycliffite": [
+"___wyclifite"
 ],
 "wyclifite": [
 "A follower of Wyclif, the English reformer; a Lollard"
@@ -8641,6 +8788,9 @@
 ],
 "wyla": [
 "A helmeted Australian cockatoo (Calyptorhynchus funereus); -- called also funeral cockatoo"
+],
+"wyn": [
+"___wynn"
 ],
 "wynd": [
 "A narrow lane or alley"
@@ -8660,6 +8810,9 @@
 ],
 "wyte": [
 "pl. pres. of Wit"
+],
+"wyten": [
+"___wyte"
 ],
 "wythe": [
 "___withe"

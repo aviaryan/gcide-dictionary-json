@@ -333,11 +333,20 @@
 "haemadromograph": [
 "An instrument for registering the velocity of the blood"
 ],
+"haemadromometer": [
+"___haemadrometer"
+],
+"haemadromometry": [
+"___haemadrometry"
+],
 "haemadynameter": [
 "___hemadynamometer"
 ],
 "haemadynamics": [
 "___hemadynamics"
+],
+"haemadynamometer": [
+"___haemadynameter"
 ],
 "haemal": [
 "Pertaining to the blood or blood vessels; also, ventral. See Hemal"
@@ -388,6 +397,7 @@
 "Of a blood-red color; crimson; (Bot.) brownish red"
 ],
 "haemato-": [
+"___haema-",
 "___haema-"
 ],
 "haematoblast": [
@@ -487,6 +497,7 @@
 "___hemin"
 ],
 "haemo-": [
+"___haema-",
 "___haema-"
 ],
 "haemochrome": [
@@ -533,6 +544,9 @@
 ],
 "haemolysis": [
 "___haematolysis"
+],
+"haemolytic": [
+"___haemolysis"
 ],
 "haemomanometer": [
 "___hemadynamometer"
@@ -668,6 +682,9 @@
 "of or pertaining to the Hagiographa, or to sacred writings; -- same as hagiographal",
 "of or pertaining to hagiography"
 ],
+"hagiographical": [
+"___hagiographic"
+],
 "hagiography": [
 "___hagiographa"
 ],
@@ -682,6 +699,9 @@
 ],
 "hagioscope": [
 "An opening made in the interior walls of a cruciform church to afford a view of the altar to those in the transepts; -- called, in architecture, a squint"
+],
+"hagridden": [
+"___hag-ridden"
 ],
 "hagseed": [
 "The offspring of a hag"
@@ -762,11 +782,17 @@
 "A haircloth",
 "Any very small distance, or degree; a hairbreadth"
 ],
+"hair ball": [
+"___hairball"
+],
 "hair grass": [
 "A grass with very slender leaves or branches; as the Agrostis scabra, and several species of Aira or Deschampsia"
 ],
 "hair worm": [
 "A nematoid worm of the genus Gordius, resembling a hair.  See Gordius"
+],
+"hair's breadth": [
+"___hairbreadth"
 ],
 "hair-brown": [
 "Of a clear tint of brown, resembling brown human hair. It is composed of equal proportions of red and green"
@@ -868,6 +894,12 @@
 ],
 "haji": [
 "One who has made a journey to Mecca; Same as hadji"
+],
+"hajj": [
+"___haj"
+],
+"hajji": [
+"___haji"
 ],
 "hake": [
 "A drying shed, as for unburned tile",
@@ -1006,6 +1038,9 @@
 "half-heard": [
 "Imperfectly or partly heard; not heard to the end"
 ],
+"half-hearted": [
+"___halfhearted"
+],
 "half-holiday": [
 "a day on which half of the day is free from work or duty; a holiday of one half of a day"
 ],
@@ -1032,6 +1067,9 @@
 "The shape of a half-moon; a crescent",
 "An outwork composed of two faces, forming a salient angle whose gorge resembles a half-moon; -- now called a ravelin",
 "A marine, sparoid, food fish of California (Caesiosoma Californiense). The body is ovate, blackish above, blue or gray below. Called also medialuna"
+],
+"half-penny": [
+"___halfpenny"
 ],
 "half-pike": [
 "A short pike, sometimes carried by officers of infantry, sometimes used in boarding ships; a spontoon"
@@ -1061,6 +1099,7 @@
 "Constructed of a timber frame, having the spaces filled in with masonry; -- said of buildings"
 ],
 "half-tone": [
+"___half tone",
 "Having, consisting of, or pertaining to, half tones"
 ],
 "half-tongue": [
@@ -1069,6 +1108,9 @@
 "half-track": [
 "having caterpillar treads on the rear and wheels in front; as, half-track armored vehicles",
 "a half-tracked vehicle; -- used mostly of armored military vehicles"
+],
+"half-tracked": [
+"___half-track"
 ],
 "half-truth": [
 "a partially true statement, especially one intended to deceive or mislead"
@@ -1202,6 +1244,9 @@
 "halleluiah": [
 "Praise ye Jehovah; praise ye the Lord; -- an exclamation used chiefly in songs of praise or thanksgiving to God, and as an expression of gratitude or adoration"
 ],
+"hallelujah": [
+"___halleluiah"
+],
 "hallelujatic": [
 "Pertaining to, or containing, hallelujahs"
 ],
@@ -1242,6 +1287,9 @@
 ],
 "hallstatt": [
 "Of or pertaining to Hallstatt, Austria, or the Hallstatt civilization"
+],
+"hallstattian": [
+"___hallstatt"
 ],
 "hallucal": [
 "Of or pertaining to the hallux"
@@ -1292,6 +1340,9 @@
 ],
 "halobacter": [
 "Any halophilic bacterium of the archaebacteria group, expecially of the genera Halobacterium and Halococcus, which live in saline environments such as the Dead Sea or salt flats"
+],
+"halobacterium": [
+"___halobacter"
 ],
 "halocarpus": [
 "A genus of dioecious trees or shrubs of New Zealand; similar in habit to Dacrydium"
@@ -1409,6 +1460,9 @@
 "ham-fisted": [
 "not skillful in physical movement especially with the hands; clumsy; bungling; -- also used metaphorically of actions; as, ham-handed governmental interference"
 ],
+"ham-handed": [
+"___ham-fisted"
+],
 "hamadryad": [
 "A tree nymph whose life ended with that of the particular tree, usually an oak, which had been her abode",
 "A large venomous East Indian snake (Ophiophagus bungarus), allied to the cobras"
@@ -1458,6 +1512,9 @@
 ],
 "hamesecken": [
 "The felonious seeking and invasion of a person in his dwelling house"
+],
+"hamesucken": [
+"___hamesecken"
 ],
 "hamfatter": [
 "A low-grade actor or performer; a ham"
@@ -1548,6 +1605,9 @@
 "hamose": [
 "Having the end hooked or curved"
 ],
+"hamous": [
+"___hamose"
+],
 "hamper": [
 "A large basket, usually with a cover, used for the packing and carrying of articles; as, a hamper of wine; a clothes hamper; an oyster hamper, which contains two bushels",
 "To put in a hamper",
@@ -1598,6 +1658,9 @@
 "___hanse",
 "A sudden fall or break, as the fall of the fife rail down to the gangway"
 ],
+"hanch": [
+"___hance"
+],
 "hand": [
 "That part of the fore limb below the forearm or wrist in man and monkeys, and the corresponding part in many other animals; manus; paw. See Manus",
 "That which resembles, or to some extent performs the office of, a human hand",
@@ -1621,6 +1684,12 @@
 "To furl; -- said of a sail",
 "To cooperate"
 ],
+"hand-brake": [
+"___handbrake"
+],
+"hand-craft": [
+"___handcraft"
+],
 "hand-crafted": [
 "made by hand or by a hand process.  Contrasted to machine-made"
 ],
@@ -1640,6 +1709,9 @@
 "hand-operated": [
 "requiring hand manipulation for operation; not automatic or machine-driven; as, a hand-operated winch.  Opposite of automatic or powered"
 ],
+"hand-out": [
+"___handout"
+],
 "hand-picked": [
 "carefully selected; as, a hand-picked jury; the company's president groomed his hand-picked successor"
 ],
@@ -1651,6 +1723,9 @@
 ],
 "hand-winged": [
 "Having wings that are like hands in the structure and arrangement of their bones; -- said of bats. See Cheiroptera"
+],
+"hand-written": [
+"___handwritten"
 ],
 "handbag": [
 "a small bag usually made of cloth, leather or a similar imitation material, and often having a strap to permit carrying it by slinging it over a shoulder, used by women to carry money and small personal items or accessories; as, she had to search under the cosmetics, hankies, and medicines in her handbag to find a comb"
@@ -1827,6 +1902,9 @@
 "handmaid": [
 "A maid that waits at hand; a female servant or attendant",
 "Something or someone serving in a subordinate position; as, theology should be the handmaiden of ethics"
+],
+"handmaiden": [
+"___handmaid"
 ],
 "handoff": [
 "A football play in which one player hands the ball to a teammate"
@@ -2022,6 +2100,9 @@
 "hankeringly": [
 "In a hankering manner"
 ],
+"hankey-pank": [
+"___hankey-pankey"
+],
 "hankey-pankey": [
 "Professional cant; the chatter of conjurers to divert attention from their tricks; hence, jugglery",
 "Illegal or unethical behavior, usually surreptitious; as, the boss got suspicious when profits seemed lower than expected, and hired an investigator to see if any hankey-pankey was going on",
@@ -2063,8 +2144,14 @@
 "hansom": [
 "A light, low, two-wheeled covered carriage with the driver's seat elevated behind, the reins being passed over the top"
 ],
+"hansom cab": [
+"___hansom"
+],
 "hanukka": [
 "The Jewish Feast of the Dedication, instituted by Judas Maccabaeus, his brothers, and the whole congregation of Israel, in 165 b. c., to commemorate the dedication of the new altar set up at the purification of the temple of Jerusalem to replace the altar which had been polluted by Antiochus Epiphanes of Syria (1 Maccabees i. 58, iv. 59). The feast, which is mentioned in John x. 22, is held for eight days (beginning with the 25th day of Kislev, corresponding to December), and is celebrated everywhere, chiefly as a festival of lights, by the Jews"
+],
+"hanukkah": [
+"___hanukka"
 ],
 "hanuman": [
 "___hoonoomaun"
@@ -2144,6 +2231,9 @@
 "___hagbut",
 "(Japan)  suicide by self-disembowlment on a sword"
 ],
+"hara-kiri": [
+"___harakiri"
+],
 "harakiri": [
 "A ritual form of suicide, by slashing the abdomen, formerly practiced in Japan, and commanded by the government in the cases of disgraced officials; disembowelment; -- also written, but incorrectly, hari-kari"
 ],
@@ -2207,6 +2297,9 @@
 "harborous": [
 "Hospitable"
 ],
+"harbrough": [
+"___harborough"
+],
 "hard": [
 "Not easily penetrated, cut, or separated into parts; not yielding to pressure; firm; solid; compact; -- applied to material bodies, and opposed to soft; as, hard wood; hard flesh; a hard apple",
 "Difficult, mentally or judicially; not easily apprehended, decided, or resolved; as a hard problem",
@@ -2234,6 +2327,9 @@
 "hard steel": [
 "Steel hardened by the addition of other elements, as manganese, phosphorus, or (usually) carbon"
 ],
+"hard wired": [
+"___hard-wired"
+],
 "hard-and-fast": [
 "invariable; firmly established; as, hard-and-fast regulations"
 ],
@@ -2244,9 +2340,13 @@
 "not given to sentimentality or gentleness; -- of people; as, a hard-bitten character"
 ],
 "hard-boiled": [
+"___hard-bitten",
 "same as hard-bitten",
 "emotionally hardened; -- used of persons",
 "cooked until the yolk is solid; -- used of eggs; as, a breakfast of pancakes and hard-boiled eggs"
+],
+"hard-bound": [
+"___hardback"
 ],
 "hard-favored": [
 "Hard-featured; ill-looking; as, Vulcan was hard-favored"
@@ -2266,6 +2366,9 @@
 ],
 "hard-handed": [
 "Having hard hands, as a manual laborer"
+],
+"hard-headed": [
+"___hardheaded"
 ],
 "hard-hearted": [
 "Unsympathetic; inexorable; cruel; pitiless"
@@ -2298,6 +2401,9 @@
 "hard-surfaced": [
 "paved; -- of roads.  Opposite of  unpaved"
 ],
+"hard-tack": [
+"___hardtack"
+],
 "hard-to-please": [
 "Requiring great patience and effort and skill; demanding; -- of persons.  Opposite of undemanding"
 ],
@@ -2319,6 +2425,9 @@
 "Having rigid front and back covers, usually boards covered with paper, cloth, or leather; -- of books.  Contrasted with softcover and paperback",
 "A book with cardboard or cloth or leather covers; a hardcover book.  Compare paperback"
 ],
+"hardbacked": [
+"___hardback"
+],
 "hardbake": [
 "A sweetmeat of boiled brown sugar or molasses made with almonds, and flavored with orange or lemon juice, etc"
 ],
@@ -2332,6 +2441,7 @@
 "same as hardback; -- used of books"
 ],
 "hardcover": [
+"___hardback",
 "___hardback"
 ],
 "harden": [
@@ -2611,6 +2721,9 @@
 "A toy instrument of strips of glass or metal hung on two tapes, and struck with hammers",
 "A small wind musical instrument shaped like a flat bar with holes along the thin edges, held in the hand and producing notes from multiple vibrating reeds arranged inside along its length; it was formerly called the harmonicon.  See harmonicon"
 ],
+"harmonical": [
+"___harmonic"
+],
 "harmonically": [
 "In an harmonical manner; harmoniously",
 "In respect to harmony, as distinguished from melody; as, a passage harmonically correct",
@@ -2635,6 +2748,9 @@
 "One who shows the agreement or harmony of corresponding passages of different authors, as of the four evangelists",
 "One who understands the principles of harmony or is skillful in applying them in composition; a musical composer",
 "One of a religious sect, founded in Würtemburg in the last century, composed of followers of George Rapp, a weaver. They had all their property in common. In 1803, a portion of this sect settled in Pennsylvania and called the village thus established, Harmony"
+],
+"harmonite": [
+"___harmonist"
 ],
 "harmonium": [
 "A musical instrument, resembling a small organ and especially designed for church music, in which the tones are produced by forcing air by means of a bellows so as to cause the vibration of free metallic reeds. It is now made with one or two keyboards, and has pedals and stops"
@@ -2754,6 +2870,9 @@
 "harquebus": [
 "A firearm with match holder, trigger, and tumbler, made in the second half of the 15th century.  The barrel was about forty inches long.  A form of the harquebus was subsequently called arquebus with matchlock"
 ],
+"harquebuse": [
+"___harquebus"
+],
 "harrage": [
 "To harass; to plunder from"
 ],
@@ -2823,7 +2942,7 @@
 "Any anteleope of the genus Alcelaphus and certain species of Darnaliscus"
 ],
 "hartebeest": [
-"large African antelope with lyre-shaped horns that curve backward"
+"___hartbeest"
 ],
 "harten": [
 "To hearten; to encourage; to incite"
@@ -2906,6 +3025,9 @@
 "hasheesh": [
 "A slightly acrid gum resin produced by the common hemp (Cannabis sativa), of the variety Indica, when cultivated in a warm climate; also, the tops of the plant, from which the resinous product is obtained.  It is narcotic, and has long been used in the East for its intoxicating effect.  The active psychoactive principle has been identified as tetrahydrocannabinol.   See Bhang, and Ganja"
 ],
+"hashish": [
+"___hasheesh"
+],
 "hashmark": [
 "an insignia worn on the uniform to indicate years of service"
 ],
@@ -2937,6 +3059,9 @@
 ],
 "hastate": [
 "Shaped like the head of a halberd; triangular, with the basal angles or lobes spreading; as, a hastate leaf"
+],
+"hastated": [
+"___hastate"
 ],
 "haste": [
 "Celerity of motion; speed; swiftness; dispatch; expedition; -- applied only to voluntary beings, as men and other animals",
@@ -3048,6 +3173,9 @@
 ],
 "hatchettine": [
 "Mineral tallow; a waxy or spermaceti-like substance, commonly of a greenish yellow color"
+],
+"hatchettite": [
+"___hatchettine"
 ],
 "hatching": [
 "A mode of execution in engraving, drawing, and miniature painting, in which shading is produced by lines crossing each other at angles more or less acute; -- called also crosshatching"
@@ -3400,6 +3528,7 @@
 "Iowa; -- a nickname of obscure origin"
 ],
 "hawksbill": [
+"___hawkbill",
 "___hawkbill"
 ],
 "hawkweed": [
@@ -3415,6 +3544,9 @@
 ],
 "hawsehole": [
 "a hole in the bow of a ship, through which the anchor rope or cable passes"
+],
+"hawsepipe": [
+"___hawsehole"
 ],
 "hawser": [
 "A large rope made of three strands each containing many yarns"
@@ -3650,6 +3782,9 @@
 "The chief of a frankpledge, tithing, or decennary, consisting of ten families; -- called also borsholder, boroughhead, boroughholder, and sometimes tithingman. See Borsholder",
 "A petty constable"
 ],
+"headborrow": [
+"___headborough"
+],
 "headdress": [
 "A covering or ornament for the head; a headtire; as, chiefs among the plains Indians had elaborate long headdresses with many feathers",
 "A manner of dressing the hair or of adorning it, whether with or without a veil, ribbons, combs, etc"
@@ -3670,6 +3805,12 @@
 ],
 "headfish": [
 "The sunfish (Mola)"
+],
+"headforemost": [
+"___headfirst"
+],
+"headgear": [
+"___head gear"
 ],
 "headily": [
 "In a heady or rash manner; hastily; rashly; obstinately"
@@ -3730,6 +3871,9 @@
 ],
 "headmost": [
 "Most advanced; most forward; as, the headmost ship in a fleet"
+],
+"headmould shot": [
+"___headmold shot"
 ],
 "headnote": [
 "A note at the head of a page or chapter; in law reports, an abstract of a case, showing the principles involved and the opinion of the court"
@@ -3991,8 +4135,14 @@
 "Depriving of thought; ecstatic",
 "Stealing the heart or affections; winning"
 ],
+"heart-shaped": [
+"___heartshaped"
+],
 "heart-spoon": [
 "A part of the breastbone"
+],
+"heart-warming": [
+"___heartwarming"
 ],
 "heart-whole": [
 "Having the heart or affections free; not in love",
@@ -4173,6 +4323,9 @@
 "A low shrub (Erica vulgaris or Calluna vulgaris), with minute evergreen leaves, and handsome clusters of pink flowers.  It is used in Great Britain for brooms, thatch, beds for the poor, and for heating ovens.  It is also called heather, and ling",
 "A place overgrown with heath; any cheerless tract of country overgrown with shrubs or coarse herbage"
 ],
+"heath fowl": [
+"___heathfowl"
+],
 "heathclad": [
 "Clad or crowned with heath"
 ],
@@ -4339,6 +4492,9 @@
 "heavy-headed": [
 "Dull; stupid"
 ],
+"heavy-hearted": [
+"___heavyhearted"
+],
 "heavy-laden": [
 "burdened by cares",
 "bearing a heavy load; as, the heavy-laden trucks wore deep ruts in the unpaved road"
@@ -4367,6 +4523,7 @@
 "In periods of seven days; weekly"
 ],
 "hebdomadary": [
+"___hebdomadal",
 "A member of a chapter or convent, whose week it is to officiate in the choir, and perform other services, which, on extraordinary occasions, are performed by the superiors"
 ],
 "hebdomatical": [
@@ -4437,6 +4594,9 @@
 "hebridean": [
 "Of or pertaining to the islands called Hebrides, west of Scotland"
 ],
+"hebridian": [
+"___hebridean"
+],
 "hecatomb": [
 "A sacrifice of a hundred oxen or cattle at the same time; hence, the sacrifice or slaughter of any large number of victims"
 ],
@@ -4496,8 +4656,14 @@
 "hectoliter": [
 "A measure of liquids, containing a hundred liters; equal to a tenth of a cubic meter, nearly 261/2 gallons of wine measure, or 22.0097 imperial gallons. As a dry measure, it contains ten decaliters, or about 25/6 Winchester bushels"
 ],
+"hectolitre": [
+"___hectoliter"
+],
 "hectometer": [
 "A measure of length, equal to a hundred meters. It is equivalent to 328.09 feet"
+],
+"hectometre": [
+"___hectometer"
 ],
 "hector": [
 "A bully; a blustering, turbulent, insolent, fellow; one who vexes or provokes",
@@ -4714,8 +4880,14 @@
 "hegelianism": [
 "The system of logic and philosophy set forth by Hegel, a German writer (1770-1831)"
 ],
+"hegelism": [
+"___hegelianism"
+],
 "hegemonic": [
 "Leading; controlling; ruling; predominant"
+],
+"hegemonical": [
+"___hegemonic"
 ],
 "hegemony": [
 "Leadership; preponderant influence or authority; -- usually applied to the relation of a government or state to its neighbors or confederates"
@@ -4795,8 +4967,17 @@
 "hektare": [
 "___hectare"
 ],
+"hektogram": [
+"___hektare"
+],
 "hektograph": [
 "___hectograph"
+],
+"hektoliter": [
+"___hektare"
+],
+"hektometer": [
+"___hektare"
 ],
 "helamys": [
 "___hare"
@@ -4891,6 +5072,9 @@
 "heliocentric": [
 "pertaining to the sun's center, or appearing to be seen from it; having, or relating to, the sun as a center; -- opposed to geocentrical"
 ],
+"heliocentrical": [
+"___heliocentric"
+],
 "heliochrome": [
 "A photograph in colors"
 ],
@@ -4939,6 +5123,9 @@
 "heliometric": [
 "Of or pertaining to the heliometer, or to heliometry"
 ],
+"heliometrical": [
+"___heliometric"
+],
 "heliometry": [
 "The apart or practice of measuring the diameters of heavenly bodies, their relative distances, etc. See Heliometer"
 ],
@@ -4986,6 +5173,9 @@
 ],
 "helispheric": [
 "Spiral"
+],
+"helispherical": [
+"___helispheric"
 ],
 "helium": [
 "An inert, monoatomic, gaseous element occurring in the atmosphere of the sun and stars, and in small quantities in the earth's atmosphere, in several minerals and in certain mineral waters. It is obtained from natural gas in industrial quantities.  Symbol, He; atomic number 2; at. wt., 4.0026 (C=12.011). Helium was first detected spectroscopically in the sun by Lockyer in 1868; it was first prepared by Ramsay in 1895. Helium has a density of 1.98 compared with hydrogen, and is more difficult to liquefy than the latter. Chemically, it is an inert noble gas, belonging to the argon group, and cannot be made to form compounds. The helium nucleus is the charged particle which constitutes alpha rays, and helium is therefore formed as a decomposition product of certain radioactive substances such as radium.  The normal helium nucleus has two protons and two neutrons, but an isotope with only one neutron is also observed in atmospheric helium at an abundance of 0.013 %.  Liquid helium has a boiling point of -268.9° C at atmospheric pressure, and is used for maintaining very low temperatures, both in laboratory experimentation and in commercial applications to maintain superconductivity in low-temperature superconducting devices.  Gaseous helium at normal temperatures is used for buoyancy in blimps, dirigibles, and high-altitude balloons, and also for amusement in party balloons"
@@ -5069,6 +5259,9 @@
 "hellenistic": [
 "Pertaining to the Hellenists"
 ],
+"hellenistical": [
+"___hellenistic"
+],
 "hellenistically": [
 "According to the Hellenistic manner or dialect"
 ],
@@ -5087,6 +5280,9 @@
 ],
 "hellgamite": [
 "The aquatic larva of a large American winged insect (Corydalus cornutus), much used a fish bait by anglers; the dobson. It belongs to the Neuroptera"
+],
+"hellgramite": [
+"___hellgamite"
 ],
 "hellhag": [
 "A hag of or fit for hell"
@@ -5164,6 +5360,9 @@
 ],
 "helminthologic": [
 "Of or pertaining to helminthology"
+],
+"helminthological": [
+"___helminthologic"
 ],
 "helminthologist": [
 "One versed in helminthology"
@@ -5249,6 +5448,9 @@
 "helvine": [
 "A mineral of a yellowish color, consisting chiefly of silica, glucina, manganese, and iron, with a little sulphur"
 ],
+"helvite": [
+"___helvine"
+],
 "helxine": [
 "A genus of plants consisting of one species; a dwarf creeping mat-forming evergreen herb"
 ],
@@ -5281,6 +5483,12 @@
 "hemadrometry": [
 "The act of measuring the velocity with which the blood circulates in the arteries; haemotachometry"
 ],
+"hemadromometer": [
+"___hemadrometer"
+],
+"hemadromometry": [
+"___hemadrometry"
+],
 "hemadynamics": [
 "The principles of dynamics in their application to the blood; that part of science which treats of the motion of the blood"
 ],
@@ -5298,6 +5506,9 @@
 ],
 "hemastatic": [
 "___hemostatic"
+],
+"hemastatical": [
+"___hemastatic"
 ],
 "hemastatics": [
 "Laws relating to the equilibrium of the blood in the blood vessels"
@@ -5396,6 +5607,9 @@
 ],
 "hemelytron": [
 "One of the partially thickened anterior wings of certain insects, as of many Hemiptera, the earwigs, etc"
+],
+"hemelytrum": [
+"___hemelytron"
 ],
 "hemeralopia": [
 "A disease of the eyes, in consequence of which a person can see clearly or without pain only by daylight or a strong artificial light; day sight"
@@ -5504,6 +5718,9 @@
 "hemiopia": [
 "A defect of vision in consequence of which a person sees but half of an object looked at"
 ],
+"hemiopsia": [
+"___hemiopia"
+],
 "hemiorthotype": [
 "___monoclinic"
 ],
@@ -5534,6 +5751,9 @@
 "hemipteran": [
 "One of the Hemiptera; an hemipter"
 ],
+"hemipterous": [
+"___hemipteral"
+],
 "hemiramphidae": [
 "A natural family of fish including the halfbeaks, marine and freshwater fishes closely related to the flying fishes but not able to glide"
 ],
@@ -5550,6 +5770,9 @@
 ],
 "hemispheric": [
 "Containing, or pertaining to, a hemisphere; as, a hemispheric figure or form; a hemispherical body"
+],
+"hemispherical": [
+"___hemispheric"
 ],
 "hemispheroid": [
 "A half of a spheroid"
@@ -5579,6 +5802,9 @@
 "hemitrope": [
 "Half turned round; half inverted; (Crystallog.) having a twinned structure",
 "That which is hemitropal in construction; (Crystallog.) a twin crystal having a hemitropal structure"
+],
+"hemitropous": [
+"___hemitropal"
 ],
 "hemitropy": [
 "Twin composition in crystals"
@@ -5670,6 +5896,12 @@
 "hemself": [
 "Themselves; -- used reflexively"
 ],
+"hemselve": [
+"___hemself"
+],
+"hemselven": [
+"___hemself"
+],
 "hemstitch": [
 "To ornament at the head of a broad hem by drawing out a few parallel threads, and fastening the cross threads in successive small clusters; as, to hemstitch a handkerchief"
 ],
@@ -5690,6 +5922,9 @@
 ],
 "hen-of-the-woods": [
 "A large grayish-brown edible fungus (Polyporus frondosus) forming a mass of overlapping caps at the base of trees that somewhat resembles a hen"
+],
+"hen-peck": [
+"___henpeck"
 ],
 "henbane": [
 "A plant of the genus Hyoscyamus (Hyoscyamus niger). All parts of the plant are poisonous, and the leaves are used for the same purposes as belladonna. It is poisonous to domestic fowls; whence the name. Called also, stinking nightshade, from the fetid odor of the plant. See Hyoscyamus"
@@ -5778,6 +6013,9 @@
 "henoge ny": [
 "___ontogeny"
 ],
+"henogenesis": [
+"___henoge ny"
+],
 "henotheism": [
 "Primitive religion in which each of several divinities is regarded as independent, and is worshiped without reference to the rest"
 ],
@@ -5861,6 +6099,9 @@
 "hepatogenic": [
 "Arising from the liver; due to a condition of the liver; as, hepatogenic jaundice"
 ],
+"hepatogenous": [
+"___hepatogenic"
+],
 "hepatology": [
 "The science which treats of the liver; a treatise on the liver"
 ],
@@ -5911,6 +6152,9 @@
 "heptagynian": [
 "Having seven pistils"
 ],
+"heptagynous": [
+"___heptagynian"
+],
 "heptahedron": [
 "A solid figure with seven sides"
 ],
@@ -5922,6 +6166,9 @@
 ],
 "heptandrian": [
 "Having seven stamens"
+],
+"heptandrous": [
+"___heptandrian"
 ],
 "heptane": [
 "Any one of several isometric hydrocarbons, C7H16, of the paraffin series (nine are possible, four are known); -- so called because the molecule has seven carbon atoms. Specifically, a colorless liquid, found as a constituent of petroleum, in the tar oil of cannel coal, etc"
@@ -6079,6 +6326,9 @@
 "herbergh": [
 "A harbor"
 ],
+"herberwe": [
+"___herbergh"
+],
 "herbescent": [
 "Growing into herbs"
 ],
@@ -6123,6 +6373,9 @@
 "herbose": [
 "Abounding with herbs"
 ],
+"herbous": [
+"___herbose"
+],
 "herby": [
 "Having the nature of, pertaining to, or covered with, herbs or herbage"
 ],
@@ -6138,9 +6391,13 @@
 "A constellation in the northern hemisphere, near Lyra"
 ],
 "hercules'-club": [
+"___hercules'-club",
 "A densely spiny ornamental tree (Zanthoxylum clava-herculis) of the rue family, growing in southeast U. S. and West Indies",
 "A small, prickly, deciduous clump-forming tree or shrub (Aralia spinosa) of eastern U.S.; also called Angelica tree and prickly ash",
 "A variety of the common gourd (Lagenaria vulgaris). Its fruit sometimes exceeds five feet in length"
+],
+"hercules-club": [
+"___hercules'-club"
 ],
 "hercynian": [
 "Of or pertaining to an extensive forest in Germany, of which there are still portions in Swabia and the Hartz mountains"
@@ -6176,10 +6433,14 @@
 "herdman": [
 "The owner or keeper of a herd or of herds; one employed in tending a herd of cattle"
 ],
+"herdsman": [
+"___herdman"
+],
 "herdswoman": [
 "A woman who tends a herd"
 ],
 "here": [
+"___her",
 "Hair",
 "___her",
 "Her; hers. See Her",
@@ -6194,6 +6455,9 @@
 "herea-bout": [
 "About this place; in this vicinity",
 "Concerning this"
+],
+"hereabouts": [
+"___herea-bout"
 ],
 "hereafter": [
 "In time to come; in some future time or state",
@@ -6249,6 +6513,9 @@
 ],
 "heremit": [
 "A hermit"
+],
+"heremite": [
+"___heremit"
 ],
 "heremitical": [
 "Of or pertaining to a hermit; solitary; secluded from society"
@@ -6306,6 +6573,9 @@
 ],
 "heretofore": [
 "Up to this time; hitherto; before; in time past"
+],
+"heretog": [
+"___heretoch"
 ],
 "hereunto": [
 "Unto this; up to this time; hereto"
@@ -6368,11 +6638,17 @@
 "Partaking of the characteristics of both sexes; having male and female reproductive organs in the same plant or animal; characterized by hermaphroditism.  Opposite of dioecious",
 "having pistils and stamens in the same flower.  Opposite of diclinous"
 ],
+"hermaphroditical": [
+"___hermaphroditic"
+],
 "hermaphroditism": [
 "The union of the two sexes in the same individual, or the combination of some of their characteristics or organs in one individual"
 ],
 "hermeneutic": [
 "Unfolding the signification; of or pertaining to interpretation; exegetical; explanatory; as, hermeneutic theology, or the art of expounding the Scriptures; a hermeneutic phrase"
+],
+"hermeneutical": [
+"___hermeneutic"
 ],
 "hermeneutically": [
 "According to the principles of interpretation; as, a verse of Scripture was examined hermeneutically"
@@ -6388,6 +6664,9 @@
 "Of, pertaining to, or taught by, Hermes Trismegistus; as, hermetic philosophy. Hence: Alchemical; chemic",
 "Of or pertaining to the system which explains the causes of diseases and the operations of medicine on the principles of the hermetic philosophy, and which made much use, as a remedy, of an alkali and an acid; as, hermetic medicine",
 "Made perfectly close or air-tight by fusion, so that no gas or spirit can enter or escape; as, an hermetic seal. See Note under Hermetically"
+],
+"hermetical": [
+"___hermetic"
 ],
 "hermetically": [
 "In an hermetical manner; chemically",
@@ -6466,6 +6745,9 @@
 "heroicomic": [
 "Combining the heroic and the ludicrous; denoting high burlesque; as, a heroicomic poem"
 ],
+"heroicomical": [
+"___heroicomic"
+],
 "heroin": [
 "a morphine derivative, diacetyl morphine, used to relieve severe pain and as a sedative.  It is highly addictive, and its use is strictly controlled in the U.S. by federal law.  It is a popular strong narcotic drug of abuse, in part because it is more soluble than morphine.  It is sometimes included as one of the components of Brompton's mixture, used to control pain in terminallly ill patients"
 ],
@@ -6523,6 +6805,9 @@
 ],
 "herpetologic": [
 "Pertaining to herpetology"
+],
+"herpetological": [
+"___herpetologic"
 ],
 "herpetologist": [
 "One versed in herpetology, or the natural history of reptiles"
@@ -6687,14 +6972,23 @@
 "hestern": [
 "Pertaining to yesterday"
 ],
+"hesternal": [
+"___hestern"
+],
 "hesychast": [
 "One of a mystical sect of the Greek Church in the fourteenth century; a quietist"
 ],
 "hetaera": [
 "A female paramour; a mistress, concubine, or harlot"
 ],
+"hetaira": [
+"___hetaera"
+],
 "hetairism": [
 "A supposed primitive state of society, in which all the women of a tribe were held in common"
+],
+"hetarism": [
+"___hetairism"
 ],
 "hetchel": [
 "___hatchel"
@@ -6738,6 +7032,9 @@
 "heterochronism": [
 "In evolution, a deviation from the typical sequence in the formation of organs or parts"
 ],
+"heterochrony": [
+"___heterochronism"
+],
 "heteroclite": [
 "Deviating from ordinary forms or rules; irregular; anomalous; abnormal",
 "A word which is irregular or anomalous either in declension or conjugation, or which deviates from ordinary forms of inflection in words of a like kind; especially, a noun which is irregular in declension",
@@ -6745,6 +7042,9 @@
 ],
 "heteroclitic": [
 "Deviating from ordinary forms or rules; irregular; anomalous; abnormal"
+],
+"heteroclitical": [
+"___heteroclitic"
 ],
 "heteroclitous": [
 "Heteroclitic"
@@ -6860,6 +7160,9 @@
 "heteromorphous": [
 "Heteromorphic"
 ],
+"heteromorphy": [
+"___heteromorphism"
+],
 "heteromyaria": [
 "A division of bivalve shells, including the marine mussels, in which the two adductor muscles are very unequal. See Dreissena, and Illust. under Byssus"
 ],
@@ -6946,6 +7249,9 @@
 "heterosporic": [
 "Producing two kinds of spores unlike each other"
 ],
+"heterosporous": [
+"___heterosporic"
+],
 "heterostyled": [
 "Having styles of two or more distinct forms or lengths"
 ],
@@ -6962,11 +7268,17 @@
 "A deviation from the natural position; -- a term applied in the case of organs or growths which are abnormal in situation",
 "A deviation from the natural position of parts, supposed to be effected in thousands of years, by the gradual displacement of germ cells"
 ],
+"heterotopy": [
+"___heterotopism"
+],
 "heterotricha": [
 "A division of ciliated Infusoria, having fine cilia all over the body, and a circle of larger ones around the anterior end"
 ],
 "heterotropal": [
 "Having the embryo or ovule oblique or transverse to the funiculus; amphitropous"
+],
+"heterotropous": [
+"___heterotropal"
 ],
 "hething": [
 "Contempt; scorn"
@@ -7028,6 +7340,12 @@
 "hex-": [
 "A prefix or combining form, used to denote six, sixth, etc.; as, hexatomic, hexabasic"
 ],
+"hex-androus": [
+"___hexandrian"
+],
+"hexa": [
+"___hex-"
+],
 "hexabasic": [
 "Having six hydrogen atoms or six radicals capable of being replaced or saturated by bases; -- said of acids; as, mellitic acid is hexabasic"
 ],
@@ -7082,6 +7400,9 @@
 "hexagynian": [
 "Having six pistils"
 ],
+"hexagynous": [
+"___hexagynian"
+],
 "hexahedral": [
 "In the form of a hexahedron; having six sides or faces"
 ],
@@ -7101,6 +7422,9 @@
 ],
 "hexametric": [
 "Consisting of six metrical feet"
+],
+"hexametrical": [
+"___hexametric"
 ],
 "hexametrist": [
 "One who writes in hexameters"
@@ -7140,6 +7464,9 @@
 ],
 "hexastich": [
 "A poem consisting of six verses or lines"
+],
+"hexastichon": [
+"___hexastich"
 ],
 "hexastyle": [
 "Having six columns in front; -- said of a portico or temple"
@@ -7207,6 +7534,9 @@
 "heydeguy": [
 "A kind of country-dance or round"
 ],
+"heygh": [
+"___heyh"
+],
 "heyh": [
 "High"
 ],
@@ -7215,6 +7545,9 @@
 ],
 "heyten": [
 "Hence"
+],
+"hi-fi": [
+"___hifi"
 ],
 "hiation": [
 "Act of gaping"
@@ -7249,6 +7582,9 @@
 "hibernian": [
 "Of or pertaining to Hibernia, now Ireland; Irish"
 ],
+"hibernianism": [
+"___hibernicism"
+],
 "hibernicism": [
 "An idiom or mode of speech peculiar to the Irish"
 ],
@@ -7275,6 +7611,9 @@
 "A red mark on the skin, caused by a passionate, sucking kiss at that location",
 "a doohickey"
 ],
+"hickie": [
+"___hickey"
+],
 "hickory": [
 "An American tree of the genus Carya, of which there are several species.  The shagbark is the Carya alba, and has a very rough bark; it affords the hickory nut of the markets.  The pignut, or brown hickory, is the Carya glabra.  The swamp hickory is Carya amara, having a nut whose shell is very thin and the kernel bitter"
 ],
@@ -7286,6 +7625,9 @@
 ],
 "hickwall": [
 "The lesser spotted woodpecker (Dendrocopus minor) of Europe"
+],
+"hickway": [
+"___hickwall"
 ],
 "hid": [
 "imp. & p. p. of Hide. See Hidden"
@@ -7314,6 +7656,9 @@
 "The skin of an animal, either raw or dressed; -- generally applied to the undressed skins of the larger domestic animals, as oxen, horses, etc",
 "The human skin; -- so called in contempt",
 "To flog; to whip"
+],
+"hide and go seek": [
+"___hide-and-seek"
 ],
 "hide-and-seek": [
 "A game played by children, in which one child (who is “it”) covers his eyes for a short time while the other players hide, and then the one who is “it” tries to find the others"
@@ -7368,8 +7713,12 @@
 "Pertaining to a hierarch"
 ],
 "hierarchic": [
+"___hierarchal",
 "Of or pertaining to a hierarchy; ordered in a hierarchy",
 "Pertaining to a transitive relation between objects by which they may be ordered into a hierarchy; as, a hierarchical relation"
+],
+"hierarchical": [
+"___hierarchic"
 ],
 "hierarchism": [
 "The principles or authority of a hierarchy"
@@ -7392,9 +7741,13 @@
 "Any character or figure which has, or is supposed to have, a hidden or mysterious significance; hence, any unintelligible or illegible character or mark"
 ],
 "hieroglyphic": [
+"___hieroglyph",
 "Emblematic; expressive of some meaning by characters, pictures, or figures; as, hieroglyphic writing; a hieroglyphic obelisk",
 "Resembling hieroglyphics; not decipherable",
 "of or pertaining to hieroglyphs"
+],
+"hieroglyphical": [
+"___hieroglyphic"
 ],
 "hieroglyphically": [
 "In hieroglyphics"
@@ -7414,6 +7767,9 @@
 "hierographic": [
 "Of or pertaining to sacred writing"
 ],
+"hierographical": [
+"___hierographic"
+],
 "hierography": [
 "Sacred writing"
 ],
@@ -7422,6 +7778,9 @@
 ],
 "hierologic": [
 "Pertaining to hierology"
+],
+"hierological": [
+"___hierologic"
 ],
 "hierologist": [
 "One versed in, or whostudies, hierology"
@@ -7501,6 +7860,9 @@
 "The highest card dealt or drawn",
 "To rise; as, the sun higheth"
 ],
+"high chair": [
+"___highchair"
+],
 "high five": [
 "___cinch",
 "a celebratory or mutually congratulatory gesture between two persons performed by each slapping the other's raised right hand.  Also used as a verb"
@@ -7511,8 +7873,14 @@
 "high road": [
 "The most ethical and honest method; -- used mostly in the phrase to take the high road (as in an election campaign).  Contrasted with low road"
 ],
+"high school": [
+"___highschool"
+],
 "high steel": [
 "Steel containing a high percentage of carbon; high-carbon steel"
+],
+"high water": [
+"___highwater"
 ],
 "high-and-mighty": [
 "conceited and arrogant; imperious"
@@ -7599,6 +7967,9 @@
 "high-power": [
 "vigorously energetic or forceful",
 "capable of a high degree of magnification; -- used of optical instruments such as microscopes or telescopes"
+],
+"high-powered": [
+"___high-power"
 ],
 "high-pressure": [
 "Having or involving a pressure greatly exceeding that of the atmosphere; -- said of steam, air, water, etc., and of steam, air, or hydraulic engines, water wheels, etc",
@@ -7705,6 +8076,9 @@
 "a person of intellectual or erudite tastes; an intellectual",
 "highly cultured or educated; pertaining to highly educated people; as, highbrow events such as the ballet or opera"
 ],
+"highbrowed": [
+"___highbrow"
+],
 "highchair": [
 "a chair designed for feeding a very young child, having four long legs and a footrest and a detachable tray, which rests in front of the child, holds the food, and also serves as a restraint, to keep the child from falling out of the chair"
 ],
@@ -7736,6 +8110,12 @@
 "highfalutin": [
 "Affectedly genteel; pretentious; haughty; snobbish",
 "High-flown, bombastic language"
+],
+"highfalutin'": [
+"___highfalutin"
+],
+"highfaluting": [
+"___highfalutin"
 ],
 "highflier": [
 "One who is extravagant in pretensions, opinions, or manners; one who is highfaluting",
@@ -7835,6 +8215,9 @@
 "hijera": [
 "___hegira"
 ],
+"hijra": [
+"___hijera"
+],
 "hike": [
 "To move with a swing, toss, throw, jerk, or the like",
 "To raise with a quick movement",
@@ -7929,10 +8312,17 @@
 "Themselves. See Hemself"
 ],
 "himselve": [
+"___himself",
+"___himself"
+],
+"himselven": [
 "___himself"
 ],
 "himyaric": [
 "Pertaining to Himyar, an ancient king of Yemen, in Arabia, or to his successors or people; as, the Himjaritic characters, language, etc.; applied esp. to certain ancient inscriptions showing the primitive type of the oldest form of the Arabic, still spoken in Southern Arabia"
+],
+"himyaritic": [
+"___himyaric"
 ],
 "hin": [
 "A Hebrew measure of liquids, containing three quarts, one pint, one gill, English measure"
@@ -7987,6 +8377,9 @@
 "hindleys screw": [
 "A screw cut on a solid whose sides are arcs of the periphery of a wheel into the teeth of which the screw is intended to work. It is named from the person who first used the form"
 ],
+"hindmost": [
+"___hindermost"
+],
 "hindoo": [
 "A native inhabitant of Hindostan. As an ethnical term it is confined to the Dravidian and Aryan races; as a religious name it is restricted to followers of the Veda"
 ],
@@ -7998,6 +8391,9 @@
 ],
 "hindoostanee": [
 "Of or pertaining to the Hindoos or their language"
+],
+"hindoostani": [
+"___hindoostanee"
 ],
 "hindostani": [
 "___hindustani"
@@ -8020,9 +8416,14 @@
 "understanding the nature of an event after it has happened; as, hindsight is always clearer than foresight"
 ],
 "hindu": [
+"___hindoo",
 "___hindoo"
 ],
+"hindu calendar": [
+"___hindoo calendar"
+],
 "hinduism": [
+"___hindooism",
 "the dominant religion of India; characterized by a caste system anud belief in reincarnation",
 "a complex of beliefs and values and customs including worship of many gods, especially the Trimurti composed of Brahma the Creator; Vishnu the preserver; and Shiva the destroyer"
 ],
@@ -8030,6 +8431,7 @@
 "northern region of India where Hinduism predominates"
 ],
 "hindustani": [
+"___hindoostanee",
 "of or pertaining to Hindustan or its inhabitants",
 "a native or inhabitant of Hindustan or India",
 "a form of Hindi spoken around Delhi.  See Hindoostanee"
@@ -8058,6 +8460,7 @@
 "To neigh; to whinny"
 ],
 "hinny": [
+"___hinniate",
 "A hybrid between a stallion and an ass; -- correlative of the mule",
 "A term of endearment; darling; -- corrupted from honey"
 ],
@@ -8120,6 +8523,9 @@
 "hipparion": [
 "An extinct genus of Tertiary mammals allied to the horse, but three-toed, having on each foot a small lateral hoof on each side of the main central one. It is believed to be one of the ancestral genera of the Horse family"
 ],
+"hippe": [
+"___hippa"
+],
 "hippeastrum": [
 "An amaryllis of tropical America (Hippeastrum puniceum) often cultivated as a houseplant for its showy white to red flowers"
 ],
@@ -8130,6 +8536,9 @@
 ],
 "hippie": [
 "Someone who rejects the established culture, dresses casually, and advocates extreme liberalism in politics and lifestyle.  Used especially of those in the late 1960's, mostly in their late teens and early twenties, who conspicuously rejected traditional culture by dressing casually, if male wore their hair long, and wore folksy or used clothing adorned with beads, headbands, and often flowers; they emphasized the importance of love and direct personal relations rather than success-oriented businesslike behavior, strove for spontaneity, sometimes lived communally, and in some cases tried to expand their consciousness by various psychological techniques such as meditation, or through the use of consciousness-altering drugs such as marijuana or LSD.  By the end of the Vietnam war in the 1970's, the numbers of people living a visibly hippie lifestyle had dramatically decreased, though some people continue to develop similar views and live with the same outlook"
+],
+"hippish": [
+"___hipped"
 ],
 "hippo": [
 "___hippopotamus"
@@ -8220,6 +8629,9 @@
 "hippotomy": [
 "Anatomy of the horse"
 ],
+"hipps": [
+"___hip"
+],
 "hippuric": [
 "Obtained from the urine of horses; as, hippuric acid"
 ],
@@ -8245,6 +8657,9 @@
 "Goatlike; of or pertaining to a goat or the goats",
 "Of a strong goatish smell"
 ],
+"hircinous": [
+"___hircine"
+],
 "hire": [
 "___here",
 "The price, reward, or compensation paid, or contracted to be paid, for the temporary use of a thing or a place, for personal service, or for labor; wages; rent; pay",
@@ -8253,8 +8668,14 @@
 "To engage or purchase the service, labor, or interest of (any one) for a specific purpose, by payment of wages; as, to hire a servant, an agent, or an advocate",
 "To grant the temporary use of, for compensation; to engage to give the service of, for a price; to let; to lease; -- now usually with out, and often reflexively; as, he has hired out his horse, or his time"
 ],
+"hire and purchase agreement": [
+"___hire purchase"
+],
 "hire purchase": [
 "A contract (more fully called contract of hire with an option of purchase) in which a person hires goods for a specified period and at a fixed rent, with the added condition that if he shall retain the goods for the full period and pay all the installments of rent as they become due the contract shall determine and the title vest absolutely in him, and that if he chooses he may at any time during the term surrender the goods and be quit of any liability for future installments upon the contract. In the United States such a contract is generally treated as a conditional sale, and the term hire purchase is also sometimes applied to a contract in which the hirer is not free to avoid future liability by surrender of the goods. In England, however, if the hirer does not have this right the contract is a sale"
+],
+"hire purchase agreement": [
+"___hire purchase"
 ],
 "hired": [
 "performing work for pay; as, hired hands"
@@ -8271,6 +8692,12 @@
 ],
 "hires": [
 "Hers; theirs. See Here, pron"
+],
+"hirling": [
+"___herling"
+],
+"hirs": [
+"___hires"
 ],
 "hirsute": [
 "Rough with hair; set with bristles; shaggy",
@@ -8380,6 +8807,9 @@
 "histologic": [
 "Pertaining to histology, or to the microscopic structure of the tissues of living organisms"
 ],
+"histological": [
+"___histologic"
+],
 "histologist": [
 "One versed in histology"
 ],
@@ -8411,6 +8841,9 @@
 "Belonging to the past; as, historical (or historic) times; a historical character",
 "Within the period of time recorded in written documents; as, within historic times.  Opposite of prehistoric",
 "___diachronic"
+],
+"historical": [
+"___historic"
 ],
 "historically": [
 "In the manner of, or in accordance with, history"
@@ -8465,6 +8898,9 @@
 "histrionic": [
 "Of or relating to the stage or a stageplayer; befitting a theatre; theatrical",
 "Affectedly dramatic; insincerely emotional; -- sometimes used in a bad sense"
+],
+"histrionical": [
+"___histrionic"
 ],
 "histrionicism": [
 "The histrionic art; stageplaying"
@@ -8609,11 +9045,17 @@
 "Halloo! attend! -- a call to excite attention, or to give notice of approach",
 "Stop! stand still! hold! -- a word now used by teamsters, but formerly to order the cessation of anything"
 ],
+"hoa": [
+"___ho"
+],
 "hoactzin": [
 "A crested ill-smelling South American bird (Opisthocomus hoazin) whose young have claws on the first and second digits of the wings"
 ],
 "hoagie": [
 "a large sandwich on a long crusty roll that is split lengthwise and filled with meats and cheese (and tomato and onion and lettuce and condiments); different names are used in different sections of the U. S., such as hero, grinder, and submarine"
+],
+"hoagy": [
+"___hoagie"
 ],
 "hoar": [
 "White, or grayish white; as, hoar frost; hoar cliffs",
@@ -8693,6 +9135,9 @@
 "A countryman; a rustic; a clown",
 "The male ferret"
 ],
+"hobandnob": [
+"___hobanob"
+],
 "hobanob": [
 "___hobnob"
 ],
@@ -8724,6 +9169,9 @@
 "One who hobbles",
 "One who by his tenure was to maintain a horse for military service; a kind of light horseman in the Middle Ages who was mounted on a hobby"
 ],
+"hobbletehoy": [
+"___hobbledehoy"
+],
 "hobblingly": [
 "With a limping step"
 ],
@@ -8735,6 +9183,9 @@
 "A strong, active horse, of a middle size, said to have been originally from Ireland; an ambling nag",
 "A stick, often with the head or figure of a horse, on which boys make believe to ride",
 "A subject or plan upon which one is constantly setting off; a favorite and ever-recurring theme of discourse, thought, or effort; that which occupies one's attention unduly, or to the weariness of others; a ruling passion"
+],
+"hobbyhorse": [
+"___hobby"
 ],
 "hobbyhorsical": [
 "Pertaining to, or having, a hobby or whim; eccentric; whimsical"
@@ -8845,6 +9296,9 @@
 ],
 "hodiern": [
 "Of this day; belonging to the present day"
+],
+"hodiernal": [
+"___hodiern"
 ],
 "hodman": [
 "A man who carries a hod; a mason's tender"
@@ -9170,6 +9624,9 @@
 "holland": [
 "A kind of linen first manufactured in Holland; a linen fabric used for window shades, children's garments, etc.; as, brown or unbleached hollands"
 ],
+"hollandaise": [
+"___hollandaise sauce"
+],
 "hollandaise sauce": [
 "A sauce consisting essentially of a seasoned emulsion of butter and yolk of eggs with a little lemon juice or vinegar"
 ],
@@ -9222,6 +9679,9 @@
 "hollowness": [
 "State of being hollow",
 "Insincerity; unsoundness; treachery"
+],
+"hollowware": [
+"___holloware"
 ],
 "holluschickie": [
 "A young male fur seal, esp. one from three to six years old; -- called also bachelor, because prevented from breeding by the older full-grown males"
@@ -9381,6 +9841,9 @@
 "holp": [
 "imp. & p. p. of Help"
 ],
+"holpen": [
+"___holp"
+],
 "holsom": [
 "Wholesome"
 ],
@@ -9441,6 +9904,9 @@
 "homaloid": [
 "Flat; even; -- a term applied to surfaces and to spaces, whether real or imagined, in which the definitions, axioms, and postulates of Euclid respecting parallel straight lines are assumed to hold true"
 ],
+"homaloidal": [
+"___homaloid"
+],
 "homarus": [
 "A genus of decapod Crustacea, including the common lobsters"
 ],
@@ -9477,9 +9943,18 @@
 "home run": [
 "a complete circuit of the bases made by the batter without being put out and without an error on the play; also, the hit on which the batter makes such a circuit; a four-base hit"
 ],
+"home town": [
+"___hometown"
+],
+"home-bound": [
+"___homebound"
+],
 "home-bred": [
 "Bred at home; domestic; not foreign",
 "Not polished; rude; uncultivated"
+],
+"home-coming": [
+"___homecoming"
 ],
 "home-driven": [
 "Driven to the end, as a nail; driven close"
@@ -9489,6 +9964,9 @@
 ],
 "home-felt": [
 "Felt in one's own breast; inward; private"
+],
+"home-grown": [
+"___homegrown"
 ],
 "home-keeping": [
 "Staying at home; not gadding",
@@ -9588,8 +10066,14 @@
 "homeothermal": [
 "having constant and relatively high body temperature; warm-blooded; same as homoiothermal; -- of birds and mammals.  Contrasted to poikilothermal"
 ],
+"homeothermic": [
+"___homeothermal"
+],
 "homeothermism": [
 "The process or state of being homoiothermal"
+],
+"homeothermy": [
+"___homeothermism"
 ],
 "homer": [
 "A carrier pigeon remarkable for its ability to return home from a distance; also called a homing pigeon",
@@ -9634,6 +10118,9 @@
 "Being in the direction of home; as, the homeward way",
 "Toward home; in the direction of one's house, town, or country"
 ],
+"homewards": [
+"___homeward"
+],
 "homework": [
 "preparatory school work done outside school (especially at home)",
 "Studies or other preparatory work done prior to some activity; -- usually used of preparations for activities of significance or consequence for the performer; as, the candidate didn't do her homework well and was outclassed in the debate",
@@ -9662,6 +10149,9 @@
 "Of or pertaining to familiar intercourse; social; affable; conversable; companionable",
 "Of or pertaining to homiletics; hortatory"
 ],
+"homiletical": [
+"___homiletic"
+],
 "homiletics": [
 "The art of preaching; that branch of theology which treats of homilies or sermons, and the best method of preparing and delivering them"
 ],
@@ -9684,6 +10174,9 @@
 "hominian": [
 "characterizing the family Hominidae, which includes Homo sapiens sapiens as well as extinct species of manlike creatures",
 "Any animal of the family Hominidae, including modern man as well as extinct species of the genera Homo and Australopithecus"
+],
+"hominid": [
+"___hominian"
 ],
 "hominidae": [
 "The natural family of primates including modern man and the extinct immediate ancestors of man"
@@ -9746,6 +10239,9 @@
 "Running in the same direction; -- said of stems twining round a support, or of the spiral succession of leaves on stems and their branches",
 "Moving in the same direction; -- said of a lever or pulley in which the resistance and the actuating force are both on the same side of the fulcrum or axis"
 ],
+"homodromous": [
+"___homodromal"
+],
 "homodynamic": [
 "Homodynamous"
 ],
@@ -9761,6 +10257,9 @@
 "homoeomeric": [
 "Pertaining to, or characterized by, sameness of parts; receiving or advocating the doctrine of homogeneity of elements or first principles"
 ],
+"homoeomerical": [
+"___homoeomeric"
+],
 "homoeomerous": [
 "Having the main artery of the leg parallel with the sciatic nerve; -- said of certain birds"
 ],
@@ -9775,6 +10274,12 @@
 ],
 "homoeopathic": [
 "___homeopathic"
+],
+"homoeopathist": [
+"___homoeopathic"
+],
+"homoeopathy": [
+"___homoeopathic"
 ],
 "homoeothermal": [
 "___homoiothermal"
@@ -9857,8 +10362,14 @@
 "homoiothermal": [
 "Maintaining a uniform body temperature, usually  above the ambient temperature; hæmatothermal; homothermic; warm-blooded; -- applied to warm-bodied animals such as birds and mammals, because they maintain a nearly uniform temperature in spite of the great variations in the surrounding air; in distinct from the cold-blooded (poikilothermal) animals, whose body temperature follows the variations in temperature of the surrounding medium"
 ],
+"homoiothermic": [
+"___homoiothermal"
+],
 "homoiothermism": [
 "The process or state of being homoiothermal"
+],
+"homoiothermy": [
+"___homoiothermism"
 ],
 "homoiousian": [
 "One of the semi-Arians of the 4th century, who held that the Son was of like, but not the same, essence or substance with the Father; -- opposed to homoousian",
@@ -9911,6 +10422,9 @@
 "The possession, in one species of plants, of only one kind of flowers; -- opposed to heteromorphism, dimorphism, and trimorphism",
 "The possession of but one kind of larvæ or young, as in most insects"
 ],
+"homomorphous": [
+"___homomorphic"
+],
 "homomorphy": [
 "Similarity of form; resemblance in external characters, while widely different in fundamental structure; resemblance in geometric ground form. See Homophyly, Promorphology"
 ],
@@ -9957,6 +10471,7 @@
 "Expressing the same sound by a different combination of letters; as, bay and bey"
 ],
 "homophonous": [
+"___homophonic",
 "Of or pertaining to a homophone or homophony; as, homophonous words"
 ],
 "homophony": [
@@ -10011,6 +10526,9 @@
 "homotaxial": [
 "Relating to homotaxis"
 ],
+"homotaxic": [
+"___homotaxial"
+],
 "homotaxis": [
 "Similarly in arrangement of parts; -- the opposite of heterotaxy"
 ],
@@ -10020,12 +10538,18 @@
 "homothermic": [
 "Warm-blooded; homoiothermal; hæmatothermal"
 ],
+"homothermous": [
+"___homothermic"
+],
 "homotonous": [
 "Of the same tenor or tone; equable; without variation"
 ],
 "homotropal": [
 "Turned in the same direction with something else",
 "Having the radicle of the seed directed towards the hilum"
+],
+"homotropous": [
+"___homotropal"
 ],
 "homotypal": [
 "Of the same type of structure; pertaining to a homotype; as, homotypal parts"
@@ -10035,6 +10559,9 @@
 ],
 "homotypic": [
 "___homotypal"
+],
+"homotypical": [
+"___homotypic"
 ],
 "homotypy": [
 "A term suggested by Haeckel to be instead of serial homology. See Homotype"
@@ -10085,11 +10612,20 @@
 "To be gentle, agreeable, or coaxing; to talk fondly; to use endearments; also, to be or become obsequiously courteous or complimentary; to fawn",
 "To make agreeable; to cover or sweeten with, or as with, honey"
 ],
+"honey creeper": [
+"___honeycreeper"
+],
 "honey eater": [
 "One of numerous species of small passerine birds of the family Meliphagidæ having tongue and bill adapted for extracting nectar, abundant in Australia and Oceania; -- called also honeysucker"
 ],
+"honey flower": [
+"___honeyflower"
+],
 "honey-bag": [
 "The receptacle for honey in a honeybee"
+],
+"honey-eater": [
+"___honey eater"
 ],
 "honey-mouthed": [
 "Soft to sweet in speech; persuasive"
@@ -10232,6 +10768,7 @@
 "An honorary payment, usually in recognition of services for which it is not usual or not lawful to assign a fixed business price"
 ],
 "honorary": [
+"___honorarium",
 "Done as a sign or evidence of honor; as, honorary services",
 "Conferring honor, or intended merely to confer honor without emolument; as, an honorary degree",
 "Holding a title or place without rendering service or receiving reward; as, an honorary member of a society"
@@ -10291,6 +10828,9 @@
 ],
 "hood molding": [
 "A projecting molding over the head of an arch, forming the outermost member of the archivolt; -- called also hood mold"
+],
+"hood moulding": [
+"___hood molding"
 ],
 "hoodcap": [
 "___hooded"
@@ -10359,6 +10899,9 @@
 "hoofmark": [
 "a visible impression on a surface made by the hoof of an animal"
 ],
+"hoofprint": [
+"___hoofmark"
+],
 "hook": [
 "A piece of metal, or other hard material, formed or bent into a curve or at an angle, for catching, holding, or sustaining anything; as, a hook for catching fish; a hook for fastening a gate; a boat hook, etc",
 "That part of a hinge which is fixed to a post, and on which a door or gate hangs and turns",
@@ -10375,6 +10918,12 @@
 "To steal",
 "To bend; to curve as a hook",
 "To move or go with a sudden turn"
+],
+"hook and ladder": [
+"___hook-and-ladder truck"
+],
+"hook and ladder truck": [
+"___hook-and-ladder truck"
 ],
 "hook-and-ladder company": [
 "A company of firefighters who operate a hook-and-ladder truck; a fire company; called also ladder company"
@@ -10453,6 +11002,9 @@
 "hoopoe": [
 "A European bird of the genus Upupa (Upupa epops), having a beautiful crest, which it can erect or depress at pleasure, and a slender down-curving bill. Called also hoop, whoop. The name is also applied to several other species of the same genus and allied genera"
 ],
+"hoopoo": [
+"___hoopoe"
+],
 "hoops": [
 "The game of basketball"
 ],
@@ -10464,6 +11016,9 @@
 ],
 "hoosegow": [
 "a jail"
+],
+"hoosgow": [
+"___hoosegow"
 ],
 "hoosier": [
 "A nickname given to an inhabitant of the State of Indiana"
@@ -10516,6 +11071,9 @@
 "hop, skip, and a jump": [
 "a short distance; as, it's just a hop, skip and a jump away"
 ],
+"hop, skip, and jump": [
+"___hop, skip, and a jump"
+],
 "hop-o'-my-thumb": [
 "A very diminutive person"
 ],
@@ -10523,7 +11081,11 @@
 "to jump lightly"
 ],
 "hop-thumb": [
+"___hop-o'-my-thumb",
 "___hop-o'-my-thumb"
+],
+"hopbind": [
+"___hopbine"
 ],
 "hopbine": [
 "The climbing stem of the hop"
@@ -10864,6 +11426,9 @@
 "horoscoper": [
 "One versed in horoscopy; an astrologer"
 ],
+"horoscopist": [
+"___horoscoper"
+],
 "horoscopy": [
 "The art or practice of casting horoscopes, or observing the disposition of the stars, with a view to prediction events",
 "Aspect of the stars at the time of a person's birth"
@@ -10960,6 +11525,9 @@
 "A unit of power, used in stating the power required to drive machinery, and in estimating the capabilities of animals or steam engines and other prime movers for doing work. It is the power required for the performance of work at the rate of 33,000 English units of work per minute; hence, it is the power that must be exerted in lifting 33,000 pounds at the rate of one foot per minute, or 550 pounds at the rate of one foot per second, or 55 pounds at the rate of ten feet per second, etc",
 "A machine worked by a horse, for driving other machinery; a horse motor"
 ],
+"horse show": [
+"___horseshow"
+],
 "horse-chestnut": [
 "The large nutlike seed of a species of Aesculus (Aesculus Hippocastanum), formerly ground, and fed to horses, whence the name.  The seed is not considered edible by humans",
 "The tree itself (Aesculus hippocastanum), which was brought from Constantinople in the beginning of the sixteenth century, and is now common in the temperate zones of both hemispheres; it has palmate leaves and large clusters of white to red flowers followed by brown shiny inedible seeds. The native American species is also called buckeye and conker"
@@ -11010,6 +11578,9 @@
 ],
 "horsecart": [
 "A heavycart drawn by a horse, used for farm work"
+],
+"horsechestnut": [
+"___horse-chestnut"
 ],
 "horsecloth": [
 "a cloth for the trapping of a horse"
@@ -11217,6 +11788,9 @@
 "hospitality": [
 "The act or practice of one who is hospitable; reception and entertainment of strangers or guests without reward, or with kind and generous liberality"
 ],
+"hospitalization": [
+"___hospitalisation"
+],
 "hospitalize": [
 "To render (a building) unfit for habitation, by long continued use as a hospital",
 "To place (a person) in a hospital in order to receive medical treatment, observation, or for rest"
@@ -11333,6 +11907,9 @@
 "A person who performs a complex and difficult athletic maneuver, usually to show off his/her skill",
 "An expression of delight"
 ],
+"hot pot": [
+"___hot bulb"
+],
 "hot-blooded": [
 "Having hot blood; excitable; high-spirited; irritable; ardent; passionate"
 ],
@@ -11371,6 +11948,9 @@
 "A mingled mass; a confused mixture; a stew of various ingredients; a hodgepodge",
 "A blending of property for equality of division, as when lands given in frank-marriage to one daughter were, after the death of the ancestor, blended with the lands descending to her and to her sisters from the same ancestor, and then divided in equal portions among all the daughters. In modern usage, a mixing together, or throwing into a common mass or stock, of the estate left by a person deceased and the amounts advanced to any particular child or children, for the purpose of a more equal division, or of equalizing the shares of all the children; the property advanced being accounted for at its value when given"
 ],
+"hotchpotch": [
+"___hotchpot"
+],
 "hotcockles": [
 "A childish play, in which one covers his eyes, and guesses who strikes him or his hand placed behind him"
 ],
@@ -11394,6 +11974,12 @@
 ],
 "hotelier": [
 "an owner or manager of a hotel or hotels"
+],
+"hotelkeeper": [
+"___hotelier"
+],
+"hotelman": [
+"___hotelier"
 ],
 "hoten": [
 "p. p. of Hote"
@@ -11434,6 +12020,9 @@
 "A rash, hot-headed man",
 "Violent; impetuous; headstrong"
 ],
+"hotspurred": [
+"___hotspur"
+],
 "hottentot": [
 "One of a degraded and savage race of South Africa, with yellowish brown complexion, high cheek bones, and wooly hair growing in tufts",
 "The language of the Hottentots, which is remarkable for its clicking sounds; the Khoisan language"
@@ -11448,6 +12037,7 @@
 "___howdah"
 ],
 "hough": [
+"___hock",
 "___hock",
 "___hock",
 "An adz; a hoe",
@@ -11527,6 +12117,12 @@
 "To stow in a safe place; to take down and make safe; as, to house the upper spars",
 "To take shelter or lodging; to abide to dwell; to lodge",
 "To have a position in one of the houses. See House, n., 8"
+],
+"house guest": [
+"___houseguest"
+],
+"house-keep": [
+"___housekeep"
 ],
 "house-proud": [
 "proud of one's house or its furnishings or upkeep"
@@ -11670,6 +12266,9 @@
 "housewifery": [
 "The business of the mistress of a family; female management of domestic concerns"
 ],
+"housewive": [
+"___housewife"
+],
 "housework": [
 "The work belonging to housekeeping; especially, kitchen work, sweeping, scrubbing, bed making, and the like"
 ],
@@ -11727,6 +12326,7 @@
 "A method of securing a good draught in chimneys by covering the top, leaving openings in the sides, or by carrying up two of the sides higher than the other two"
 ],
 "hoven": [
+"___hooven",
 "p. p. of Heave",
 "Affected with the disease called hoove; as, hoven cattle"
 ],
@@ -11850,6 +12450,18 @@
 "hsien": [
 "An administrative subdivision of a fu, or department, or of an independent chow; also, the seat of government of such a district"
 ],
+"hsv-1": [
+"___hs1"
+],
+"hsv-2": [
+"___hs2"
+],
+"hsv-i": [
+"___hs1"
+],
+"hsv-ii": [
+"___hs2"
+],
 "huamachil": [
 "A common thorny tropical American tree (Pithecellobium dulce) having terminal racemes of yellow flowers followed by sickle-shaped or circinate edible pods and yielding good timber and a yellow dye and mucilaginous gum"
 ],
@@ -11858,6 +12470,12 @@
 ],
 "huarache": [
 "A kind of low-heeled sandal with the upper consisting of interwoven leather strips; -- usually used in pl"
+],
+"huaraches": [
+"___huarache"
+],
+"huaracho": [
+"___huarache"
 ],
 "huascaran": [
 "a mountain in Peru, 22,205 feet high"
@@ -11877,6 +12495,9 @@
 "A large airport used as a central transfer station for an airline, permitting economic air transportation between remote locations by directing travellers through the hub, often changing planes at the hub, and thus keeping the seat occupancy rate on the airplanes high.  The hub together with the feeder lines from remote locations constitute the so-called hub and spoke system of commercial air passenger transportation.  A commercial airline may have more than one such hub",
 "The city of Boston, Massachusetts referred to locally by the nickname The Hub"
 ],
+"hubble space telescope": [
+"___hubble telescope"
+],
 "hubble telescope": [
 "A large astromical optical telescope placed into orbit around the earth, from which, in the absence of absorption and distortion by the earth's atmosphere, clear high-resolution images of astronomical objects can be obtained in the visible, infrared, and ultraviolet wavelengths.  The telescope was launched into orbit on April 24, 1990.  Since then the telescope has taken thousands of images, many of them unique, recording never before seen astronomical phenomena.  Service missions were performed in 1993 and 1997, during which astronauts upgraded or replaced equipment on the telescope.  Link to Hubble Telescope Information"
 ],
@@ -11895,6 +12516,9 @@
 ],
 "huch": [
 "A large salmon (Salmo hucho or Salvelinus hucho) inhabiting the Danube; -- called also huso, and bull trout"
+],
+"huchen": [
+"___huch"
 ],
 "huck": [
 "To higgle in trading"
@@ -12065,6 +12689,9 @@
 ],
 "hulking": [
 "Bulky; unwiedly; of great size and bulk; ponderous"
+],
+"hulky": [
+"___hulking"
 ],
 "hull": [
 "The outer covering of anything, particularly of a nut or of grain; the outer skin of a kernel; the husk",
@@ -12263,6 +12890,9 @@
 "humectant": [
 "Diluent"
 ],
+"humectate": [
+"___humect"
+],
 "humectation": [
 "A moistening"
 ],
@@ -12346,6 +12976,9 @@
 "humming": [
 "Emitting a murmuring sound; droning; murmuring; buzzing",
 "A sound like that made by bees; a low, murmuring sound; a hum"
+],
+"humming bird": [
+"___hummingbird"
 ],
 "hummingbird": [
 "any bird of the family Trochilidæ, of which over one hundred genera are known, including about four hundred species. They are found only in America and are most abundant in the tropics. They are mostly of very small size with long slender bills adapted to sucking nectar from flowers, and are noted for the very brilliant iridescent colors of their plumage and their peculiar habit of hovering about flowers while vibrating their wings very rapidly with a humming noise; the wings are specialized for hovering flight, but they can also dart forward and fly quite rapidly. They feed both upon the nectar of flowers and upon small insects. The common humming bird or ruby-throat of the Eastern United States is Trochilus colubris. Several other species are found in the Western United States. See Calliope, and Ruby-throat"
@@ -12538,6 +13171,9 @@
 "hunger-bit": [
 "Pinched or weakened by hunger"
 ],
+"hunger-bitten": [
+"___hunger-bit"
+],
 "hunger-starve": [
 "To starve with hunger; to famish"
 ],
@@ -12714,6 +13350,9 @@
 ],
 "hurr": [
 "To make a rolling or burring sound"
+],
+"hurra": [
+"___hurrah"
 ],
 "hurrah": [
 "A word used as a shout of joy, triumph, applause, encouragement, or welcome",
@@ -12957,6 +13596,9 @@
 "The seven daughters of Atlas and half-sisters of the Pleiades; they nurtured the infant Dionysus and Zeus placed them among the stars as a reward",
 "A cluster of five stars in the face of the constellation Taurus, supposed by the ancients to indicate the coming of rainy weather when they rose with the sun"
 ],
+"hyads": [
+"___hyades"
+],
 "hyaena": [
 "___hyena"
 ],
@@ -13004,6 +13646,12 @@
 ],
 "hybernacle": [
 "___hibernacle"
+],
+"hybernate": [
+"___hybernacle"
+],
+"hybernation": [
+"___hybernacle"
 ],
 "hyblaean": [
 "Pertaining to Hybla, an ancient town of Sicily, famous for its bees"
@@ -13280,6 +13928,9 @@
 "hydrodynamic": [
 "Pertaining to, or derived from, the dynamical action of water of a liquid; of or pertaining to water power"
 ],
+"hydrodynamical": [
+"___hydrodynamic"
+],
 "hydrodynamics": [
 "That branch of the science of mechanics which relates to fluids, or, as usually limited, which treats of the laws of motion and action of nonelastic fluids, whether as investigated mathematically, or by observation and experiment; the principles of dynamics, as applied to water and other fluids"
 ],
@@ -13339,6 +13990,9 @@
 ],
 "hydrographic": [
 "Of or relating to hydrography"
+],
+"hydrographical": [
+"___hydrographic"
 ],
 "hydrography": [
 "The art of measuring and describing the sea, lakes, rivers, and other waters, with their phenomena",
@@ -13420,6 +14074,9 @@
 "Of or pertaining to measurement of the velocity, discharge, etc., of running water",
 "Made by means of an hydrometer; as, hydrometric observations"
 ],
+"hydrometrical": [
+"___hydrometric"
+],
 "hydrometrograph": [
 "An instrument for determining and recording the quantity of water discharged from a pipe, orifice, etc., in a given time"
 ],
@@ -13438,6 +14095,9 @@
 ],
 "hydropathic": [
 "Of or pertaining to hydropathy"
+],
+"hydropathical": [
+"___hydropathic"
 ],
 "hydropathist": [
 "One who practices hydropathy; a water-cure doctor"
@@ -13487,6 +14147,9 @@
 "hydropic": [
 "Dropsical, or resembling dropsy"
 ],
+"hydropical": [
+"___hydropic"
+],
 "hydropically": [
 "In a hydropical manner"
 ],
@@ -13525,6 +14188,9 @@
 "An instrument designed to mark the presence of water, especially in air",
 "A kind of water clock, used anciently for measuring time, the water tricking from an orifice at the end of a graduated tube"
 ],
+"hydrosoma": [
+"___hydrosome"
+],
 "hydrosome": [
 "All the zooids of a hydroid colony collectively, including the nutritive and reproductive zooids, and often other kinds"
 ],
@@ -13541,6 +14207,9 @@
 ],
 "hydrostatic": [
 "Of or relating to hydrostatics; pertaining to, or in accordance with, the principles of the equilibrium of fluids"
+],
+"hydrostatical": [
+"___hydrostatic"
 ],
 "hydrostatically": [
 "According to hydrostatics, or to hydrostatic principles"
@@ -13736,6 +14405,9 @@
 "Of or pertaining to hygrometry; made with, or according to, the hygrometer; as, hygrometric observations",
 "Readily absorbing and retaining moisture; as, hygrometric substances, like potash"
 ],
+"hygrometrical": [
+"___hygrometric"
+],
 "hygrometry": [
 "That branch of physics which relates to the determination of the humidity of bodies, particularly of the atmosphere, with the theory and use of the instruments constructed for this purpose"
 ],
@@ -13769,6 +14441,9 @@
 ],
 "hylaeosaur": [
 "A large Wealden dinosaur from the Tilgate Forest, England. It was about twenty feet long, protected by bony plates in the skin, and armed with spines"
+],
+"hylaeosaurus": [
+"___hylaeosaur"
 ],
 "hylarchical": [
 "Presiding over matter"
@@ -13836,6 +14511,9 @@
 "Of or pertaining to marriage; as, hymeneal rites",
 "A marriage song"
 ],
+"hymenean": [
+"___hymeneal"
+],
 "hymenium": [
 "The spore-bearing surface of certain fungi, as that on the gills of a mushroom"
 ],
@@ -13865,6 +14543,9 @@
 ],
 "hymenopteron": [
 "___hymenopteran"
+],
+"hymenopterous": [
+"___hymenopteral"
 ],
 "hymn": [
 "An ode or song of praise or adoration; especially, a religious ode, a sacred lyric; a song of praise or thanksgiving intended to be used in religious service; as, the Homeric hymns; Watts' hymns",
@@ -13930,6 +14611,9 @@
 "hyoideal": [
 "___hyoid"
 ],
+"hyoidean": [
+"___hyoideal"
+],
 "hyomandibular": [
 "Pertaining both to the hyoidean arch and the mandible or lower jaw; as, the hyomandibular bone or cartilage, a segment of the hyoid arch which connects the lower jaw with the skull in fishes"
 ],
@@ -13986,6 +14670,9 @@
 "hypaxial": [
 "Beneath the axis of the skeleton; subvertebral; hyposkeletal"
 ],
+"hype": [
+"___hipe"
+],
 "hyper-": [
 "A prefix signifying over, above; as, hyperphysical, hyperthyrion; also, above measure, abnormally great, excessive; as, hyperæmia, hyperbola, hypercritical, hypersecretion",
 "A prefix equivalent to super- or per-; as hyperoxide, or peroxide. [Obs.] See Per-"
@@ -14027,6 +14714,9 @@
 "hyperbolic": [
 "Belonging to the hyperbola; having the nature of the hyperbola",
 "Relating to, containing, or of the nature of, hyperbole; exaggerating or diminishing beyond the fact; exceeding the truth; as, an hyperbolical expression"
+],
+"hyperbolical": [
+"___hyperbolic"
 ],
 "hyperbolically": [
 "In the form of an hyperbola",
@@ -14142,6 +14832,9 @@
 "hypermetropia": [
 "An abnormal condition of the eye in which, through shortness of the eyeball or fault of the refractive media, the rays of light come to a focus behind the retina, making vision for distant objects better than for near objects; farsightedness; -- now most commonly called hyperopia.  Cf. Emmetropia"
 ],
+"hypermetropy": [
+"___hypermetropia"
+],
 "hypermyriorama": [
 "A show or exhibition having a great number of scenes or views"
 ],
@@ -14186,6 +14879,9 @@
 ],
 "hyperoxygenated": [
 "Combined with a relatively large amount of oxygen; -- said of higher oxides"
+],
+"hyperoxygenized": [
+"___hyperoxygenated"
 ],
 "hyperoxymuriate": [
 "A perchlorate"
@@ -14241,6 +14937,9 @@
 "hyperthermia": [
 "abnormally high body temperature"
 ],
+"hyperthermy": [
+"___hyperthermia"
+],
 "hyperthetical": [
 "Exaggerated; excessive; hyperbolical"
 ],
@@ -14258,6 +14957,9 @@
 "hypertrophic": [
 "Of or pertaining to hypertrophy; affected with, or tending to, hypertrophy"
 ],
+"hypertrophical": [
+"___hypertrophic"
+],
 "hypertrophied": [
 "Excessively developed; characterized by hypertrophy"
 ],
@@ -14270,6 +14972,9 @@
 "hyperventilation": [
 "The act or process of hyperventilating; breathing rapidly and deeply",
 "A condition in which alveolar carbon dioxide concentration is markedly lower than normal, usually due to breathing rapidly and deeply"
+],
+"hypethral": [
+"___hypaethral"
 ],
 "hypha": [
 "any of the threadlike filaments forming the mycelium of a fungus.  See hyphae"
@@ -14378,6 +15083,9 @@
 "hypocarp": [
 "A fleshy enlargement of the receptacle, or for the stem, below the proper fruit, as in the cashew. See Illust. of Cashew"
 ],
+"hypocarpium": [
+"___hypocarp"
+],
 "hypocarpogean": [
 "Producing fruit below the ground"
 ],
@@ -14485,6 +15193,9 @@
 ],
 "hypodicrotic": [
 "Exhibiting retarded dicrotism; as, a hypodicrotic pulse curve"
+],
+"hypodicrotous": [
+"___hypodicrotic"
 ],
 "hypogaeic": [
 "Pertaining to, or obtained from, the peanut, or earthnut (Arachis hypogæa)"
@@ -14597,6 +15308,9 @@
 "Personal, or distinctly personal; relating to the divine hypostases, or substances",
 "Depending upon, or due to, deposition or setting; as, hypostatic cognestion, cognestion due to setting of blood by gravitation"
 ],
+"hypostatical": [
+"___hypostatic"
+],
 "hypostatically": [
 "In a hypostatic manner"
 ],
@@ -14606,6 +15320,9 @@
 ],
 "hyposternum": [
 "___hypoplastron"
+],
+"hypostoma": [
+"___hypostome"
 ],
 "hypostome": [
 "The lower lip of trilobites, crustaceans, etc"
@@ -14654,12 +15371,14 @@
 "Of or pertaining to the prominent part of the palm of the hand above the base of the little finger, or a corresponding part in the forefoot of an animal; as, the hypothenar eminence"
 ],
 "hypothenar": [
+"___hypothenal",
 "The hypothenar eminence"
 ],
 "hypothenusal": [
 "Of or pertaining to hypothenuse"
 ],
 "hypothenuse": [
+"___hypotenuse",
 "___hypotenuse"
 ],
 "hypothesis": [
@@ -14668,6 +15387,9 @@
 ],
 "hypothetic": [
 "Characterized by, or of the nature of, an hypothesis; conditional; assumed without proof, for the purpose of reasoning and deducing proof, or of accounting for some fact or phenomenon"
+],
+"hypothetical": [
+"___hypothetic"
 ],
 "hypothetist": [
 "One who proposes or supports an hypothesis"
@@ -14708,6 +15430,9 @@
 "hypsometric": [
 "Of or pertaining to hypsometry"
 ],
+"hypsometrical": [
+"___hypsometric"
+],
 "hypsometry": [
 "That branch of the science of geodesy which has to do with the measurement of heights, either absolutely with reference to the sea level, or relatively"
 ],
@@ -14725,6 +15450,9 @@
 ],
 "hyrax": [
 "Any animal of the genus Hyrax, of which about four species are known.  They constitute the order Hyracoidea.  The best known species are the daman (Hyrax Syriacus) of Palestine, and the klipdas (Hyrax capensis) of South Africa.  Other species are Hyrax arboreus and Hyrax Sylvestris, the former from Southern, and the latter from Western, Africa. See Daman"
+],
+"hyrcan": [
+"___hyrcanian"
 ],
 "hyrcanian": [
 "Of or pertaining to Hyrcania, an ancient country or province of Asia, southeast of the Caspian (which was also called the Hyrcanian) Sea"
@@ -14763,6 +15491,7 @@
 "Resembling hysteria; as, hysterical laughter"
 ],
 "hysterical": [
+"___hysteric",
 "Extremely funny"
 ],
 "hysterics": [

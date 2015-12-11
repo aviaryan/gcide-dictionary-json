@@ -9,6 +9,9 @@
 "x-rated": [
 "having a rating of X; not suitable for children; broadly, obscene or sexually explicit"
 ],
+"x-ray": [
+"___x ray"
+],
 "x-ray astronomy": [
 "The branch of astronomy dealing with the study of astronomical objects which emit X-rays, and the methods used to detect such objects"
 ],
@@ -38,9 +41,7 @@
 "A genus of minute unicellular algae of the desmids. These algae have a rounded shape and are armed with glochidiate or branched aculei. Several species occur in ditches, and others are found fossil in flint or hornstone"
 ],
 "xanthin": [
-"same as xanthine",
-"A yellow insoluble coloring matter extracted from yellow flowers; specifically, the coloring matter of madder",
-"One of the gaseous or volatile decomposition products of the xanthates, and probably identical with carbon disulphide"
+"___xanthine"
 ],
 "xanthine": [
 "A type of purine obtainable as a white microcrystalline powder, C5H4O2N4, present in muscle tissue, in the liver, spleen, pancreas, and other organs, and also in urine (in small quantities) and some urinary calculi, and in the juices of certain plants; -- so called because it leaves a yellow residue when evaporated to dryness with nitric acid. It is also present in guano.  Xanthine is closely related to uric acid"
@@ -424,6 +425,9 @@
 "xylographic": [
 "Of or pertaining to xylography, or wood engraving"
 ],
+"xylographical": [
+"___xylographic"
+],
 "xylography": [
 "The art of engraving on wood",
 "The art of making prints from the natural grain of wood",
@@ -519,5 +523,8 @@
 ],
 "xyster": [
 "An instrument for scraping bones"
+],
+"xystus": [
+"___xyst"
 ]
 }

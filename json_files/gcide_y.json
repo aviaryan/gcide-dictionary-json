@@ -2,6 +2,12 @@
 "-yl": [
 "A suffix used as a characteristic termination of chemical radicals; as in ethyl, carbonyl, hydroxyl, etc"
 ],
+"i-": [
+"___y-"
+],
+"jahve": [
+"___jahveh"
+],
 "jahveh": [
 "A modern transliteration of the Hebrew word translated Jehovah in the Bible; -- used by some critics to discriminate the tribal god of the ancient Hebrews from the Christian Jehovah.  Yahweh or Yahwe is the spelling now generally adopted by scholars"
 ],
@@ -11,6 +17,12 @@
 ],
 "jahvist": [
 "The author of the passages of the Old Testament, esp. those of the Hexateuch, in which God is styled Yahweh, or Jehovah; the author of the Yahwistic, or Jehovistic, Prophetic Document (J); also, the document itself"
+],
+"jahwist": [
+"___jahvist"
+],
+"jehovist": [
+"___jahvist"
 ],
 "y": [
 "Y, the twenty-fifth letter of the English alphabet, at the beginning of a word or syllable, except when a prefix (see Y-), is usually a fricative vocal consonant; as a prefix, and usually in the middle or at the end of a syllable, it is a vowel.  See Guide to Pronunciation, §§ 145, 178-9, 272",
@@ -71,6 +83,18 @@
 "Hence, any brutish or vicious character",
 "A raw countryman; a lout; a greenhorn",
 "Someone who is not very intelligent or not interested in culture"
+],
+"yahwe": [
+"___jahveh"
+],
+"yahweh": [
+"___jahveh"
+],
+"yahwism": [
+"___jahvism"
+],
+"yahwist": [
+"___jahvist"
 ],
 "yajur-veda": [
 "___veda"
@@ -346,12 +370,18 @@
 "year 2000 compliant": [
 "having dates fully and properly represented, and not susceptible to failure due to the year 2000 bug"
 ],
+"year 2000 problem": [
+"___year 2000 bug"
+],
 "year's purchase": [
 "The amount that is yielded by the annual income of property; -- used in expressing the value of a thing in the number of years required for its income to yield its purchase price, in reckoning the amount to be paid for annuities, etc"
 ],
 "year-end": [
 "the end of a calendar year",
 "taking place at the close of a fiscal year"
+],
+"year-long": [
+"___yearlong"
 ],
 "year-old": [
 "having reached an age as specified; as, a two-year-old toddler"
@@ -431,6 +461,9 @@
 ],
 "yeldrin": [
 "The yellow-hammer; -- called also yeldrock, and yoldrin"
+],
+"yeldrine": [
+"___yeldrin"
 ],
 "yelk": [
 "___yolk"
@@ -518,6 +551,9 @@
 "yellowshanks": [
 "___yellolegs"
 ],
+"yellowshins": [
+"___yellowshanks"
+],
 "yellowtail": [
 "Any one of several species of marine carangoid fishes of the genus Seriola; especially, the large California species (Seriola dorsalis) which sometimes weighs thirty or forty pounds, and is highly esteemed as a food fish; -- called also cavasina, and white salmon"
 ],
@@ -557,6 +593,9 @@
 ],
 "yend": [
 "To throw; to cast"
+],
+"yenisei": [
+"___yenisey"
 ],
 "yenisey": [
 "A Russian river, flowing North into the Arctic Ocean"
@@ -621,6 +660,12 @@
 ],
 "yester": [
 "Last; last past; next before; of or pertaining to yesterday"
+],
+"yester-evening": [
+"___yestereve"
+],
+"yester-morning": [
+"___yestermorn"
 ],
 "yesterday": [
 "The day last past; the day next before the present",
@@ -692,6 +737,9 @@
 ],
 "yezidee": [
 "___izedi."
+],
+"yezidi": [
+"___yezidee"
 ],
 "yfere": [
 "Together.  See Ifere"
@@ -780,6 +828,9 @@
 "yliche": [
 "Like; alike"
 ],
+"ylike": [
+"___yliche"
+],
 "yllanraton": [
 "The agouara"
 ],
@@ -795,6 +846,9 @@
 "ynough": [
 "Enough"
 ],
+"ynow": [
+"___ynough"
+],
 "yockel": [
 "The yaffle"
 ],
@@ -805,6 +859,9 @@
 "To sing in a manner common among the Swiss and Tyrolese mountaineers, by suddenly changing from the head voice, or falsetto, to the chest voice, and the contrary; to warble",
 "A song sung by yodeling, as by the Swiss mountaineers"
 ],
+"yodle": [
+"___yodel"
+],
 "yodler": [
 "One who yodels"
 ],
@@ -813,6 +870,12 @@
 ],
 "yogh": [
 "An obsolete letter (&yogh_;) of the Old English  alphabet, having a pronunciation similar to the modern “y”"
+],
+"yoghourt": [
+"___yogurt"
+],
+"yoghurt": [
+"___yogurt"
 ],
 "yogi": [
 "A follower of the yoga philosophy; an ascetic"
@@ -1103,6 +1166,9 @@
 "yttro-columbite": [
 "A tantalate of uranium, yttrium, and calcium, of a brown or black color"
 ],
+"yttro-tantalite": [
+"___yttro-columbite"
+],
 "yu": [
 "Jade"
 ],
@@ -1137,8 +1203,11 @@
 "yug": [
 "Any one of the four ages, Krita, or Satya, Treta, Dwapara, and Kali, into which the Hindoos divide the duration or existence of the world"
 ],
+"yuga": [
+"___yug"
+],
 "yugoslav": [
-"a native or inhabitant of Yugoslavia"
+"___yugoslavian"
 ],
 "yugoslavian": [
 "Of or pertaining to Yugoslavia; as, Yugoslavian wine",
@@ -1176,6 +1245,9 @@
 ],
 "yuppie": [
 "an ambitious young adult, usually college-educated, living in or near a large city, with a professional career and an affluent lifestyle.  The \"u\" in the word is sometimes interpreted as meaning “upwardly mobile”"
+],
+"yuppy": [
+"___yuppie"
 ],
 "yux": [
 "___yex"

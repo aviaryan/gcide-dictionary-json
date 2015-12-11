@@ -407,6 +407,9 @@
 "faddle": [
 "To trifle; to toy"
 ],
+"faddy": [
+"___faddish"
+],
 "fade": [
 "Weak; insipid; tasteless; commonplace",
 "To become fade; to grow weak; to lose strength; to decay; to perish gradually; to wither, as a plant",
@@ -506,7 +509,7 @@
 "The leaves of an orchid (Angraecum fragrans), of the islands of Bourbon and Mauritius, used (in France) as a substitute for Chinese tea"
 ],
 "fahlband": [
-"A stratum in crystalline rock, containing metallic sulphides"
+"___fahlerz"
 ],
 "fahlerz": [
 "___tetrahedrite"
@@ -521,6 +524,7 @@
 "Conforming to the scale used by Gabriel Daniel Fahrenheit in the graduation of his thermometer; of or relating to Fahrenheit's thermometric scale.   Used as an alternative to celsius"
 ],
 "faience": [
+"___faience",
 "Glazed earthenware; esp., a fine variety that which is decorated with colorful designs in an opaque glaze"
 ],
 "fail": [
@@ -568,8 +572,11 @@
 "faineance": [
 "Do-nothingness; inactivity; indolence"
 ],
+"faineancy": [
+"___faineance"
+],
 "faineant": [
-"Doing nothing; shiftless; disinclined to work or exertion",
+"___faineant",
 "A do-nothing; an idle fellow; a sluggard"
 ],
 "faineant deity": [
@@ -782,6 +789,9 @@
 "falcate": [
 "Hooked or bent like a sickle; as, a falcate leaf; a falcate claw; -- said also of the moon, or a planet, when horned or crescent-formed"
 ],
+"falcated": [
+"___falcate"
+],
 "falcation": [
 "The state of being falcate; a bend in the form of a sickle"
 ],
@@ -806,6 +816,9 @@
 "any female falcon",
 "a female peregrine falcon (Falco peregrinus)",
 "The female or young of the goshawk (Accipiter gentilis, formerly Astur palumbarius)"
+],
+"falcon-gentle": [
+"___falcon-gentil"
 ],
 "falconer": [
 "A person who breeds or trains hawks for taking birds or game; one who follows the sport of fowling with hawks"
@@ -1145,6 +1158,9 @@
 "familistic": [
 "Pertaining to Familists"
 ],
+"familistical": [
+"___familistic"
+],
 "family": [
 "The collective body of persons who live in one house, and under one head or manager; a household, including parents, children, and servants, and, as the case may be, lodgers or boarders",
 "The group comprising a husband and wife and their dependent children, constituting a fundamental unit in the organization of society",
@@ -1350,7 +1366,7 @@
 "A term applied to various articles,"
 ],
 "fantad": [
-"see fantod"
+"___fantod"
 ],
 "fantail": [
 "A variety of the domestic pigeon, so called from the shape of the tail"
@@ -1409,6 +1425,9 @@
 "fantigue": [
 "State of worry or excitment; fidget; ill humor"
 ],
+"fantique": [
+"___fantigue"
+],
 "fantoccini": [
 "Puppets caused to perform evolutions or dramatic scenes by means of machinery; also, the representations in which they are used"
 ],
@@ -1423,6 +1442,12 @@
 ],
 "fap": [
 "Fuddled"
+],
+"faq": [
+"___faqlist"
+],
+"faq list": [
+"___faqlist"
 ],
 "faqlist": [
 "A list of questions and answers concerning a specific topic, such as how to use a particular computer program.  Many such lists contain answers to the most commonly asked questions about that topic, however the questions need not derive from actual queries.  Such lists are often maintained in electronic form and made available on the World Wide Web"
@@ -1476,6 +1501,9 @@
 "faradism": [
 "The treatment with faradic or induced currents of electricity for remedial purposes"
 ],
+"faradization": [
+"___faradism"
+],
 "faradize": [
 "To stimulate with, or subject to, faradic, or inducted, electric currents"
 ],
@@ -1511,6 +1539,9 @@
 ],
 "farcimen": [
 "___farcy"
+],
+"farcin": [
+"___farcimen"
 ],
 "farcing": [
 "Stuffing; forcemeat"
@@ -1758,6 +1789,9 @@
 "Banded or compacted together",
 "Broadly banded with color"
 ],
+"fasciated": [
+"___fasciate"
+],
 "fasciation": [
 "The act or manner of binding up; bandage; also, the condition of being fasciated"
 ],
@@ -1776,6 +1810,9 @@
 ],
 "fasciculate": [
 "Grouped in a fascicle; fascicled"
+],
+"fasciculated": [
+"___fasciculate"
 ],
 "fascicule": [
 "A small bunch or bundle; a fascicle; as, a fascicule of fibers, hairs, or spines"
@@ -1822,6 +1859,9 @@
 "fascist": [
 "an adherent of fascism or similar right-wing authoritarian views",
 "of or pertaining to fascism; resembling fascism; as, fascist propaganda"
+],
+"fascistic": [
+"___fascist"
 ],
 "fash": [
 "To vex; to tease; to trouble",
@@ -1938,6 +1978,9 @@
 "Narrowing towards the top",
 "Clustered, parallel, and upright, as the branches of the Lombardy poplar; pointed",
 "United into a conical bundle, or into a bundle with an enlarged head, like a sheaf of wheat"
+],
+"fastigiated": [
+"___fastigiate"
 ],
 "fastish": [
 "Rather fast; also, somewhat dissipated"
@@ -2127,6 +2170,9 @@
 "fatiloquist": [
 "A fortune teller"
 ],
+"fatimide": [
+"___fatimite"
+],
 "fatimite": [
 "Descended from Fatima, the daughter and only child of Mohammed"
 ],
@@ -2188,6 +2234,9 @@
 ],
 "fatwa": [
 "___fetwah"
+],
+"fatwah": [
+"___fatwa"
 ],
 "faubourg": [
 "A suburb of a French city; also, a district now within a city, but formerly without its walls"
@@ -2288,9 +2337,7 @@
 "A second rampart, exterior to, and parallel to, the main rampart, and considerably below its level"
 ],
 "faust": [
-"A tragedy by Goethe, commenced in 1772, and published as  “Faust, ein Fragment” in 1790.  Part 1, complete, was published as \"Faust, eine Tragödie\" in 1808; part 2, finished in 1831, was published in 1833.  It has been translated into English by Bayard Taylor, Blackie, Anster, Hayward, Martin, and others (nearly 40 in all).  Goethe accomplished the transformation of Faust from a common necromancer and conjurer into a personification of humanity, tempted and disquieted, but at length groping its way to the light.  See Goethe",
-"An opera by Gounod (words, after Goethe, by Carré and Barbier) represented at the Théâtre Lyrique, Paris, March 19, 1859",
-"An opera by Spohr, first produced at Frankfurt in 1818. The words, which do not follow Goethe's play, are by Bernhard"
+"___faustus"
 ],
 "faustian": [
 "Pertainnig to or resembling or befitting Faust especially in insatiable striving for worldly knowledge and power even at the price of spiritual values; as, a Faustian pact with the devil"
@@ -2569,6 +2616,9 @@
 "To turn to a horizontal plane; -- said of oars",
 "To have the appearance of a feather or of feathers; to be or to appear in feathery form"
 ],
+"feather-brained": [
+"___featherbrained"
+],
 "feather-edge": [
 "The thin, new growth around the edge of a shell, of an oyster",
 "Any thin, as on a board or a razor"
@@ -2719,6 +2769,9 @@
 "fecks": [
 "A corruption of the word faith"
 ],
+"fecula": [
+"___feculae"
+],
 "feculae": [
 "Any pulverulent matter obtained from plants by simply breaking down the texture, washing with water, and subsidence"
 ],
@@ -2848,6 +2901,9 @@
 "The water supplied to steam boilers",
 "The motion, or act, of carrying forward the stuff to be operated upon, as cloth to the needle in a sewing machine; or of producing progressive operation upon any material or object in a machine, as, in a turning lathe, by moving the cutting tool along or in the work"
 ],
+"feed bag": [
+"___feedbag"
+],
 "feedback": [
 "the process in which part of the output of a system is returned to its input",
 "response to an inquiry or experiment"
@@ -2929,6 +2985,9 @@
 "fehm": [
 "___vehm"
 ],
+"fehmgericht": [
+"___fehm"
+],
 "fehmic": [
 "___vehmic"
 ],
@@ -2967,8 +3026,14 @@
 "feldspar": [
 "A name given to a group of minerals, closely related in crystalline form, and all silicates of alumina with either potash, soda, lime, or, in one case, baryta. They occur in crystals and crystalline masses, vitreous in luster, and breaking rather easily in two directions at right angles to each other, or nearly so. The colors are usually white or nearly white, flesh-red, bluish, or greenish"
 ],
+"feldspath": [
+"___feldspar"
+],
 "feldspathic": [
 "Pertaining to, or consisting of, feldspar"
+],
+"feldspathose": [
+"___feldspathic"
 ],
 "fele": [
 "Many"
@@ -3136,6 +3201,9 @@
 ],
 "felspar": [
 "___feldspar"
+],
+"felspath": [
+"___felspar"
 ],
 "felspathic": [
 "___feldspathic"
@@ -3388,6 +3456,9 @@
 "feoffee": [
 "The person to whom a feoffment is made; the person enfeoffed"
 ],
+"feoffer": [
+"___feofor"
+],
 "feoffment": [
 "The grant of a feud or fee",
 "The instrument or deed by which corporeal hereditaments are conveyed"
@@ -3479,6 +3550,9 @@
 ],
 "fermacy": [
 "Medicine; pharmacy"
+],
+"ferme": [
+"___ferm"
 ],
 "ferment": [
 "That which causes fermentation, as yeast, barm, or fermenting beer",
@@ -3573,6 +3647,9 @@
 "ferranti cables": [
 "A form of conductor, designed by Ferranti, for currents of high potential, and consisting of concentric tubes of copper separated by an insulating material composed of paper saturated with black mineral wax"
 ],
+"ferranti mains": [
+"___ferranti cables"
+],
 "ferranti phenomenon": [
 "An increase in the ratio of transformation of an alternating current converter, accompanied by other changes in electrical conditions, occurring when the secondary of the converter is connected with a condenser of moderate capacity; -- so called because first observed in connection with the Ferranti cables in London"
 ],
@@ -3596,6 +3673,9 @@
 ],
 "ferreous": [
 "Partaking of, made of, or pertaining to, iron; like iron"
+],
+"ferrer": [
+"___ferre"
 ],
 "ferrest": [
 "superl. of Fer"
@@ -3819,6 +3899,9 @@
 "fess": [
 "A band drawn horizontally across the center of an escutcheon, and containing in breadth the third part of it; one of the nine honorable ordinaries"
 ],
+"fesse": [
+"___fess"
+],
 "fessitude": [
 "Weariness"
 ],
@@ -3834,6 +3917,9 @@
 ],
 "festally": [
 "Joyously; festively; mirthfully"
+],
+"feste": [
+"___fest"
 ],
 "festennine": [
 "A fescennine"
@@ -3969,7 +4055,17 @@
 "Neatly; gracefully; properly"
 ],
 "fetish": [
+"___fetich",
 "___fetich"
+],
+"fetishism": [
+"___fetish"
+],
+"fetishist": [
+"___fetichist"
+],
+"fetishistic": [
+"___fetish"
 ],
 "fetlock": [
 "The cushionlike projection, bearing a tuft of long hair, on the back side of the leg above the hoof of the horse and similar animals. Also, the joint of the limb at this point (between the great pastern bone and the metacarpus), or the tuft of hair"
@@ -4216,13 +4312,23 @@
 "an instrument used to examine internal organs"
 ],
 "fibre": [
+"___fiber",
 "___fiber"
+],
+"fibre-faced": [
+"___fiber-faced"
 ],
 "fibreboard": [
 "___fiberboard"
 ],
+"fibred": [
+"___fibered"
+],
 "fibreglass": [
 "___fiberglass"
+],
+"fibreless": [
+"___fiberless"
 ],
 "fibriform": [
 "Having the form of a fiber or fibers; resembling a fiber"
@@ -4495,6 +4601,12 @@
 "To stand out in the field, ready to catch, stop, or throw the ball",
 "To catch, stop, throw, etc. (the ball), as a fielder"
 ],
+"field mouse": [
+"___fieldmouse"
+],
+"field test": [
+"___field-test"
+],
 "field-test": [
 "to test something in the field, i. e. under the actual conditions under which it will be used; as, The Army field-tested the new tanks.  Used in contrast with testing in a laboratory or under controlled conditions"
 ],
@@ -4692,6 +4804,9 @@
 ],
 "figulate": [
 "Made of potter's clay; molded; shaped"
+],
+"figulated": [
+"___figulate"
 ],
 "figuline": [
 "A piece of pottery ornamented with representations of natural objects",
@@ -4942,6 +5057,9 @@
 "filigrain": [
 "Filigree"
 ],
+"filigrane": [
+"___filigrain"
+],
 "filigraned": [
 "___filigreed"
 ],
@@ -5123,6 +5241,9 @@
 "fimble": [
 "Light summer hemp, that bears no seed"
 ],
+"fimble hemp": [
+"___fimble"
+],
 "fimbria": [
 "A fringe, or fringed border"
 ],
@@ -5300,6 +5421,9 @@
 "fine-tooth": [
 "having fine teeth set close together; as, a fine-tooth comb"
 ],
+"fine-toothed": [
+"___fine-tooth"
+],
 "fine-tune": [
 "to adjust carefully and precisely so as to achieve optimum performance or efficiency; as, The mechanic fine-tuned the engine"
 ],
@@ -5381,6 +5505,9 @@
 "finger cot": [
 "a close-fitting sheath worn at the end of a finger, for protection of the finger or to avoid soiling the object touched"
 ],
+"finger paint": [
+"___fingerpaint"
+],
 "finger painting": [
 "Creating pictures using finger paint"
 ],
@@ -5416,7 +5543,7 @@
 "A young salmon. See Parr"
 ],
 "fingerpaint": [
-"A type of paint having the consistency of a thin paste or jelly, which is applied to a surface by dipping fingers into the paint and smearing the paint on the surface, usually in artistic patterns.  It is used primarily by children"
+"___finger-paint"
 ],
 "fingerpost": [
 "a guidepost resembling a hand with a pointing index finger"
@@ -5457,6 +5584,9 @@
 ],
 "finicking": [
 "Finical; unduly particular; excessively demanding over minor details"
+],
+"finicky": [
+"___finicking"
 ],
 "finific": [
 "A limiting element or quality"
@@ -5621,6 +5751,9 @@
 "fire beetle": [
 "A very brilliantly luminous beetle (Pyrophorus noctilucus), one of the elaters, found in Central and South America; -- called also cucujo.  The name is also applied to other species. See Firefly"
 ],
+"fire fighter": [
+"___firefighter"
+],
 "fire hydrant": [
 "an upright hydrant that can supply large volumes of water to use in fighting a fire.  They are commonly placed at intervals at the street edge of a sidewalk, spaced for convenience in suppressing fires in towns"
 ],
@@ -5645,6 +5778,12 @@
 ],
 "fire-resistant": [
 "Not able to burn or able to burn only with difficulty"
+],
+"fire-resisting": [
+"___fire-resistant"
+],
+"fire-resistive": [
+"___fire-resistant"
 ],
 "fire-retardant": [
 "able to reduce combustibility or slow the spread of fire; -- of substances that are added to combustible materials to make them less combustible"
@@ -6097,6 +6236,9 @@
 "Having the toes separated to the base. [See Aves.]",
 "One of the Fissipedia"
 ],
+"fissipedal": [
+"___fissiped"
+],
 "fissipedia": [
 "A division of the Carnivora, including the dogs, cats, and bears, in which the feet are not webbed; -- opposed to Pinnipedia"
 ],
@@ -6205,6 +6347,9 @@
 "fitchet": [
 "The European polecat (Putorius fœtidus). See Polecat"
 ],
+"fitchew": [
+"___fitchet"
+],
 "fitchy": [
 "Having fitches or vetches",
 "Fitché"
@@ -6214,6 +6359,9 @@
 ],
 "fithel": [
 "A fiddle"
+],
+"fithul": [
+"___fithel"
 ],
 "fitly": [
 "In a fit manner; suitably; properly; conveniently; as, a maxim fitly applied"
@@ -6271,6 +6419,9 @@
 ],
 "five-leafed": [
 "Having five leaflets, as the Virginia creeper"
+],
+"five-leaved": [
+"___five-leafed"
 ],
 "five-spot": [
 "A California annual (Nemophila maculata) having white flowers with a deep purple blotch on each petal",
@@ -6362,6 +6513,9 @@
 "To make a hissing sound",
 "To make a ridiculous failure in an undertaking, especially after a good start; to achieve nothing",
 "A failure or abortive effort; a fiasco"
+],
+"fizzy": [
+"___fizzing"
 ],
 "fjord": [
 "___fiord"
@@ -6613,6 +6767,9 @@
 "To burst forth like flame; to break out in violence of passion; to be kindled with zeal or ardor",
 "To kindle; to inflame; to excite"
 ],
+"flame flower": [
+"___flameflower"
+],
 "flame-colored": [
 "Of the color of flame; of a bright orange yellow color"
 ],
@@ -6738,6 +6895,7 @@
 "The common mullein"
 ],
 "flannelbush": [
+"___flannelbush",
 "any of several handsome evergreen shrubs of California and Northern Mexico having downy lobed leaves and showy yellow flowers"
 ],
 "flannelcake": [
@@ -6932,6 +7090,9 @@
 "having a flat bottom",
 "Having an even lower surface or bottom; as, a flat-bottomed boat"
 ],
+"flat-bottomed": [
+"___flat-bottom"
+],
 "flat-cap": [
 "A kind of low-crowned cap formerly worn by all classes in England, and continued in London after disuse elsewhere; -- hence, a citizen of London"
 ],
@@ -6952,6 +7113,9 @@
 "flat-top": [
 "having a flat or flattened upper surface"
 ],
+"flat-topped": [
+"___flat-top"
+],
 "flatbill": [
 "Any bird of the genus Flatyrynchus. They belong to the family of flycatchers"
 ],
@@ -6965,6 +7129,7 @@
 "Any fish of the family Pleuronectidæ; esp., the winter flounder (Pleuronectes Americanus). The flatfishes have the body flattened, swim on the side, and have eyes on one side, as the flounder, turbot, and halibut. See Flounder"
 ],
 "flatfoot": [
+"___flat foot",
 "a police officer, especially a foot patrolman"
 ],
 "flathead": [
@@ -7045,6 +7210,9 @@
 ],
 "flatulence": [
 "The state or quality of being flatulent"
+],
+"flatulency": [
+"___flatulence"
 ],
 "flatulent": [
 "Affected with flatus{2} or gases generated in the alimentary canal; windy",
@@ -7297,6 +7465,7 @@
 "A young bird just fledged"
 ],
 "fledgling": [
+"___fledgeling",
 "having just acquired its flight feathers; -- of a young bird; as, a fledgling robin",
 "young and inexperienced; as, a fledgling enterprise; a fledgling skier"
 ],
@@ -7503,6 +7672,9 @@
 "To bend; as, to flex the arm",
 "Flax"
 ],
+"flex time": [
+"___flexitime"
+],
 "flexanimous": [
 "Having power to change the mind"
 ],
@@ -7531,6 +7703,9 @@
 ],
 "flexor": [
 "A muscle which bends or flexes any part; as, the flexors of the arm or the hand; -- opposed to extensor"
+],
+"flextime": [
+"___flexitime"
 ],
 "flexuose": [
 "Flexuous"
@@ -7655,6 +7830,9 @@
 ],
 "flindosa": [
 "A tall Australian timber tree (Flindersia australis) yielding tough hard wood used for staves etc"
+],
+"flindosy": [
+"___flindosa"
 ],
 "fling": [
 "To cast, send, to throw from the hand; to hurl; to dart; to emit with violence as if thrown from the hand; as, to fing a stone into the pond",
@@ -8233,6 +8411,9 @@
 "flotsam": [
 "Goods lost by shipwreck, and floating on the sea; -- in distinction from jetsam or jetson"
 ],
+"flotson": [
+"___flotsam"
+],
 "flotten": [
 "Skimmed"
 ],
@@ -8457,8 +8638,11 @@
 "flue pipe": [
 "A pipe, esp. an organ pipe, whose tone is produced by the impinging of a current of air upon an edge, or lip, causing a wave motion in the air within; a mouth pipe; -- distinguished from reed pipe. Flue pipes are either open or closed (stopped at the distant end). The flute and flageolet are open pipes; a bottle acts as a closed pipe when one blows across the neck. The organ has both open and closed flue pipes, those of metal being usually round in section, and those of wood triangular or square"
 ],
+"fluegel": [
+"___flugel"
+],
 "fluegelhorn": [
-"A brass instrument resembling a cornet but with a wider bore"
+"___flugelhorn"
 ],
 "fluence": [
 "Fluency"
@@ -8528,6 +8712,7 @@
 "___fluid"
 ],
 "flukan": [
+"___flookan",
 "Flucan"
 ],
 "fluke": [
@@ -8594,6 +8779,9 @@
 "fluocerine": [
 "A fluoride of cerium, occuring near Fahlun in Sweden. Tynosite, from Colorado, is probably the same mineral"
 ],
+"fluocerite": [
+"___fluocerine"
+],
 "fluohydric": [
 "___hydrofluoric"
 ],
@@ -8619,6 +8807,9 @@
 ],
 "fluorene": [
 "A colorless, crystalline hydrocarbon, C13H10 having a beautiful violet fluorescence; whence its name. It occurs in the higher boiling products of coal tar, and is obtained artificially"
+],
+"fluorescein": [
+"___fluoresceine"
 ],
 "fluoresceine": [
 "A yellowish red, crystalline substance, C20H12O5, produced by heating together phthalic anhydride and resorcin; -- so called, from the very brilliant yellowish green fluorescence of its alkaline solutions. It has acid properties, and its salts of the alkalies are known to the trade under the name of uranin"
@@ -8905,6 +9096,9 @@
 "fly amanita": [
 "A poisonous mushroom (Amanita muscaria, syn. Agaricus muscarius), having usually a bright red or yellowish cap covered with irregular white spots. It has a distinct volva at the base, generally an upper ring on the stalk, and white spores. Called also fly agaric, deadly amanita"
 ],
+"fly fungus": [
+"___fly amanita"
+],
 "fly-bitten": [
 "Marked by, or as if by, the bite of flies"
 ],
@@ -8998,9 +9192,18 @@
 "flyswat": [
 "An implement with a flat part (a mesh of metal or plastic) and a long handle, used to kill insects by striking them.  The handle is typically about one foot long and the flat mesh at the end (usually of plastic) is about 5 inces square"
 ],
+"flyswatter": [
+"___flyswat"
+],
+"flyte": [
+"___flite"
+],
 "flytrap": [
 "A trap for catching flies",
 "A plant (Dionæa muscipula), called also Venus's flytrap, having two-lobed leaves which are fringed with stiff bristles, and fold together when certain sensitive hairs on their upper surface are touched, thus trapping insects that light on them. The insects so caught are afterwards digested by a secretion from the upper surface of the leaves.  The plant is native to North and South Carolina, growing in bogs"
+],
+"flytting": [
+"___flitting"
 ],
 "flywheel": [
 "A heavy wheel or disk which stores kinetic energy by rotating on a shaft, and by its momentum smoothes the operation of a reciprocating engine by reducing fluctuations of speed.  It is used in certain types of machinery, such as automobiles"
@@ -9018,6 +9221,9 @@
 ],
 "fo": [
 "The Chinese name of Buddha"
+],
+"fo'c's'le": [
+"___fo'c'sle"
 ],
 "fo'c'sle": [
 "The forecastle, a superstructure in the bow of a merchant ship where the crew is housed; -- the spelling is intended to reflect the common pronunciation among seamen"
@@ -9090,6 +9296,9 @@
 "focussed": [
 "same as focused (in all senses)"
 ],
+"focussing": [
+"___focusing"
+],
 "fodder": [
 "A weight by which lead and some other metals were formerly sold, in England, varying from 191/2 to 24 cwt.; a fother",
 "That which is fed out to cattle horses, and sheep, as hay, cornstalks, vegetables, etc",
@@ -9133,6 +9342,7 @@
 "___fetor"
 ],
 "foetus": [
+"___foetus",
 "___fetus"
 ],
 "fog": [
@@ -9283,6 +9493,9 @@
 "foldage": [
 "___faldage"
 ],
+"foldaway": [
+"___foldable"
+],
 "folded": [
 "made compact by bending or doubling over"
 ],
@@ -9386,6 +9599,12 @@
 "People in general, or a separate class of people; -- generally used in the plural form, and often with a qualifying adjective; as, the old folks; poor folks",
 "The persons of one's own family; as, our folks are all well"
 ],
+"folk lore": [
+"___folklore"
+],
+"folk tale": [
+"___folktale"
+],
 "folkething": [
 "The lower house of the Danish Rigsdag, or Parliament. See Legislature, below"
 ],
@@ -9400,6 +9619,9 @@
 ],
 "folkmoter": [
 "One who takes part in a folkmote, or local court"
+],
+"folks": [
+"___folk"
 ],
 "folksy": [
 "same as cracker-barrel",
@@ -9549,8 +9771,7 @@
 "A large copper vessel used for hot amalgamation"
 ],
 "fondu": [
-"Blended; gradually changing or passing into each other by subtle gradations; -- said of colors or of the surface or material on which the colors are laid",
-"Melted"
+"___fondue"
 ],
 "fondue": [
 "A dish made of cheese, eggs, butter, etc., often seasoned with kirsch and white wine, melted together, and usually used as a dip for pieces of bread",
@@ -9721,6 +9942,9 @@
 ],
 "foot-loose": [
 "having no commitments or restrictions"
+],
+"foot-sore": [
+"___footsore"
 ],
 "footage": [
 "the amount of film that has been shot",
@@ -10120,6 +10344,9 @@
 ],
 "forcipate": [
 "Like a pair of forceps; as, a forcipated mouth"
+],
+"forcipated": [
+"___forcipate"
 ],
 "forcipation": [
 "Torture by pinching with forceps or pinchers"
@@ -10541,6 +10768,9 @@
 "foreordination": [
 "Previous ordination or appointment; predetermination; predestination"
 ],
+"forepart": [
+"___fore part"
+],
 "forepast": [
 "Bygone"
 ],
@@ -10741,6 +10971,7 @@
 "The art of forming or of cultivating forests; the management of growing timber"
 ],
 "foreswart": [
+"___foreswart",
 "___forswat"
 ],
 "foretaste": [
@@ -11306,6 +11537,9 @@
 "Arching over; overarched",
 "To commit fornication; to have unlawful sexual intercourse"
 ],
+"fornicated": [
+"___fornicate"
+],
 "fornication": [
 "Unlawful sexual intercourse on the part of an unmarried person; the act of such illicit sexual intercourse between a man and a woman as does not by law amount to adultery",
 "Adultery"
@@ -11624,6 +11858,7 @@
 "A state of advance beyond the usual degree; prematureness; precocity; as, the forwardnessof spring or of corn; the forwardness of a pupil"
 ],
 "forwards": [
+"___forward",
 "___forward"
 ],
 "forwaste": [
@@ -11661,6 +11896,9 @@
 ],
 "forzando": [
 "___sforzato"
+],
+"fossa": [
+"___fossae"
 ],
 "fossae": [
 "A pit, groove, cavity, or depression, of greater or less depth; as, the temporal fossa on the side of the skull; the nasal fossæ containing the nostrils in most birds"
@@ -11772,6 +12010,9 @@
 ],
 "fougade": [
 "A small mine, in the form of a well sunk from the surface of the ground, charged with explosive and projectiles. It is made in a position likely to be occupied by the enemy"
+],
+"fougasse": [
+"___fougade"
 ],
 "fought": [
 "imp. & p. p. of Fight"
@@ -11970,6 +12211,9 @@
 "fourb": [
 "A tricky fellow; a cheat"
 ],
+"fourbe": [
+"___fourb"
+],
 "fourche": [
 "Having the ends forked or branched, and the ends of the branches terminating abruptly as if cut off; -- said of an ordinary, especially of a cross"
 ],
@@ -12003,6 +12247,9 @@
 ],
 "fourierist": [
 "One who adopts the views of Fourier"
+],
+"fourierite": [
+"___fourierist"
 ],
 "fourling": [
 "One of four children born at the same time; a quadruplet",
@@ -12168,6 +12415,9 @@
 "The name of several kinds of grass having a soft dense head of flowers, mostly the species of Alopecurus and Setaria",
 "The last cinders obtained in the fining process"
 ],
+"foxtrot": [
+"___fox-trot"
+],
 "foxy": [
 "Like or pertaining to the fox; foxlike in disposition or looks; wily; cunning",
 "Having the color of a fox; of a yellowish or reddish brown color; -- applied sometimes to paintings when they have too much of this color",
@@ -12253,6 +12503,9 @@
 "The texture of a freshly broken surface; as, a compact fracture; an even, hackly, or conchoidal fracture",
 "To cause a fracture or fractures in; to break; to burst asunder; to crack; to separate the continuous parts of; as, to fracture a bone; to fracture the skull"
 ],
+"fraenulum": [
+"___frenulum"
+],
 "fraenum": [
 "A connecting fold of membrane serving to support or restrain any part; as, the frænum of the tongue"
 ],
@@ -12306,6 +12559,9 @@
 ],
 "fragrance": [
 "The quality of being fragrant; sweetness of smell; a sweet smell; a pleasing odor; perfume"
+],
+"fragrancy": [
+"___fragrance"
 ],
 "fragrant": [
 "Affecting the olfactory nerves agreeably; sweet of smell; odorous; having or emitting an agreeable perfume"
@@ -12401,6 +12657,9 @@
 "frampel": [
 "Peevish; cross; vexatious; quarrelsome"
 ],
+"frampoid": [
+"___frampel"
+],
 "franc": [
 "A silver coin of France, and since 1795 the unit of the French monetary system. It has been adopted by Belgium and Swizerland. In 1913 it was equivalent to about nineteen cents American, or ten pence British, and is divided into 100 centimes"
 ],
@@ -12433,11 +12692,17 @@
 "francophil": [
 "An admirer of France and everything French"
 ],
+"francophile": [
+"___francophil"
+],
 "francophobe": [
 "a person who hates or fears France, French culture, or the French people"
 ],
 "francophone": [
 "Able to communicate in the French language; -- used especially of those whose native language is French"
+],
+"francophonic": [
+"___francophone"
 ],
 "frangent": [
 "Causing fracture; breaking"
@@ -12455,11 +12720,17 @@
 "frangipani": [
 "A perfume derived from, or imitating the odor of, the flower of the red jasmine, a West Indian tree of the genus Plumeria"
 ],
+"frangipanni": [
+"___frangipani"
+],
 "frangulic": [
 "Pertaining to, or drived from, frangulin, or a species (Rhamnus Frangula) of the buckthorn"
 ],
 "frangulin": [
 "A yellow crystalline dyestuff, regarded as a glucoside, extracted from a species (Rhamnus Frangula) of the buckthorn; -- called also rhamnoxanthin"
+],
+"frangulinic": [
+"___frangulic"
 ],
 "franion": [
 "A paramour; a loose woman; also, a gay, idle fellow"
@@ -12573,6 +12844,9 @@
 "fraternation": [
 "Fraternization"
 ],
+"fraternism": [
+"___fraternation"
+],
 "fraternity": [
 "The state or quality of being fraternal or brotherly; brotherhood",
 "A body of men associated for their common interest, business, or pleasure; a company; a brotherhood; a society; in the Roman Catholic Church, an association for special religious purposes, for relieving the sick and destitute, etc",
@@ -12621,6 +12895,9 @@
 ],
 "fraudulence": [
 "The quality of being fraudulent; deliberate deceit; trickishness"
+],
+"fraudulency": [
+"___fraudulence"
 ],
 "fraudulent": [
 "Using fraud; tricky; deceitful; dishonest",
@@ -12748,8 +13025,7 @@
 "The act or process of free-associating. It is a technique used in psychoanalysis and is supposed to allow the analyst access to the unconscious thoughts of the analysand.  See free-associate"
 ],
 "free base": [
-"The basic form of an organic amine which is capable of forming acid salts such as hydrochlorides",
-"The basic form of a drug, often more powerful than a salt form because it is more readily absorbed into the blood stream"
+"___free-base"
 ],
 "free coinage": [
 "In the fullest sense, the conversion of bullion (of any specified metal) into legal-tender coins for any person who chooses to bring it to the mint; in a modified sense, such coinage when done at a fixed charge proportionate to the cost of the operation"
@@ -12795,8 +13071,14 @@
 "Open-handed; liberal; given or giving freely or liberally; as, a freehanded host",
 "same as freehand"
 ],
+"free-hearted": [
+"___freehearted"
+],
 "free-lance": [
 "to work on a free-lance basis; to work as a freelancer"
+],
+"free-lancer": [
+"___freelancer"
 ],
 "free-liver": [
 "One who gratifies his physical appetites without stint; one given to indulgence in eating and drinking"
@@ -12955,6 +13237,9 @@
 "freewheeling": [
 "Acting heedless of consequences; acting without controls, external or internal; as, freewheeling foolishness"
 ],
+"freewill": [
+"___free-will"
+],
 "freezable": [
 "Capable of being frozen"
 ],
@@ -13011,11 +13296,17 @@
 "freiherr": [
 "In Germany and Austria, a baron"
 ],
+"frejol": [
+"___frijol"
+],
 "frelte": [
 "Frailty"
 ],
 "fremd": [
 "Strange; foreign"
+],
+"fremed": [
+"___fremd"
 ],
 "fremescent": [
 "Becoming murmurous, roaring"
@@ -13033,6 +13324,9 @@
 ],
 "french fries": [
 "Strips of potatoes, usually cut with a rectangular cross-section, cooked by immersing in hot fat or oil"
+],
+"french-fried potatoes": [
+"___french fries"
 ],
 "french-fry": [
 "to cook by immersing in hot fat"
@@ -13059,6 +13353,7 @@
 "A frænum"
 ],
 "frenum": [
+"___fraenum",
 "A cheek stripe of color",
 "___frænum"
 ],
@@ -13115,6 +13410,9 @@
 ],
 "frere": [
 "A friar"
+],
+"fres'nel' lan'tern": [
+"___fresnel lamp"
 ],
 "frescade": [
 "A cool walk; shady place"
@@ -13252,6 +13550,9 @@
 "freya": [
 "The daughter of Njörd, and goddess of love and beauty; the Scandinavian Venus; -- in Teutonic myths confounded with Frigga, but in Scandinavian, distinct"
 ],
+"freyr": [
+"___frey"
+],
 "friabiiity": [
 "The quality of being friable; friableness"
 ],
@@ -13265,6 +13566,9 @@
 ],
 "friar's-cowl": [
 "A tuberous perennial (Arisarum vulgare) having a cowl-shaped maroon or violet-black spathe; -- found in the Mediterranean, Canaries, and Azores"
+],
+"friar's-cowls": [
+"___friar's-cowl"
 ],
 "friarly": [
 "Like a friar; inexperienced"
@@ -13292,12 +13596,18 @@
 "friborg": [
 "The pledge and tithing, afterwards called by the Normans frankpledge. See Frankpledge"
 ],
+"friborgh": [
+"___friborg"
+],
 "fricace": [
 "Meat sliced and dressed with strong sauce",
 "An unguent; also, the act of rubbing with the unguent"
 ],
 "fricandeau": [
 "A ragout or fricassee of veal; a fancy dish of veal or of boned turkey, served as an entrée, -- called also fricandel"
+],
+"fricando": [
+"___fricandeau"
 ],
 "fricassee": [
 "A dish made of fowls, veal, or other meat of small animals cut into pieces, and stewed in a gravy",
@@ -13429,6 +13739,9 @@
 "frigg": [
 "The wife of Odin and mother of the gods; the supreme goddess; the Juno of the Valhalla.  Cf. Freya"
 ],
+"frigga": [
+"___frigg"
+],
 "fright": [
 "A state of terror excited by the sudden appearance of danger; sudden and violent fear, usually of short duration; a sudden alarm",
 "Anything strange, ugly or shocking, producing a feeling of alarm or aversion",
@@ -13475,12 +13788,21 @@
 "frigorific": [
 "Causing cold; producing or generating cold"
 ],
+"frigorifical": [
+"___frigorific"
+],
 "frijol": [
 "In Mexico, the southwestern United States, and the West Indies, any cultivated bean of the genus Phaseolus, esp. the black seed of a variety of P. vulgaris",
 "The beanlike seed of any of several related plants, as the cowpea. Frijoles are an important article of diet among Spanish-American peoples, being used as an ingredient of many dishes"
 ],
+"frijole": [
+"___frijol"
+],
 "frijolillo": [
 "A shrub or small tree(Sophora secundiflora) having pinnate leaves poisonous to livestock and dense racemes of intensely fragrant blue flowers and red beans"
+],
+"frijolito": [
+"___frijolillo"
 ],
 "frill": [
 "To shake or shiver as with cold; as, the hawk frills",
@@ -13555,6 +13877,9 @@
 "The trade or traffic in old clothes",
 "Trifling; contemptible"
 ],
+"frisette": [
+"___frizette"
+],
 "friseur'": [
 "A hairdresser"
 ],
@@ -13615,6 +13940,9 @@
 "A kind of weir for catching fish",
 "A forest; a woody place",
 "A small field taken out of a common, by inclosing it; an inclosure"
+],
+"frithstool": [
+"___fridstol"
 ],
 "frithy": [
 "Woody"
@@ -13686,6 +14014,9 @@
 "frizzly": [
 "Curled or crisped; as, frizzly, hair"
 ],
+"frizzy": [
+"___frizzly"
+],
 "fro": [
 "From; away; back or backward; -- now used only in opposition to the word to, in the phrase to and fro, that is, to and from. See To and fro under To",
 "From"
@@ -13716,6 +14047,9 @@
 "An oblong cloak button, covered with netted thread, and fastening into a loop instead of a button hole",
 "The loop of the scabbard of a bayonet or sword",
 "To ornament or fasten (a coat, etc.) with trogs. See Frog, n., 4"
+],
+"frog's-bit": [
+"___frogbit"
 ],
 "frog-eyed": [
 "Spotted with whitish specks due to a disease, or produced artificially by spraying; -- said of tobacco used for cigar wrappers"
@@ -13771,6 +14105,12 @@
 ],
 "fromward": [
 "A way from; -- the contrary of toward"
+],
+"fromwards": [
+"___fromward"
+],
+"fron'tated": [
+"___frontate"
 ],
 "frond": [
 "The organ formed by the combination or union into one body of stem and leaf, and often bearing the fructification; as, the frond of a fern or of a lichen or seaweed; also, the peculiar leaf of a palm tree"
@@ -13872,6 +14212,9 @@
 "frontignac": [
 "A sweet muscadine wine made in Frontignan (Languedoc), France",
 "A grape of many varieties and colors"
+],
+"frontignan": [
+"___frontignac"
 ],
 "frontingly": [
 "In a fronting or facing position; opposingly"
@@ -14306,7 +14649,7 @@
 "The process denoted by the verb fry"
 ],
 "ftp": [
-"An acronym for file transfer protocol, a standardized protocol used to allow transmission of files between computers; as, send me the file by ftp.  It consists of a set of coded signals which are transmitted between computers, and which inform the receiving computer of the nature of a packet of information to be transmitted, and inform the transmitting computer when a packet has been successfully received",
+"___ftp",
 "To send from one computer to another by means of the standard file transfer protocol (ftp); as, he ftp'd me the file yesterday"
 ],
 "fu": [
@@ -14328,11 +14671,20 @@
 "fubby": [
 "Plump; chubby; short and stuffy; as a fubsy sofa"
 ],
+"fubs": [
+"___fub"
+],
+"fubsy": [
+"___fubby"
+],
 "fucales": [
 "An order coextensive with the family Fucaceae"
 ],
 "fucate": [
 "Painted; disguised with paint, or with false show"
+],
+"fucated": [
+"___fucate"
 ],
 "fuchs": [
 "A student of the first year"
@@ -14481,6 +14833,7 @@
 "A peculiar African race of uncertain origin, but distinct from the negro tribes, inhabiting an extensive region of Western Soudan. Their color is brown or yellowish bronze. They are Muslims. Called also Fellatahs, Foulahs, and Fellani. Fulah and Fulani are also used adjectively; as, Fulah or Fulani empire, tribes, language"
 ],
 "fulani": [
+"___fulahs",
 "The language of the Fulani people, a member of the Niger-Congo family of languages"
 ],
 "fulbe": [
@@ -14787,6 +15140,9 @@
 "fumade": [
 "A salted and smoked fish, as the pilchard"
 ],
+"fumado": [
+"___fumade"
+],
 "fumage": [
 "Hearth money"
 ],
@@ -14856,11 +15212,17 @@
 "fumetere": [
 "Fumitory"
 ],
+"fumette": [
+"___fumet"
+],
 "fumid": [
 "Smoky; vaporous"
 ],
 "fumidity": [
 "The state of being fumid; smokiness"
+],
+"fumidness": [
+"___fumidity"
 ],
 "fumiferous": [
 "Producing smoke"
@@ -14945,6 +15307,9 @@
 "funambulo": [
 "A ropewalker or ropedancer"
 ],
+"funambulus": [
+"___funambulo"
+],
 "function": [
 "The act of executing or performing any duty, office, or calling; performance",
 "The appropriate action of any special organ or part of an animal or vegetable organism; as, the function of the heart or the limbs; the function of leaves, sap, roots, etc.; life is the sum of the functions of the various organs and parts of the body",
@@ -14978,6 +15343,9 @@
 "functionary": [
 "One charged with the performance of a function or office; as, a public functionary; secular functionaries"
 ],
+"functionate": [
+"___function"
+],
 "functionless": [
 "Destitute of function, or of an appropriate organ. Darwin"
 ],
@@ -15010,6 +15378,9 @@
 "of or pertaining to fundamentalists or fundamentalism",
 "characteristic of a fundamentalist; -- especially, resembling the behavior of a fundamentalist; as, a fundamentalist dislike of new ideas",
 "a supporter of fundamentalism"
+],
+"fundamentalistic": [
+"___fundamentalist"
 ],
 "fundamentally": [
 "Primarily; originally; essentially; radically; at the foundation; in origin or constituents"
@@ -15177,6 +15548,9 @@
 "funkaceae": [
 "one of many families or subfamilies into which some classification systems subdivide the Liliaceae, but not widely accepted; it includes the genus Hosta"
 ],
+"funking": [
+"___funk"
+],
 "funky": [
 "Pertaining to, or characterized by, great fear, or funking; having great fear",
 "having an earthy, unsophisticated style or feeling"
@@ -15231,6 +15605,9 @@
 ],
 "furcate": [
 "Forked; branching like a fork; as, furcate twigs"
+],
+"furcated": [
+"___furcate"
 ],
 "furcation": [
 "A branching like a fork"
@@ -15308,6 +15685,9 @@
 "furlough": [
 "Leave of absence; especially, leave given to an officer or soldier to be absent from service for a certain time; also, the document granting leave of absence",
 "To furnish with a furlough; to grant leave of absence to, as to an officer or soldier"
+],
+"furmity": [
+"___furmonty"
 ],
 "furmonty": [
 "___frumenty"
@@ -15494,6 +15874,9 @@
 "fusel": [
 "A hot, acrid, oily liquid, accompanying many alcoholic liquors (as potato whisky, corn whisky, etc.), as an undesirable ingredient, and consisting of several of the higher alcohols and compound ethers, but mostly of amyl alcohol"
 ],
+"fusel oil": [
+"___fusel"
+],
 "fuselage": [
 "The central, approximately cylindrical portion of an airplane which carries the passengers, crew, and cargo.  It usually forms the main structural portion of an airplane, and to it are typically attached the wings, tail, and sometimes the engines.  In single-propeller airplanes, the propeller is typically fixed at the front of the fuselage, although variants have been produced with the propeller at the rear.  Some airplanes have no fuselage, properly so called"
 ],
@@ -15518,6 +15901,9 @@
 ],
 "fusileer": [
 "Formerly, a soldier armed with a fusil. Hence, in the plural:"
+],
+"fusilier": [
+"___fusileer"
 ],
 "fusillade": [
 "A simultaneous discharge of firearms",
@@ -15593,6 +15979,9 @@
 "fustilug": [
 "A gross, fat, unwieldy person"
 ],
+"fustilugs": [
+"___fustilug"
+],
 "fustiness": [
 "A fusty state or quality; moldiness; mustiness; an ill smell from moldiness"
 ],
@@ -15605,6 +15994,12 @@
 ],
 "futchel": [
 "The jaws between which the hinder end of a carriage tongue is inserted"
+],
+"futharc": [
+"___futhork"
+],
+"futhorc": [
+"___futhork"
 ],
 "futhork": [
 "The Runic alphabet; -- so called from the first six letters f, u, þ (th), o (or a), r, c (=k).  See rune"
@@ -15667,7 +16062,11 @@
 "To fool around; to act without plan or purpose; -- usually used with around; as, don't futz around with a device without understanding its operation"
 ],
 "fuze": [
+"___fuse",
 "A tube, filled with combustible matter, for exploding a shell, etc. See Fuse, n"
+],
+"fuze plug": [
+"___fuse plug"
 ],
 "fuzee": [
 "a friction match with a large head that will stay alight in the wind",
@@ -15697,7 +16096,13 @@
 "fyrd": [
 "The military force of the whole nation, consisting of all men able to bear arms"
 ],
+"fyrdung": [
+"___fyrd"
+],
 "fytte": [
 "___fit"
+],
+"lien": [
+"___floating charge"
 ]
 }

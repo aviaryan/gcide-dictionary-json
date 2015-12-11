@@ -17,6 +17,9 @@
 "b-meson": [
 "an exceedingly short-lived meson"
 ],
+"b. c.": [
+"___bc"
+],
 "ba": [
 "To kiss"
 ],
@@ -37,6 +40,9 @@
 "baalist": [
 "A worshiper of Baal; a devotee of any false religion; an idolater"
 ],
+"baalite": [
+"___baalist"
+],
 "bab": [
 "Lit., gate; -- a title given to the founder of Babism, and taken from that of Bab-ud-Din, assumed by him"
 ],
@@ -54,6 +60,9 @@
 ],
 "babbitt metal": [
 "A soft white alloy of variable composition (as a nine parts of tin to one of copper, or of fifty parts of tin to five of antimony and one of copper) used in bearings to diminish friction"
+],
+"babbitting": [
+"___babbiting"
 ],
 "babble": [
 "To utter words indistinctly or unintelligibly; to utter inarticulate sounds; as a child babbles",
@@ -93,14 +102,23 @@
 "babian": [
 "A baboon"
 ],
+"babiism": [
+"___babism"
+],
 "babillard": [
 "The lesser whitethroat of Europe; -- called also babbling warbler"
 ],
 "babingtonite": [
 "A mineral occurring in triclinic crystals approaching pyroxene in angle, and of a greenish black color.  It is a silicate of iron, manganese, and lime"
 ],
+"babion": [
+"___babian"
+],
 "babiroussa": [
 "A large hoglike quadruped (Sus babirussa, syn. Porcus babirussa) of the East Indies, sometimes domesticated; the Indian hog.  Its upper canine teeth or tusks are large and recurved"
+],
+"babirussa": [
+"___babiroussa"
 ],
 "babish": [
 "Like a babe; a childish; babyish"
@@ -117,6 +135,9 @@
 "baboo": [
 "A Hindu gentleman; a native clerk who writes English; also, a Hindu title equivalent to the English Mr. or Esquire"
 ],
+"babool": [
+"___babul"
+],
 "baboon": [
 "One of the Old World Quadrumana, of the genera Cynocephalus and Papio; the dog-faced ape. Baboons have dog-like muzzles and large canine teeth, cheek pouches, a short tail, and naked callosities on the buttocks. They are mostly African. See Mandrill, and Chacma, and Drill an ape"
 ],
@@ -125,6 +146,9 @@
 ],
 "baboonish": [
 "Like a baboon"
+],
+"babu": [
+"___baboo"
 ],
 "babul": [
 "Any one of several species of Acacia, esp. Acacia Arabica, which yelds a gum used as a substitute for true gum arabic"
@@ -156,6 +180,9 @@
 "baby-sit": [
 "act as a baby-sitter"
 ],
+"baby-sitter": [
+"___babysitter"
+],
 "baby-walker": [
 "a framework on small wheels or casters designed to support small children while they are learning to walk, and usually having a fabric support that permits the child to sit.  Called also walker and go-cart"
 ],
@@ -181,6 +208,9 @@
 "Pertaining to Babylon, or made there; as, Babylonic garments, carpets, or hangings",
 "Tumultuous; disorderly"
 ],
+"babylonical": [
+"___babylonic"
+],
 "babylonish": [
 "Of or pertaining to, or made in, Babylon or Babylonia",
 "Pertaining to the Babylon of Revelation xiv. 8",
@@ -189,6 +219,9 @@
 ],
 "babyroussa": [
 "___babiroussa"
+],
+"babyrussa": [
+"___babyroussa"
 ],
 "babyship": [
 "The quality of being a baby; the personality of an infant"
@@ -213,6 +246,9 @@
 ],
 "baccara": [
 "A French game of cards, played by a banker and punters"
+],
+"baccarat": [
+"___baccara"
 ],
 "baccare": [
 "Stand back! give place! -- a cant word of the Elizabethan writers, probably in ridicule of some person who pretended to a knowledge of Latin which he did not possess"
@@ -257,6 +293,9 @@
 ],
 "bacchic": [
 "Of or relating to Bacchus; hence, jovial, or riotous, with intoxication; riotously drunken; -- used of revelrous gatherings"
+],
+"bacchical": [
+"___bacchic"
 ],
 "bacchius": [
 "A metrical foot composed of a short syllable and two long ones; according to some, two long and a short"
@@ -372,6 +411,12 @@
 "back door": [
 "A door in the back part of a building; hence, an indirect way"
 ],
+"back fire": [
+"___backfire"
+],
+"back stairs": [
+"___backstairs"
+],
 "back up": [
 "to move in a reverse direction; -- used of vehicles or animals",
 "to accumulate due to a blockage of flow; as, a traffic backup due to an accident; a sewage backup",
@@ -380,6 +425,9 @@
 ],
 "back-and-forth": [
 "a discussion; give-and-take"
+],
+"back-fire": [
+"___backfire"
 ],
 "back-formation": [
 "a word invented (usually unwittingly by subtracting an affix) on the assumption that a familiar word derives from it, such as emote from emotion",
@@ -393,9 +441,11 @@
 "an ache localized in the back"
 ],
 "backarack": [
+"___bacharach",
 "___bacharach"
 ],
 "backare": [
+"___baccare",
 "___baccare"
 ],
 "backband": [
@@ -551,8 +601,14 @@
 "A piece, or plate which forms the back of anything, or which covers the back",
 "A piece of plate armor protecting the back; -- it is worn as part of a cuirass"
 ],
+"backplate": [
+"___backpiece"
+],
 "backrack": [
 "___bacharach"
+],
+"backrag": [
+"___backrack"
 ],
 "backrest": [
 "a support that you can lean against while sitting"
@@ -577,6 +633,9 @@
 "backsheesh": [
 "In Egypt and the Turkish empire, a relatively small amount of money given for services rendered (as by a waiter); a gratuity; a “tip”"
 ],
+"backshish": [
+"___backsheesh"
+],
 "backside": [
 "The hinder part, posteriors, or rump of a person or animal"
 ],
@@ -597,12 +656,18 @@
 "The key on a typewriter or other keyboard used for back spacing",
 "In typing text, to press the backspace key so as to reposition the carriage or cursor on the previous space"
 ],
+"backspacer": [
+"___backspace"
+],
 "backstaff": [
 "An instrument formerly used for taking the altitude of the heavenly bodies, but now superseded by the quadrant and sextant; -- so called because the observer turned his back to the body observed"
 ],
 "backstage": [
 "the area on the stage out of sight of the audience",
 "concealed from the public; in private"
+],
+"backstair": [
+"___backstairs"
 ],
 "backstairs": [
 "Stairs in the back part of a house, as distinguished from the front stairs; a second staircase at the rear of a building; hence, a private or indirect way",
@@ -674,6 +739,9 @@
 ],
 "backwardness": [
 "The state of being backward"
+],
+"backwards": [
+"___backward"
 ],
 "backwash": [
 "To clean the oil from (wool) after combing",
@@ -748,6 +816,9 @@
 "bacteriophagic": [
 "of or pertaining to bacteriophage"
 ],
+"bacteriophagous": [
+"___bacteriophagic"
+],
 "bacterioscopic": [
 "Relating to bacterioscopy; as, a bacterioscopic examination"
 ],
@@ -779,6 +850,9 @@
 ],
 "bacteroid": [
 "Resembling bacteria; as, bacteroid particles"
+],
+"bacteroidal": [
+"___bacteroid"
 ],
 "bactrian": [
 "Of or pertaining to Bactria in Asia"
@@ -1013,6 +1087,9 @@
 "A small molding, like the astragal, but smaller; a bead",
 "One of the minute bodies seen in the divided nucleoli of some Infusoria after conjugation"
 ],
+"baguette": [
+"___baguet"
+],
 "bagwig": [
 "A wig, in use in the 18th century, with the hair at the back of the head in a bag"
 ],
@@ -1034,6 +1111,9 @@
 "bahar": [
 "A weight used in certain parts of the East Indies, varying considerably in different localities, the range being from 223 to 625 pounds"
 ],
+"bahaudur": [
+"___bahadur"
+],
 "bahrain": [
 "an island in the Persian Gulf",
 "an island country in the Persian Gulf"
@@ -1052,6 +1132,9 @@
 ],
 "bai": [
 "a language spoken in the Dali region of Yunnan"
+],
+"baic": [
+"___bai"
 ],
 "baigne": [
 "To soak or drench"
@@ -1179,6 +1262,9 @@
 "dried out by heat or excessive exposure to sunlight",
 "cooked with dry heat in an oven; -- of bread and pastries"
 ],
+"baked-meat": [
+"___bakemeat"
+],
 "bakehouse": [
 "A house for baking; a bakery"
 ],
@@ -1220,6 +1306,7 @@
 "A relatively small amount of money given for services rendered (as by a waiter).  Same as Backsheesh"
 ],
 "bakshish": [
+"___baksheesh",
 "A relatively small amount of money given for services rendered (as by a waiter).  Same as Backsheesh"
 ],
 "baku": [
@@ -1325,6 +1412,9 @@
 "balayeuse": [
 "A protecting ruffle or frill, as of silk or lace, sewed close to the lower edge of a skirt on the inside"
 ],
+"balbucinate": [
+"___balbutiate"
+],
 "balbutiate": [
 "To stammer"
 ],
@@ -1354,6 +1444,9 @@
 ],
 "bald-faced": [
 "Having a white face or a white mark on the face, as a stag"
+],
+"bald-headed": [
+"___baldheaded"
 ],
 "baldachin": [
 "A rich brocade; baudekin",
@@ -1385,6 +1478,9 @@
 "A baldheaded person",
 "The American widgeon (Anas Americana)",
 "Destitute of hair on the head; baldheaded"
+],
+"baldpated": [
+"___baldpate"
 ],
 "baldrib": [
 "A piece of pork cut lower down than the sparerib, and destitute of fat"
@@ -1536,6 +1632,9 @@
 "ballahoo": [
 "A fast-sailing schooner, used in the Bermudas and West Indies"
 ],
+"ballahou": [
+"___ballahoo"
+],
 "ballarag": [
 "To bully; to threaten"
 ],
@@ -1621,6 +1720,9 @@
 "To take up in, or as if in, a balloon",
 "To go up or voyage in a balloon",
 "To expand, or puff out, like a balloon"
+],
+"balloon fish": [
+"___balloonfish"
 ],
 "ballooned": [
 "Swelled out like a balloon"
@@ -1770,6 +1872,9 @@
 "balsamic": [
 "Having the qualities of balsam; containing, or resembling, balsam; soft; mitigative; soothing; restorative"
 ],
+"balsamical": [
+"___balsamic"
+],
 "balsamiferous": [
 "Producing balsam"
 ],
@@ -1796,6 +1901,9 @@
 ],
 "baltimore bird": [
 "A common bird (Icterus galbula) of eastern and central America and Canada, named after Lord Baltimore, because its colors (black and orange red) are like those of his coat of arms; -- called also golden robin.  It winters in the American tropics"
+],
+"baltimore oriole": [
+"___baltimore bird"
 ],
 "baluster": [
 "A small column or pilaster, used as a support to the rail of an open parapet, to guard the side of a staircase, or the front of a gallery.  See Balustrade"
@@ -1876,6 +1984,9 @@
 "banco": [
 "A bank, especially that of Venice"
 ],
+"bancus": [
+"___banc"
+],
 "band": [
 "A fillet, strap, or any narrow ligament with which a thing is encircled, or fastened, or by which a number of things are tied, bound together, or confined; a fetter",
 "A continuous tablet, stripe, or series of ornaments, as of carved foliage, of color, or of brickwork, etc",
@@ -1897,10 +2008,14 @@
 "To bandy; to drive away",
 "imp. of Bind"
 ],
+"band aid": [
+"___band-aid"
+],
 "band fish": [
 "A small red fish of the genus Cepola; the ribbon fish"
 ],
 "band-aid": [
+"___band-aid",
 "An adhesive bandage, composed of a short ribbon of cloth or plastic with an adhesive coating on one side, and having a patch of gauze at the center.  It is used to cover small cuts, abrasions, or blisters on the skin, and may be easily applied to and removed from the skin with no additional material.  Originally a trademark, the term has been popularly used generically",
 "A hurried repair; a temporary fix for a minor problem"
 ],
@@ -1911,6 +2026,9 @@
 ],
 "bandala": [
 "A fabric made in Manila from the older leaf sheaths of the abaca (Musa textilis)"
+],
+"bandana": [
+"___bandanna"
 ],
 "bandanna": [
 "A species of silk or cotton handkerchief, having a uniformly dyed ground, usually of red or blue, with white or yellow figures of a circular, lozenge, or other simple form; -- it is often used as a neckerchief.  The term is also used for any large and brightly colored handkerchief",
@@ -1925,6 +2043,9 @@
 ],
 "bandelet": [
 "A small band or fillet; any little band or flat molding, compassing a column, like a ring, and usually at the top of the column; an annulet"
+],
+"bandelette": [
+"___bandelet"
 ],
 "bander": [
 "One banded with others"
@@ -1957,6 +2078,7 @@
 "The leader of a dance band"
 ],
 "bandlet": [
+"___bandelet",
 "___bandelet"
 ],
 "bandmaster": [
@@ -1969,6 +2091,9 @@
 "A broad leather belt formerly worn by soldiers over the right shoulder and across the breast under the left arm.  Originally it was used for supporting the musket and twelve cases for charges, but later only as a cartridge belt",
 "One of the leather or wooden cases in which the charges of powder were carried"
 ],
+"bandolier": [
+"___bandoleer"
+],
 "bandoline": [
 "A glutinous pomatum for the hair"
 ],
@@ -1979,6 +2104,7 @@
 "A musical stringed instrument, similar in form to a guitar; a pandore.  It is now obsolete, but see  bandura"
 ],
 "bandrol": [
+"___banderole",
 "___banderole"
 ],
 "bandura": [
@@ -2055,6 +2181,9 @@
 "bangtail": [
 "a horse bred for racing"
 ],
+"bangue": [
+"___bang"
+],
 "bangui": [
 "The capital city of Central African Republic.  Population (2000) = 706,000"
 ],
@@ -2085,6 +2214,7 @@
 "The capital city of Gambia.  Population (2000) = 44,188,"
 ],
 "bank": [
+"___banc",
 "A mound, pile, or ridge of earth, raised above the surrounding level; hence, anything shaped like a mound or ridge of earth; as, a bank of clouds; a bank of snow",
 "A steep acclivity, as the slope of a hill, or the side of a ravine",
 "The margin of a watercourse; the rising ground bordering a lake, river, or sea, or forming the edge of a cutting, or other hollow",
@@ -2121,6 +2251,9 @@
 ],
 "bank discount": [
 "A sum equal to the interest at a given rate on the principal (face) of a bill or note from the time of discounting until it becomes due"
+],
+"bank note": [
+"___banknote"
 ],
 "bank on": [
 "Depend on; be confident of"
@@ -2239,6 +2372,9 @@
 "banshee": [
 "A supernatural being supposed to warn a family of the approaching death of one of its members, by wailing or singing in a mournful voice, as  under the windows of the house"
 ],
+"banshie": [
+"___banshee"
+],
 "banstickle": [
 "A small fish, the three-spined stickleback"
 ],
@@ -2315,6 +2451,9 @@
 ],
 "baptistical": [
 "Baptistic"
+],
+"baptistry": [
+"___baptistery"
 ],
 "baptizable": [
 "Capable of being baptized; fit to be baptized"
@@ -2398,6 +2537,9 @@
 ],
 "barbadian": [
 "Of or pertaining to Barbados"
+],
+"barbadoes": [
+"___barbados"
 ],
 "barbados": [
 "A West Indian island, giving its name to a disease, to a cherry, etc"
@@ -2523,6 +2665,9 @@
 "barberry": [
 "A shrub of the genus Berberis, common along roadsides and in neglected fields.  Berberis vulgaris is the species best known; its oblong red berries are made into a preserve or sauce, and have been deemed efficacious in fluxes and fevers. The bark dyes a fine yellow, esp. the bark of the root"
 ],
+"barbers pole": [
+"___barber pole"
+],
 "barbershop": [
 "a shop where a barber works, especially one where men can get their hair cut"
 ],
@@ -2547,6 +2692,9 @@
 ],
 "barbigerous": [
 "Having a beard; bearded; hairy"
+],
+"barbison school": [
+"___barbizon school"
 ],
 "barbiton": [
 "An ancient Greek instrument resembling a lyre"
@@ -2585,6 +2733,9 @@
 "To cover (meat or game) with a thin slice of fat bacon",
 "The exterior covering of the trunk and branches of a tree; the rind",
 "Specifically, Peruvian bark"
+],
+"barde": [
+"___bard"
 ],
 "barded": [
 "Accoutered with defensive armor; -- said of a horse",
@@ -2627,11 +2778,17 @@
 "bare-ass": [
 "completely naked"
 ],
+"bare-assed": [
+"___bare-ass"
+],
 "bare-bones": [
 "having only the absolute minimum necessary; having only the essential components"
 ],
 "bare-breasted": [
 "wearing no covering for the breasts or featuring such nudity"
+],
+"bare-legged": [
+"___barelegged"
 ],
 "bareback": [
 "On the bare back of a horse, without using a saddle; as, to ride bareback"
@@ -2664,6 +2821,9 @@
 "barehanded": [
 "Having bare hands"
 ],
+"barehead": [
+"___bareheaded"
+],
 "bareheaded": [
 "Having the head uncovered; as, a bareheaded girl"
 ],
@@ -2684,6 +2844,9 @@
 ],
 "baresark": [
 "A Berserker, or Norse warrior who fought without armor, or shirt of mail. Hence, adverbially: Without shirt of mail or armor"
+],
+"baresthesiometer": [
+"___baraesthesiometer"
 ],
 "barfish": [
 "___calico bass"
@@ -2826,6 +2989,9 @@
 "barleybrake": [
 "An ancient rural game, commonly played round stacks of barley, or other grain, in which some of the party attempt to catch others who run from a goal"
 ],
+"barleybreak": [
+"___barleybrake"
+],
 "barleycorn": [
 "A grain or “corn” of barley",
 "Formerly , a measure of length, equal to the average length of a grain of barley; the third part of an inch"
@@ -2921,6 +3087,9 @@
 "barometric": [
 "Pertaining to the barometer; made or indicated by a barometer; as, barometric changes; barometrical observations"
 ],
+"barometrical": [
+"___barometric"
+],
 "barometrically": [
 "By means of a barometer, or according to barometric observations"
 ],
@@ -2979,6 +3148,9 @@
 "baroscopic": [
 "Pertaining to, or determined by, the baroscope"
 ],
+"baroscopical": [
+"___baroscopic"
+],
 "barothermograph": [
 "An instrument for recording both pressure and temperature, as of the atmosphere"
 ],
@@ -2992,6 +3164,7 @@
 "A post sunk in the ground to receive the bars closing a passage into a field"
 ],
 "barque": [
+"___bark",
 "___bark"
 ],
 "barracan": [
@@ -3008,6 +3181,9 @@
 ],
 "barracoon": [
 "A slave warehouse, or an inclosure where slaves are quartered temporarily"
+],
+"barracouta": [
+"___barracuda"
 ],
 "barracuda": [
 "Any of several voracious pikelike marine fishes allied to the gray mullets, constituting the genus Sphyræna and family Sphyrænidæ.  The great barracuda (Sphyræna barracuda) of the West Indies, Florida, etc., is often six feet or more long, and as dangerous as a shark.  In Cuba its flesh is reputed to be poisonous.  Sphyræna Argentea of the Pacific coast and Sphyræna sphyræna of Europe are smaller species, and are used as food",
@@ -3067,6 +3243,9 @@
 ],
 "barrelhouse": [
 "A cheap drinking and dancing establishment"
+],
+"barrelled": [
+"___barreled"
 ],
 "barren": [
 "Incapable of producing offspring; producing no young; sterile; -- said of women and female animals",
@@ -3488,6 +3667,9 @@
 "Relating to, or situated at, the base",
 "Lower; inferior; applied to impulses or springs of action"
 ],
+"basilary": [
+"___basilar"
+],
 "basileus": [
 "a ruler of the eastern Roman Empire"
 ],
@@ -3500,6 +3682,9 @@
 "Originally, the palace of a king; but afterward, an apartment provided in the houses of persons of importance, where assemblies were held for dispensing justice; and hence, any large hall used for this purpose",
 "A building used by the Romans as a place of public meeting, with court rooms, etc., attached",
 "A digest of the laws of Justinian, translated from the original Latin into Greek, by order of Basil I., in the ninth century"
+],
+"basilical": [
+"___basilic"
 ],
 "basilican": [
 "Of, relating to, or resembling, a basilica; basilical"
@@ -3559,6 +3744,9 @@
 "basisphenoid": [
 "Of or pertaining to that part of the base of the cranium between the basioccipital and the presphenoid, which usually ossifies separately in the embryo or in the young, and becomes a part of the sphenoid in the adult",
 "The basisphenoid bone"
+],
+"basisphenoidal": [
+"___basisphenoid"
 ],
 "bask": [
 "To lie in warmth; to be exposed to genial heat",
@@ -3642,6 +3830,9 @@
 "bassarisk": [
 "A raccoonlike omnivorous mammal (Bassariscus astutus) of Mexico and southwestern U. S. having a long bushy tail with black and white rings"
 ],
+"bassaw": [
+"___bassa"
+],
 "basset": [
 "A game at cards, resembling the modern faro, said to have been invented at Venice",
 "Inclined upward; as, the basset edge of strata",
@@ -3672,6 +3863,9 @@
 ],
 "basso": [
 "The bass or lowest part; as, to sing basso"
+],
+"basso-relievo": [
+"___basso-rilievo"
 ],
 "basso-rilievo": [
 "___bas-relief"
@@ -3746,6 +3940,9 @@
 "A tower or an elevated work, used for the defense, or in the siege, of a fortified place",
 "“The Bastille”, formerly a castle or fortress in Paris, used as a prison, especially for political offenders; hence, a rhetorical name for a prison"
 ],
+"bastille": [
+"___bastile"
+],
 "bastinade": [
 "___bastinado",
 "To bastinado"
@@ -3815,6 +4012,9 @@
 "batardeau": [
 "A cofferdam",
 "A wall built across the ditch of a fortification, with a sluice gate to regulate the height of water in the ditch on both sides of the wall"
+],
+"batata": [
+"___batatas"
 ],
 "batatas": [
 "An aboriginal American name for the sweet potato (Ipomæa batatas)"
@@ -3887,6 +4087,9 @@
 "bath towel": [
 "a large towel used to dry oneself after a bath"
 ],
+"bath-towel": [
+"___bath towel"
+],
 "bathe": [
 "To wash by immersion, as in a bath; to subject to a bath",
 "To lave; to wet",
@@ -3953,11 +4156,17 @@
 "bathymetric": [
 "Pertaining to bathymetry; relating to the measurement of depths, especially of depths in the sea"
 ],
+"bathymetrical": [
+"___bathymetric"
+],
 "bathymetry": [
 "The art or science of sounding, or measuring depths in the sea"
 ],
 "bathyscaph": [
 "navigable deep diving vessel for underwater exploration"
+],
+"bathyscaphe": [
+"___bathyscaph"
 ],
 "bathysphere": [
 "a spherical deep diving apparatus (lowered by a cable) for underwater exploration; it is constructed with a strong steel shell to withstand high pressures at the ocean bottom"
@@ -4118,6 +4327,9 @@
 "battle-ax": [
 "A kind of broadax formerly used as an offensive weapon"
 ],
+"battle-axe": [
+"___battle-ax"
+],
 "battle-hardened": [
 "Experienced in combat, and therefore more effective at fighting; -- used mostly of infantry troops; as, battle-hardened veterans"
 ],
@@ -4145,6 +4357,9 @@
 ],
 "battlemented": [
 "Having battlements"
+],
+"battler": [
+"___batteler"
 ],
 "battleship": [
 "An armor-plated warship built of steel and heavily armed, generally having over ten thousand tons displacement, and intended to be fit to combat the heaviest enemy ships in line of battle; the most heavily armed and armored class of warship at any given time"
@@ -4177,6 +4392,9 @@
 "batule": [
 "A springboard in a circus or gymnasium; -- called also batule board"
 ],
+"batwing": [
+"___bat's-wing"
+],
 "batz": [
 "A small copper coin, with a mixture of silver, formerly current in some parts of Germany and Switzerland. It was worth about four cents"
 ],
@@ -4201,6 +4419,9 @@
 ],
 "bauk": [
 "___balk"
+],
+"baulk": [
+"___bauk"
 ],
 "baume": [
 "Designating or conforming to either of the scales used by the French chemist Antoine Baumé in the graduation of his hydrometers; of or relating to Baumé's scales or hydrometers.  There are two Baumé hydrometers.  One, which is used with liquids heavier than water, sinks to 0° in pure water, and to 15° in a 15 per cent salt solution; the other, for liquids lighter than water, sinks to 0° in a 10 per cent salt solution and to 10° in pure water.  In both cases the graduation, based on the distance between these fundamental points, is continued along the stem as far as desired"
@@ -4293,6 +4514,9 @@
 "A badger",
 "A large, unwieldy person"
 ],
+"bawson": [
+"___bawsin"
+],
 "baxter": [
 "A baker; originally, a female baker"
 ],
@@ -4362,6 +4586,9 @@
 "bayardly": [
 "Blind; stupid"
 ],
+"bayatte": [
+"___bayad"
+],
 "bayberry": [
 "The fruit of the bay tree or Laurus nobilis"
 ],
@@ -4392,10 +4619,16 @@
 "bays": [
 "___baize"
 ],
+"bayze": [
+"___bays"
+],
 "bazaar": [
 "In the East, an exchange, marketplace, or assemblage of shops where goods are exposed for sale",
 "A spacious hall or suite of rooms for the sale of goods, as at a fair",
 "A fair for the sale of fancy wares, toys, etc., commonly for a charitable purpose"
+],
+"bazar": [
+"___bazaar"
 ],
 "bc": [
 "before Christ; used in reckoning dates before the supposed year Christ was born, i.e. 1 a. d"
@@ -4696,6 +4929,9 @@
 "The English cow parsnip (Heracleum sphondylium)",
 "a widely cultivated southern European acanthus (Acanthus mollis) with whitish purple-veined flowers.  See Acanthus, n., 1"
 ],
+"bear's-breeches": [
+"___bear's-breech"
+],
 "bear's-ear": [
 "A kind of primrose (Primula auricula), so called from the shape of the leaf"
 ],
@@ -4889,6 +5125,9 @@
 "beatific": [
 "Having the power to impart or complete blissful enjoyment; blissful"
 ],
+"beatifical": [
+"___beatific"
+],
 "beatificate": [
 "To beatify"
 ],
@@ -4990,6 +5229,7 @@
 "pl. of Beau"
 ],
 "beauxite": [
+"___bauxite",
 "___bauxite"
 ],
 "beaver": [
@@ -5018,11 +5258,17 @@
 "bebeeru": [
 "A tropical South American tree (Nectandra Rodiœi), the bark of which yields the alkaloid bebeerine, and the wood of which is known as green heart"
 ],
+"bebirine": [
+"___bebeerine"
+],
 "bebleed": [
 "To make bloody; to stain with blood"
 ],
 "beblood": [
 "To make bloody; to stain with blood"
+],
+"bebloody": [
+"___beblood"
 ],
 "beblot": [
 "To blot; to stain"
@@ -5133,6 +5379,9 @@
 "becuiba": [
 "The nut of the Brazilian tree Myristica Bicuhyba, which yields a medicinal balsam used for rheumatism"
 ],
+"becuiba nut": [
+"___becuiba"
+],
 "becuna": [
 "A fish of the Mediterranean (Sphyræna spet). See Barracuda"
 ],
@@ -5172,6 +5421,9 @@
 ],
 "bed-molding": [
 "The molding of a cornice immediately below the corona"
+],
+"bed-moulding": [
+"___bed-molding"
 ],
 "bedabble": [
 "To dabble; to sprinkle or wet"
@@ -5232,14 +5484,21 @@
 "bedeck": [
 "To deck, ornament, or adorn; to grace"
 ],
+"bedegar": [
+"___bedeguar"
+],
 "bedeguar": [
 "A gall produced on rosebushes, esp. on the sweetbrier or eglantine, by a puncture from the ovipositor of a gallfly (Rhodites rosæ). It was once supposed to have medicinal properties"
 ],
 "bedehouse": [
+"___beadhouse",
 "___beadhouse"
 ],
 "bedel": [
 "___beadle"
+],
+"bedell": [
+"___bedel"
 ],
 "bedelry": [
 "Beadleship"
@@ -5248,7 +5507,11 @@
 "The Abyssinian or Arabian ibex (Capra Nubiana). It is probably the wild goat of the Bible"
 ],
 "bedesman": [
+"___beadsman",
 "___beadsman"
+],
+"bedeswoman": [
+"___beadswoman"
 ],
 "bedevil": [
 "To throw into utter disorder and confusion, as if by the agency of evil spirits; to bring under diabolical influence; to torment",
@@ -5320,10 +5583,14 @@
 "A shallow chamber vessel, so constructed that it can be used by a sick person in bed"
 ],
 "bedphere": [
+"___bedfere",
 "___bedfere"
 ],
 "bedpiece": [
 "The foundation framing or piece, by which the other parts are supported and held in place; the bed; -- called also baseplate and soleplate"
+],
+"bedplate": [
+"___bedpiece"
 ],
 "bedpost": [
 "One of the four standards that support a bedstead or the canopy over a bedstead",
@@ -5347,8 +5614,14 @@
 "bedrid": [
 "Confined to the bed by sickness or infirmity"
 ],
+"bedridden": [
+"___bedrid"
+],
 "bedright": [
 "The duty or privilege of the marriage bed"
+],
+"bedrite": [
+"___bedright"
 ],
 "bedrizzle": [
 "To drizzle upon"
@@ -5429,6 +5702,9 @@
 "An insect of the order Hymenoptera, and family Apidæ (the honeybees), or family Andrenidæ (the solitary bees.) See Honeybee",
 "A neighborly gathering of people who engage in united labor for the benefit of an individual or family; as, a quilting bee; a husking bee; a raising bee",
 "Pieces of hard wood bolted to the sides of the bowsprit, to reeve the fore-topmast stays through; -- called also bee blocks"
+],
+"bee balm": [
+"___beebalm"
 ],
 "bee fly": [
 "any dipterous insect of the family Bombyliidae, which eat nectar and in some cases resemble bees.  Their larvae are parasitic on the larvae of bees and other insects"
@@ -5835,6 +6111,9 @@
 "begrudging": [
 "being given reluctantly or with displeasure"
 ],
+"beguard": [
+"___beghard"
+],
 "beguile": [
 "To delude by guile, artifice, or craft; to deceive or impose on, as by a false statement; to lure",
 "To elude, or evade by craft; to foil",
@@ -5890,6 +6169,9 @@
 "behaviorist": [
 "a psychologist who subscribes to behaviorism",
 "of, pertaining to, or characteristic of behaviorists or behaviorism"
+],
+"behavioristic": [
+"___behaviorist"
 ],
 "behaviourism": [
 "same as behaviorism"
@@ -5948,6 +6230,9 @@
 ],
 "behither": [
 "On this side of"
+],
+"behn": [
+"___behen"
 ],
 "behold": [
 "To have in sight; to see clearly; to look at; to regard with the eyes",
@@ -6104,6 +6389,9 @@
 "Grandmother; -- corresponding to belsire",
 "An old woman in general; especially, an ugly old woman; a hag"
 ],
+"beldame": [
+"___beldam"
+],
 "beleaguer": [
 "To surround with an army so as to preclude escape; to besiege; to blockade"
 ],
@@ -6251,6 +6539,9 @@
 "bell's palsy": [
 "Paralysis of the facial nerve, producing distortion of one side of the face"
 ],
+"bell-bottom": [
+"___bell-bottomed"
+],
 "bell-bottomed": [
 "having legs that flare at the bottom; -- of trousers"
 ],
@@ -6306,6 +6597,9 @@
 "belletristic": [
 "Occupied with, or pertaining to, belles-lettres"
 ],
+"belletristical": [
+"___belletristic"
+],
 "bellflower": [
 "A plant of the genus Campanula; -- so named from its bell-shaped flowers",
 "A kind of apple. The yellow bellflower is a large, yellow winter apple"
@@ -6315,6 +6609,9 @@
 ],
 "bellic": [
 "Of or pertaining to war; warlike; martial"
+],
+"bellical": [
+"___bellic"
 ],
 "bellicose": [
 "Inclined to war or contention; warlike; pugnacious"
@@ -6332,6 +6629,9 @@
 "The quality of being belligerent",
 "the act or state of being engaged in war or a warlike conflict; warfare",
 "an aggressively hostile or warlike attitude or nature; a readiness to fight or offend, with little or no provocation"
+],
+"belligerency": [
+"___belligerence"
 ],
 "belligerent": [
 "Waging war; carrying on war",
@@ -6391,6 +6691,9 @@
 "To cause to swell out; to fill",
 "To swell and become protuberant, like the belly; to bulge"
 ],
+"belly button": [
+"___bellybutton"
+],
 "belly laugh": [
 "a vigorous, loud laugh, expressing a strong amusement"
 ],
@@ -6401,8 +6704,17 @@
 "belly-god": [
 "One whose great pleasure it is to gratify his appetite; a glutton; an epicure"
 ],
+"belly-land": [
+"___bellyland"
+],
+"belly-laugh": [
+"___bellylaugh"
+],
 "belly-pinched": [
 "Pinched with hunger; starved"
+],
+"belly-up": [
+"___belly up"
 ],
 "bellyache": [
 "Pain in the bowels; colic",
@@ -6521,6 +6833,9 @@
 "beltein": [
 "___beltane"
 ],
+"beltin": [
+"___beltein"
+],
 "belting": [
 "The material of which belts for machinery are made; also, belts, taken collectively"
 ],
@@ -6612,10 +6927,10 @@
 "To muddle, daze, or partially stupefy, as with liquor"
 ],
 "ben": [
-"The seed of one or more species of moringa; as, oil of ben. See Moringa",
-"Within; in; in or into the interior; toward the inner apartment",
-"The inner or principal room in a hut or house of two rooms; -- opposed to but, the outer apartment",
-"An old form of the pl. indic. pr. of Be"
+"___bene"
+],
+"ben nut": [
+"___ben"
 ],
 "bename": [
 "To promise; to name"
@@ -6630,6 +6945,9 @@
 "To furnish with benches",
 "To place on a bench or seat of honor",
 "To sit on a seat of justice"
+],
+"bench mark": [
+"___benchmark"
 ],
 "bench warrant": [
 "A process issued by a presiding judge or by a court against a person guilty of some contempt, or indicted for some crime; -- so called in distinction from a justice's warrant"
@@ -6710,6 +7028,9 @@
 "benedicite": [
 "A canticle (the Latin version of which begins with this word) which may be used in the order for morning prayer in the Church of England. It is taken from an apocryphal addition to the third chapter of Daniel",
 "An exclamation corresponding to Bless you !"
+],
+"benedick": [
+"___benedict"
 ],
 "benedict": [
 "A married man, or a man newly married",
@@ -6852,6 +7173,7 @@
 "Of or pertaining to Bengal"
 ],
 "bengali": [
+"___bengalee",
 "Of or pertaining to the Bengali language; as, Bengali poetry",
 "Of, pertaining to, or characteristic of Bangladesh (formerly Bengal) or its inhabitants; as, Bengali hills"
 ],
@@ -7035,6 +7357,9 @@
 "benzoinated": [
 "Containing or impregnated with benzoin; as, benzoinated lard"
 ],
+"benzol": [
+"___benzole"
+],
 "benzole": [
 "An impure benzene, used in the arts as a solvent, and for various other purposes. See Benzene"
 ],
@@ -7043,6 +7368,9 @@
 ],
 "benzonaphthol": [
 "A white crystalline powder used as an intestinal antiseptic; beta-naphthol benzoate"
+],
+"benzonaphtol": [
+"___benzonaphthol"
 ],
 "benzosol": [
 "Guaiacol benzoate, used as an intestinal antiseptic and as a substitute for creosote in phthisis. It is a colorless crystalline pewder"
@@ -7148,6 +7476,7 @@
 "A kind of neckcloth"
 ],
 "bere": [
+"___bear",
 "To pierce",
 "___bear"
 ],
@@ -7253,6 +7582,9 @@
 "A narrow shelf or path between the bottom of a parapet and the ditch",
 "A ledge at the bottom of a bank or cutting, to catch earth that may roll down the slope, or to strengthen the bank"
 ],
+"berme": [
+"___berm"
+],
 "bermuda": [
 "same as Bermudas"
 ],
@@ -7325,6 +7657,9 @@
 "One who fights as if frenzied, like a Berserker",
 "frenzied; crazed; usually in predicate position"
 ],
+"berserker": [
+"___berserk"
+],
 "berstle": [
 "___bristle"
 ],
@@ -7378,11 +7713,17 @@
 "A great-grandfather",
 "A kind of writ which formerly lay where a great-grandfather died seized of lands in fee simple, and on the day of his death a stranger abated or entered and kept the heir out. This is now abolished"
 ],
+"besaile": [
+"___besaiel"
+],
 "besaint": [
 "To make a saint of"
 ],
 "besant": [
 "___bezant"
+],
+"besayle": [
+"___besaiel"
 ],
 "bescatter": [
 "To scatter over",
@@ -7405,6 +7746,9 @@
 ],
 "bescumber": [
 "To discharge ordure or dung upon"
+],
+"bescummer": [
+"___bescumber"
 ],
 "besee": [
 "To see; to look; to mind"
@@ -7473,9 +7817,7 @@
 "To shut up or out"
 ],
 "beside": [
-"At the side of; on one side of",
-"Aside from; out of the regular course or order of; in a state of deviation from; out of",
-"Over and above; distinct from; in addition to"
+"___besides"
 ],
 "besides": [
 "On one side",
@@ -7761,6 +8103,9 @@
 "betacism": [
 "Excessive or extended use of the b sound in speech, due to conversion of other sounds into it, as through inability to distinguish them from  b, or because of difficulty in pronouncing them"
 ],
+"betacismus": [
+"___betacism"
+],
 "betaine": [
 "A nitrogenous base, C5H11NO2, produced artificially, and also occurring naturally in beet-root molasses and its residues, from which it is extracted as a white crystalline substance; -- called also lycine and oxyneurine. It has a sweetish taste"
 ],
@@ -7776,6 +8121,7 @@
 "Delivered; committed in trust"
 ],
 "bete": [
+"___beete",
 "To better; to mend. See Beete"
 ],
 "bete noire": [
@@ -7821,6 +8167,9 @@
 "An insane person; a madman; a bedlamite",
 "One of an extinct English order of monks"
 ],
+"bethlemite": [
+"___bethlehemite"
+],
 "bethought": [
 "imp. & p. p. of Bethink"
 ],
@@ -7840,6 +8189,9 @@
 "betime": [
 "In good season or time; before it is late; seasonably; early",
 "In a short time; soon; speedily; forth with"
+],
+"betimes": [
+"___betime"
 ],
 "betitle": [
 "To furnish with a title or titles; to entitle"
@@ -8014,6 +8366,9 @@
 "Formed to a bevel angle; sloping; as, the beveled edge of a table",
 "Replaced by two planes inclining equally upon the adjacent planes, as an edge; having its edges replaced by sloping planes, as a cube or other solid"
 ],
+"bevelled": [
+"___beveled"
+],
 "bevelment": [
 "The replacement of an edge by two similar planes, equally inclined to the including faces or adjacent planes"
 ],
@@ -8031,6 +8386,9 @@
 ],
 "beviled": [
 "Notched with an angle like that inclosed by a carpenter's bevel; -- said of a partition line of a shield"
+],
+"bevilled": [
+"___beviled"
 ],
 "bevy": [
 "A company; an assembly or collection of persons, especially of ladies",
@@ -8181,6 +8539,9 @@
 "bezoartic": [
 "Having the qualities of an antidote, or of bezoar; healing"
 ],
+"bezoartical": [
+"___bezoartic"
+],
 "bezonian": [
 "A low fellow or scoundrel; a beggar"
 ],
@@ -8194,11 +8555,17 @@
 "bhang": [
 "An astringent and narcotic drug made from the dried leaves and seed capsules of wild hemp (Cannabis Indica), and chewed or smoked in the East as a means of intoxication. See Hasheesh"
 ],
+"bheestie": [
+"___bheesty"
+],
 "bheesty": [
 "A water carrier, as to a household or a regiment"
 ],
 "bhistee": [
 "___bheesty"
+],
+"bhisti": [
+"___bhistee"
 ],
 "bhunder": [
 "An Indian monkey (Macacus Rhesus), protected by the Hindus as sacred. See Rhesus"
@@ -8231,6 +8598,9 @@
 "biangulate": [
 "Biangular"
 ],
+"biangulated": [
+"___biangulate"
+],
 "biangulous": [
 "Biangular"
 ],
@@ -8260,6 +8630,9 @@
 "biaxal": [
 "Having two axes; as, biaxial polarization; biaxial crystals"
 ],
+"biaxial": [
+"___biaxal"
+],
 "bib": [
 "A small piece of cloth worn by children over the breast, to protect the clothes",
 "An arctic fish (Gadus luscus), allied to the cod; -- called also pout and whiting pout",
@@ -8278,6 +8651,9 @@
 ],
 "bibb": [
 "A bibcock. See Bib, n., 3"
+],
+"bibbe": [
+"___bib"
 ],
 "bibber": [
 "One given to drinking alcoholic beverages too freely; a tippler; -- chiefly used in composition; as, winebibber"
@@ -8336,6 +8712,9 @@
 "bibliographic": [
 "Pertaining to bibliography, or the history of books"
 ],
+"bibliographical": [
+"___bibliographic"
+],
 "bibliography": [
 "a history or description of books and manuscripts, with notices of the different editions, the times when they were printed, etc",
 "a list of books or other printed works having some common theme, such as topic, period, author, or publisher",
@@ -8344,6 +8723,9 @@
 ],
 "bibliolater": [
 "A worshiper of books; especially, a worshiper of the Bible; a believer in its verbal inspiration"
+],
+"bibliolatrist": [
+"___bibliolater"
 ],
 "bibliolatry": [
 "Book worship, esp. of the Bible; -- applied by Roman Catholic divines to the exaltation of the authority of the Bible over that of the pope or the church, and by Protestants to an excessive regard to the letter of the Scriptures"
@@ -8391,6 +8773,9 @@
 "bibliophobia": [
 "A dread of books"
 ],
+"bibliopolar": [
+"___bibliopolic"
+],
 "bibliopole": [
 "One who sells books"
 ],
@@ -8408,6 +8793,9 @@
 ],
 "bibliotaph": [
 "One who hides away books, as in a tomb"
+],
+"bibliotaphist": [
+"___bibliotaph"
 ],
 "bibliothec": [
 "A librarian"
@@ -8443,6 +8831,9 @@
 ],
 "bicallose": [
 "Having two callosities or hard spots"
+],
+"bicallous": [
+"___bicallose"
 ],
 "bicameral": [
 "Consisting of, or including, two chambers, or legislative branches"
@@ -8535,11 +8926,23 @@
 "bickford fuse": [
 "A fuse used in blasting, consisting of a long cylinder of explosive material inclosed in a varnished wrapping of rope or hose. It burns from 2 to 4 feet a minute"
 ],
+"bickford fuze": [
+"___bickford fuse"
+],
+"bickford match": [
+"___bickford fuse"
+],
 "bicolligate": [
 "Having the anterior toes connected by a basal web"
 ],
 "bicolor": [
 "Of two colors"
+],
+"bicolored": [
+"___bicolor"
+],
+"bicoloured": [
+"___bichrome"
 ],
 "biconcave": [
 "Concave on both sides; as, biconcave vertebræ"
@@ -8552,6 +8955,12 @@
 ],
 "bicorn": [
 "Having two horns; two-horned; crescentlike"
+],
+"bicorned": [
+"___bicorn"
+],
+"bicornous": [
+"___bicorn"
 ],
 "bicorporal": [
 "Having two bodies"
@@ -8574,6 +8983,9 @@
 "bicuspid": [
 "Having two points or prominences; ending in two points; -- said of teeth, leaves, fruit, etc",
 "One of the two double-pointed teeth which intervene between the canines (cuspids) and the molars, on each side of each jaw. See Tooth, n"
+],
+"bicuspidate": [
+"___bicuspid"
 ],
 "bicyanide": [
 "___dicyanide"
@@ -8612,6 +9024,9 @@
 ],
 "bidale": [
 "An invitation of friends to drink ale at some poor man's house, and there to contribute in charity for his relief"
+],
+"bidarka": [
+"___bidarkee"
 ],
 "bidarkee": [
 "A portable boat made of skins stretched on a frame"
@@ -8729,6 +9144,9 @@
 "biflorate": [
 "Bearing two flowers; two-flowered"
 ],
+"biflorous": [
+"___biflorate"
+],
 "bifocal": [
 "Having two foci, as some spectacle lenses",
 "a bifocal lens"
@@ -8776,6 +9194,9 @@
 "Two-pronged; forked",
 "divided into or made up of two parts",
 "To divide into two branches"
+],
+"bifurcated": [
+"___bifurcate"
 ],
 "bifurcation": [
 "A forking, or division into two branches"
@@ -8835,6 +9256,9 @@
 "bigamy": [
 "The offense of marrying one person when already legally married to another"
 ],
+"bigaroon": [
+"___bigarreau"
+],
 "bigarreau": [
 "The large white-heart cherry"
 ],
@@ -8848,6 +9272,7 @@
 "A fish of the genus Priacanthus, remarkable for the large size of the eye"
 ],
 "bigg": [
+"___big",
 "___big"
 ],
 "biggen": [
@@ -8864,8 +9289,14 @@
 "A coffeepot with a strainer or perforated metallic vessel for holding the ground coffee, through which boiling water is poured; -- so called from Mr. Biggin, the inventor",
 "A building"
 ],
+"bigging": [
+"___biggin"
+],
 "biggon": [
 "A cap or hood with pieces covering the ears"
+],
+"biggonnet": [
+"___biggon"
 ],
 "bigha": [
 "A measure of land in India, varying from a third of an acre to an acre"
@@ -8958,8 +9389,14 @@
 "bilamellate": [
 "Formed of two plates, as the stigma of the Mimulus; also, having two elevated ridges, as in the lip of certain flowers"
 ],
+"bilamellated": [
+"___bilamellate"
+],
 "bilaminar": [
 "Formed of, or having, two laminæ, or thin plates"
+],
+"bilaminate": [
+"___bilaminar"
 ],
 "biland": [
 "A byland"
@@ -9031,6 +9468,9 @@
 ],
 "bilimbi": [
 "The berries of two East Indian species of Averrhoa, of the Oxalideæ or Sorrel family. They are very acid, and highly esteemed when preserved or pickled. The juice is used as a remedy for skin diseases"
+],
+"bilimbing": [
+"___bilimbi"
 ],
 "biliment": [
 "A woman's ornament; habiliment"
@@ -9132,6 +9572,9 @@
 "A piece of thick plank, armed with iron plates, and fixed on the bow or fore channels of a vessel, for the bill or fluke of the anchor to rest on",
 "A flat surface, as of a panel or of a fence, on which bills are posted; a bulletin board"
 ],
+"billbug": [
+"___billbeetle"
+],
 "billed": [
 "Furnished with, or having, a bill, as a bird; -- used in composition; as, broad-billed"
 ],
@@ -9204,6 +9647,9 @@
 "billposter": [
 "One whose occupation is to post handbills or posters in public places"
 ],
+"billsticker": [
+"___billposter"
+],
 "billy": [
 "A club; esp., a policeman's club.  Also called billy club",
 "A slubbing or roving machine"
@@ -9221,8 +9667,14 @@
 "billycock": [
 "A round, low-crowned felt hat; a wideawake"
 ],
+"billycock hat": [
+"___billycock"
+],
 "billyo": [
 "a large amount; British say \"it rained like billyo\" where Americans say \"it rained like the devil\""
+],
+"billyoh": [
+"___billyo"
 ],
 "billystick": [
 "a policeman's club"
@@ -9471,6 +9923,9 @@
 "binuclear": [
 "Having two nuclei; as, binucleate cells"
 ],
+"binucleate": [
+"___binuclear"
+],
 "binucleolate": [
 "Having two nucleoli"
 ],
@@ -9508,6 +9963,9 @@
 "Of or pertaining to biodynamics, or the doctrine of vital forces or energy",
 "of or pertaining to a method of farming that uses only organic fertilizers (rather than chemical fertilizers) and organic materials for improving the soil characteristics"
 ],
+"biodynamical": [
+"___biodynamic"
+],
 "biodynamics": [
 "The doctrine of vital forces or energy",
 "The branch of biology which treats of the active vital phenomena of organisms; -- opposed to biostatics"
@@ -9543,6 +10001,7 @@
 "A believer in the theory of biogenesis"
 ],
 "biogeny": [
+"___biogenesis",
 "the production of living organisms from other living organisms; same as biogenesis{1}"
 ],
 "biogeographical": [
@@ -9564,6 +10023,9 @@
 "biographic": [
 "Of or pertaining to biography; containing biography"
 ],
+"biographical": [
+"___biographic"
+],
 "biographize": [
 "To write a history of the life of"
 ],
@@ -9574,6 +10036,9 @@
 "biologic": [
 "Of or relating to biology",
 "related by blood; -- of parents and children; -- contrasted with adoptive, adopted, or foster; as, Mary was adopted directly from the maternity hospital and never met her biological mother"
+],
+"biological": [
+"___biologic"
 ],
 "biologism": [
 "use of biological principles in explaining human behavior, especially social behavior"
@@ -9630,6 +10095,9 @@
 "biophor": [
 "One of the smaller vital units of a cell, the bearer of vitality and heredity. See Pangen, in Supplement"
 ],
+"biophore": [
+"___biophor"
+],
 "biophotophone": [
 "An instrument combining a cinematograph and a phonograph so that the moving figures on the screen are accompanied by the appropriate sounds; -- an archaic term replaced by movie projector"
 ],
@@ -9647,6 +10115,9 @@
 ],
 "biopsychic": [
 "Pertaining to psychical phenomena in their relation to the living organism or to the general phenomena of life"
+],
+"biopsychical": [
+"___biopsychic"
 ],
 "bioreactor": [
 "an apparatus in which a suspension of microorganisms in a liquid are used to perform chemical reactions, as in synthesis of pharmaceutical agents or the conversion of harmful waste to less harmful substances.  The reactor consists of a vessel to contain the suspension of microorganisms, plus a variety of attached devices used to control the reaction"
@@ -9744,6 +10215,9 @@
 "bipectinate": [
 "Having two margins toothed like a comb"
 ],
+"bipectinated": [
+"___bipectinate"
+],
 "biped": [
 "A two-footed animal, as man",
 "Having two feet; two-footed"
@@ -9758,6 +10232,9 @@
 "bipennate": [
 "Having two wings"
 ],
+"bipennated": [
+"___bipennate"
+],
 "bipennis": [
 "An ax with an edge or blade on each side of the handle"
 ],
@@ -9769,6 +10246,9 @@
 ],
 "bipinnate": [
 "Twice pinnate"
+],
+"bipinnated": [
+"___bipinnate"
 ],
 "bipinnatifid": [
 "Doubly pinnatifid"
@@ -9791,6 +10271,9 @@
 ],
 "bipont": [
 "Relating to books printed at Deuxponts, or Bipontium (Zweibrücken), in Bavaria"
+],
+"bipontine": [
+"___bipont"
 ],
 "biprism": [
 "A prism whose refracting angle is very nearly 180 degrees",
@@ -9826,6 +10309,9 @@
 ],
 "biradiate": [
 "Having two rays; as, a biradiate fin"
+],
+"biradiated": [
+"___biradiate"
 ],
 "biramous": [
 "Having, or consisting of, two branches"
@@ -9891,11 +10377,17 @@
 "bird's-mouth": [
 "An interior angle or notch cut across a piece of timber, for the reception of the edge of another, as that in a rafter to be laid on a plate; -- commonly called crow's-foot in the United States"
 ],
+"bird's-nest": [
+"___bird's nest"
+],
 "bird's-nesting": [
 "Hunting for, or taking, birds' nests or their contents"
 ],
 "bird's-tongue": [
 "The knotgrass (Polygonum aviculare)"
+],
+"bird-cage": [
+"___bird cage"
 ],
 "bird-eyed": [
 "Quick-sighted; catching a glance as one goes"
@@ -9914,6 +10406,9 @@
 ],
 "birdbrain": [
 "a person with confused ideas; incapable of serious thought"
+],
+"birdcage": [
+"___bird cage"
 ],
 "birdcall": [
 "A sound made in imitation of the note or cry of a bird for the purpose of decoying the bird or its mate",
@@ -10006,6 +10501,9 @@
 ],
 "birostrate": [
 "Having a double beak, or two processes resembling beaks"
+],
+"birostrated": [
+"___birostrate"
 ],
 "birr": [
 "To make, or move with, a whirring noise, as of wheels in motion",
@@ -10103,6 +10601,7 @@
 "a genus off Eurasian herbs and small shrubs: buckler mustard"
 ],
 "bise": [
+"___bice",
 "A cold north wind which prevails on the northern coasts of the Mediterranean and in Switzerland, etc.; -- nearly the same as the mistral",
 "___bice"
 ],
@@ -10128,12 +10627,18 @@
 "biserial": [
 "In two rows or series"
 ],
+"biseriate": [
+"___biserial"
+],
 "biserrate": [
 "Doubly serrate, or having the serratures serrate, as in some leaves",
 "Serrate on both sides, as some antennæ"
 ],
 "bisetose": [
 "Having two bristles"
+],
+"bisetous": [
+"___bisetose"
 ],
 "bisexous": [
 "Bisexual"
@@ -10208,10 +10713,14 @@
 "biskara boil": [
 "Same as Aleppo boil"
 ],
+"biskara button": [
+"___biskara boil"
+],
 "bismare": [
 "Shame; abuse"
 ],
 "bismer": [
+"___bismare",
 "A rule steelyard",
 "The fifteen-spined (Gasterosteus spinachia)"
 ],
@@ -10235,6 +10744,9 @@
 ],
 "bismuthine": [
 "Native bismuth sulphide; -- sometimes called bismuthite"
+],
+"bismuthinite": [
+"___bismuthine"
 ],
 "bismuthous": [
 "Of, or containing, bismuth, when this element has its lower valence"
@@ -10282,6 +10794,7 @@
 "A surgical instrument consisting of a slender knife, either straight or curved, generally used by introducing it beneath the part to be divided, and cutting towards the surface"
 ],
 "bistre": [
+"___bister",
 "___bister"
 ],
 "bistred": [
@@ -10397,6 +10910,9 @@
 ],
 "bito": [
 "A small scrubby tree (Balanites Ægyptiaca) growing in dry regions of tropical Africa and Asia"
+],
+"bito tree": [
+"___bito"
 ],
 "bitola": [
 "The second largest city of the Republic of Macedonia (the Former Yugoslav Republic of Macedonia), population 84,002 (2000).  It is also known as city of consuls. The city of Bitola is situated in Pelagonian flat, at the foot of Baba mountain. It was established by Slavs and it was given the slavic name Obitel - Bitola. It is assumed that the city got this name because of the many monasteries being built there.  Later, during the rule of Turks, the Turks called it Monastir and it was a significant administrative and military center with 12 consulates.  It managed to preserve the primacy of a leading city, especially in the XIX century when it rapidly grew to about 40.000 inhabitants. Bitola developed trading relations with Vienna, Paris, Leipzig, London and Thessalonika to the south. In that time Bitola exceeded Skopje, both in wealth and beauty.  During World War II it was destroyed by heavy bombing.  Bitola started to grow and develop economically only after liberation in 1945.  See also Macedonia{2}"
@@ -10632,6 +11148,9 @@
 "discolored by or as if by bruising; -- of skin",
 "the dark color of a bruise in the flesh, which is accompanied with a mixture of blue"
 ],
+"black and white": [
+"___black-and-white"
+],
 "black art": [
 "The art practiced by conjurers and witches; necromancy; conjuration; magic"
 ],
@@ -10669,6 +11188,9 @@
 "In the United States, a small, venomous, two-winged fly of the genus Simulium of several species, exceedingly abundant and troublesome in the northern forests; -- called also buffalo gnat. The larvæ are aquatic.  It sucks the blood of birds as well as humans and other mammals",
 "A black plant louse, as the bean aphis (Aphis fabæ), which infests e. g. beans and sugar beets; -- called also bean aphid"
 ],
+"black friar": [
+"___blackfriar"
+],
 "black friday": [
 "Any Friday on which a public disaster has occurred, as: In England, December 6, 1745, when the news of the landing of the Pretender reached London, or May 11, 1866,  when a financial panic commenced.  In the United States, September 24, 1869, and September 18, 1873, on which financial panics began, and especially October 29, 1929, when a dramatic drop in stock prices contributed to the factors which began the great depression of the 1930's"
 ],
@@ -10692,6 +11214,9 @@
 ],
 "black lung": [
 "the popular name for a form of the chronic lung disease pneumoconiosis which is observed among coal miners, and is caused by the inhalation of coal dust.  It is thus named because of the black appearance of the lungs (pneumomelanosis) of those affected with the disease. See also the related condition anthracosis"
+],
+"black lung disease": [
+"___black lung"
 ],
 "black maria": [
 "a paddy wagon"
@@ -10739,6 +11264,9 @@
 "black-a-vised": [
 "Dark-visaged; swart"
 ],
+"black-and-blue": [
+"___black and blue"
+],
 "black-and-white": [
 "print or writing, especially the result of the printing process",
 "depicted only in black and white colors, or in shades of gray; also called monochromatic and monochrome; -- of images.  Opposite of color or in color, and contrasting with polychrome technicolor three-color; as, a black-and-white TV; black-and-white film; the movie “Schindler's List” was shot in black and white"
@@ -10770,6 +11298,9 @@
 "A large leather vessel for beer, etc",
 "The Quercus nigra, or barren oak",
 "The ensign of a pirate"
+],
+"black-lead": [
+"___blacklead"
 ],
 "black-letter": [
 "Written or printed in black letter; as, a black-letter manuscript or book",
@@ -10857,6 +11388,9 @@
 "The black sea bass (Centropristis atrarius) of the Atlantic coast. It is excellent food fish; -- locally called also black Harry",
 "A fish of southern Europe (Centrolophus pompilus) of the Mackerel family",
 "The female salmon in the spawning season"
+],
+"blackfly": [
+"___black fly"
 ],
 "blackfoot": [
 "Of or pertaining to the Blackfeet; as, a Blackfoot Indian"
@@ -10951,6 +11485,9 @@
 "A smith who works in iron with a forge, and makes iron utensils, horseshoes, etc",
 "A fish of the Pacific coast (Chromis punctipinnis, or Heliastes punctipinnis), of a blackish color"
 ],
+"blacksnake": [
+"___black snake"
+],
 "blackstrap": [
 "A mixture of spirituous liquor (usually rum) and molasses",
 "Bad port wine; any common wine of the Mediterranean; -- so called by sailors"
@@ -10970,6 +11507,7 @@
 "paved with a bituminous material; -- of roads or paths; as, a blacktopped driveway"
 ],
 "blackwash": [
+"___black wash",
 "same as defame",
 "to color with blackwash"
 ],
@@ -11138,6 +11676,9 @@
 "blandiloquence": [
 "Mild, flattering speech"
 ],
+"blandiloquious": [
+"___blandiloquous"
+],
 "blandiloquous": [
 "Fair-spoken; flattering"
 ],
@@ -11193,6 +11734,9 @@
 ],
 "blanket mortgage": [
 "One that covers a group or class of things or properties instead of one or more things mentioned individually, as where a mortgage secures various debts as a group, or subjects a group or class of different pieces of property to one general lien"
+],
+"blanket policy": [
+"___blanket mortgage"
 ],
 "blanket stitch": [
 "A buttonhole stitch worked wide apart on the edge of material, as blankets, too thick to hem"
@@ -11309,6 +11853,9 @@
 "blastocoel": [
 "The cavity inside a blastula; -- also called segmentation cavity"
 ],
+"blastocoele": [
+"___blastocoel"
+],
 "blastocoelic": [
 "of or pertaining to a blastocoel"
 ],
@@ -11323,6 +11870,9 @@
 ],
 "blastodermatic": [
 "Of or pertaining to the blastoderm"
+],
+"blastodermic": [
+"___blastodermatic"
 ],
 "blastodisc": [
 "a disc-shaped layer of cells on the surface of the yolk mass of an egg (such as that of a bird) which develops to form the embryo"
@@ -11357,11 +11907,17 @@
 "blastophore": [
 "That portion of the spermatospore which is not converted into spermatoblasts, but carries them"
 ],
+"blastophoric": [
+"___blastophoral"
+],
 "blastoporal": [
 "of or pertaining to a blastopore"
 ],
 "blastopore": [
 "The pore or opening leading into the cavity of invagination, or archenteron"
+],
+"blastoporic": [
+"___blastoporal"
 ],
 "blastosphere": [
 "The hollow globe or sphere formed by the arrangement of the blastomeres on the periphery of an impregnated ovum"
@@ -11584,6 +12140,9 @@
 "bleeping": [
 "damned"
 ],
+"blek": [
+"___bleck"
+],
 "blemish": [
 "To mark with deformity; to injure or impair, as anything which is well formed, or excellent; to mar, or make defective, either the body or mind",
 "To tarnish, as reputation or character; to defame",
@@ -11641,6 +12200,9 @@
 ],
 "blenk": [
 "To blink; to shine; to look"
+],
+"blenniid": [
+"___blennioid"
 ],
 "blennioid": [
 "Of, pertaining to, or resembling, the blennies"
@@ -11755,6 +12317,9 @@
 "blimbi": [
 "___bilimbi"
 ],
+"blimbing": [
+"___blimbi"
+],
 "blimp": [
 "any elderly pompous reactionary",
 "a small nonrigid airship used for observation or as a barrage balloon"
@@ -11786,11 +12351,17 @@
 "A halting place",
 "___blende"
 ],
+"blind man's buff": [
+"___blindman's buff"
+],
 "blind reader": [
 "A post-office clerk whose duty is to decipher obscure addresses"
 ],
 "blindage": [
 "A cover or protection for an advanced trench or approach, formed of fascines and earth supported by a framework"
+],
+"blinde": [
+"___blind"
 ],
 "blinded": [
 "deprived of one's sight; rendered blind"
@@ -11870,6 +12441,9 @@
 ],
 "blintz": [
 "a thin wheat pancake folded around a filling (such as cheese or fruit) and sauteed, fried, or baked"
+],
+"blintze": [
+"___blintz"
 ],
 "bliny": [
 "same as blini"
@@ -12093,11 +12667,15 @@
 "A variety of clay ironstone, in Staffordshire, England, used for making tools"
 ],
 "blonde": [
+"___blond",
 "A person of very fair complexion, with light hair and light blue eyes",
 "A kind of silk lace originally of the color of raw silk, now sometimes dyed; -- called also blond lace"
 ],
 "blondness": [
 "The state of being blond"
+],
+"blonket": [
+"___bloncket"
 ],
 "blood": [
 "The fluid which circulates in the principal vascular system of animals, carrying nourishment to all parts of the body, and bringing away waste products to be excreted. See under Arterial",
@@ -12114,6 +12692,9 @@
 "To stain, smear or wet, with blood",
 "To give (hounds or soldiers) a first taste or sight of blood, as in hunting or war",
 "To heat the blood of; to exasperate"
+],
+"blood berry": [
+"___bloodberry"
 ],
 "blood money": [
 "Money paid to the next of kin of a person who has been killed by another",
@@ -12236,6 +12817,9 @@
 ],
 "bloodulf": [
 "The European bullfinch"
+],
+"bloodwit": [
+"___bloodwite"
 ],
 "bloodwite": [
 "A fine or amercement paid as part of a settlement for the shedding of blood; also, a riot wherein blood was spilled"
@@ -12424,8 +13008,14 @@
 "A single heat or operation of the Bessemer converter",
 "An egg, or a larva, deposited by a fly on or in flesh, or the act of depositing it"
 ],
+"blow job": [
+"___blowjob"
+],
 "blow valve": [
 "___snifting valve"
+],
+"blow-by": [
+"___blowby"
 ],
 "blow-off": [
 "A blowing off steam, water, etc",
@@ -12453,6 +13043,9 @@
 "The whale; -- so called by seamen, from the circumstance of its spouting up a column of water",
 "A small fish of the Atlantic coast (Tetrodon turgidus); the puffer",
 "A braggart, or loud talker"
+],
+"blowess": [
+"___blowen"
 ],
 "blowfish": [
 "a fish eaten as a delicacy, especially in Japan.  It is highly dangerous because of a potent nerve poison (tetrodotoxin) in its ovaries and liver.  Chefs require special training to learn how to remove the poisonous parts, and in Japan they must be licensed",
@@ -12549,6 +13142,9 @@
 "blucher": [
 "A kind of half boot, or high shoe, with laces over the tongue; -- named from the Prussian general Blücher"
 ],
+"bluchers": [
+"___blucher"
+],
 "bludgeon": [
 "A short stick, with one end loaded, or thicker and heavier that the other, used as an offensive weapon"
 ],
@@ -12600,6 +13196,12 @@
 ],
 "blue-blooded": [
 "of aristocratic birth and refined upbringing"
+],
+"blue-bonnet": [
+"___blue bonnet"
+],
+"blue-bottle": [
+"___bluebottle"
 ],
 "blue-collar": [
 "of or designating work or workers in industry not requiring well-groomed appearance",
@@ -12692,6 +13294,9 @@
 ],
 "bluenose": [
 "A nickname for a Nova Scotian; also, a Nova Scotian ship (called also Blue\"nos`er (&unr_;)); a Nova Scotian potato, etc"
+],
+"bluenoser": [
+"___bluenose"
 ],
 "bluepoll": [
 "A kind of salmon (Salmo Cambricus) found in Wales"
@@ -13159,6 +13764,9 @@
 "A short sled, mostly used as one of a pair connected by a reach or coupling; also, the compound sled so formed",
 "a long racing sled (for 2 or more people), having two pairs of runners, with the front pair connected to a steering mechanism.  They are usually raced one at a time down a steeply sloping path or specially constructed chute, with sharp banked curves, and attain high speeds"
 ],
+"bobsleigh": [
+"___bobsled"
+],
 "bobstay": [
 "A rope or chain to confine the bowsprit of a ship downward to the stem or cutwater; -- usually in the pl"
 ],
@@ -13235,6 +13843,12 @@
 ],
 "bodhisat": [
 "One who has reached the highest degree of saintship, so that in his next incarnation he will be a Buddha, or savior of the world"
+],
+"bodhisattva": [
+"___bodhisat"
+],
+"bodhisattwa": [
+"___bodhisat"
 ],
 "bodian": [
 "A large food fish (Diagramma lineatum), native of the East Indies"
@@ -13355,6 +13969,7 @@
 "a scientist or technician, especially one engaged in military research"
 ],
 "boffo": [
+"___boff",
 "highly successful; superbly well done"
 ],
 "bog": [
@@ -13384,7 +13999,7 @@
 "An unidentified aircraft, especially one detected on a radar screen and believed to be an enemy airplane"
 ],
 "bogeyman": [
-"A goblin; a bugbear; a bogey{1}.  This is the form used by parents to frighten children; as, if you don't eat your vegetables, the bogeyman will get you"
+"___boogeyman"
 ],
 "boggard": [
 "A bogey"
@@ -13576,6 +14191,9 @@
 "boldo": [
 "A fragrant evergreen shrub of Chili (Peumus Boldus). The bark is used in tanning, the wood for making charcoal, the leaves in medicine, and the drupes are eaten"
 ],
+"boldu": [
+"___boldo"
+],
 "bole": [
 "The trunk or stem of a tree, or that which is like it",
 "An aperture, with a wooden shutter, in the wall of a house, for giving, occasionally, air or light; also, a small closet",
@@ -13682,10 +14300,14 @@
 "bolshevism": [
 "a form of communism based on the writings of Marx and Lenin"
 ],
+"bolshevize": [
+"___bolshevise"
+],
 "bolshie": [
 "a communist or Bolshevik, n"
 ],
 "bolshy": [
+"___bolshie",
 "obstreperous"
 ],
 "bolster": [
@@ -13771,6 +14393,9 @@
 "bolus": [
 "A rounded mass of anything, esp. a large pill"
 ],
+"bolye": [
+"___boley"
+],
 "bom": [
 "A large American serpent, so called from the sound it makes"
 ],
@@ -13810,6 +14435,9 @@
 "bombardo": [
 "Originally, a deep-toned instrument of the oboe or bassoon family; thence, a bass reed stop on the organ. The name bombardon is now given to a brass instrument, the lowest of the saxhorns, in tone resembling the ophicleide"
 ],
+"bombardon": [
+"___bombardo"
+],
 "bombasine": [
 "___bombazine"
 ],
@@ -13822,6 +14450,9 @@
 ],
 "bombastic": [
 "Characterized by bombast; high-sounding; inflated"
+],
+"bombastical": [
+"___bombastic"
 ],
 "bombastry": [
 "Swelling words without much meaning; bombastic language; fustian"
@@ -13939,6 +14570,9 @@
 "bonapartist": [
 "One attached to the policy or family of Bonaparte, or of the Bonapartes"
 ],
+"bonassus": [
+"___bonasus"
+],
 "bonasus": [
 "The aurochs or European bison. See Aurochs"
 ],
@@ -13973,6 +14607,9 @@
 "To dispose in building, as the materials of a wall, so as to secure solidity",
 "A vassal or serf; a slave",
 "In a state of servitude or slavery; captive"
+],
+"bond servant": [
+"___bond-servant"
 ],
 "bond service": [
 "The condition of a bond servant; service without wages; slavery"
@@ -14055,6 +14692,9 @@
 "bone-idle": [
 "disinclined to work or exertion"
 ],
+"bone-lazy": [
+"___bone-idle"
+],
 "boneache": [
 "Pain in the bones"
 ],
@@ -14120,6 +14760,9 @@
 "bonhomie": [
 "Good nature; pleasant and easy manner"
 ],
+"bonhommie": [
+"___bonhomie"
+],
 "bonibell": [
 "___bonnibel"
 ],
@@ -14181,6 +14824,9 @@
 "bonneted": [
 "Wearing a bonnet",
 "Protected by a bonnet. See Bonnet, 4 (a)"
+],
+"bonnethead": [
+"___bonnet head"
 ],
 "bonnetless": [
 "Without a bonnet"
@@ -14716,6 +15362,7 @@
 "A keeper or a frequenter of a brothel"
 ],
 "bordello": [
+"___bordel",
 "a building where prostitutes are available for hire; a brothel"
 ],
 "border": [
@@ -14749,6 +15396,9 @@
 ],
 "bordrag": [
 "An incursion upon the borders of a country; a raid"
+],
+"bordraging": [
+"___bordrag"
 ],
 "bordure": [
 "A border one fifth the width of the shield, surrounding the field. It is usually plain, but may be charged"
@@ -14868,11 +15518,17 @@
 "boroughmongering": [
 "The practices of a boroughmonger"
 ],
+"boroughmongery": [
+"___boroughmongering"
+],
 "borracho": [
 "___borachio"
 ],
 "borrage": [
 "___borage"
+],
+"borraginaceous": [
+"___borrage"
 ],
 "borrel": [
 "Coarse woolen cloth; hence, coarse clothing; a garment",
@@ -15014,6 +15670,7 @@
 "A strait or narrow sea between two seas, or a lake and a seas; as, the Bosporus (formerly the Thracian Bosporus) or Strait of Constantinople, between the Black Sea and Sea of Marmora; the Cimmerian Bosporus, between the Black Sea and Sea of Azof"
 ],
 "bosquet": [
+"___bosket",
 "___bosket"
 ],
 "boss": [
@@ -15066,6 +15723,9 @@
 ],
 "botanic": [
 "Of or pertaining to botany; relating to the study of plants; as, a botanical system, arrangement, textbook, expedition"
+],
+"botanical": [
+"___botanic"
 ],
 "botanise": [
 "to collect and study plants"
@@ -15160,6 +15820,9 @@
 "bothnian": [
 "Of or pertaining to Bothnia, a country of northern Europe, or to a gulf of the same name which forms the northern part of the Baltic sea"
 ],
+"bothnic": [
+"___bothnian"
+],
 "bothrenchyma": [
 "Dotted or pitted ducts or vessels forming the pores seen in many kinds of wood"
 ],
@@ -15174,6 +15837,9 @@
 ],
 "botryoid": [
 "Having the form of a bunch of grapes; like a cluster of grapes, as a mineral presenting an aggregation of small spherical or spheroidal prominences; as, botryoidal hematite"
+],
+"botryoidal": [
+"___botryoid"
 ],
 "botryolite": [
 "A variety of datolite, usually having a botryoidal structure"
@@ -15198,6 +15864,9 @@
 "bottle green": [
 "A dark shade of green, like that of bottle glass"
 ],
+"bottle-feed": [
+"___bottlefeed"
+],
 "bottle-neck frame": [
 "An inswept frame"
 ],
@@ -15208,6 +15877,9 @@
 ],
 "bottle-nosed": [
 "Having the nose bottle-shaped, or large at the end"
+],
+"bottle-nosed dolphin": [
+"___bottle-nose"
 ],
 "bottlebrush": [
 "a cylindrical brush on a thin shaft that is used to clean bottles"
@@ -15291,6 +15963,9 @@
 "bottomry": [
 "A contract in the nature of a mortgage, by which the owner of a ship, or the master as his agent, hypothecates and binds the ship (and sometimes the accruing freight) as security for the repayment of money advanced or lent for the use of the ship, if she terminates her voyage successfully. If the ship is lost by perils of the sea, the lender loses the money; but if the ship arrives safe, he is to receive the money lent, with the interest or premium stipulated, although it may, and usually does, exceed the legal rate of interest. See Hypothecation"
 ],
+"bottone": [
+"___bottony"
+],
 "bottony": [
 "Having a bud or button, or a kind of trefoil, at the end; furnished with knobs or buttons"
 ],
@@ -15299,6 +15974,9 @@
 ],
 "botuliform": [
 "Having the shape of a sausage"
+],
+"bouch": [
+"___bouche"
 ],
 "bouche": [
 "___bush",
@@ -15407,6 +16085,9 @@
 "bouleversement": [
 "Complete overthrow; disorder; a turning upside down"
 ],
+"boulework": [
+"___boule"
+],
 "boult": [
 "Corrupted form Bolt"
 ],
@@ -15415,6 +16096,9 @@
 ],
 "boulter": [
 "A long, stout fishing line to which many hooks are attached"
+],
+"boultin": [
+"___boultel"
 ],
 "boun": [
 "Ready; prepared; destined; tending",
@@ -15524,6 +16208,9 @@
 "That which is given generously or liberally",
 "A premium offered or given to induce men to enlist into the public service; or to encourage any branch of industry, as husbandry or manufactures"
 ],
+"bountyhood": [
+"___bountihead"
+],
 "bouquet": [
 "A nosegay; a bunch of flowers",
 "A perfume; an aroma; as, the bouquet of wine"
@@ -15575,6 +16262,9 @@
 "bourn": [
 "A stream or rivulet; a burn",
 "A bound; a boundary; a limit. Hence: Point aimed at; goal"
+],
+"bourne": [
+"___bourn"
 ],
 "bournless": [
 "Without a bourn or limit"
@@ -15975,6 +16665,9 @@
 "boxwood": [
 "The wood of the box (Buxus)"
 ],
+"boxy": [
+"___boxlike"
+],
 "boy": [
 "A male child, from birth to the age of puberty; a lad; hence, a son",
 "In various countries, a male servant, laborer, or slave of a native or inferior race; also, any man of such a race; -- considered derogatory by those so called, and now seldom used",
@@ -15985,6 +16678,9 @@
 ],
 "boyar": [
 "A member of a Russian aristocratic order abolished by Peter the Great. Also, one of a privileged class in Roumania"
+],
+"boyard": [
+"___boyar"
 ],
 "boyau": [
 "A winding or zigzag trench forming a path or communication from one siegework to another, to a magazine, etc"
@@ -16095,6 +16791,9 @@
 "A bitch of the hound kind",
 "A bitch of the hound kind.  See also bratchet"
 ],
+"brache": [
+"___brach"
+],
 "brachelytra": [
 "A group of beetles having short elytra, as the rove beetles"
 ],
@@ -16140,6 +16839,12 @@
 ],
 "brachycephalic": [
 "Having the skull short in proportion to its breadth; shortheaded; -- in distinction from dolichocephalic"
+],
+"brachycephalism": [
+"___brachycephaly"
+],
+"brachycephalous": [
+"___brachycephalic"
 ],
 "brachycephaly": [
 "The state or condition of being brachycephalic; shortness of head"
@@ -16192,6 +16897,9 @@
 ],
 "brachyuran": [
 "One of the Brachyura"
+],
+"brachyurous": [
+"___brachyural"
 ],
 "bracing": [
 "Imparting strength or tone; strengthening; invigorating; as, a bracing north wind",
@@ -16340,6 +17048,18 @@
 "brahmanist": [
 "An adherent of the religion of the Brahmans"
 ],
+"brahmin": [
+"___brahman"
+],
+"brahminic": [
+"___brahmanic"
+],
+"brahminism": [
+"___brahmanism"
+],
+"brahminist": [
+"___brahmanist"
+],
 "brahmo-somaj": [
 "A modern reforming theistic sect among the Hindus"
 ],
@@ -16454,6 +17174,7 @@
 "A rough diamond"
 ],
 "braize": [
+"___braise",
 "___braise"
 ],
 "brake": [
@@ -16516,6 +17237,9 @@
 ],
 "bramin": [
 "___brahman"
+],
+"braminic": [
+"___bramin"
 ],
 "bran": [
 "The broken coat of the seed of wheat, rye, or other cereal grain, separated from the flour or meal by sifting or bolting; the coarse, chaffy part of ground grain",
@@ -16659,6 +17383,9 @@
 "brandle": [
 "To shake; to totter"
 ],
+"brandlin": [
+"___brandling"
+],
 "brandling": [
 "___branlin"
 ],
@@ -16688,6 +17415,9 @@
 "To hold up and toss the head; -- applied to horses as spurning the bit",
 "To prance; to caper"
 ],
+"branks": [
+"___brank"
+],
 "brankursine": [
 "Bear's-breech, or Acanthus"
 ],
@@ -16702,8 +17432,7 @@
 "A brawl or dance"
 ],
 "brant": [
-"A species of wild goose (Branta bernicla) -- called also brent and brand goose. The name is also applied to other related species",
-"Steep"
+"___brent"
 ],
 "brant-fox": [
 "A kind of fox found in Sweden (Vulpes alopex), smaller than the common fox (Vulpes vulgaris), but probably a variety of it"
@@ -16732,6 +17461,12 @@
 "Resembling, or of the nature of, brash, or broken fragments; broken; crumbly",
 "Showery; characterized by brashes, or showers"
 ],
+"brasier": [
+"___brazier"
+],
+"brasilein": [
+"___brasilin"
+],
 "brasilia": [
 "The capital city of Brazil, built on the central plateau.  Population (2000) = 1,800,000"
 ],
@@ -16749,6 +17484,9 @@
 "Utensils, ornaments, or other articles of brass",
 "A brass plate engraved with a figure or device. Specifically, one used as a memorial to the dead, and generally having the portrait, coat of arms, etc",
 "Lumps of pyrites or sulphuret of iron, the color of which is near to that of brass"
+],
+"brass-bound": [
+"___brassbound"
 ],
 "brass-visaged": [
 "Impudent; bold"
@@ -16794,6 +17532,7 @@
 "formerly a golfing wood with a face more elevated that a driver but less than a spoon"
 ],
 "brassiere": [
+"___brassiere",
 "A form of woman's undergarment, often stiffened with wire or whalebones, or the like, and worn to cover and support the breasts; -- also called bra.  It usually has straps which support it from the shoulders, but strapless variants are also made"
 ],
 "brassiness": [
@@ -16989,6 +17728,9 @@
 "brazilin": [
 "A substance contained in both Brazil wood and Sapan wood, from which it is extracted as a yellow crystalline substance which is white when pure. It is colored intensely red by alkalies"
 ],
+"brazilwood": [
+"___brazil wood"
+],
 "brazos": [
 "a North American river, flowing into the Gulf of Mexico"
 ],
@@ -17111,6 +17853,9 @@
 "break-in": [
 "an act of trespassing into a closed structure such as a house or place of busineess for an unlawful purpose, usually as part of a burglary"
 ],
+"break-up": [
+"___breakup"
+],
 "breakability": [
 "the quality of being easily damaged or destroyed"
 ],
@@ -17185,13 +17930,7 @@
 "To clean, as a ship's bottom of adherent shells, seaweed, etc., by the application of fire and scraping"
 ],
 "breast": [
-"The fore part of the body, between the neck and the belly; the chest; as, the breast of a man or of a horse",
-"Either one of the protuberant glands, situated on the front of the chest or thorax in the female of man and of some other mammalia, in which milk is secreted for the nourishment of the young; a mamma; a teat",
-"Anything resembling the human breast, or bosom; the front or forward part of anything; as, a chimney breast; a plow breast; the breast of a hill",
-"The face of a coal working",
-"The seat of consciousness; the repository of thought and self-consciousness, or of secrets; the seat of the affections and passions; the heart",
-"The power of singing; a musical voice; -- so called, probably, from the connection of the voice with the lungs, which lie within the breast",
-"To meet, with the breast; to struggle with or oppose manfully; as, to breast the storm or waves"
+"___brest"
 ],
 "breast-deep": [
 "Deep as from the breast to the feet; as high as the breast"
@@ -17234,6 +17973,9 @@
 "A piece against which the workman presses his breast in operating a breast drill, or other similar tool",
 "A strap that runs across a horse's breast",
 "A part of the vestment of the high priest, worn upon the front of the ephod. It was a double piece of richly embroidered stuff, a span square, set with twelve precious stones, on which were engraved the names of the twelve tribes of Israel. See Ephod"
+],
+"breastplough": [
+"___breastplow"
 ],
 "breastplow": [
 "A kind of plow, driven by the breast of the workman; -- used to cut or pare turf"
@@ -17360,6 +18102,9 @@
 "breech pin": [
 "A strong iron or steel plug screwed into the breech of a musket or other firearm, to close the bottom of the bore"
 ],
+"breech screw": [
+"___breech pin"
+],
 "breech sight": [
 "A device attached to the breech of a firearm, to guide the eye, in conjunction with the front sight, in taking aim"
 ],
@@ -17410,6 +18155,9 @@
 "breedbate": [
 "One who breeds or originates quarrels"
 ],
+"breede": [
+"___brede"
+],
 "breeder": [
 "One who, or that which, breeds, produces, brings up, etc",
 "A cause"
@@ -17428,6 +18176,9 @@
 "Refuse left in the process of making coke or burning charcoal",
 "Refuse coal, coal ashes, and cinders, used in the burning of bricks",
 "To blow gently"
+],
+"breeze fly": [
+"___breeze"
 ],
 "breezeless": [
 "Motionless; destitute of breezes"
@@ -17470,6 +18221,9 @@
 ],
 "brennage": [
 "A tribute which tenants paid to their lord, in lieu of bran, which they were obliged to furnish for his hounds"
+],
+"brenne": [
+"___bren"
 ],
 "brenningly": [
 "Burningly; ardently"
@@ -17567,6 +18321,9 @@
 ],
 "brevirostral": [
 "Short-billed; having a short beak"
+],
+"brevirostrate": [
+"___brevirostral"
 ],
 "brevity": [
 "Shortness of duration; briefness of time; as, the brevity of human life",
@@ -17752,6 +18509,9 @@
 "bridemaid": [
 "___bridesmaid"
 ],
+"brideman": [
+"___bridemaid"
+],
 "bridesmaid": [
 "A female friend who attends on a bride at her wedding"
 ],
@@ -17924,17 +18684,7 @@
 "A bridge"
 ],
 "bright": [
-"___brite",
-"Radiating or reflecting light; shedding or having much light; shining; luminous; not dark",
-"Transmitting light; clear; transparent",
-"Having qualities that render conspicuous or attractive, or that affect the mind as light does the eye; resplendent with charms; as, bright beauty",
-"Having a clear, quick intellect; intelligent",
-"Sparkling with wit; lively; vivacious; shedding cheerfulness and joy around; cheerful; cheery",
-"Illustrious; glorious",
-"Manifest to the mind, as light is to the eyes; clear; evident; plain",
-"Of brilliant color; of lively hue or appearance",
-"Splendor; brightness",
-"Brightly"
+"___brite"
 ],
 "bright's disease": [
 "An affection of the kidneys, usually inflammatory in character, and distinguished by the occurrence of albumin and renal casts in the urine. Several varieties of Bright's disease are now recognized, differing in the part of the kidney involved, and in the intensity and course of the morbid process"
@@ -18083,6 +18833,9 @@
 "brinkmanship": [
 "the policy or practise of pushing a dangerous situation to the brink of disaster (to the limits of safety), in order to achieve the most advantageous outcome; -- used especially of diplomatic maneuvers in crisis situations, and originally applied to the policies of John Foster Dulles under President Eisenhower"
 ],
+"brinksmanship": [
+"___brinkmanship"
+],
 "briny": [
 "Of or pertaining to brine, or to the sea; partaking of the nature of brine; salt; as, a briny taste; the briny flood"
 ],
@@ -18102,6 +18855,9 @@
 "briquet": [
 "A block of compacted charcoal, coal dust, or peat, etc., used as a fuel.  Charcoal briquettes are a common fuel used for the outdoor barbecue grill",
 "A block of artificial stone in the form of a brick, used for paving; also, a molded sample of solidified cement or mortar for use as a test piece for showing the strength of the material"
+],
+"briquette": [
+"___briquet"
 ],
 "bris": [
 "the Jewish rite of circumcision"
@@ -18207,6 +18963,7 @@
 "the people of Great Britain"
 ],
 "britt": [
+"___brit",
 "the young of a herring or sprat or similar fish",
 "minute crustaceans, forming food for right whales"
 ],
@@ -18278,6 +19035,12 @@
 "broad seal": [
 "The great seal of England; the public seal of a country or state"
 ],
+"broad-ax": [
+"___broadax"
+],
+"broad-axe": [
+"___broadax"
+],
 "broad-brimmed": [
 "Having a broad brim"
 ],
@@ -18286,6 +19049,9 @@
 ],
 "broad-horned": [
 "Having horns spreading widely"
+],
+"broad-leafed": [
+"___broad-leaved"
 ],
 "broad-leaved": [
 "Having broad, or relatively broad, leaves, in contrast to needlelike or scalelike leaves"
@@ -18303,6 +19069,9 @@
 "broadax": [
 "An ancient military weapon; a battle-ax",
 "An ax with a broad edge, for hewing timber"
+],
+"broadaxe": [
+"___broadax"
 ],
 "broadbean": [
 "an Old World upright plant grown esp. for its large flat edible seeds but also as fodder"
@@ -18437,6 +19206,9 @@
 ],
 "brocken specter": [
 "A mountain specter (which see), esp. that observed on the Brocken, in the Harz Mountains"
+],
+"brocken spectre": [
+"___brocken specter"
 ],
 "brocket": [
 "A male red deer two years old; -- sometimes called brock",
@@ -18599,6 +19371,9 @@
 "bromic": [
 "Of, pertaining to, or containing, bromine; -- said of those compounds of bromine in which this element has a valence of five, or the next to its highest; as, bromic acid"
 ],
+"bromid paper": [
+"___bromide paper"
+],
 "bromide": [
 "A compound of bromine with a positive radical",
 "A person who is conventional and commonplace in his habits of thought and conversation",
@@ -18646,6 +19421,15 @@
 ],
 "brompicrin": [
 "A pungent colorless explosive liquid, CNO2Br3, analogous to and resembling chlorpicrin"
+],
+"brompton cocktail": [
+"___brompton's mixture"
+],
+"brompton mixture": [
+"___brompton's mixture"
+],
+"brompton's cocktail": [
+"___brompton's mixture"
 ],
 "brompton's mixture": [
 "A mixture containing morphine and cocaine, and sometimes other narcotic substances, such as heroin, in an alcoholic solution, administered mostly to terminally ill patients, especially cancer patients, to relieve severe pain.  Its use is not universally accepted as good medical practice"
@@ -18718,6 +19502,9 @@
 ],
 "brontolite": [
 "An aërolite"
+],
+"brontolith": [
+"___brontolite"
 ],
 "brontology": [
 "A treatise upon thunder"
@@ -18827,6 +19614,9 @@
 "A plant having twigs suitable for making brooms to sweep with when bound together; esp., the Cytisus scoparius of Western Europe, which is a low shrub with long, straight, green, angular branches, minute leaves, and large yellow flowers",
 "An implement for sweeping floors, etc., commonly made of the panicles or tops of broom corn, bound together or attached to a long wooden handle; -- so called because originally made of the twigs of the broom",
 "___bream"
+],
+"broom corn": [
+"___broomcorn"
 ],
 "broom rape": [
 "A genus (Orobanche) of parasitic plants of Europe and Asia. They are destitute of chlorophyll, have scales instead of leaves, and spiked flowers, and grow attached to the roots of other plants, as furze, clover, flax, wild carrot, etc. The name is sometimes applied to other plants related to this genus, as Aphyllon uniflorumand Aphyllon Ludovicianum"
@@ -19100,6 +19890,9 @@
 "brunet": [
 "being or having dark-colored skin and hair; contrasted with blond",
 "A girl or woman with a somewhat brown or dark complexion"
+],
+"brunette": [
+"___brunet"
 ],
 "brunion": [
 "A nectarine"
@@ -19419,6 +20212,9 @@
 "A frame on which firewood is sawed; a sawhorse; a sawbuck",
 "The beech tree"
 ],
+"buck bean": [
+"___buckbean"
+],
 "buck fever": [
 "Intense excitement at the sight of deer or other game, such as often unnerves a novice in hunting"
 ],
@@ -19463,6 +20259,9 @@
 ],
 "bucketful": [
 "a bucket filled with a substance, or the quantity which would fill a bucket"
+],
+"bucketfull": [
+"___bucketful"
 ],
 "buckety": [
 "Paste used by weavers to dress their webs"
@@ -19607,11 +20406,17 @@
 "budger": [
 "One who budges"
 ],
+"budgereegah": [
+"___budgerigar"
+],
 "budgerigar": [
 "small Australian parakeet (Melopsittacus undulatus) usually light green with black and yellow markings in the wild but bred in many colors"
 ],
 "budgerow": [
 "A large and commodious, but generally cumbrous and sluggish boat, used for journeys on the Ganges"
+],
+"budgerygah": [
+"___budgerigar"
 ],
 "budget": [
 "A bag or sack with its contents; hence, a stock or store; an accumulation; as, a budget of inventions",
@@ -19659,6 +20464,9 @@
 "The bison of North America",
 "A buffalo robe. See Buffalo robe, below",
 "The buffalo fish. See Buffalofish, below"
+],
+"buffalo fish": [
+"___buffalofish"
 ],
 "buffalo nickel": [
 "A United States five-cent coin minted from 1913 to 1937 having an image of an American bison (“buffalo”) on its reverse, and an American Indian on the obverse"
@@ -19789,6 +20597,7 @@
 ],
 "bugbear": [
 "___bugaboo",
+"___bugaboo",
 "To alarm with idle phantoms"
 ],
 "bugfish": [
@@ -19842,6 +20651,9 @@
 "buhlbuhl": [
 "___bulbul"
 ],
+"buhlwork": [
+"___buhl"
+],
 "buhrstone": [
 "A cellular, flinty rock, used for mill stones"
 ],
@@ -19852,6 +20664,9 @@
 "To exercise the art, or practice the business, of building",
 "To rest or depend, as on a foundation; to ground one's self or one's hopes or opinions upon something deemed reliable; to rely; as, to build on the opinions or advice of others",
 "Form or mode of construction; general figure; make; as, the build of a ship; a great build on a man"
+],
+"build-up": [
+"___buildup"
 ],
 "builder": [
 "One who builds; one whose occupation is to build, as a carpenter, a shipwright, or a mason"
@@ -19962,6 +20777,9 @@
 "bulimus": [
 "A genus of land snails having an elongated spiral shell, often of large size. The species are numerous and abundant in tropical America"
 ],
+"bulimy": [
+"___bulimia"
+],
 "bulk": [
 "Magnitude of material substance; dimensions; mass; size; as, an ox or ship of great bulk",
 "The main mass or body; the largest or principal portion; the majority; as, the bulk of a debt",
@@ -20004,6 +20822,9 @@
 ],
 "bull moose": [
 "A follower of Theodore Roosevelt in the presidential campaign of 1912; -- a sense said to have originated from a remark made by  Roosevelt on a certain occasion that he felt “like a bull moose.”"
+],
+"bull snake": [
+"___bullsnake"
 ],
 "bull terrier": [
 "A breed of short-haired terrier dogs originated in England by crossing the bulldog and the terrier"
@@ -20097,16 +20918,23 @@
 "Any public notice or announcement, especially of news recently received",
 "A periodical publication, especially one containing the proceeding of a society"
 ],
+"bulletproof": [
+"___bullet-proof"
+],
 "bullfaced": [
 "Having a large face"
 ],
 "bullfeast": [
 "___bullfight"
 ],
+"bullfice": [
+"___bullfist"
+],
 "bullfight": [
 "a sport of great antiquity, in which men torment, and fight with, a bull or bulls in an arena, for public amusement, -- still popular in Spain, Portugal and Latin American.  In the Spanish version a matador kills the bull with a sword after the bull has been weakened by wounds from small barbed rods, and after he has displayed courage and artistic skill in causing the bull to charge many times while he stands still or nearly still.  In some versions the bull is not killed.  Occasionally the matador is wounded or killed by the bull"
 ],
 "bullfighting": [
+"___bullfight",
 "the activity at a bullfight"
 ],
 "bullfinch": [
@@ -20114,6 +20942,9 @@
 ],
 "bullfist": [
 "A kind of fungus. See Puffball"
+],
+"bullfly": [
+"___bull fly"
 ],
 "bullfrog": [
 "A very large species of frog (Rana Catesbiana), found in North America; -- so named from its loud bellowing in spring"
@@ -20185,6 +21016,9 @@
 "bullsnake": [
 "any of several large harmless rodent-eating North American burrowing snakes of the genus Pituophis.  They include the gopher snake and pine snake"
 ],
+"bullterrier": [
+"___bull terrier"
+],
 "bullweed": [
 "Knapweed"
 ],
@@ -20200,6 +21034,9 @@
 "To intimidate or badger with threats and by an overbearing, swaggering demeanor; to act the part of a bully{1} toward",
 "To act as a bully{1}",
 "Well done! Excellent!"
+],
+"bully beef": [
+"___bully"
 ],
 "bully pulpit": [
 "An exceptionally advantageous position from which to extol one's ideas; -- applied especially to the presidency of the United States, which was described thus by President Theodore Rossevelt"
@@ -20431,6 +21268,9 @@
 "bungee jump": [
 "an act of derring-do in which a person jumps from a high platform, such as a bridge, attached (usually by the legs) to a bungee cord, which is set to a length that will halt the drop before the person reaches the surface of the earth or the water"
 ],
+"bungee jumping": [
+"___bungee jump"
+],
 "bunghole": [
 "___bung"
 ],
@@ -20489,9 +21329,11 @@
 "To swindle by a bunko game or scheme; to cheat or victimize in any similar way, as by a confidence game, passing a bad check, etc"
 ],
 "bunkum": [
+"___buncombe",
 "___buncombe"
 ],
 "bunn": [
+"___bun",
 "___bun"
 ],
 "bunnian": [
@@ -20503,6 +21345,9 @@
 ],
 "bunodonta": [
 "A division of the herbivorous mammals including the hogs and hippopotami; -- so called because the teeth are tuberculated"
+],
+"bunodonts": [
+"___bunodonta"
 ],
 "buns": [
 "the buttocks"
@@ -20519,6 +21364,9 @@
 "bunsen's battery": [
 "___battery"
 ],
+"bunsen's burner": [
+"___bunsen burner"
+],
 "bunt": [
 "A fungus (Ustilago fœtida) which affects the ear of cereals, filling the grains with a fetid dust; -- also called pepperbrand",
 "The middle part, cavity, or belly of a sail; the part of a furled sail which is at the center of the yard",
@@ -20533,6 +21381,9 @@
 "bunter": [
 "A woman who picks up rags in the streets; hence, a low, vulgar woman",
 "a batter who bunts{2}"
+],
+"buntine": [
+"___bunting"
 ],
 "bunting": [
 "A bird of the genus Emberiza, or of an allied genus, related to the finches and sparrows (family Fringillidæ)",
@@ -20596,6 +21447,9 @@
 "uttered with unrestrained enthusiasm; as, a novel told in burbly panting tones",
 "bubbling; -- of sounds, especially of water"
 ],
+"burbly": [
+"___burbling"
+],
 "burbolt": [
 "A birdbolt"
 ],
@@ -20656,6 +21510,9 @@
 ],
 "bureaucratic": [
 "Of, relating to, or resembling, a bureaucracy"
+],
+"bureaucratical": [
+"___bureaucratic"
 ],
 "bureaucratism": [
 "nonelective government officials; same as bureaucracy"
@@ -20939,11 +21796,17 @@
 "A cloaklike garment and hood woven in one piece, worn by Arabs",
 "A combination cloak and hood worn by women"
 ],
+"burnous": [
+"___burnoose"
+],
 "burnstickle": [
 "A stickleback (Gasterosteus aculeatus)"
 ],
 "burnt": [
 "Consumed with, or as with, fire; scorched or dried, as with fire or heat; baked or hardened in the fire or the sun"
+],
+"burnt-out": [
+"___burned-out"
 ],
 "burnup": [
 "the amount of fuel used up (as in a nuclear reactor)"
@@ -20953,7 +21816,11 @@
 "to cause to belch; -- used especially of actions parents take to relieve stomach gas in infants; as, mother fed and burped the baby, and put her to bed",
 "a reflex that expels wind noisily from the stomach through the mouth"
 ],
+"burping": [
+"___burp"
+],
 "burr": [
+"___bur",
 "A prickly seed vessel. See Bur, 1",
 "The thin edge or ridge left by a tool in cutting or shaping metal, as in turning, engraving, pressing, etc.; also, the rough neck left on a bullet in casting",
 "A thin flat piece of metal, formed from a sheet by punching; a small washer put on the end of a rivet before it is swaged down",
@@ -20978,6 +21845,9 @@
 ],
 "burrfish": [
 "any of several fishes having rigid flattened spines"
+],
+"burrhel": [
+"___burhel"
 ],
 "burring machine": [
 "A machine for cleansing wool of burs, seeds, and other substances"
@@ -21084,6 +21954,7 @@
 "of, pertaining to, or characteristic of the Burundian people; as, the Burundian population"
 ],
 "burundian": [
+"___burundi",
 "a native or inhabitant of Burundi"
 ],
 "burunduki": [
@@ -21099,8 +21970,14 @@
 "burying ground": [
 "The ground or place for burying the dead; burial place"
 ],
+"burying place": [
+"___burying ground"
+],
 "bus": [
 "An omnibus"
+],
+"bus-bar": [
+"___busbar"
 ],
 "busbar": [
 "an electrical conductor that makes a common connection between several circuits"
@@ -21126,6 +22003,9 @@
 ],
 "bush baby": [
 "any of several agile long-tailed nocturnal African lemurlike primates of the genus Galago with dense woolly fur and large eyes and ears; -- called also galago"
+],
+"bushbaby": [
+"___bush baby"
 ],
 "bushboy": [
 "___bushman"
@@ -21319,15 +22199,6 @@
 "active work of little value, performed merely to occupy time, avoid boredom, or to look busy; as, while he was waiting he filled the days with busywork"
 ],
 "but": [
-"Except with; unless with; without",
-"Except; besides; save",
-"Excepting or excluding the fact that; save that; were it not that; unless; -- elliptical, for but that",
-"Otherwise than that; that not; -- commonly, after a negative, with that",
-"Only; solely; merely",
-"On the contrary; on the other hand; only; yet; still; however; nevertheless; more; further; -- as connective of sentences or clauses of a sentence, in a sense more or less exceptive or adversative; as, the House of Representatives passed the bill, but the Senate dissented; our wants are many, but quite of another kind",
-"The outer apartment or kitchen of a two-roomed house; -- opposed to ben, the inner room",
-"A limit; a boundary",
-"The end; esp. the larger or thicker end, or the blunt, in distinction from the sharp, end.  Now disused in this sense, being replaced by butt{2}.  See 1st Butt",
 "___butt"
 ],
 "but-thorn": [
@@ -21363,6 +22234,12 @@
 ],
 "butcher's broom": [
 "A genus of plants (Ruscus); esp. Ruscus aculeatus, which has large red berries and leaflike branches. See Cladophyll"
+],
+"butcher-bird": [
+"___butcher bird"
+],
+"butcherbird": [
+"___butcher bird"
 ],
 "butchering": [
 "The business of a butcher",
@@ -21449,6 +22326,12 @@
 ],
 "butter and eggs": [
 "a name given to several perennial plants having showy flowers of two shades of yellow, or of yellow and orange, such as Narcissus incomparabilis in Europe, and the toadflax (Linaria vulgaris) in the United States; the latter is a naturalized weed in North America"
+],
+"butter-and-eggs": [
+"___butter and eggs"
+],
+"butter-fingered": [
+"___butterfingered"
 ],
 "butter-print": [
 "tall annual herb or subshrub of tropical Asia having velvety leaves and yellow flowers and yielding a strong fiber; naturalized in SE Europe and US"
@@ -21656,6 +22539,9 @@
 ],
 "buy out": [
 "to take over ownership of; -- of corporations and companies"
+],
+"buy-out": [
+"___buy out"
 ],
 "buyer": [
 "One who buys; a purchaser"
@@ -21897,6 +22783,7 @@
 "___byzantine"
 ],
 "byzantine": [
+"___byzant",
 "Of or pertaining to Byzantium"
 ],
 "byzantinism": [
@@ -21904,5 +22791,14 @@
 ],
 "byzantium": [
 "An ancient city on the Bosphorus founded by the Greeks.  It was later renamed Constaninople in honor of the emperor Constantine, and renamed Istanbul by the Turks, which name it still retains"
+],
+"francis bacon": [
+"___bacon"
+],
+"ical": [
+"___brahmanic"
+],
+"roger bacon": [
+"___bacon"
 ]
 }

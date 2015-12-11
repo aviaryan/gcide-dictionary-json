@@ -90,6 +90,15 @@
 "i. w. w.": [
 "Industrial Workers of the World (the name of two American labor organizations, one of which advocates syndicalism)"
 ],
+"i.d.": [
+"___id"
+],
+"i.o.u": [
+"___i o u"
+],
+"i.q.": [
+"___iq"
+],
 "iaa": [
 "Indoleacetic acid, a plant hormone promoting elongation of stems and roots"
 ],
@@ -125,6 +134,9 @@
 ],
 "iatric": [
 "Of or pertaining to medicine, or to medical men"
+],
+"iatrical": [
+"___iatric"
 ],
 "iatrochemical": [
 "Of or pertaining to iatrochemistry, or to the iatrochemists"
@@ -286,6 +298,9 @@
 "ichnographic": [
 "Of or pertaining to ichonography; describing a ground plot"
 ],
+"ichnographical": [
+"___ichnographic"
+],
 "ichnography": [
 "A horizontal section of a building or other object, showing its true dimensions according to a geometric scale; a ground plan; a map; also, the art of making such plans"
 ],
@@ -332,6 +347,9 @@
 "ichthyocol": [
 "Fish glue; isinglass; a glue prepared from the sounds of certain fishes"
 ],
+"ichthyocolla": [
+"___ichthyocol"
+],
 "ichthyocoprolite": [
 "Fossil dung of fishes"
 ],
@@ -344,6 +362,9 @@
 "ichthyoid": [
 "Somewhat like a fish; having some of the characteristics of fishes; -- said of some amphibians"
 ],
+"ichthyoidal": [
+"___ichthyoid"
+],
 "ichthyol": [
 "An oily substance prepared by the dry distillation of a bituminous mineral containing fossil fishes. It is used in medicine as a remedy in some forms of skin diseases"
 ],
@@ -355,6 +376,9 @@
 ],
 "ichthyologic": [
 "Of or pertaining to ichthyology"
+],
+"ichthyological": [
+"___ichthyologic"
 ],
 "ichthyologist": [
 "One versed in, or who studies, ichthyology"
@@ -370,6 +394,9 @@
 ],
 "ichthyomorphic": [
 "Fish-shaped; as, the ichthyomorphic idols of ancient Assyria"
+],
+"ichthyomorphous": [
+"___ichthyomorphic"
 ],
 "ichthyophagist": [
 "One who eats, or subsists on, fish"
@@ -475,6 +502,9 @@
 "iconodule": [
 "One who serves images; -- opposed to an iconoclast"
 ],
+"iconodulist": [
+"___iconodule"
+],
 "iconograph": [
 "An engraving or other picture or illustration for a book"
 ],
@@ -522,6 +552,9 @@
 "icosandrian": [
 "Pertaining to the class Icosandria; having twenty or more stamens inserted in the calyx"
 ],
+"icosandrous": [
+"___icosandrian"
+],
 "icositetrahedron": [
 "A twenty-four-sided solid; a tetragonal trisoctahedron or trapezohedron"
 ],
@@ -530,8 +563,14 @@
 "Pertaining to, or affected with, jaundice",
 "Good against the jaundice"
 ],
+"icterical": [
+"___icteric"
+],
 "icteritious": [
 "Yellow; of the color of the skin when it is affected by the jaundice"
+],
+"icteritous": [
+"___icteritious"
 ],
 "icteroid": [
 "Of a tint resembling that produced by jaundice; yellow; as, an icteroid tint or complexion"
@@ -650,6 +689,7 @@
 "The actual existence supposed to correspond with an idea; the correlate in real existence to the idea as a thought or existence"
 ],
 "ideate": [
+"___ideat",
 "To form in idea; to fancy",
 "To apprehend in thought so as to fix and hold in the mind; to memorize"
 ],
@@ -667,8 +707,7 @@
 "In diplomacy (esp. in the form identic), precisely agreeing in sentiment or opinion and form or manner of expression; -- applied to concerted action or language which is used by two or more governments in treating with another government"
 ],
 "identical": [
-"The same; the selfsame; the very same; not different; as, the identical person or thing",
-"Uttering sameness or the same truth; expressing in the predicate what is given, or obviously implied, in the subject; tautological"
+"___identic"
 ],
 "identically": [
 "In an identical manner; with respect to identity"
@@ -731,6 +770,9 @@
 "ideographic": [
 "Of or pertaining to an ideogram; representing ideas by symbols, independently of sounds; as, 9 represents not the word “nine,” but the idea of the number itself"
 ],
+"ideographical": [
+"___ideographic"
+],
 "ideographics": [
 "The system of writing in ideographic characters; also, anything so written"
 ],
@@ -741,6 +783,7 @@
 "concerned with or suggestive of ideas; as, an ideologic argument"
 ],
 "ideological": [
+"___ideologic",
 "Of or pertaining to ideology"
 ],
 "ideologist": [
@@ -773,6 +816,9 @@
 "idiocratic": [
 "Peculiar in constitution or temperament; idiosyncratic"
 ],
+"idiocratical": [
+"___idiocratic"
+],
 "idiocy": [
 "The condition or quality of being an idiot; absence, or marked deficiency, of sense and intelligence"
 ],
@@ -787,6 +833,9 @@
 ],
 "idiographic": [
 "Of or pertaining to an idiograph"
+],
+"idiographical": [
+"___idiographic"
 ],
 "idiolatry": [
 "Self-worship; excessive self-esteem"
@@ -805,6 +854,9 @@
 "Of or pertaining to, or conforming to, the mode of expression peculiar to a language; as, an idiomatic meaning; an idiomatic phrase",
 "Of or pertaining to, or of the nature of an idiom{3}; having a meaning that is peculiar to itself and not predictable from general rules"
 ],
+"idiomatical": [
+"___idiomatic"
+],
 "idiomorphic": [
 "Idiomorphous"
 ],
@@ -820,6 +872,9 @@
 ],
 "idiopathic": [
 "Pertaining to idiopathy; characterizing a disease arising primarily, and not in consequence of some other disease or injury; -- opposed to symptomatic, sympathetic, and traumatic"
+],
+"idiopathical": [
+"___idiopathic"
 ],
 "idiopathy": [
 "A peculiar, or individual, characteristic or affection",
@@ -843,6 +898,9 @@
 "idiosyncratic": [
 "Of peculiar temper or disposition; belonging to one's peculiar and individual character"
 ],
+"idiosyncratical": [
+"___idiosyncratic"
+],
 "idiot": [
 "A man in private station, as distinguished from one holding a public office",
 "An unlearned, ignorant, or simple person, as distinguished from the educated; an ignoramus",
@@ -861,6 +919,9 @@
 "idiotic": [
 "Common; simple",
 "Pertaining to, or like, an idiot; characterized by idiocy; foolish; fatuous; as, an idiotic person, speech, laugh, or action"
+],
+"idiotical": [
+"___idiotic"
 ],
 "idiotically": [
 "In an idiotic manner"
@@ -907,6 +968,9 @@
 ],
 "idless": [
 "Idleness"
+],
+"idlesse": [
+"___idless"
 ],
 "idly": [
 "In a idle manner; ineffectually; vainly; lazily; carelessly; (Obs.) foolishly"
@@ -974,6 +1038,9 @@
 "idolographical": [
 "Descriptive of idols"
 ],
+"idolon": [
+"___idolum"
+],
 "idolous": [
 "Idolatrous"
 ],
@@ -988,6 +1055,9 @@
 ],
 "idrialine": [
 "A bituminous substance obtained from the mercury mines of Idria, where it occurs mixed with cinnabar"
+],
+"idrialite": [
+"___idrialine"
 ],
 "idumean": [
 "Of or pertaining to ancient Idumea, or Edom, in Western Asia"
@@ -1269,6 +1339,9 @@
 "ilkon": [
 "Each one; every one"
 ],
+"ilkoon": [
+"___ilkon"
+],
 "ill": [
 "Contrary to good, in a physical sense; contrary or opposed to advantage, happiness, etc.; bad; evil; unfortunate; disagreeable; unfavorable",
 "Contrary to good, in a moral sense; evil; wicked; wrong; iniquitious; naughtly; bad; improper",
@@ -1296,6 +1369,9 @@
 "ill-favored": [
 "Wanting beauty or attractiveness; unattractive; deformed; ugly; ill-looking; -- usually used of a face; as, an ill-favored countenance"
 ],
+"ill-favoured": [
+"___ill-favored"
+],
 "ill-fed": [
 "not getting adequate food"
 ],
@@ -1310,6 +1386,9 @@
 ],
 "ill-humored": [
 "ill-natured; having a sour, disagreeable, or surly disposition.  Opposite of good-natured"
+],
+"ill-humoured": [
+"___ill-humored"
 ],
 "ill-judged": [
 "Not well judged; unwise; not well considered or thought out; as, an ill-judged attempt"
@@ -1827,8 +1906,14 @@
 "Among the Muslims, a minister or priest who performs the regular service of the mosque",
 "A Muslim prince who, as a successor of Mohammed, unites in his person supreme spiritual and temporal power"
 ],
+"iman": [
+"___imam"
+],
 "imaret": [
 "A lodging house for Muslim pilgrims"
+],
+"imaum": [
+"___imam"
 ],
 "imbalm": [
 "___embalm"
@@ -1992,6 +2077,7 @@
 "To lay in order, one lapping over another, so as to form an imbricated surface"
 ],
 "imbricated": [
+"___imbricate",
 "overlapping or layered as scales or shingles; -- used especially of leaves or bracts"
 ],
 "imbrication": [
@@ -2005,6 +2091,9 @@
 ],
 "imbrocata": [
 "A hit or thrust"
+],
+"imbroccata": [
+"___imbrocata"
 ],
 "imbroglio": [
 "An intricate, complicated plot, as of a drama or work of fiction",
@@ -2117,6 +2206,9 @@
 ],
 "immanence": [
 "The condition or quality of being immanent; inherence; an indwelling"
+],
+"immanency": [
+"___immanence"
 ],
 "immanent": [
 "Remaining within; inherent; indwelling; abiding; intrinsic; internal or subjective; hence, limited in activity, agency, or effect, to the subject or associated acts; -- opposed to emanant, transitory, transitive, or objective"
@@ -2407,6 +2499,9 @@
 "immobility": [
 "The condition or quality of being immobile; fixedness in place or state"
 ],
+"immobilization": [
+"___immobilisation"
+],
 "immobilize": [
 "To make immovable; in surgery, to make immovable (a naturally mobile part, as a joint) by the use of splints, or stiffened bandages"
 ],
@@ -2505,6 +2600,9 @@
 ],
 "immortification": [
 "Failure to mortify the passions"
+],
+"immould": [
+"___immold"
 ],
 "immovability": [
 "The quality or state of being immovable; fixedness; steadfastness; as, immovability of a heavy body; immovability of purpose"
@@ -2959,6 +3057,9 @@
 "impendence": [
 "The state of impending; the state of being imminent and liable to happen soon; also, that which impends"
 ],
+"impendency": [
+"___impendence"
+],
 "impendent": [
 "Impending; threatening"
 ],
@@ -3092,6 +3193,9 @@
 "imperforate": [
 "Not perforated; having no opening or aperture"
 ],
+"imperforated": [
+"___imperforate"
+],
 "imperforation": [
 "The state of being without perforation"
 ],
@@ -3161,6 +3265,9 @@
 "impermanence": [
 "Lack of permanence"
 ],
+"impermanency": [
+"___impermanence"
+],
 "impermanent": [
 "Not permanent"
 ],
@@ -3199,6 +3306,9 @@
 ],
 "impersonator": [
 "One who impersonates; an actor; a mimic"
+],
+"impersonification": [
+"___impersonation"
 ],
 "imperspicuity": [
 "Lack of perspicuity or clearness; vagueness; ambiguity"
@@ -3548,6 +3658,9 @@
 "impolarily": [
 "Not according to or in, the direction of the poles"
 ],
+"impolarly": [
+"___impolarily"
+],
 "impolicy": [
 "The quality of being impolitic; inexpedience; unsuitableness to the end proposed; bads policy; as, the impolicy of fraud"
 ],
@@ -3764,6 +3877,9 @@
 "impostress": [
 "A woman who imposes upon or deceives others"
 ],
+"impostrix": [
+"___impostress"
+],
 "impostrous": [
 "Characterized by imposture; deceitful"
 ],
@@ -3786,6 +3902,9 @@
 "The quality or condition of being impotent; lack of strength or power, animal, intellectual, or moral; weakness; feebleness; inability; imbecility",
 "Lack of self-restraint or self-control",
 "Lack of procreative power; inability to copulate, or beget children; also, sometimes, sterility; barrenness"
+],
+"impotency": [
+"___impotence"
 ],
 "impotent": [
 "Not potent; wanting power, strength. or vigor. whether physical, intellectual, or moral; deficient in capacity; destitute of force; weak; feeble; infirm",
@@ -3961,6 +4080,9 @@
 "One who adheres to the theory or method of impressionism in art; especially, a painter who paints in the impressionistic style; as, the skyrocketing prices of paintings by the French impressionists",
 "Pertaining to, or characterized by, impressionism"
 ],
+"impressionistic": [
+"___impressionist"
+],
 "impressionless": [
 "Having the quality of not being impressed or affected; not susceptible"
 ],
@@ -3986,6 +4108,9 @@
 ],
 "imprevalence": [
 "Lack of prevalence"
+],
+"imprevalency": [
+"___imprevalence"
 ],
 "impreventability": [
 "The state or quality of being impreventable; inevitability"
@@ -4043,11 +4168,17 @@
 "improbative": [
 "Implying, or tending to, improbation"
 ],
+"improbatory": [
+"___improbative"
+],
 "improbity": [
 "Lack of probity; lack of integrity or rectitude; dishonesty"
 ],
 "improficience": [
 "Lack of proficiency"
+],
+"improficiency": [
+"___improficience"
 ],
 "improfitable": [
 "Unprofitable"
@@ -4191,6 +4322,9 @@
 ],
 "improvisatorial": [
 "Of or pertaining to improvisation or extemporaneous composition"
+],
+"improvisatory": [
+"___improvisatorial"
 ],
 "improvisatrice": [
 "___improvvisatrice"
@@ -4400,6 +4534,9 @@
 "in esse": [
 "In being; actually existing; -- distinguished from in posse, or in potentia, which denote that a thing is not, but may be"
 ],
+"in group": [
+"___in-group"
+],
 "in loco": [
 "In the place; in the proper or natural place"
 ],
@@ -4566,6 +4703,9 @@
 "The quality of being inadvertent; lack of heedfulness or attentiveness; inattention; negligence; as, many mistakes proceed from inadvertence",
 "An effect of inattention; a result of carelessness; an oversight, mistake, or fault from negligence"
 ],
+"inadvertency": [
+"___inadvertence"
+],
 "inadvertent": [
 "Not turning the mind to a matter; heedless; careless; negligent; inattentive"
 ],
@@ -4636,6 +4776,9 @@
 "inaniloquent": [
 "Given to talking inanely; loquacious; garrulous"
 ],
+"inaniloquous": [
+"___inaniloquent"
+],
 "inanimate": [
 "To animate",
 "Not animate; destitute of life or spirit; lifeless; dead; inactive; dull; as, stones and earth are inanimate substances"
@@ -4684,6 +4827,9 @@
 ],
 "inappetence": [
 "Lack of appetency; lack of desire"
+],
+"inappetency": [
+"___inappetence"
 ],
 "inapplicability": [
 "The quality of being inapplicable; unfitness; inapplicableness"
@@ -4843,6 +4989,9 @@
 "inbreak": [
 "A breaking in; inroad; invasion"
 ],
+"inbreaking": [
+"___inbreak"
+],
 "inbreathe": [
 "To infuse by breathing; to inspire"
 ],
@@ -4966,6 +5115,9 @@
 "To imprison; to confine in a jail or prison",
 "To confine; to shut up or inclose; to hem in",
 "Imprisoned"
+],
+"incarcerated": [
+"___incarcerate"
 ],
 "incarceration": [
 "The act of confining, or the state of being confined; imprisonment",
@@ -5271,6 +5423,9 @@
 "incipience": [
 "Beginning; commencement; incipient state"
 ],
+"incipiency": [
+"___incipience"
+],
 "incipient": [
 "Beginning to be, or to show itself; commencing; initial; as, the incipient stage of a fever; incipient light of day"
 ],
@@ -5503,6 +5658,9 @@
 "incoact": [
 "Not compelled; unconstrained"
 ],
+"incoacted": [
+"___incoact"
+],
 "incoagulable": [
 "Not coagulable"
 ],
@@ -5528,6 +5686,9 @@
 ],
 "incogitance": [
 "Lack of thought, or of the power of thinking; thoughtlessness; unreasonableness"
+],
+"incogitancy": [
+"___incogitance"
 ],
 "incogitant": [
 "Thoughtless; inconsiderate"
@@ -5569,6 +5730,9 @@
 "The quality or state of being incoherent; lack of coherence; lack of cohesion or adherence",
 "Lack of connection; incongruity; inconsistency; lack of agreement or dependence of one part on another; as, the incoherence of arguments, facts, etc",
 "That which is incoherent"
+],
+"incoherency": [
+"___incoherence"
 ],
 "incoherent": [
 "Not coherent; wanting cohesion; loose; unconnected; physically disconnected; not fixed to each; -- said of material substances",
@@ -5685,6 +5849,9 @@
 "incompact": [
 "Not compact; not having the parts firmly united; not solid; incoherent; loose; discrete"
 ],
+"incompacted": [
+"___incompact"
+],
 "incomparable": [
 "Not comparable; admitting of no comparison with others; unapproachably eminent; without a peer or equal; matchless; peerless; transcendent"
 ],
@@ -5717,6 +5884,9 @@
 "incompetence": [
 "The quality or state of being incompetent; lack of physical, intellectual, or moral ability; lack of qualifications or training (for a particular task); insufficiency; inadequacy; as, the incompetency of a child for hard labor, or of an idiot for intellectual efforts",
 "Lack of competency or legal fitness; incapacity; disqualification, as of a person to be heard as a witness, or to act as a juror, or of a judge to try a cause"
+],
+"incompetency": [
+"___incompetence"
 ],
 "incompetent": [
 "Not competent; wanting in adequate strength, power, capacity, means, qualifications, or the like; incapable; unable; inadequate; unfit",
@@ -5849,6 +6019,12 @@
 "incondensable": [
 "Not condensable; incapable of being made more dense or compact, or reduced to liquid form"
 ],
+"incondensibility": [
+"___incondensability"
+],
+"incondensible": [
+"___incondensable"
+],
 "incondite": [
 "Badly put together; inartificial; rude; unpolished; irregular"
 ],
@@ -5975,6 +6151,9 @@
 "inconsonance": [
 "Lack of consonance or harmony of sound, action, or thought; disagreement"
 ],
+"inconsonancy": [
+"___inconsonance"
+],
 "inconsonant": [
 "Not consonant or agreeing; inconsistent; discordant"
 ],
@@ -6023,6 +6202,9 @@
 "incontinence": [
 "Incapacity to hold; hence, incapacity to hold back or restrain; the quality or state of being incontinent; lack of continence; failure to restrain the passions or appetites; indulgence of lust; lewdness",
 "The inability of any of the animal organs to restrain the natural evacuations, especially urination, or defecation, so that the discharges are involuntary; as, incontinence of urine"
+],
+"incontinency": [
+"___incontinence"
 ],
 "incontinent": [
 "Not continent; uncontrolled; not restraining the passions or appetites, particularly the sexual appetite; indulging unlawful lust; unchaste; lewd",
@@ -6175,6 +6357,9 @@
 "incorrespondence": [
 "Lack of correspondence; disagreement; disproportion"
 ],
+"incorrespondency": [
+"___incorrespondence"
+],
 "incorresponding": [
 "Not corresponding; disagreeing"
 ],
@@ -6235,6 +6420,9 @@
 "Thickened; becoming thicker",
 "Swelled out on some particular part, as the antennæ of certain insects"
 ],
+"incrassated": [
+"___incrassate"
+],
 "incrassation": [
 "The act or process of thickening or making thick; the process of becoming thick or thicker",
 "The state of being incrassated or made thick; inspissation"
@@ -6280,6 +6468,9 @@
 "increate": [
 "To create within",
 "Uncreated; self-existent"
+],
+"increated": [
+"___increate"
 ],
 "incredibility": [
 "The quality or state of being incredible; incredibleness",
@@ -6573,6 +6764,9 @@
 "incuse": [
 "Cut or stamped in, or hollowed out by engraving",
 "To form, or mold, by striking or stamping, as a coin or medal"
+],
+"incuss": [
+"___incuse"
 ],
 "incute": [
 "To strike or stamp in"
@@ -7230,6 +7424,9 @@
 "indignance": [
 "Indignation"
 ],
+"indignancy": [
+"___indignance"
+],
 "indignant": [
 "Affected with indignation; wrathful; passionate; irate; feeling wrath, as when a person is exasperated by unworthy or unjust treatment, by a mean action, or by a degrading accusation"
 ],
@@ -7328,6 +7525,12 @@
 ],
 "indiscerpible": [
 "Not discerpible; inseparable"
+],
+"indiscerptibility": [
+"___indiscerpibility"
+],
+"indiscerptible": [
+"___indiscerpible"
 ],
 "indisciplinable": [
 "Not disciplinable; undisciplinable"
@@ -7579,6 +7782,9 @@
 "indo-briton": [
 "A person born in India, of mixed Indian and British blood; a half-caste"
 ],
+"indo-chinese": [
+"___indochinese"
+],
 "indo-do-chinese languages": [
 "A family of languages, mostly of the isolating type, although some are agglutinative, spoken in the great area extending from northern India in the west to Formosa in the east and from Central Asia in the north to the Malay Peninsula in the south"
 ],
@@ -7627,6 +7833,9 @@
 ],
 "indoin": [
 "A substance resembling indigo blue, obtained artificially from certain isatogen compounds"
+],
+"indol": [
+"___indole"
 ],
 "indole": [
 "A white, crystalline substance, C8H7N, obtained from blue indigo, and almost all indigo derivatives, by a process of reduction; chemically, it is 2,3-benzopyrrole, a bicyclic heterocyclic compound, having a benzene ring fused to a pyrrole ring.  It is also formed from proteinaceous matter, together with skatol, by putrefaction, and by fusion with caustic potash, and is present in human excrement, as well as in the intestinal canal of some herbivora.  It is produced in rich growth media by the intestinal bacterium Escherichia coli"
@@ -7710,6 +7919,9 @@
 "indorser": [
 "The person who indorses"
 ],
+"indorsor": [
+"___indorser"
+],
 "indow": [
 "___endow"
 ],
@@ -7731,6 +7943,9 @@
 ],
 "indrench": [
 "To overwhelm with water; to drench; to drown"
+],
+"indri": [
+"___indris"
 ],
 "indris": [
 "Any lemurine animal of the genus Indris"
@@ -7841,6 +8056,9 @@
 "inductric": [
 "Acting by, or in a state of, induction; relating to electrical induction"
 ],
+"inductrical": [
+"___inductric"
+],
 "indue": [
 "To put on, as clothes; to draw on",
 "To clothe; to invest; hence, to endow; to furnish; to supply with moral or mental qualities"
@@ -7887,6 +8105,9 @@
 "A privilege or exemption; an indulgence; a dispensation granted by the pope",
 "A duty levied on all importations"
 ],
+"indulto": [
+"___indult"
+],
 "indument": [
 "Plumage; feathers",
 "A dense covering, especially a hairy one; called also indumentum"
@@ -7920,6 +8141,9 @@
 ],
 "indusiate": [
 "Furnished with an indusium"
+],
+"indusiated": [
+"___indusiate"
 ],
 "indusium": [
 "A collection of hairs united so as to form a sort of cup, and inclosing the stigma of a flower"
@@ -8101,6 +8325,9 @@
 "The quality of being inelegant; lack of elegance or grace; lack of refinement, beauty, or polish in language, composition, or manners",
 "Anything inelegant; as, inelegance of style in literary composition"
 ],
+"inelegancy": [
+"___inelegance"
+],
 "inelegant": [
 "Not elegant; deficient in beauty, polish, refinement, grave, or ornament; wanting in anything which correct taste requires"
 ],
@@ -8187,6 +8414,9 @@
 "inequivalve": [
 "Having unequal valves, as the shell of an oyster"
 ],
+"inequivalvular": [
+"___inequivalve"
+],
 "ineradicable": [
 "Incapable of being eradicated or rooted out"
 ],
@@ -8196,6 +8426,9 @@
 "inergetic": [
 "Having no energy; sluggish"
 ],
+"inergetical": [
+"___inergetic"
+],
 "inergetically": [
 "Without energy"
 ],
@@ -8204,6 +8437,9 @@
 ],
 "inermis": [
 "Unarmed; destitute of prickles or thorns, as a leaf"
+],
+"inermous": [
+"___inerm"
 ],
 "inerrability": [
 "Freedom or exemption from error; infallibility"
@@ -8403,6 +8639,9 @@
 ],
 "inexpedience": [
 "The quality or state of being inexpedient; lack of fitness; unsuitableness to the end or object; impropriety; as, the inexpedience of some measures"
+],
+"inexpediency": [
+"___inexpedience"
 ],
 "inexpedient": [
 "Not expedient; not tending to promote a purpose; not tending to the end desired; inadvisable; unfit; improper; unsuitable to time and place; as, what is expedient at one time may be inexpedient at another"
@@ -8905,6 +9144,9 @@
 "infinite regress": [
 "A causal relationship transmitted through an indefinite number of terms in a series, with no term that begins the causal chain"
 ],
+"infinite regression": [
+"___infinite regress"
+],
 "infinitely": [
 "Without bounds or limits; beyond or below assignable limits; as, an infinitely large or infinitely small quantity",
 "Very; exceedingly; vastly; highly; extremely"
@@ -9272,6 +9514,9 @@
 "infra-axillary": [
 "Situated below the axil, as a bud"
 ],
+"infra-red": [
+"___infrared"
+],
 "infrabranchial": [
 "Below the gills; -- applied to the ventral portion of the pallial chamber in the lamellibranchs"
 ],
@@ -9361,6 +9606,9 @@
 "infraspinate": [
 "Below the spine; infraspinal; esp., below the spine of the scapula; as, the infraspinous fossa; the infraspinate muscle"
 ],
+"infraspinous": [
+"___infraspinate"
+],
 "infrastapedial": [
 "Of or pertaining to a part of the columella of the ear, which in many animals projects below the connection with the stapes"
 ],
@@ -9379,6 +9627,9 @@
 "infrequence": [
 "The state of rarely occuring; uncommonness; rareness; as, the infrequence of his visits",
 "The state of not being frequented; solitude; isolation; retirement; seclusion"
+],
+"infrequency": [
+"___infrequence"
 ],
 "infrequent": [
 "Seldom happening or occurring; rare; uncommon; unusual"
@@ -9437,6 +9688,9 @@
 ],
 "infundibular": [
 "Having the form of a funnel; pertaining to an infundibulum"
+],
+"infundibulate": [
+"___infundibular"
 ],
 "infundibuliform": [
 "Having the form of a funnel or cone; funnel-shaped",
@@ -9586,6 +9840,9 @@
 ],
 "ingeniousness": [
 "The quality or state of being ingenious; ingenuity"
+],
+"ingenit": [
+"___ingenite"
 ],
 "ingenite": [
 "Innate; inborn; inbred; inherent; native; ingenerate"
@@ -9758,6 +10015,9 @@
 "Entrance; ingress",
 "The quality or state of being an ingredient or component part"
 ],
+"ingrediency": [
+"___ingredience"
+],
 "ingredient": [
 "That which enters into a compound, or is a component part of any combination, recipe, or mixture; an element; a constituent",
 "Entering as, or forming, an ingredient or component part"
@@ -9834,6 +10094,9 @@
 "The act of inhabiting, or the state of being inhabited; the condition of an inhabitant; residence; occupancy",
 "The state of having legal right to claim the privileges of a recognized inhabitant; especially, the right to support in case of poverty, acquired by residence in a town; habitancy"
 ],
+"inhabitancy": [
+"___inhabitance"
+],
 "inhabitant": [
 "One who dwells or resides permanently in a place, as distinguished from a transient lodger or visitor; as, an inhabitant of a house, a town, a city, county, or state",
 "One who has a legal settlement in a town, city, or parish; a permanent resident"
@@ -9888,6 +10151,9 @@
 "inharmonic": [
 "Not harmonic; inharmonious; discordant; dissonant"
 ],
+"inharmonical": [
+"___inharmonic"
+],
 "inharmonious": [
 "Not harmonious; unmusical; discordant; dissonant",
 "Conflicting; jarring; not in harmony"
@@ -9904,6 +10170,9 @@
 "inhaul": [
 "A rope used to draw in the jib boom, or flying jib boom"
 ],
+"inhauler": [
+"___inhaul"
+],
 "inhearse": [
 "To put in, or as in, a hearse or coffin"
 ],
@@ -9912,6 +10181,9 @@
 ],
 "inherence": [
 "The state of inhering; permanent existence in something; innateness; inseparable and essential connection"
+],
+"inherency": [
+"___inherence"
 ],
 "inherent": [
 "Permanently existing in something; inseparably attached or connected; naturally pertaining to; innate; inalienable; as, polarity is an inherent quality of the magnet; the inherent right of men to life, liberty, and protection"
@@ -10652,6 +10924,9 @@
 "inopercular": [
 "Having no operculum; -- said of certain gastropod shells"
 ],
+"inoperculate": [
+"___inopercular"
+],
 "inopinable": [
 "Not to be expected; inconceivable"
 ],
@@ -11353,6 +11628,9 @@
 "insipidly": [
 "In an insipid manner; without taste, life, or spirit; flatly"
 ],
+"insipidness": [
+"___insipidity"
+],
 "insipience": [
 "Lack of intelligence; stupidity; folly"
 ],
@@ -11623,6 +11901,9 @@
 "A portion of a debt, or sum of money, which is divided into portions that are made payable at different times; that portion of a debt payed back in any one payment; as, the next installment is due January first.  Payment by installment is payment by parts at different times, the amounts and times being often definitely stipulated",
 "a part of a broadcast serial",
 "a part of a published serial"
+],
+"instalment": [
+"___installment"
 ],
 "instamp": [
 "___enstamp"
@@ -12090,6 +12371,9 @@
 "insurgence": [
 "A state of insurrection; an uprising; an insurrection"
 ],
+"insurgency": [
+"___insurgence"
+],
 "insurgent": [
 "Rising in opposition to civil or political authority, or against an established government; insubordinate; rebellious",
 "A person who rises in revolt against civil authority or an established government; one who openly and actively resists the execution of laws; a rebel"
@@ -12139,6 +12423,9 @@
 ],
 "intact": [
 "Untouched, especially by anything that harms, defiles, or the like; uninjured; undefiled; left complete or entire"
+],
+"intactable": [
+"___intactible"
 ],
 "intactible": [
 "Not perceptible to the touch"
@@ -12341,6 +12628,9 @@
 ],
 "intemerate": [
 "Pure; undefiled"
+],
+"intemerated": [
+"___intemerate"
 ],
 "intemerateness": [
 "The state of being unpolluted; purity"
@@ -12829,6 +13119,9 @@
 "intercondylar": [
 "Between condyles; as, the intercondylar fossa or notch of the femur"
 ],
+"intercondyloid": [
+"___intercondylar"
+],
 "interconnect": [
 "To join together; to connect with one another",
 "To become connected with one another"
@@ -13024,6 +13317,9 @@
 "interfluent": [
 "Flowing between or among; intervening"
 ],
+"interfluous": [
+"___interfluent"
+],
 "interfolded": [
 "Intertwined; interlocked; clasped together"
 ],
@@ -13059,6 +13355,9 @@
 "intergrave": [
 "To grave or carve between; to engrave in the alternate sections"
 ],
+"interhaemal": [
+"___interhemal"
+],
 "interhemal": [
 "Between the hemal arches or hemal spines"
 ],
@@ -13089,6 +13388,9 @@
 ],
 "interjacence": [
 "The state of being between; a coming or lying between or among; intervention; also, that which lies between"
+],
+"interjacency": [
+"___interjacence"
 ],
 "interjacent": [
 "Lying or being between or among; intervening; as, interjacent isles"
@@ -13148,6 +13450,9 @@
 "interlamellar": [
 "Between lammellæ or laminæ; as, interlamellar spaces"
 ],
+"interlaminar": [
+"___interlamellar"
+],
 "interlaminated": [
 "Placed between, or containing, laminæ or plates"
 ],
@@ -13181,6 +13486,9 @@
 ],
 "interlineal": [
 "Contained between lines; written or inserted between lines already written or printed; containing interlineations; as, an interlinear manuscript, translation, etc"
+],
+"interlinear": [
+"___interlineal"
 ],
 "interlineary": [
 "Interlinear"
@@ -13265,6 +13573,9 @@
 ],
 "interlunar": [
 "Belonging or pertaining to the time when the moon, at or near its conjunction with the sun, is invisible"
+],
+"interlunary": [
+"___interlunar"
 ],
 "intermandibular": [
 "Between the mandibles; interramal; as, the intermandibular space"
@@ -13499,6 +13810,9 @@
 "internal-combustion": [
 "Designating, or pertaining to, any engine (called an Internal-combustion engine) in which the heat or pressure energy necessary to produce motion is developed in the engine cylinder, as by the explosion of a gas, and not in a separate chamber, as in a steam-engine boiler. The gas used may be a fixed gas, or one derived from alcohol, ether, gasoline (petrol), naphtha, oil (petroleum), etc. There are three main classes: (1) gas engines proper, using fixed gases, as coal, blast-furnace, or producer gas; (2) engines using the vapor of a volatile fluid, as the typical gasoline (petrol) engine; (3) oil engines, using either an atomized spray or the vapor (produced by heat) of a comparatively heavy oil, as petroleum or kerosene. In all of these the gas is mixed with a definite amount of air, the charge is composed in the cylinder and is then exploded either by a flame of gas (flame ignition -- now little used), by a hot tube (tube ignition) or the like, by an electric spark (electric ignition, the usual method is gasoline engines, or by the heat of compression, as in the Diesel engine. Gas and oil engines are chiefly of the stationary type. Gasoline engines are largely used for automobile vehicles, boats, etc. Most internal-combustion engines use the Otto (four-stroke) cycle, though many use the two-stroke cycle. They are almost universally trunk engines and single-acting. Because of the intense heat produced by the frequent explosions, the cylinders must be cooled by a water jacket (water-cooled) or by air currents (air cooled) to give the maximum thermodynamic efficiency and to avoid excessive friction or seizing"
 ],
+"internal-combustion engine": [
+"___internal-combustion"
+],
 "internalise": [
 "Same as internalize"
 ],
@@ -13563,6 +13877,9 @@
 ],
 "interneciary": [
 "Internecine"
+],
+"internecinal": [
+"___interneciary"
 ],
 "internecine": [
 "Involving, or accompanied by, mutual slaughter; mutually destructive",
@@ -13654,6 +13971,9 @@
 ],
 "interosseal": [
 "Situated between bones; as, an interosseous ligament"
+],
+"interosseous": [
+"___interosseal"
 ],
 "interpale": [
 "To place pales between or among; to separate by pales",
@@ -13939,6 +14259,9 @@
 "intersectant": [
 "having at least one spatial point in common"
 ],
+"intersecting": [
+"___intersectant"
+],
 "intersection": [
 "The act, state, or place of intersecting",
 "The point or line in which one line or surface cuts another"
@@ -13991,6 +14314,9 @@
 ],
 "interspinal": [
 "Between spines; esp., between the spinous processes of the vertebral column"
+],
+"interspinous": [
+"___interspinal"
 ],
 "interspiration": [
 "Spiritual inspiration at separate times, or at intervals"
@@ -14104,6 +14430,9 @@
 "interungular": [
 "Between ungulæ; as, interungular glands"
 ],
+"interungulate": [
+"___interungular"
+],
 "interurban": [
 "Going between, or connecting, cities or towns; as, interurban electric railways"
 ],
@@ -14113,6 +14442,9 @@
 "A brief space of time between the recurrence of similar conditions or states; as, the interval between paroxysms of pain; intervals of sanity or delirium",
 "Difference in pitch between any two tones",
 "A tract of low ground between hills, or along the banks of a stream, usually alluvial land, enriched by the overflowings of the river, or by fertilizing deposits of earth from the adjacent hills.  Cf. Bottom, n., 7"
+],
+"intervale": [
+"___interval"
 ],
 "intervallum": [
 "An interval"
@@ -14136,6 +14468,9 @@
 ],
 "intervenience": [
 "Intervention; interposition"
+],
+"interveniency": [
+"___intervenience"
 ],
 "intervenient": [
 "Being or coming between; intercedent; interposed"
@@ -14210,6 +14545,9 @@
 ],
 "interwove": [
 "imp. & p. p. of interweave"
+],
+"interwoven": [
+"___interwove"
 ],
 "interwreathe": [
 "To weave into a wreath; to intertwine"
@@ -14325,6 +14663,9 @@
 ],
 "intire": [
 "___entire"
+],
+"intirely": [
+"___intire"
 ],
 "intitle": [
 "___entitle"
@@ -14999,6 +15340,9 @@
 "To insert as in a sheath; to produce intussusception in",
 "Sheathed"
 ],
+"invaginated": [
+"___invaginate"
+],
 "invagination": [
 "The condition of an invaginated organ or part",
 "The inward movement of the wall of a tissue or cell, to form a cavity; also, the cavity thus formed",
@@ -15182,6 +15526,9 @@
 "inverness": [
 "A kind of full sleeveless cape, fitting closely about the neck"
 ],
+"inverness cape": [
+"___inverness"
+],
 "inverse": [
 "Opposite in order, relation, or effect; reversed; inverted; reciprocal; -- opposed to direct",
 "Inverted; having a position or mode of attachment the reverse of that which is usual",
@@ -15340,6 +15687,9 @@
 "invigilance": [
 "Lack of vigilance; neglect of watching; carelessness"
 ],
+"invigilancy": [
+"___invigilance"
+],
 "invigilate": [
 "To keep watch",
 "To keep watch over examination candidates to prevent cheating"
@@ -15391,6 +15741,9 @@
 "inviolate": [
 "Not violated; uninjured; unhurt; unbroken",
 "Not corrupted, defiled, or profaned; chaste; pure"
+],
+"inviolated": [
+"___inviolate"
 ],
 "inviolately": [
 "In an inviolate manner"
@@ -15503,6 +15856,9 @@
 "involucrate": [
 "Having an involucre; involucred"
 ],
+"involucrated": [
+"___involucrate"
+],
 "involucre": [
 "A whorl or set of bracts around a flower, umbel, or head"
 ],
@@ -15531,6 +15887,9 @@
 "Rolled inward from the edges; -- said of leaves in vernation, or of the petals of flowers in æstivation",
 "Turned inward at the margin, as the exterior lip of the Cyprea",
 "A curve traced by the end of a string wound upon another curve, or unwound from it; -- called also evolvent. See Evolute"
+],
+"involuted": [
+"___involute"
 ],
 "involution": [
 "The act of involving or infolding",
@@ -15606,6 +15965,7 @@
 "Heartiness; earnestness"
 ],
 "inwards": [
+"___inward",
 "___inward"
 ],
 "inweave": [
@@ -15861,6 +16221,9 @@
 "irenic": [
 "Fitted or designed to promote peace; pacific; conciliatory; peaceful"
 ],
+"irenical": [
+"___irenic"
+],
 "irenicon": [
 "A proposition or device for securing peace, especially in the church"
 ],
@@ -15884,6 +16247,9 @@
 ],
 "iridectomy": [
 "The act or process of cutting out a portion of the iris in order to form an artificial pupil"
+],
+"irideous": [
+"___iridaceous"
 ],
 "iridescence": [
 "Exhibition of colors like those of the rainbow, especially a surface reflection which changes color with the angle at which the object is viewed; the quality or state of being iridescent; a prismatic play of color; as, the iridescence of mother-of-pearl.  It is due to interference of light waves reflected from the front and back surfaces of a thin layer transpatrent or semitransparent film"
@@ -15920,6 +16286,9 @@
 "iridosmine": [
 "The native compound of iridium and osmium. It is found in flattened metallic grains of extreme hardness, and is often used for pointing gold pens"
 ],
+"iridosmium": [
+"___iridosmine"
+],
 "iris": [
 "The goddess of the rainbow, and swift-footed messenger of the gods",
 "The rainbow",
@@ -15950,6 +16319,9 @@
 ],
 "irish american": [
 "A native of Ireland who has become an American citizen; also, a child or descendant of such a person"
+],
+"irish-american": [
+"___irish american"
 ],
 "irishism": [
 "A mode of speaking peculiar to the Irish; an Hibernicism"
@@ -16014,6 +16386,9 @@
 "iron-cased": [
 "Cased or covered with iron, as a vessel; ironclad"
 ],
+"iron-fisted": [
+"___ironfisted"
+],
 "iron-gray": [
 "Of a gray color, somewhat resembling that of iron freshly broken"
 ],
@@ -16032,6 +16407,9 @@
 "ironbark": [
 "The Australian Eucalyptus Sideroxylon, used largely by carpenters and shipbuilders; -- called also ironwood.  Also applied to other Australian eucalyptuses with a hard, solid bark"
 ],
+"ironbark tree": [
+"___ironbark"
+],
 "ironbound": [
 "Bound as with iron; rugged; as, an ironbound coast",
 "Rigid; unyielding; as, ironbound traditions"
@@ -16048,6 +16426,9 @@
 ],
 "ironer": [
 "One who, or that which, irons"
+],
+"irones": [
+"___irone"
 ],
 "ironfisted": [
 "Closefisted; stingy; mean",
@@ -16088,6 +16469,7 @@
 "A nickname for Edmund II of England"
 ],
 "ironsides": [
+"___ironside",
 "A cuirassier or cuirassiers; also, hardy veteran soldiers; -- applied specifically to Cromwell's cavalry"
 ],
 "ironsmith": [
@@ -16132,9 +16514,15 @@
 "A fantastic grimace or contortion of the body",
 "Making irps"
 ],
+"irpe": [
+"___irp"
+],
 "irradiance": [
 "The act of irradiating; emission of rays of light",
 "That which irradiates or is irradiated; luster; splendor; irradiation; brilliancy"
+],
+"irradiancy": [
+"___irradiance"
 ],
 "irradiant": [
 "Irradiating or illuminating; as, the irradiant moon"
@@ -16393,6 +16781,9 @@
 "irrepleviable": [
 "Not capable of being replevied"
 ],
+"irreplevisable": [
+"___irrepleviable"
+],
 "irreprehensible": [
 "Not reprehensible; blameless; innocent"
 ],
@@ -16577,6 +16968,12 @@
 "irridenta": [
 "___irredenta"
 ],
+"irridentism": [
+"___irridenta"
+],
+"irridentist": [
+"___irridenta"
+],
 "irrigate": [
 "To water; to wet; to moisten with running or dropping water; to bedew",
 "To water, as land, by causing a stream to flow upon, over, or through it, as in artificial channels",
@@ -16692,8 +17089,14 @@
 "isabel": [
 "___isabella"
 ],
+"isabel color": [
+"___isabel"
+],
 "isabella": [
 "A brownish yellow color"
+],
+"isabella color": [
+"___isabella"
 ],
 "isabella grape": [
 "A favorite sweet American grape of a purple color. See Fox grape, under Fox"
@@ -16704,6 +17107,9 @@
 "isabelline": [
 "Of an isabel or isabella color"
 ],
+"isagel": [
+"___isagelous"
+],
 "isagelous": [
 "Containing the same information; as, isagelous sentences"
 ],
@@ -16712,6 +17118,9 @@
 ],
 "isagogic": [
 "Introductory; especially, introductory to the study of theology"
+],
+"isagogical": [
+"___isagogic"
 ],
 "isagogics": [
 "That part of theological science directly preliminary to actual exegesis, or interpretation of the Scriptures"
@@ -16730,6 +17139,9 @@
 ],
 "isatin": [
 "An orange-red crystalline substance, C8H5NO2, obtained by the oxidation of indigo blue. It is also produced from certain derivatives of benzoic acid, and is one important source of artificial indigo"
+],
+"isatinic": [
+"___isatic"
 ],
 "isatis": [
 "A genus of herbs, some species of which, especially the Isatis tinctoria, yield a blue dye similar to indigo; woad"
@@ -16767,6 +17179,9 @@
 ],
 "ischiorectal": [
 "Of or pertaining to the region between the rectum and ishial tuberosity"
+],
+"ischium": [
+"___ischion"
 ],
 "ischuretic": [
 "Having the quality of relieving ischury"
@@ -16859,6 +17274,9 @@
 "ismaelian": [
 "One of a sect of Muslims who followed the practices of the family of Mohammed ben Ismael, of the house of Ali"
 ],
+"ismaelite": [
+"___ismaelian"
+],
 "iso-": [
 "A prefix or combining form, indicating identity, or equality; the same numerical value; as in isopod, isomorphous, isochromatic"
 ],
@@ -16904,6 +17322,12 @@
 "isocheimic": [
 "The same as Isocheimal"
 ],
+"isochimal": [
+"___isocheimal"
+],
+"isochimenal": [
+"___isocheimenal"
+],
 "isochimene": [
 "The same as Isocheim"
 ],
@@ -16936,6 +17360,9 @@
 ],
 "isoclinal": [
 "Of or pertaining to, or indicating, equality of inclination or dip; having equal inclination or dip"
+],
+"isoclinic": [
+"___isoclinal"
 ],
 "isocrymal": [
 "Pertaining to, having the nature of, or illustrating, an isocryme; as, an isocrymal line; an isocrymal chart"
@@ -16986,6 +17413,9 @@
 "isogeothermal": [
 "Pertaining to, having the nature of, or marking, isogeotherms; as, an isogeothermal line or surface; as isogeothermal chart"
 ],
+"isogeothermic": [
+"___isogeothermal"
+],
 "isogonic": [
 "Pertaining to, or noting, equal angles",
 "Characterized by isogonism"
@@ -17029,6 +17459,9 @@
 "of or pertaining to isolationism",
 "Favoring or supporting isolationism; -- of people"
 ],
+"isolationistic": [
+"___isolationist"
+],
 "isolator": [
 "One who, or that which, isolates"
 ],
@@ -17061,6 +17494,9 @@
 ],
 "isometric exercise": [
 "A system of exercise to strengthen specific muscles of the body by pushing parts of the body (such as the two hands) strongly against each other, or against a fixed object, so that the muscles are strongly stressed, but are stretched only a little.  It is claimed to produce strength in the muscles thus exercised.  Also called isometrics"
+],
+"isometrical": [
+"___isometric"
 ],
 "isometrics": [
 "___isometric exercise"
@@ -17242,6 +17678,9 @@
 ],
 "israelitic": [
 "Of or pertaining to Israel, or to the Israelites; Jewish; Hebrew"
+],
+"israelitish": [
+"___israelitic"
 ],
 "issuable": [
 "Leading to, producing, or relating to, an issue; capable of being made an issue at law",
@@ -17460,6 +17899,9 @@
 "ittrium": [
 "___yttrium"
 ],
+"itty-bitty": [
+"___itsy-bitsy"
+],
 "itzibu": [
 "A silver coin of Japan, worth about thirty-four cents"
 ],
@@ -17486,6 +17928,9 @@
 "The tusks themselves of the elephant, etc",
 "Any carving executed in ivory",
 "Teeth; as, to show one's ivories"
+],
+"ivory-bill": [
+"___ivorybill"
 ],
 "ivorybill": [
 "A large, handsome, black-and-white North American woodpecker (Campephilus principalis), having a large, sharp, ivory-colored beak. Its general color is glossy black, with white secondaries, and a white dorsal stripe. The male has a large, scarlet crest. It is now rare, and found only in the Gulf States and Cuba"
@@ -17529,12 +17974,21 @@
 "ixodidae": [
 "A natural family of ticks having a hard shield on the back and mouth parts that project from the head; the hard ticks"
 ],
+"ixtil": [
+"___ixtle"
+],
 "ixtle": [
 "A Mexican name for a variety of Agave rigida, which furnishes a strong coarse fiber; also, the fiber itself, which is called also pita, and Tampico fiber",
 "The fine, soft fiber of the bromeliaceous plant Bromelia sylvestris"
 ],
+"ixtli": [
+"___ixtle"
+],
 "iyar": [
 "The eighth month of the civil year in the Jewish calendar; the second month of the ecclesiastical year (in April and May)"
+],
+"iyyar": [
+"___iyar"
 ],
 "izanagi": [
 "The god who fathered the islands and gods of Japan with his sister Izanami"
@@ -17554,5 +18008,8 @@
 "izzard": [
 "___izard",
 "The letter z; -- formerly so called"
+],
+"the iron gates": [
+"___iron gate"
 ]
 }

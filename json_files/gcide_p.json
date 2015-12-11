@@ -248,6 +248,9 @@
 "A person whose strong belief in pacifism causes him/her to refuse to participate in military activities, especially one who refuses to be drafted into the armed forces",
 "Adhering to pacifism; opposed to war; -- of people"
 ],
+"pacifistic": [
+"___pacifist"
+],
 "pacify": [
 "To make to be at peace; to appease; to calm; to still; to quiet; to allay the agitation, excitement, or resentment of; to tranquillize; as, to pacify a man when angry; to pacify pride, appetite, or importunity"
 ],
@@ -290,8 +293,14 @@
 "pack horse": [
 "___pack"
 ],
+"pack rat": [
+"___packrat"
+],
 "pack saddle": [
 "___pack"
+],
+"pack thread": [
+"___packthread"
 ],
 "package": [
 "Act or process of packing",
@@ -358,6 +367,9 @@
 "paco": [
 "___alpaca",
 "An earthy-looking ore, consisting of brown oxide of iron with minute particles of native silver"
+],
+"pacos": [
+"___paco"
 ],
 "pact": [
 "An agreement; a league; a compact; a covenant"
@@ -434,6 +446,9 @@
 "A paddle-shaped foot, as of the sea turtle",
 "A paddle-shaped implement for stirring or mixing",
 "See Paddle staff (b), below"
+],
+"paddle box": [
+"___paddlebox"
 ],
 "paddlebox": [
 "a wooden covering for the upper part of the paddle wheel of a steam vessel"
@@ -536,6 +551,7 @@
 "An artifical red nitrogenous dyestuff, called also red coralline"
 ],
 "paeony": [
+"___paeony",
 "Any of numerous plants widely cultivated for their showy single or double red or pink or white flowers; the Peony"
 ],
 "pagan": [
@@ -547,6 +563,9 @@
 ],
 "paganic": [
 "Of or pertaining to pagans or paganism; heathenish; paganish"
+],
+"paganical": [
+"___paganic"
 ],
 "paganish": [
 "Of or pertaining to pagans; heathenish"
@@ -652,6 +671,9 @@
 "The language of Sassanian Persia.  See Pehlevi",
 "The script in which the Pahlavi language was written.  It was taken from the Aramaic alphabet",
 "A gold coin formerly used in Iran, equal in value to 20 rials"
+],
+"pahlevi": [
+"___pahlavi"
 ],
 "pahoehoe": [
 "A name given in Hawaii (formerly the Sandwich Islands) to lava having a relatively smooth or billowing surface, in distinction from the rough-surfaced lava, called aa"
@@ -834,7 +856,7 @@
 "___poise"
 ],
 "pajamas": [
-"Originally, in India, loose drawers or trousers, such as those worn, tied about the waist, by Mohammedan men and women; by extension, a similar garment adopted among Europeans, Americans, etc., for wear in the dressing room and during sleep; also, a suit consisting of drawers and a loose upper garment for such wear"
+"___pyjamas"
 ],
 "pajock": [
 "A peacock"
@@ -909,6 +931,7 @@
 "One versed in palætiology"
 ],
 "palaetiology": [
+"___palaetiology",
 "The science which explains, by the law of causation, the past condition and changes of the earth; the explanation of past events in terms of scientific causes, such as geological causes"
 ],
 "palama": [
@@ -1104,6 +1127,9 @@
 "paleographic": [
 "Of or pertaining to paleography"
 ],
+"paleographical": [
+"___paleographic"
+],
 "paleographist": [
 "One versed in paleography; a paleographer"
 ],
@@ -1184,6 +1210,9 @@
 "palesie": [
 "Palsy"
 ],
+"palestinean": [
+"___palestinian"
+],
 "palestinian": [
 "Of or pertaining to Palestine"
 ],
@@ -1192,6 +1221,15 @@
 ],
 "palestrian": [
 "Of or pertaining to the palestra, or to wrestling"
+],
+"palestric": [
+"___palestrian"
+],
+"palestrical": [
+"___palestrian"
+],
+"palesy": [
+"___palesie"
 ],
 "palet": [
 "___palea"
@@ -1244,6 +1282,9 @@
 "palindromic": [
 "Of, pertaining to, or like, a palindrome"
 ],
+"palindromical": [
+"___palindromic"
+],
 "palindromist": [
 "A writer of palindromes"
 ],
@@ -1258,6 +1299,9 @@
 "A new birth; a re-creation; a regeneration; a continued existence in different manner or form",
 "The passing over of the soul of one person or animal into the body of another person or animal, at the time of the death of the first; the transmigration of souls.  Called also metempsychosis",
 "That form of development of an individual organism in which in which ancestral characteristics occurring during its evolution are conserved by heredity and reproduced,  sometimes transiently, in the course of individual development; original simple descent; -- distinguished from cenogenesis (kenogenesis or coenogenesis), in which the mode of individual development has been modified so that the evolutionary process had become obscured.  Sometimes, in Zoology, the term is applied to the abrupt metamorphosis of insects, crustaceans, etc.  See also the note under recapitulation"
+],
+"palingenesy": [
+"___palingenesis"
 ],
 "palingenetic": [
 "Of or pertaining to palingenesis: as, a palingenetic process"
@@ -1479,6 +1523,9 @@
 "Spreading from the apex of a petiole, as the divisions of a leaf, or leaflets, so as to resemble the hand with outspread fingers",
 "Having the anterior toes united by a web, as in most swimming birds; webbed. See Illust. (i) under Aves"
 ],
+"palmated": [
+"___palmate"
+],
 "palmately": [
 "In a palmate manner"
 ],
@@ -1490,6 +1537,9 @@
 ],
 "palmatisect": [
 "Divided, as a palmate leaf, down to the midrib, so that the parenchyma is interrupted"
+],
+"palmatisected": [
+"___palmatisect"
 ],
 "palmcrist": [
 "The palma Christi. (Jonah iv. 6, margin, and Douay version, note.)"
@@ -1577,6 +1627,9 @@
 ],
 "palolo": [
 "A polystome worm (Palolo viridis) that burrows in the coral reefs of certain of the Pacific Islands.  A little before the last quarter of the moon in October and November, they swarm in vast numbers at the surface of the sea for breeding, and are gathered and highly esteemed as food by the natives.  An allied species inhabits the tropical Atlantic and swarms in June or July"
+],
+"palolo worm": [
+"___palolo"
 ],
 "palometa": [
 "A type of pompano (Palometa simillima) that is smaller than the Florida pompano; it is common in West Indies.  Called also the California pompano"
@@ -1872,6 +1925,7 @@
 "Bread boiled in water to the consistence of pulp, and sweetened or flavored"
 ],
 "panade": [
+"___panada",
 "A dagger"
 ],
 "panama hat": [
@@ -1892,6 +1946,9 @@
 ],
 "panatela": [
 "A long slender cigar"
+],
+"panatella": [
+"___panatela"
 ],
 "panathenaea": [
 "The most ancient and important festival of Athens, celebrated in honor of Athena, the tutelary goddess of the city"
@@ -1926,6 +1983,9 @@
 "pancratic": [
 "Having all or many degrees of power; having a great range of power; -- said of an eyepiece made adjustable so as to give a varying magnifying power",
 "Of or pertaining to the pancratium; athletic"
+],
+"pancratical": [
+"___pancratic"
 ],
 "pancratist": [
 "An athlete; a gymnast"
@@ -2047,6 +2107,7 @@
 "Shaped like a fiddle; -- of a leaf"
 ],
 "panduriform": [
+"___pandurate",
 "___pandurate"
 ],
 "pane": [
@@ -2064,6 +2125,9 @@
 "panegyric": [
 "An oration or eulogy in praise of some person or achievement; a formal or elaborate encomium; a laudatory discourse; laudation. See Synonym of Eulogy",
 "Containing praise or eulogy; encomiastic; laudatory"
+],
+"panegyrical": [
+"___panegyric"
 ],
 "panegyris": [
 "A festival; a public assembly"
@@ -2109,6 +2173,7 @@
 "Wainscoting"
 ],
 "panetella": [
+"___panatela",
 "___panatela"
 ],
 "paneulogism": [
@@ -2173,6 +2238,9 @@
 "panic-stricken": [
 "Struck with a panic, or sudden fear; thrown into a state of intense fear; as, trying to keep back the panic-stricken crowd"
 ],
+"panic-struck": [
+"___panic-stricken"
+],
 "panical": [
 "___panic"
 ],
@@ -2187,6 +2255,9 @@
 ],
 "paniculate": [
 "___panicled"
+],
+"paniculated": [
+"___paniculate"
 ],
 "panicum": [
 "A genus of grasses, including several hundred species, some of which are valuable; panic grass"
@@ -2268,6 +2339,9 @@
 "panoptic": [
 "Including everying visible in one view; as, a panoptic aerial photograph of the missile base; a panoptic stain used in microscopy"
 ],
+"panoptical": [
+"___panoptic"
+],
 "panopticon": [
 "A prison so contructed that the inspector can see each of the prisoners at all times, without being seen",
 "A room for the exhibition of novelties"
@@ -2281,6 +2355,9 @@
 "panoramic": [
 "Of, pertaining to, or like, a panorama; exhibiting a very broad view; as, a panoramic view",
 "Presented with a broad perspective; as, a panoramic view of European history"
+],
+"panoramical": [
+"___panoramic"
 ],
 "panorpian": [
 "Like, or pertaining to, the genus Panorpa"
@@ -2299,6 +2376,15 @@
 ],
 "pansclavic": [
 "___panslavic"
+],
+"pansclavism": [
+"___pansclavic"
+],
+"pansclavist": [
+"___pansclavic"
+],
+"pansclavonian": [
+"___pansclavic"
 ],
 "panshon": [
 "An earthen vessel wider at the top than at the bottom, -- used for holding milk and for various other purposes"
@@ -2336,6 +2422,12 @@
 "panspermism": [
 "___panspermia"
 ],
+"panspermist": [
+"___panspermatist"
+],
+"panspermy": [
+"___panspermia"
+],
 "panstereorama": [
 "A model of a town or country, in relief, executed in wood, cork, pasteboard, or the like"
 ],
@@ -2355,6 +2447,7 @@
 "Of or pertaining to pants"
 ],
 "panta-": [
+"___pan-",
 "___pan-"
 ],
 "pantable": [
@@ -2420,6 +2513,9 @@
 "pantheistic": [
 "Of or pertaining to pantheism; founded in, or leading to, pantheism"
 ],
+"pantheistical": [
+"___pantheistic"
+],
 "pantheologist": [
 "One versed in pantheology"
 ],
@@ -2473,6 +2569,7 @@
 "The servant or officer, in a great family, who has charge of the bread and the pantry"
 ],
 "panto-": [
+"___pan-",
 "___pan-"
 ],
 "pantochronometer": [
@@ -2487,6 +2584,9 @@
 ],
 "pantographic": [
 "Of or pertaining to a pantograph; relating to pantography"
+],
+"pantographical": [
+"___pantographic"
 ],
 "pantography": [
 "A general description; entire view of an object"
@@ -2515,6 +2615,9 @@
 ],
 "pantomimic": [
 "Of or pertaining to the pantomime; representing by dumb show"
+],
+"pantomimical": [
+"___pantomimic"
 ],
 "pantomimist": [
 "An actor in pantomime; also, a composer of pantomimes"
@@ -2676,6 +2779,9 @@
 "To fold or inclose in paper",
 "To put on paper; to make a memorandum of"
 ],
+"paper boy": [
+"___paperboy"
+],
 "paper over": [
 "To ignore or conceal (a disagreement or dispute) so as to continue friendly or productive relations; as, to paper over differences"
 ],
@@ -2694,6 +2800,9 @@
 ],
 "paperer": [
 "One whose occupation is decorating walls with wallpaper"
+],
+"paperhanger": [
+"___paperer"
 ],
 "paperhanging": [
 "The application of wallpaper to walls for decorative purposes"
@@ -2791,6 +2900,9 @@
 "papistic": [
 "Of or pertaining to the Church of Rome and its doctrines and ceremonies; pertaining to popery; popish; -- used disparagingly"
 ],
+"papistical": [
+"___papistic"
+],
 "papistry": [
 "The doctrine and ceremonies of the Church of Rome; popery"
 ],
@@ -2799,6 +2911,9 @@
 ],
 "papoose": [
 "A babe or young child of Indian parentage in North America"
+],
+"papoose root": [
+"___papooseroot"
 ],
 "papooseroot": [
 "A tall herb (Caulophyllum thalictroides) of eastern North America and Asia having blue berrylike fruit and a thick knotty rootstock formerly used medicinally; the Cohosh.  See also Cohosh"
@@ -2820,6 +2935,9 @@
 ],
 "pappy": [
 "Like pap; soft; succulent; tender"
+],
+"paprica": [
+"___paprika"
 ],
 "paprika": [
 "The dried ripened fruit of Capsicum annuum or various other species of pepper; also, the mildly pungent condiment prepared from it"
@@ -2881,6 +2999,9 @@
 "An amount which is taken as an average or mean",
 "The number of strokes required for a hole or a round played without mistake, two strokes being allowed on each hole for putting.  Par represents perfect play, whereas bogey makes allowance on some holes for human frailty.  Thus if par for a course is 75, bogey is usually put down, arbitrarily, as 81 or 82.  If par for one hole is 5, a bogey is 6, and a score of 7 strokes would be a double bogey"
 ],
+"par-anesthesia": [
+"___para-anaesthesia"
+],
 "para": [
 "A piece of Turkish money, usually copper, the fortieth part of a piaster, or about one ninth of a cent",
 "The southern arm of the Amazon in Brazil; also, a seaport on this arm",
@@ -2929,6 +3050,9 @@
 "Of the nature of a parable; expressed by a parable or figure; allegorical; as, parabolical instruction",
 "Having the form or nature of a parabola; pertaining to, or resembling, a parabola; as, a parabolic curve"
 ],
+"parabolical": [
+"___parabolic"
+],
 "parabolically": [
 "By way of parable; in a parabolic manner",
 "In the form of a parabola"
@@ -2967,6 +3091,9 @@
 "paracentric": [
 "Deviating from circularity; changing the distance from a center"
 ],
+"paracentrical": [
+"___paracentric"
+],
 "parachordal": [
 "Situated on either side of the notochord; -- applied especially to the cartilaginous rudiments of the skull on each side of the anterior part of the notochord"
 ],
@@ -2986,6 +3113,9 @@
 ],
 "parachuting": [
 "The act or process of descending from a high altitude to the ground by means of a parachute"
+],
+"parachutist": [
+"___parachuter"
 ],
 "paraclete": [
 "An advocate; one called to aid or support; hence, the Consoler, Comforter, or Intercessor; -- a term applied to the Holy Spirit"
@@ -3045,12 +3175,18 @@
 "Exemplary",
 "A writer of memoirs of religious persons, as examples of Christian excellence"
 ],
+"paradigmatical": [
+"___paradigmatic"
+],
 "paradigmatize": [
 "To set forth as a model or example"
 ],
 "paradisaic": [
 "Of or pertaining to, or resembling, paradise; paradisiacal; as, paradisaical innocence; an age of paradisaical happiness",
 "Causing happinesss"
+],
+"paradisaical": [
+"___paradisaic"
 ],
 "paradisal": [
 "Paradisiacal"
@@ -3072,8 +3208,14 @@
 "paradisiac": [
 "Of or pertaining to paradise; suitable to, or like, paradise; paradisaic"
 ],
+"paradisiacal": [
+"___paradisiac"
+],
 "paradisial": [
 "Paradisiacal"
+],
+"paradisian": [
+"___paradisial"
 ],
 "paradisic": [
 "Paradisiacal"
@@ -3103,6 +3245,9 @@
 "paradoxism": [
 "An avant-garde movement in literature, art, and philosophy, based on excessive used of antitheses, antinomies, contradictions, oxymorons, and paradoxes"
 ],
+"paradoxist": [
+"___paradoxer"
+],
 "paradoxology": [
 "The use of paradoxes"
 ],
@@ -3115,6 +3260,9 @@
 ],
 "paraffin": [
 "A white waxy substance, resembling spermaceti, tasteless and odorless, and obtained from coal tar, wood tar, petroleum, etc., by distillation.  It is used in candles, as a sealing agent (such as in canning of preserves), as a waterproofing agent, as an illuminant and as a lubricant.  It is very inert, not being acted upon by most of the strong chemical reagents.  It was formerly regarded as a definite compound, but is now known to be a complex mixture of several higher hydrocarbons of the methane or marsh-gas series; hence, by extension, any substance, whether solid, liquid, or gaseous, of the same chemical series; thus gasoline, coal gas and kerosene consist largely of paraffins"
+],
+"paraffine": [
+"___paraffin"
 ],
 "paraformaldehyde": [
 "A polymer of formaldehyde obtained as a white crystalline substance by concentration of a formaldehyde solution.  Formula (CH20)n.  It dissolves in hot water with the release of formaldehyde, and is used as a disinfectant"
@@ -3153,6 +3301,9 @@
 "paragogic": [
 "Of, pertaining to, or constituting, a paragoge; added to the end of, or serving to lengthen, a word"
 ],
+"paragogical": [
+"___paragogic"
+],
 "paragon": [
 "A companion; a match; an equal",
 "Emulation; rivalry; competition",
@@ -3188,6 +3339,9 @@
 ],
 "paragraphic": [
 "Pertaining to, or consisting of, a paragraph or paragraphs"
+],
+"paragraphical": [
+"___paragraphic"
 ],
 "paragraphist": [
 "A paragrapher"
@@ -3242,6 +3396,9 @@
 ],
 "parallactic": [
 "Of or pertaining to a parallax"
+],
+"parallactical": [
+"___parallactic"
 ],
 "parallax": [
 "The apparent displacement, or difference of position, of an object, as seen from two different stations, or points of view",
@@ -3322,6 +3479,9 @@
 ],
 "parallelogrammic": [
 "Having the properties of a parallelogram"
+],
+"parallelogrammical": [
+"___parallelogrammic"
 ],
 "parallelopiped": [
 "A solid, the faces of which are six parallelograms, the opposite pairs being parallel, and equal to each other; a prism whose base is a parallelogram"
@@ -3446,6 +3606,9 @@
 "Love; gallantry",
 "By or with love, esp. the love of the sexes; -- sometimes written as two words"
 ],
+"paramours": [
+"___paramour"
+],
 "paramylum": [
 "A substance resembling starch, found in the green frothy scum formed on the surface of stagnant water"
 ],
@@ -3549,6 +3712,9 @@
 "paraplegia": [
 "Palsy of the lower half of the body on both sides, caused usually by disease of the spinal cord"
 ],
+"paraplegy": [
+"___paraplegia"
+],
 "parapleura": [
 "A chitinous piece between the metasternum and the pleuron of certain insects"
 ],
@@ -3572,6 +3738,9 @@
 ],
 "paraquet": [
 "___parrakeet"
+],
+"paraquito": [
+"___paraquet"
 ],
 "parasang": [
 "A Persian measure of length, which, according to Herodotus and Xenophon, was thirty stadia, or somewhat more than three and a half miles.  The measure varied in different times and places, and, as now used, is estimated at from three and a half to four English miles"
@@ -3609,6 +3778,9 @@
 "parasitic": [
 "Of the nature of a parasite; having the habits of a parasite; fawning for food or favors; sycophantic",
 "Of or pertaining to parasites; living on, or deriving nourishment from, some other living animal or plant. See Parasite, 2 & 3"
+],
+"parasitical": [
+"___parasitic"
 ],
 "parasiticidal": [
 "Capable of destroying parasites, especially capable of expelling or destroying parasitic worms"
@@ -3667,6 +3839,7 @@
 "At the bottom; lowest"
 ],
 "paravant": [
+"___paravant",
 "In front; publicly",
 "Beforehand; first"
 ],
@@ -3739,12 +3912,14 @@
 "___pachisi"
 ],
 "parchesi": [
+"___pachisi",
 "___pachisi"
 ],
 "parching": [
 "Scorching; burning; drying"
 ],
 "parchisi": [
+"___pachisi",
 "same as Pachisi"
 ],
 "parchment": [
@@ -3768,6 +3943,9 @@
 ],
 "parde": [
 "Certainly; surely; truly; verily; -- originally an oath"
+],
+"pardie": [
+"___parde"
 ],
 "pardine": [
 "Spotted like a pard"
@@ -3825,6 +4003,9 @@
 "parella": [
 "A name for two kinds of dock (Rumex Patientia and Rumex Hydrolapathum)"
 ],
+"parelle": [
+"___parella"
+],
 "parembole": [
 "A kind of parenthesis"
 ],
@@ -3843,11 +4024,17 @@
 "parenchymatous": [
 "Of, pertaining to, or connected with, the parenchyma of a tissue or an organ; as, parenchymatous degeneration"
 ],
+"parenchymous": [
+"___parenchymatous"
+],
 "parenesis": [
 "Exhortation"
 ],
 "parenetic": [
 "Hortatory; encouraging; persuasive"
+],
+"parenetical": [
+"___parenetic"
 ],
 "parent": [
 "One who begets, or brings forth, offspring; a father or a mother",
@@ -3880,6 +4067,9 @@
 "Of the nature of a parenthesis; pertaining to, or expressed in, or as if in, a parenthesis; as, a parenthetical clause; a parenthetic remark; a parenthetical style",
 "Using or containing parentheses",
 "Added within parentheses to amplify or explain; as, parenthetical remarks"
+],
+"parenthetical": [
+"___parenthetic"
 ],
 "parenthetically": [
 "In a parenthetical manner; by way of parenthesis; by parentheses"
@@ -3932,6 +4122,9 @@
 ],
 "parforn": [
 "To perform"
+],
+"parfourn": [
+"___parforn"
 ],
 "pargasite": [
 "A dark green aluminous variety of amphibole, or hornblende"
@@ -4069,6 +4262,9 @@
 "parisyllabic": [
 "Having the same number of syllables in all its inflections"
 ],
+"parisyllabical": [
+"___parisyllabic"
+],
 "paritor": [
 "An apparitor"
 ],
@@ -4120,6 +4316,9 @@
 "parked": [
 "p. p. of park, v. t., 2; -- of vehicles; as, there were four parked cars across the street"
 ],
+"parkee": [
+"___parka"
+],
 "parker": [
 "The keeper of a park"
 ],
@@ -4142,6 +4341,9 @@
 "parkinson's": [
 "A disease causing parkinsonism, a degenerative nervous disorder; sometimes used loosely as a synonym for parkinsonism.  More precisely, parkinson's disease is the term for the underlying physiological disorder and parkinsonism is the term for the set of symptoms associated with the disease.  See parkinsonism"
 ],
+"parkinson's disease": [
+"___parkinson's"
+],
 "parkinsonia": [
 "A small genus of spiny shrubs or small trees"
 ],
@@ -4162,6 +4364,9 @@
 ],
 "parlando": [
 "Speaking; in a speaking or declamatory manner; to be sung or played in the style of a recitative"
+],
+"parlante": [
+"___parlando"
 ],
 "parlay": [
 "To wager the winnings plus the initial stake of one bet on a subsequent wager, or to engage in a series of such increased wagers",
@@ -4267,6 +4472,9 @@
 "parodic": [
 "Having the character of parody"
 ],
+"parodical": [
+"___parodic"
+],
 "parodist": [
 "One who writes a parody; one who parodies"
 ],
@@ -4304,6 +4512,9 @@
 ],
 "paronomastic": [
 "Of or pertaining to paronomasia; consisting in a play upon words"
+],
+"paronomastical": [
+"___paronomastic"
 ],
 "paronomasy": [
 "Paronomasia"
@@ -4401,6 +4612,9 @@
 ],
 "parraqua": [
 "A curassow of the genus Ortalida, allied to the guan"
+],
+"parrel": [
+"___parral"
 ],
 "parrhesia": [
 "Boldness or freedom of speech"
@@ -4503,6 +4717,9 @@
 ],
 "parsonic": [
 "Of or pertaining to a parson; clerical"
+],
+"parsonical": [
+"___parsonic"
 ],
 "parsonish": [
 "Appropriate to, or like, a parson; -- used in disparagement"
@@ -4609,7 +4826,7 @@
 "To make motley or parti-colored"
 ],
 "parti-colored": [
-"Having sections or patches colored differently and usually brightly.  Same as Party-colored"
+"___party-colored"
 ],
 "partial": [
 "Of, pertaining to, or affecting, a part only; not general or universal; not total or entire; as, a partial eclipse of the moon",
@@ -4736,6 +4953,9 @@
 "particularize": [
 "To give as a particular, or as the particulars; to mention particularly; to give the particulars of; to enumerate or specify in detail",
 "To mention or attend to particulars; to give minute details; to be circumstantial; as, to particularize in a narrative"
+],
+"particularized": [
+"___particularised"
 ],
 "particularly": [
 "In a particular manner; expressly; with a specific reference or interest; in particular; distinctly",
@@ -4926,8 +5146,14 @@
 "parvis": [
 "A court of entrance to, or an inclosed space before, a church; hence, a church porch; -- sometimes formerly used as place of meeting, as for lawyers"
 ],
+"parvise": [
+"___parvis"
+],
 "parvitude": [
 "Littleness"
+],
+"parvity": [
+"___parvitude"
 ],
 "parvolin": [
 "A nonoxygenous ptomaine, formed in the putrefaction of albuminous matters, especially of horseflesh and mackerel"
@@ -4944,6 +5170,9 @@
 ],
 "pasch": [
 "The passover; the feast of Easter"
+],
+"pascha": [
+"___pasch"
 ],
 "paschal": [
 "Of or pertaining to the passover, or to Easter; as, a paschal lamb; paschal eggs"
@@ -4968,6 +5197,9 @@
 ],
 "pasigraphic": [
 "Of or pertaining to pasigraphy"
+],
+"pasigraphical": [
+"___pasigraphic"
 ],
 "pasigraphy": [
 "A system of universal writing, or a manner of writing that may be understood and used by all nations"
@@ -5060,9 +5292,15 @@
 "passacaglia": [
 "An old Italian or Spanish dance tune, in slow three-four measure, with divisions on a ground bass, resembling a chaconne"
 ],
+"passacaglio": [
+"___passacaglia"
+],
 "passade": [
 "A pass or thrust",
 "A turn or course of a horse backward or forward on the same spot of ground"
+],
+"passado": [
+"___passade"
 ],
 "passage": [
 "The act of passing; transit from one place to another; movement from point to point; a going by, over, across, or through; as, the passage of a man or a carriage; the passage of a ship or a bird; the passage of light; the passage of fluids through the pores or channels of the body",
@@ -5091,9 +5329,13 @@
 "Walking; -- said of any animal on an escutcheon, which is represented as walking with the dexter paw raised"
 ],
 "passe": [
+"___passe",
 "Past; gone by; hence, past one's prime; worn; faded; as, a passée belle",
 "___old-fashioned",
 "Past; -- used appositively; as, time passe"
+],
+"passe partout": [
+"___passe-partout"
 ],
 "passe-partout": [
 "That by which one can pass anywhere; a safe-conduct",
@@ -5101,6 +5343,9 @@
 "A light picture frame or mat of cardboard, wood, or the like, usually put between the picture and the glass, and sometimes serving for several pictures",
 "A strip of adhesive paper or gummed tape used to mount a picture between a piece of glass and a backing",
 "The method of mounting a picture between a piece of glass and a backing, using a passe-partout{4}"
+],
+"passee": [
+"___passe"
 ],
 "passegarde": [
 "A ridge or projecting edge on a shoulder piece to turn the blow of a lance or other weapon from the joint of the armor"
@@ -5126,6 +5371,9 @@
 ],
 "passer": [
 "One who passes; a passenger"
+],
+"passer-by": [
+"___passerby"
 ],
 "passerby": [
 "One who passes by, especially casually or by chance; one not directly involved in some action; a passer"
@@ -5217,6 +5465,9 @@
 "Receiving or enduring without either active sympathy or active resistance; without emotion or excitement; patient; not opposing; unresisting; as, passive obedience; passive submission",
 "Inactive; inert; unreactive; not showing strong affinity; as, red phosphorus is comparatively passive",
 "Designating certain morbid conditions, as hemorrhage or dropsy, characterized by relaxation of the vessels and tissues, with deficient vitality and lack of reaction in the affected tissues"
+],
+"passive aeroplane": [
+"___passive balloon"
 ],
 "passive balloon": [
 "One unprovided with motive power"
@@ -5341,6 +5592,9 @@
 "A small cone or mass made of paste of gum, benzoin, cinnamon, and other aromatics, -- used for fumigating or scenting the air of a room",
 "An aromatic or medicated lozenge, especially one used to soothe a sore throat; a troche",
 "___pastel"
+],
+"pastille": [
+"___pastil"
 ],
 "pastime": [
 "That which amuses, and serves to make time pass agreeably; sport; amusement; diversion; as, that great American pastime, baseball",
@@ -5508,6 +5762,9 @@
 "A small shrubby mintlike plant (Pogostemon cablin syn. Pogostemon Patchouli) of the East Indies, yielding an essential oil from which a highly valued perfume is made",
 "The heavy perfume made from the patchouli plant"
 ],
+"patchouly": [
+"___patchouli"
+],
 "patchwork": [
 "Work composed of pieces sewed together, esp. pieces of various colors and figures; hence, anything put together of incongruous or ill-adapted parts; something irregularly or clumsily composed; a thing patched up"
 ],
@@ -5657,6 +5914,9 @@
 "pathogen": [
 "Any microorganism which causes disease; a pathogenic organism; an infectious microorganism; a bacterium, virus, or other agent which can cause disease by infection; -- opposed to zymogene.  The spelling pathogene is now archaic"
 ],
+"pathogene": [
+"___pathogen"
+],
 "pathogenesis": [
 "Pathogeny"
 ],
@@ -5678,6 +5938,9 @@
 "pathologic": [
 "Of or pertaining to pathology",
 "caused by or due to disease; abnormal; morbid; as, pathological tissue; a pathological condition"
+],
+"pathological": [
+"___pathologic"
 ],
 "pathologist": [
 "One skilled in pathology; an investigator in pathology; as, the pathologist of a hospital, whose duty it is to determine the causes of the diseases"
@@ -5736,6 +5999,9 @@
 ],
 "patinate": [
 "to coat with a patina; to patinize"
+],
+"patine": [
+"___patin"
 ],
 "patinize": [
 "to coat with a patina"
@@ -5868,6 +6134,9 @@
 "patristic": [
 "Of or pertaining to the Fathers of the Christian church"
 ],
+"patristical": [
+"___patristic"
+],
 "patristics": [
 "That departnent of historical theology which treats of the lives and doctrines of the Fathers of the church"
 ],
@@ -5968,6 +6237,9 @@
 "patte": [
 "Narrow at the inner, and very broad at the other, end, or having its arms of that shape; -- said of a cross. See Illust. (8) of Cross"
 ],
+"pattee": [
+"___patte"
+],
 "pattemar": [
 "___patamar"
 ],
@@ -6051,6 +6323,9 @@
 "paugie": [
 "The scup. See Porgy, and Scup"
 ],
+"paugy": [
+"___paugie"
+],
 "pauhaugen": [
 "The menhaden; -- called also poghaden"
 ],
@@ -6063,6 +6338,9 @@
 ],
 "paulian": [
 "A follower of Paul of Samosata, a bishop of Antioch in the third century, who was deposed for denying the divinity of Christ"
+],
+"paulianist": [
+"___paulian"
 ],
 "paulician": [
 "One of a sect of Christian dualists originating in Armenia in the seventh century.  They rejected the Old Testament and the part of the New"
@@ -6166,6 +6444,9 @@
 "pavese": [
 "Pavise"
 ],
+"pavesse": [
+"___pavese"
+],
 "paviage": [
 "A contribution or a tax for paving streets or highways"
 ],
@@ -6211,6 +6492,9 @@
 ],
 "pavis": [
 "A large heavy oblong shield covering the whole body, carried by a pavisor, who sometimes also screened an archer with it.  It was originally carried but sometimes set up in permanent position"
+],
+"pavise": [
+"___pavis"
 ],
 "pavisor": [
 "A soldier who carried a pavise"
@@ -6279,6 +6563,9 @@
 "pawner": [
 "One who pawns or pledges anything as security for the payment of borrowed money or of a debt"
 ],
+"pawnor": [
+"___pawner"
+],
 "pawpaw": [
 "___papaya"
 ],
@@ -6317,6 +6604,9 @@
 "pay dirt": [
 "Earth, rock, etc., which yields a profit to the miner",
 "a discovery, especially after an exploratory process, which yields a profit or sought-after benefit; -- used especially in the phrase “to hit pay dirt”"
+],
+"pay rock": [
+"___pay dirt"
 ],
 "pay streak": [
 "The zone, parallel to the walls of a vein, in which the ore is concentrated, or any narrow streak of paying ore in less valuable material",
@@ -6439,6 +6729,12 @@
 "___peak",
 "A plant, and its fruit, of the genus Pisum, of many varieties, much cultivated for food.  It has a papilionaceous flower, and the pericarp is a legume, popularly called a pod",
 "A name given, especially in the Southern States, to the seed of several leguminous plants (species of Dolichos, Cicer, Abrus, etc.) esp. those having a scar (hilum) of a different color from the rest of the seed"
+],
+"pea coat": [
+"___peacoat"
+],
+"pea jacket": [
+"___pea-jacket"
 ],
 "pea-jacket": [
 "A thick loose double-breasted woolen jacket, or coat, commonly worn by sailors in cold weather"
@@ -6642,11 +6938,17 @@
 "pearlfish": [
 "Any fish whose scales yield a pearl-like pigment used in manufacturing artificial pearls, as the bleak, and whitebait"
 ],
+"pearlings": [
+"___pearlins"
+],
 "pearlins": [
 "A kind of lace of silk or thread"
 ],
 "pearlite": [
 "A glassy volcanic rock of a grayish color and pearly luster, often having a spherulitic concretionary structure due to the curved cracks produced by contraction in cooling. See Illust. under Perlitic"
+],
+"pearlstone": [
+"___pearlite"
 ],
 "pearlwort": [
 "A name given to several species of Sagina, low and inconspicuous herbs of the Chickweed family"
@@ -6703,6 +7005,9 @@
 ],
 "peavey": [
 "A cant hook having the end of its lever armed with a spike; it is used for handling logs"
+],
+"peavy": [
+"___peavey"
 ],
 "peba": [
 "An armadillo (Tatusia novemcincta) which is found from Texas to Paraguay; -- called also tatouhou"
@@ -6814,6 +7119,9 @@
 "Resembling the teeth of a comb",
 "Having very narrow, close divisions, in arrangement and regularity resembling those of a comb; comblike; as, a pectinate leaf; pectinated muscles.  See Illust. (e) of Antennæ",
 "Interlaced, like two combs"
+],
+"pectinated": [
+"___pectinate"
 ],
 "pectinately": [
 "In a pectinate manner"
@@ -6944,6 +7252,9 @@
 "___pedagogics",
 "Of or pertaining to a pedagogue; suited to, or characteristic of, a pedagogue"
 ],
+"pedagogical": [
+"___pedagogic"
+],
 "pedagogics": [
 "The science or art of teaching; the principles and rules of teaching; pedagogy"
 ],
@@ -6986,6 +7297,9 @@
 ],
 "pedantic": [
 "Of or pertaining to a pedant; characteristic of, or resembling, a pedant; ostentatious of learning; as, a pedantic writer; a pedantic description; a pedantical affectation"
+],
+"pedantical": [
+"___pedantic"
 ],
 "pedantically": [
 "In a pedantic manner"
@@ -7205,6 +7519,12 @@
 "pedlar": [
 "___peddler"
 ],
+"pedler": [
+"___pedlar"
+],
+"pedo-": [
+"___pedi-"
+],
 "pedobaptism": [
 "The baptism of infants or of small children"
 ],
@@ -7225,6 +7545,9 @@
 ],
 "pedometric": [
 "Pertaining to, or measured by, a pedometer"
+],
+"pedometrical": [
+"___pedometric"
 ],
 "pedomotive": [
 "Moved or worked by the action of the foot or feet on a pedal or treadle"
@@ -7266,6 +7589,9 @@
 ],
 "pedunculate": [
 "Having a peduncle; growing on a peduncle; as, a pedunculate flower; a pedunculate eye, as in a lobster"
+],
+"pedunculated": [
+"___pedunculate"
 ],
 "pee": [
 "___pea",
@@ -7346,6 +7672,9 @@
 "peepul": [
 "A sacred tree (Ficus religiosa) of the Buddhists, a kind of fig tree which attains great size and venerable age; it lacks the prop roots of the banyan.  See Bo tree"
 ],
+"peepul tree": [
+"___peepul"
+],
 "peer": [
 "To come in sight; to appear",
 "To look narrowly or curiously or intently; to peep; as, the peering day",
@@ -7377,6 +7706,9 @@
 "peerweet": [
 "___pewit"
 ],
+"peery": [
+"___peerie"
+],
 "peevish": [
 "Habitually fretful; easily vexed or fretted; hard to please; apt to complain; querulous; petulant",
 "Expressing fretfulness and discontent, or unjustifiable dissatisfaction; as, a peevish answer",
@@ -7392,6 +7724,7 @@
 "___pewit"
 ],
 "peewit": [
+"___peevit",
 "A large crested Old World plover having wattles and spurs; the pewit",
 "Any of several small olive-colored woodland flycatchers of eastern North America"
 ],
@@ -7484,6 +7817,9 @@
 "pekinese": [
 "a Chinese breed of small short-legged dogs with a long silky coat and broad flat muzzle"
 ],
+"pekingese": [
+"___pekinese"
+],
 "pekoe": [
 "A kind of black tea"
 ],
@@ -7514,6 +7850,9 @@
 "Of or pertaining to the Pelasgians, an ancient people of Greece, of roving habits",
 "Wandering"
 ],
+"pelasgic": [
+"___pelasgian"
+],
 "pele's hair": [
 "Glass threads or fibers formed by the wind from bits blown from frothy lava or from the tips of lava jets or from bits of liquid lava thrown into the air.  It often collects in thick masses resembling tow"
 ],
@@ -7536,6 +7875,9 @@
 "pelecypoda": [
 "___lamellibranchia"
 ],
+"pelecypodous": [
+"___pelecypod"
+],
 "pelegrine": [
 "___peregrine"
 ],
@@ -7553,6 +7895,9 @@
 ],
 "pelfray": [
 "Pelf; also, figuratively, rubbish; trash"
+],
+"pelfry": [
+"___pelfray"
 ],
 "pelican": [
 "Any large webfooted bird of the genus Pelecanus, of which about a dozen species are known.  They have an enormous bill, to the lower edge of which is attached a pouch in which captured fishes are temporarily stored",
@@ -7611,6 +7956,9 @@
 "pelletise": [
 "To form into small balls; as, to pelletize ore.  The spelling pelletise is mostly British"
 ],
+"pelletize": [
+"___pelletise"
+],
 "pellibranchiata": [
 "A division of Nudibranchiata, in which the mantle itself serves as a gill"
 ],
@@ -7639,6 +7987,9 @@
 ],
 "pellucidly": [
 "In a pellucid manner"
+],
+"pellucidness": [
+"___pellucidity"
 ],
 "pelma": [
 "The under surface of the foot"
@@ -7683,6 +8034,9 @@
 ],
 "peltate": [
 "Shield-shaped; scutiform; (Bot.) having the stem or support attached to the lower surface, instead of at the base or margin; -- said of a leaf or other organ"
+],
+"peltated": [
+"___peltate"
 ],
 "pelter": [
 "One who pelts",
@@ -7855,6 +8209,9 @@
 "pencillate": [
 "Shaped like a pencil; penicillate"
 ],
+"pencillated": [
+"___pencillate"
+],
 "pencraft": [
 "Penmanship; skill in writing; chirography",
 "The art of composing or writing; authorship"
@@ -7960,6 +8317,9 @@
 ],
 "penetrance": [
 "The quality or state of being penetrant; power of entering or piercing; penetrating power or quality; as, the penetrancy of subtile effluvia"
+],
+"penetrancy": [
+"___penetrance"
 ],
 "penetrant": [
 "Having power to enter or pierce; penetrating; sharp; subtile; as, penetrant cold"
@@ -8125,6 +8485,9 @@
 "Winged; plume-shaped",
 "___pinnate"
 ],
+"pennated": [
+"___pennate"
+],
 "pennatula": [
 "Any one of numerous species of Pennatula, Pteroides, and allied genera of Alcyonaria, having a featherlike form; a sea-pen.  The zooids are situated along one edge of the side branches"
 ],
@@ -8161,6 +8524,9 @@
 ],
 "pennoncel": [
 "A small pennon borne on a lance.  See Pencel"
+],
+"pennoncelle": [
+"___pennoncel"
 ],
 "pennsylvanian": [
 "The geological period from 280 million to 310 million years ago; -- it was characterized by a warm climate and abundance of swampy land",
@@ -8340,6 +8706,9 @@
 "Having five digits to the hand or foot",
 "Having five appendages resembling fingers or toes"
 ],
+"pentadactyle": [
+"___pentadactyl"
+],
 "pentadactyloid": [
 "Having the form of, or a structure modified from, a pentadactyl limb"
 ],
@@ -8379,11 +8748,17 @@
 "pentagraphic": [
 "Pantographic. See Pantograph"
 ],
+"pentagraphical": [
+"___pentagraphic"
+],
 "pentagynia": [
 "A Linnæan order of plants, having five styles or pistils"
 ],
 "pentagynian": [
 "Of or pertaining to plants of the order Pentagyna; having five styles"
+],
+"pentagynous": [
+"___pentagynian"
 ],
 "pentahedral": [
 "Having five sides; as, a pentahedral figure"
@@ -8428,6 +8803,9 @@
 ],
 "pentandrian": [
 "Of or pertaining to the class Pentadria; having five stamens"
+],
+"pentandrous": [
+"___pentandrian"
 ],
 "pentane": [
 "Any one of the three metameric hydrocarbons, C5H12, of the methane or paraffin series. They are colorless, volatile liquids, two of which occur in petroleum. So called because of the five carbon atoms in the molecule"
@@ -8514,6 +8892,9 @@
 ],
 "pentelic": [
 "Of or pertaining to Mount Pentelicus, near Athens, famous for its fine white marble quarries; obtained from Mount Pentelicus; as, the Pentelic marble of which the Parthenon is built"
+],
+"pentelican": [
+"___pentelic"
 ],
 "pentene": [
 "___amylene"
@@ -8649,6 +9030,9 @@
 "peperine": [
 "A volcanic rock, formed by the cementing together of sand, scoria, cinders, etc"
 ],
+"peperino": [
+"___peperine"
+],
 "peplis": [
 "A genus of plants including water purslane"
 ],
@@ -8724,6 +9108,9 @@
 ],
 "pepsi cola": [
 "A carbonated soft drink flavored by extract from the cola nut (kola nut).  The nut is found on trees of the species Cola acuminata and Cola nitida"
+],
+"pepsi-cola": [
+"___pepsi cola"
 ],
 "pepsin": [
 "A proteolytic enzyme (MW 34,500) contained in the secretory glands of the stomach.  In the gastric juice it is united with dilute hydrochloric acid (0.2 per cent, approximately) and the two together constitute the active portion of the digestive fluid.  It degrades proteins to proteoses and peptides, and is notable for having a very low pH optimum for its activity.  It is the active agent in the gastric juice of all animals"
@@ -8961,6 +9348,9 @@
 "percipience": [
 "The faculty, act or power of perceiving; perception"
 ],
+"percipiency": [
+"___percipience"
+],
 "percipient": [
 "Having the faculty of perception; perceiving; as, a percipient being"
 ],
@@ -9049,6 +9439,9 @@
 "Lost to view; in concealment or ambush",
 "Accustomed to, or employed in, desperate enterprises; hence, reckless; hopeless"
 ],
+"perdue": [
+"___perdu"
+],
 "perduellion": [
 "Treason"
 ],
@@ -9069,6 +9462,9 @@
 ],
 "perdurantist": [
 "A philosopher who considers the fundamental objects of the real world as extended in the direction of time, so that the objects themselves do not change, though temporal parts may have different properties.  Contrasted to endurantist, one who considers objects to be wholly present at each instant"
+],
+"perduration": [
+"___perdurance"
 ],
 "perdure": [
 "To last or endure for a long time; to be perdurable or lasting"
@@ -9152,6 +9548,9 @@
 "Hermaphrodite; having both stamens and pistils; -- said of a flower",
 "The perfect tense, or a form in that tense",
 "To make perfect; to finish or complete, so as to leave nothing wanting; to give to anything all that is requisite to its nature and kind"
+],
+"perfectability": [
+"___perfectibility"
 ],
 "perfected": [
 "Brought into final form; completely formed; -- of plans, ideas, etc",
@@ -9256,6 +9655,9 @@
 "To bore through; to pierce through with a pointed instrument; to make a hole or holes through by boring or piercing; to pierce or penetrate the surface of",
 "Pierced with a hole or holes, or with pores; having transparent dots resembling holes"
 ],
+"perforated": [
+"___perforate"
+],
 "perforation": [
 "The act of perforating, or of boring or piercing through",
 "A hole made by boring or piercing; an aperture"
@@ -9336,6 +9738,9 @@
 "pergamenous": [
 "Like parchment"
 ],
+"pergamentaceous": [
+"___pergamenous"
+],
 "pergola": [
 "Lit., an arbor or bower"
 ],
@@ -9393,6 +9798,9 @@
 "pericardiac": [
 "Of or pertaining to pericardium; situated around the heart"
 ],
+"pericardial": [
+"___pericardiac"
+],
 "pericardian": [
 "Pericardiac"
 ],
@@ -9410,6 +9818,9 @@
 ],
 "pericarpial": [
 "Of or pertaining to a pericarp"
+],
+"pericarpic": [
+"___pericarpial"
 ],
 "pericellular": [
 "Surrounding a cell; as, the pericellular lymph spaces surrounding ganglion cells"
@@ -9443,6 +9854,9 @@
 ],
 "periclase": [
 "A grayish or dark green mineral, consisting essentially of magnesia (magnesium oxide), occurring in granular forms or in isometric crystals"
+],
+"periclasite": [
+"___periclase"
 ],
 "periclinium": [
 "The involucre which surrounds the common receptacle in composite flowers"
@@ -9520,6 +9934,9 @@
 "perigenetic": [
 "Of or pertaining to perigenesis"
 ],
+"perigeum": [
+"___perigee"
+],
 "perigone": [
 "Any organ inclosing the essential organs of a flower; a perianth",
 "A sac which surrounds the generative bodies in the gonophore of a hydroid"
@@ -9541,6 +9958,9 @@
 ],
 "perihelion": [
 "That point of the orbit of a planet or comet which is nearest to the sun; -- opposed to aphelion"
+],
+"perihelium": [
+"___perihelion"
 ],
 "peril": [
 "Danger; risk; hazard; jeopardy; exposure of person or property to injury, loss, or destruction",
@@ -9569,6 +9989,9 @@
 ],
 "perimetric": [
 "Of or pertaining to the perimeter, or to perimetry; as, a perimetric chart of the eye"
+],
+"perimetrical": [
+"___perimetric"
 ],
 "perimetry": [
 "The art of using the perimeter; measurement of the field of vision"
@@ -9637,6 +10060,7 @@
 "Of or pertaining to a period; constituting a complete sentence"
 ],
 "periodical": [
+"___periodic",
 "A magazine or other publication which appears at stated or regular intervals"
 ],
 "periodicalist": [
@@ -9665,6 +10089,9 @@
 ],
 "perioeci": [
 "Those who live on the same parallel of latitude but on opposite meridians, so that it is noon in one place when it is midnight in the other. Compare Antœci"
+],
+"perioecians": [
+"___perioeci"
 ],
 "periople": [
 "The external smooth horny layer of the hoof of the horse and allied animals"
@@ -9705,6 +10132,9 @@
 "peripatopsis": [
 "The type genus of Peripatopsidae, consisting of onychophorans (lowly organized invertebrates related evolutionarily to the arthropods, also called “walking worms” AND “velvet worms”) found chiefly in Asiatic and African tropical regions, in South Africa, Australia, New Zealand, and tropical America"
 ],
+"peripatus": [
+"___peripatopsis"
+],
 "peripetalous": [
 "Surrounding, or situated about, the petals"
 ],
@@ -9715,6 +10145,9 @@
 ],
 "peripheric": [
 "___peripheral"
+],
+"peripherical": [
+"___peripheric"
 ],
 "periphery": [
 "The outside or superficial portions of a body; the surface",
@@ -9731,6 +10164,9 @@
 "periphrastic": [
 "Expressing, or expressed, in more words than are necessary; characterized by periphrase; circumlocutory"
 ],
+"periphrastical": [
+"___periphrastic"
+],
 "periphrastically": [
 "With circumlocution"
 ],
@@ -9742,6 +10178,9 @@
 ],
 "peripneumonic": [
 "Of or pertaining to peripneumonia"
+],
+"peripneumony": [
+"___peripneumonia"
 ],
 "periproct": [
 "The region surrounding the anus, particularly of echinoderms"
@@ -9770,6 +10209,9 @@
 ],
 "periscians": [
 "Those who live within a polar circle, whose shadows, during some summer days, will move entirely round, falling toward every point of the compass"
+],
+"periscii": [
+"___periscians"
 ],
 "periscope": [
 "A general or comprehensive view",
@@ -9809,6 +10251,9 @@
 ],
 "perispheric": [
 "Exactly spherical; globular"
+],
+"perispherical": [
+"___perispheric"
 ],
 "perispomenon": [
 "A word which has the circumflex accent on the last syllable"
@@ -9966,6 +10411,9 @@
 "perjurious": [
 "Guilty of perjury; containing perjury"
 ],
+"perjurous": [
+"___perjurious"
+],
 "perjury": [
 "False swearing",
 "At common law, a willfully false statement in a fact material to the issue, made by a witness under oath in a competent judicial proceeding.  By statute the penalties of perjury are imposed on the making of willfully false affirmations"
@@ -10010,6 +10458,9 @@
 ],
 "permanence": [
 "The quality or state of being permanent; continuance in the same state or place; duration; fixedness; as, the permanence of institutions; the permanence of nature"
+],
+"permanency": [
+"___permanence"
 ],
 "permanent": [
 "Continuing in the same state, or without any change that destroys form or character; remaining unaltered or unremoved; abiding; durable; fixed; stable; lasting; as, a permanent impression",
@@ -10062,6 +10513,9 @@
 ],
 "permeation": [
 "The act of permeating, passing through, or spreading throughout, the pores or interstices of any substance"
+],
+"permeative": [
+"___permeating"
 ],
 "permed": [
 "Treated with chemicals to make it curly; having been given a permanent wave; -- of hair; as, permed hair"
@@ -10157,6 +10611,9 @@
 ],
 "pernicity": [
 "Swiftness; celerity"
+],
+"pernicketty": [
+"___pernickety"
 ],
 "pernickety": [
 "Finical or fussy; full of petty details"
@@ -10468,6 +10925,9 @@
 "The quality or state of being persistent; staying or continuing quality; hence, in an unfavorable sense, doggedness; obstinacy",
 "The continuance of an effect after the cause which first gave rise to it is removed"
 ],
+"persistency": [
+"___persistence"
+],
 "persistent": [
 "Inclined to persist; having staying qualities; tenacious of position or purpose",
 "Remaining beyond the period when parts of the same kind sometimes fall off or are absorbed; permanent; as, persistent teeth or gills; a persistent calyx; -- opposed to deciduous, and caducous"
@@ -10498,6 +10958,9 @@
 "One of three relations or conditions (that of speaking, that of being spoken to, and that of being spoken of) pertaining to a noun or a pronoun, and thence also to the verb of which it may be the subject",
 "A shoot or bud of a plant; a polyp or zooid of the compound Hydrozoa, Anthozoa, etc.; also, an individual, in the narrowest sense, among the higher animals",
 "To represent as a person; to personify; to impersonate"
+],
+"person to person": [
+"___person-to-person"
 ],
 "person-to-person": [
 "By direct contact between persons",
@@ -10763,6 +11226,9 @@
 "pertinence": [
 "The quality or state of being pertinent; justness of relation to the subject or matter in hand; fitness; appositeness; relevancy; suitableness"
 ],
+"pertinency": [
+"___pertinence"
+],
 "pertinent": [
 "Belonging or related to the subject or matter in hand; fit or appropriate in any way; adapted to the end proposed; apposite; material; relevant; as, pertinent illustrations or arguments; pertinent evidence",
 "Regarding; concerning; belonging; pertaining"
@@ -10817,6 +11283,9 @@
 ],
 "pertuse": [
 "Punched; pierced with, or having, holes"
+],
+"pertused": [
+"___pertuse"
 ],
 "pertusion": [
 "The act of punching or piercing with a pointed instrument; as, pertusion of a vein",
@@ -10969,6 +11438,9 @@
 "peshito": [
 "The earliest Syriac version of the Old Testament, translated from Hebrew; also, the incomplete Syriac version of the New Testament"
 ],
+"peshitto": [
+"___peshito"
+],
 "pesky": [
 "Pestering; vexatious; troublesome. Used also as an intensive"
 ],
@@ -10989,6 +11461,9 @@
 "One who advocates the doctrine of pessimism; -- opposed to optimist",
 "One who looks on the dark side of things",
 "Of or pertaining to pessimism; characterized by pessimism; gloomy; foreboding"
+],
+"pessimistic": [
+"___pessimist"
 ],
 "pessimistical": [
 "Pessimistic"
@@ -11134,6 +11609,9 @@
 "petardeer": [
 "One who managed a petard"
 ],
+"petardier": [
+"___petardeer"
+],
 "petasus": [
 "The winged cap of Mercury; also, a broad-brimmed, low-crowned hat worn by Greeks and Romans"
 ],
@@ -11177,8 +11655,14 @@
 "petiolar": [
 "Of or pertaining to petiole, or proceeding from it; as, a petiolar tendril; growing or supported upon a petiole; as, a petiolar gland; a petiolar bud"
 ],
+"petiolary": [
+"___petiolar"
+],
 "petiolate": [
 "Having a stalk or petiole; as, a petioleate leaf; the petiolated abdomen of certain Hymenoptera"
+],
+"petiolated": [
+"___petiolate"
 ],
 "petiole": [
 "A leafstalk; the footstalk of a leaf, connecting the blade with the stem. See Illust. of Leaf",
@@ -11323,6 +11807,9 @@
 "petrographic": [
 "Pertaining to petrography"
 ],
+"petrographical": [
+"___petrographic"
+],
 "petrography": [
 "The art of writing on stone",
 "The scientific description of rocks; that department of science which investigates the constitution of rocks; petrology"
@@ -11343,11 +11830,17 @@
 "petroleur": [
 "One who makes use of petroleum for incendiary purposes"
 ],
+"petroleuse": [
+"___petroleur"
+],
 "petroline": [
 "A paraffin obtained from petroleum from Rangoon in India, and practically identical with ordinary paraffin"
 ],
 "petrologic": [
 "Of or pertaining to petrology"
+],
+"petrological": [
+"___petrologic"
 ],
 "petrologically": [
 "According to petrology"
@@ -11443,6 +11936,9 @@
 "petulance": [
 "The quality or state of being petulant; temporary peevishness; pettishness; capricious ill humor"
 ],
+"petulancy": [
+"___petulance"
+],
 "petulant": [
 "Forward; pert; insolent; wanton",
 "Capriciously fretful; characterized by ill-natured freakishness; irritable"
@@ -11464,6 +11960,12 @@
 ],
 "petunse": [
 "Powdered fledspar, kaolin, or quartz, used in the manufacture of porcelain"
+],
+"petuntse": [
+"___petunse"
+],
+"petuntze": [
+"___petunse"
 ],
 "petworth marble": [
 "A kind of shell marble occurring in the Wealden clay at Petworth, in Sussex, England; -- called also Sussex marble"
@@ -11539,6 +12041,9 @@
 "pfennig": [
 "A small copper coin of Germany.  It is the hundredth part of a mark.  In 2001 it was superseded by the euro"
 ],
+"ph.d.": [
+"___phd"
+],
 "phacellus": [
 "One of the filaments on the inner surface of the gastric cavity of certain jellyfishes"
 ],
@@ -11566,6 +12071,9 @@
 "phaenogamian": [
 "___phænogamous"
 ],
+"phaenogamic": [
+"___phaenogamian"
+],
 "phaenogamous": [
 "Having true flowers with distinct floral organs; flowering"
 ],
@@ -11590,6 +12098,9 @@
 "phagedenic": [
 "Of, like, or pertaining to, phagedena; used in the treatment of phagedena; as, a phagedenic ulcer or medicine"
 ],
+"phagedenical": [
+"___phagedenic"
+],
 "phagedenous": [
 "Phagedenic"
 ],
@@ -11611,6 +12122,9 @@
 "phalaenopsis": [
 "A genus of ornamental epiphytic orchids of Asia and Australia"
 ],
+"phalangal": [
+"___phalangeal"
+],
 "phalangeal": [
 "Of or pertaining to the phalanges. See Phalanx, 2"
 ],
@@ -11622,6 +12136,9 @@
 ],
 "phalangial": [
 "Phalangeal"
+],
+"phalangian": [
+"___phalangial"
 ],
 "phalangid": [
 "One of the Phalangoidea"
@@ -11635,6 +12152,9 @@
 "phalangister": [
 "___phalangist"
 ],
+"phalangistine": [
+"___phalangister"
+],
 "phalangite": [
 "A soldier belonging to a phalanx"
 ],
@@ -11647,6 +12167,9 @@
 "phalansterian": [
 "Of or pertaining to phalansterianism",
 "One who favors the system of phalansteries proposed by Fourier"
+],
+"phalansterianism": [
+"___phalansterism"
 ],
 "phalansterism": [
 "A system of phalansteries proposed by Fourier; Fourierism"
@@ -11697,6 +12220,9 @@
 "phanariot": [
 "One of the Greeks of Constantinople who after the Turkish conquest became powerful in clerical and other offices under Turkish patronage"
 ],
+"phanariote": [
+"___phanariot"
+],
 "phane": [
 "___fane"
 ],
@@ -11723,6 +12249,9 @@
 ],
 "phanerogamic": [
 "Having visible flowers containing distinct stamens and pistils; -- said of plants"
+],
+"phanerogamous": [
+"___phanerogamic"
 ],
 "phaneroglossal": [
 "Having a conspicious tongue; -- said of certain reptiles and insects"
@@ -11766,6 +12295,9 @@
 "phantastic": [
 "___fantastic"
 ],
+"phantastical": [
+"___phantastic"
+],
 "phantasy": [
 "___fantasy"
 ],
@@ -11797,6 +12329,9 @@
 "Of or pertaining to the Pharisees; resembling the Pharisees",
 "Addicted to external forms and ceremonies; making a show of religion without the spirit of it; ceremonial; formal; hypocritical; self-righteous"
 ],
+"pharisaical": [
+"___pharisaic"
+],
 "pharisaism": [
 "The notions, doctrines, and conduct of the Pharisees, as a sect",
 "Rigid observance of external forms of religion, without genuine piety; hypocrisy in religion; a censorious, self-righteous spirit in matters of morals or manners"
@@ -11812,6 +12347,9 @@
 ],
 "pharmaceutic": [
 "Of or pertaining to the knowledge or art of pharmacy, or to the art of preparing medicines according to the rules or formulas of pharmacy; as, pharmaceutical preparations"
+],
+"pharmaceutical": [
+"___pharmaceutic"
 ],
 "pharmaceutics": [
 "The science of preparing medicines"
@@ -11959,6 +12497,9 @@
 "phaseless": [
 "Without a phase, or visible form"
 ],
+"phasemeter": [
+"___phase meter"
+],
 "phaseolus": [
 "A genus of leguminous plants, including the Lima bean, the kidney bean, the scarlet runner, etc. See Bean"
 ],
@@ -11985,6 +12526,9 @@
 ],
 "phasm": [
 "An apparition; a phantom; an appearance"
+],
+"phasma": [
+"___phasm"
 ],
 "phasmatidae": [
 "A natural family consisting of the stick insects"
@@ -12038,6 +12582,9 @@
 ],
 "phenacetin": [
 "A white, crystalline compound, C10H13O2N, once used in medicine principally as an antipyretic.  It is now seldom used because of serious side effects"
+],
+"phenacetine": [
+"___phenacetin"
 ],
 "phenacite": [
 "A glassy colorless mineral occurring in rhombohedral crystals, sometimes used as a gem.  It is a silicate of glucina, and receives its name from its deceptive similarity to quartz"
@@ -12093,9 +12640,18 @@
 "phenogamian": [
 "___phænogamian"
 ],
+"phenogamic": [
+"___phenogamian"
+],
+"phenogamous": [
+"___phenogamian"
+],
 "phenol": [
 "A white or pinkish crystalline substance, C6H5OH, produced by the destructive distillation of many organic bodies, as wood, coal, etc., and obtained from the heavy oil from coal tar",
 "Any one of the series of hydroxyl derivatives of which phenol proper is the type"
+],
+"phenol phthalein": [
+"___phenolphthalein"
 ],
 "phenolate": [
 "A compound of phenol analogous to a salt"
@@ -12130,6 +12686,9 @@
 ],
 "phenotypic": [
 "Of, pertaining to, or characteristic of a phenotype; as, phenotypic profile.   Contrasted with genotypic"
+],
+"phenotypical": [
+"___phenotypic"
 ],
 "phenyl": [
 "A hydrocarbon radical (C6H5) regarded as the essential residue of benzene, and the basis of an immense number of aromatic derivatives"
@@ -12183,6 +12742,9 @@
 ],
 "philanthropic": [
 "Of or pertaining to philanthropy; characterized by philanthropy; loving or helping mankind; as, a philanthropic enterprise"
+],
+"philanthropical": [
+"___philanthropic"
 ],
 "philanthropinism": [
 "A system of education on so-called natural principles, attempted in Germany in the last century by Basedow, of Dessau"
@@ -12305,6 +12867,9 @@
 "philologian": [
 "A philologist"
 ],
+"philologic": [
+"___philological"
+],
 "philological": [
 "Of or pertaining to philology"
 ],
@@ -12357,6 +12922,9 @@
 "philopolemic": [
 "Fond of polemics or controversy"
 ],
+"philopolemical": [
+"___philopolemic"
+],
 "philoprogenitive": [
 "Having the love of offspring; fond of children"
 ],
@@ -12386,6 +12954,9 @@
 "philosophic": [
 "Of or pertaining to philosophy; versed in, or imbued with, the principles of philosophy; hence, characterizing a philosopher; rational; wise; temperate; calm; cool"
 ],
+"philosophical": [
+"___philosophic"
+],
 "philosophism": [
 "Spurious philosophy; the love or practice of sophistry"
 ],
@@ -12394,6 +12965,9 @@
 ],
 "philosophistic": [
 "Of or pertaining to the love or practice of sophistry"
+],
+"philosophistical": [
+"___philosophistic"
 ],
 "philosophize": [
 "To reason like a philosopher; to search into the reason and nature of things; to investigate phenomena, and assign rational causes for their existence"
@@ -12414,6 +12988,9 @@
 ],
 "philotechnic": [
 "Fond of the arts"
+],
+"philotechnical": [
+"___philotechnic"
 ],
 "philter": [
 "A potion or charm intended to excite the passion of love",
@@ -12437,6 +13014,9 @@
 ],
 "phlebolite": [
 "A small calcareous concretion formed in a vein; a vein stone"
+],
+"phlebolith": [
+"___phlebolite"
 ],
 "phlebology": [
 "A branch of anatomy which treats of the veins"
@@ -12727,6 +13307,9 @@
 "Of or pertaining to phonography; based upon phonography",
 "Of or pertaining to phonograph; done by the phonograph"
 ],
+"phonographical": [
+"___phonographic"
+],
 "phonographically": [
 "In a phonographic manner; by means of phonograph"
 ],
@@ -12746,6 +13329,9 @@
 ],
 "phonologic": [
 "Of or pertaining to phonology"
+],
+"phonological": [
+"___phonologic"
 ],
 "phonologist": [
 "One versed in phonology"
@@ -12770,6 +13356,9 @@
 ],
 "phonotypic": [
 "Of or pertaining to phonotypy; as, a phonotypic alphabet"
+],
+"phonotypical": [
+"___phonotypic"
 ],
 "phonotypist": [
 "One versed in phonotypy"
@@ -12938,6 +13527,9 @@
 "photo-electric cell": [
 "A cell (as one of two electrodes embedded in selenium) which by exposure to light generates an electric current"
 ],
+"photo-electrical": [
+"___photo-electric"
+],
 "photo-electricity": [
 "Electricity produced by light"
 ],
@@ -12982,6 +13574,9 @@
 ],
 "photochemistry": [
 "The branch of chemistry which relates to the effect of light in producing chemical changes, as in photography"
+],
+"photochromatic": [
+"___photochromic"
 ],
 "photochromic": [
 "Of or pertaining to photochromy; produced by photochromy"
@@ -13063,6 +13658,9 @@
 "photographic": [
 "Of or pertaining to photography; obtained by photography; used ib photography; as a photographic picture; a photographic camera"
 ],
+"photographical": [
+"___photographic"
+],
 "photographist": [
 "A photographer"
 ],
@@ -13102,6 +13700,9 @@
 "photologic": [
 "Pertaining to photology, or the doctrine of light"
 ],
+"photological": [
+"___photologic"
+],
 "photologist": [
 "One who studies or expounds the laws of light",
 "One who studies the science of photography"
@@ -13131,8 +13732,14 @@
 "photometric": [
 "Of or pertaining to photometry, or to a photometer"
 ],
+"photometrical": [
+"___photometric"
+],
 "photometrician": [
 "One engaged in the scientific measurement of light; a specialist in photometry"
+],
+"photometrist": [
+"___photometrician"
 ],
 "photometry": [
 "That branch of science which treats of the measurement of the intensity of light"
@@ -13204,6 +13811,9 @@
 ],
 "phototaxis": [
 "The influence of light on the movements of low organisms, as various infusorians, the zoospores of certain algæ, etc.; also, the tendency to follow definite directions of motion or assume definite positions under such influence. If the migration is toward the source of light, it is termed positive phototaxis; if away from the light, negative phototaxis"
+],
+"phototaxy": [
+"___phototaxis"
 ],
 "phototelegraphy": [
 "Telegraphy by means of light, as by the heliograph or the photophone. Also, less properly, telephotography"
@@ -13288,6 +13898,9 @@
 "phraseologic": [
 "Of or pertaining to phraseology; consisting of a peculiar form of words"
 ],
+"phraseological": [
+"___phraseologic"
+],
 "phraseologist": [
 "A collector or coiner of phrases"
 ],
@@ -13312,8 +13925,17 @@
 "Relating to phrenitis; suffering from frenzy; delirious; mad; frantic; frenetic",
 "One who is phrenetic"
 ],
+"phrenetical": [
+"___phrenetic"
+],
+"phreni-": [
+"___phren-"
+],
 "phrenic": [
 "Of or pertaining to the diaphragm; diaphragmatic; as, the phrenic nerve"
+],
+"phrenico-": [
+"___phren-"
 ],
 "phrenics": [
 "That branch of science which relates to the mind; mental philosophy"
@@ -13324,6 +13946,9 @@
 "phrenitis": [
 "Inflammation of the brain, or of the meninges of the brain, attended with acute fever and delirium; -- called also cephalitis",
 "___frenzy"
+],
+"phreno-": [
+"___phren-"
 ],
 "phrenograph": [
 "An instrument for registering the movements of the diaphragm, or midriff, in respiration"
@@ -13414,6 +14039,9 @@
 "phthisipneumonia": [
 "Pulmonary consumption; tuberculosis of the lungs"
 ],
+"phthisipneumony": [
+"___phthisipneumonia"
+],
 "phthisis": [
 "A wasting or consumption of the tissues.  The term is now obsolete; it was once applied to many wasting diseases, but in the early 1900's became restricted to tuberculosis of the lungs (pulmonary phthisis, or consumption). See Consumption"
 ],
@@ -13436,8 +14064,14 @@
 "phycocyanin": [
 "A blue coloring matter found in certain algae"
 ],
+"phycocyanine": [
+"___phycocyanin"
+],
 "phycoerythrin": [
 "A red coloring matter found in algae of the subclass Florideae"
+],
+"phycoerythrine": [
+"___phycoerythrin"
 ],
 "phycography": [
 "A description of seaweeds"
@@ -13457,6 +14091,9 @@
 "phycoxanthin": [
 "A yellowish coloring matter found in certain algae"
 ],
+"phycoxanthine": [
+"___phycoxanthin"
+],
 "phylacter": [
 "A phylactery"
 ],
@@ -13465,6 +14102,9 @@
 ],
 "phylacteric": [
 "Of or pertaining to phylacteries"
+],
+"phylacterical": [
+"___phylacteric"
 ],
 "phylactery": [
 "Any charm or amulet worn as a preservative from danger or disease",
@@ -13477,11 +14117,17 @@
 "phylactolaema": [
 "An order of fresh-water Bryozoa in which the tentacles are arranged on a horseshoe-shaped lophophore, and the mouth is covered by an epistome.  Called also Lophopoda, and hippocrepians"
 ],
+"phylactolaemata": [
+"___phylactolaema"
+],
 "phylactolaematous": [
 "Of or pertaining to the Phylactolæma"
 ],
 "phylactolema": [
 "___phylactolæma"
+],
+"phylactolemata": [
+"___phylactolema"
 ],
 "phylarch": [
 "The chief of a phyle, or tribe"
@@ -13503,6 +14149,9 @@
 ],
 "phylloclade": [
 "A flattened stem or branch which more or less resembles a leaf, and performs the function of a leaf as regards respiration and assimilation"
+],
+"phyllocladium": [
+"___phylloclade"
 ],
 "phyllocladus": [
 "A genus consisting of celery pine"
@@ -13570,6 +14219,9 @@
 "phyllotactic": [
 "Of or pertaining to phyllotaxy"
 ],
+"phyllotaxis": [
+"___phyllotaxy"
+],
 "phyllotaxy": [
 "The order or arrangement of leaves on the stem; the science of the relative position of leaves"
 ],
@@ -13591,6 +14243,9 @@
 ],
 "phylogenetic": [
 "Relating to phylogenesis, or the evolutionary history of a type of organism"
+],
+"phylogeny": [
+"___phylogenesis"
 ],
 "phylon": [
 "A tribe"
@@ -13709,6 +14364,9 @@
 "physiognomic": [
 "Of or pertaining to physiognomy; according with the principles of physiognomy"
 ],
+"physiognomical": [
+"___physiognomic"
+],
 "physiognomist": [
 "___physiognomy",
 "One skilled in physiognomy",
@@ -13731,6 +14389,9 @@
 ],
 "physiographic": [
 "Of or pertaining to physiography"
+],
+"physiographical": [
+"___physiographic"
 ],
 "physiography": [
 "The science which treats of the earth's exterior physical features, climate, life, etc., and of the physical movements or changes on the earth's surface, as the currents of the atmosphere and ocean, the secular variations in heat, moisture, magnetism, etc.; physical geography",
@@ -13821,6 +14482,9 @@
 "phytogenesis": [
 "The doctrine of the generation of plants"
 ],
+"phytogeny": [
+"___phytogenesis"
+],
 "phytogeographical": [
 "Of or pertaining to phytogeography"
 ],
@@ -13865,6 +14529,9 @@
 ],
 "phytomer": [
 "An organic element of a flowering plant; a phyton"
+],
+"phytomeron": [
+"___phytomer"
 ],
 "phyton": [
 "One of the parts which by their repetition make up a flowering plant, each being a single joint of a stem with its leaf or leaves; a phytomer"
@@ -13957,7 +14624,7 @@
 "Of, pertaining to, or characteristic of a pianist; as, pianistic abilities"
 ],
 "piano": [
-"Soft; -- a direction to the performer to execute a certain passage softly, and with diminished volume of tone. (Abbrev. p.)"
+"___pianoforte"
 ],
 "pianoforte": [
 "A well-known musical instrument somewhat resembling the harpsichord, and consisting of a series of wires of graduated length, thickness, and tension, struck by hammers moved by keys"
@@ -14040,6 +14707,9 @@
 "piccadil": [
 "A high, stiff collar for the neck; also, a hem or band about the skirt of a garment, -- worn by men in the 17th century"
 ],
+"piccadilly": [
+"___piccadil"
+],
 "piccage": [
 "Money paid at fairs for leave to break ground for booths"
 ],
@@ -14117,6 +14787,9 @@
 "pick-me-up": [
 "A stimulant, restorative, or tonic; a bracer"
 ],
+"pick-up": [
+"___pickup"
+],
 "pickaback": [
 "On the back or shoulders; as, to ride pickback"
 ],
@@ -14128,6 +14801,9 @@
 ],
 "pickax": [
 "A pick with a point at one end, a transverse edge or blade at the other, and a handle inserted at the middle; a hammer with a flattened end for driving wedges and a pointed end for piercing as it strikes"
+],
+"pickaxe": [
+"___pickax"
 ],
 "pickback": [
 "On the back"
@@ -14277,6 +14953,9 @@
 "picotee": [
 "A variety of carnation having petals of a light color variously dotted and spotted at the edges"
 ],
+"picotine": [
+"___picotee"
+],
 "picquet": [
 "___piquet"
 ],
@@ -14315,6 +14994,9 @@
 ],
 "pictoric": [
 "Pictorial"
+],
+"pictorical": [
+"___pictoric"
 ],
 "picts": [
 "A race of people of uncertain origin, who inhabited Scotland in early times"
@@ -14454,6 +15136,9 @@
 "piepoudre": [
 "An ancient court of record in England, formerly incident to every fair and market, of which the steward of him who owned or had the toll was the judge"
 ],
+"piepowder": [
+"___piepoudre"
+],
 "pier": [
 "Any detached mass of masonry, whether insulated or supporting one side of an arch or lintel, as of a bridge; the piece of wall between two openings",
 "A projecting wharf or landing place"
@@ -14511,6 +15196,9 @@
 "pietistic": [
 "Of or pertaining to the Pietists; hence, in contempt, affectedly or demonstratively religious"
 ],
+"pietistical": [
+"___pietistic"
+],
 "pietra dura": [
 "Hard and fine stones in general, such as are used for inlay and the like, as distinguished from the softer stones used in building; thus, a Florentine mosaic is a familiar instance of work in pietra dura, though the ground may be soft marble"
 ],
@@ -14524,6 +15212,9 @@
 "piezometer": [
 "An instrument for measuring the compressibility of liquids",
 "A gauge connected with a water main to show the pressure at that point"
+],
+"piffara": [
+"___piffero"
 ],
 "piffero": [
 "A fife; also, a rude kind of oboe or a bagpipe with an inflated skin for reservoir"
@@ -14623,6 +15314,9 @@
 "pigmental": [
 "Of or pertaining to pigments; furnished with pigments"
 ],
+"pigmentary": [
+"___pigmental"
+],
 "pigmentation": [
 "A deposition, esp. an excessive deposition, of coloring matter; as, pigmentation of the liver"
 ],
@@ -14701,6 +15395,9 @@
 "pikelet": [
 "A light, thin cake or muffin"
 ],
+"pikelin": [
+"___pikelet"
+],
 "pikeman": [
 "A soldier armed with a pike",
 "A miner who works with a pick",
@@ -14764,6 +15461,9 @@
 "pileate": [
 "Having the form of a cap for the head",
 "Having a crest covering the pileus, or whole top of the head"
+],
+"pileated": [
+"___pileate"
 ],
 "piled": [
 "Having a pile or point; pointed",
@@ -14990,6 +15690,7 @@
 "a small light on an electrical device to indicate whether the device is in operation or that the power is on"
 ],
 "pilot light": [
+"___pilot lamp",
 "a small gas flame kept burning continuously on a stove, water heater, or other gas-burning device, so as to allow immediate ignition of the main flame when the gas flow is turned on"
 ],
 "pilot valve": [
@@ -15005,6 +15706,9 @@
 ],
 "pilotism": [
 "Pilotage; skill in the duties of a pilot"
+],
+"pilotry": [
+"___pilotism"
 ],
 "pilour": [
 "A piller; a plunderer"
@@ -15207,6 +15911,9 @@
 "pindal": [
 "The peanut (Arachis hypogæa); -- so called in the West Indies"
 ],
+"pindar": [
+"___pindal"
+],
 "pindaric": [
 "Of or pertaining to Pindar, the Greek lyric poet; after the style and manner of Pindar; as, Pindaric odes"
 ],
@@ -15235,6 +15942,9 @@
 ],
 "pine-clad": [
 "Clad or crowned with pine trees; as, pine-clad hills"
+],
+"pine-crowned": [
+"___pine-clad"
 ],
 "pine-tree state": [
 "Maine; -- a nickname alluding to the pine tree in its coat of arms"
@@ -15425,6 +16135,9 @@
 "Consisting of several leaflets, or separate portions, arranged on each side of a common petiole, as the leaves of a rosebush, a hickory, or an ash. See Abruptly pinnate, and Illust., under Abruptly",
 "Having a winglike tuft of long feathers on each side of the neck"
 ],
+"pinnated": [
+"___pinnate"
+],
 "pinnately": [
 "In a pinnate manner"
 ],
@@ -15488,7 +16201,11 @@
 "An instrument of torture, consisting of a board with holes into which the fingers were pressed, and fastened with pegs"
 ],
 "pinochle": [
+"___penuchle",
 "A game at cards, played with forty-eight cards, being all the cards above the eight spots in two packs"
+],
+"pinocle": [
+"___pinochle"
 ],
 "pinole": [
 "An aromatic powder used in Italy in the manufacture of chocolate",
@@ -15613,6 +16330,15 @@
 "pipe clay": [
 "A plastic, unctuous clay of a grayish white color, -- used in making tobacco pipes and various kinds of earthenware, in scouring cloth, and in cleansing soldiers' equipments"
 ],
+"pipe layer": [
+"___pipelayer"
+],
+"pipe laying": [
+"___pipelaying"
+],
+"pipe line": [
+"___pipeline"
+],
 "pipe-line": [
 "To convey by a pipe line; to furnish with a pipe line or pipe lines"
 ],
@@ -15701,6 +16427,9 @@
 ],
 "pipistrel": [
 "A small European bat (Vesperugo pipistrellus); -- called also flittermouse"
+],
+"pipistrelle": [
+"___pipistrel"
 ],
 "pipit": [
 "Any one of numerous species of small singing birds belonging to Anthus and allied genera, of the family Motacillidæ. They strongly resemble the true larks in habits, colors, and the great length of the hind claw. They are, therefore, often called titlarks, and pipit larks"
@@ -15811,6 +16540,9 @@
 "The whirling about of a horse",
 "To perform a pirouette; to whirl, like a dancer"
 ],
+"pirrie": [
+"___pirry"
+],
 "pirry": [
 "A rough gale of wind"
 ],
@@ -15831,6 +16563,9 @@
 ],
 "piscatorial": [
 "Of or pertaining to fishes or fishing"
+],
+"piscatory": [
+"___piscatorial"
 ],
 "pisces": [
 "The twelfth sign of the zodiac, marked &pisces_; in almanacs",
@@ -15912,6 +16647,9 @@
 "pissed": [
 "Angered or very annoyed"
 ],
+"pissed off": [
+"___pissed"
+],
 "pisser": [
 "Something very difficult or troublesome"
 ],
@@ -15955,6 +16693,7 @@
 "Pure; genuine"
 ],
 "pistil": [
+"___pistel",
 "The seed-bearing organ of a flower. It consists of an ovary, containing the ovules or rudimentary seeds, and a stigma, which is commonly raised on an elongated portion called a style. When composed of one carpel a pistil is simple; when composed of several, it is compound. See Illust. of Flower, and Ovary"
 ],
 "pistillaceous": [
@@ -16262,6 +17001,9 @@
 ],
 "pix": [
 "___pyx"
+],
+"pixie": [
+"___pixy"
 ],
 "pixy": [
 "An old English name for a fairy; an elf",
@@ -16726,6 +17468,9 @@
 "planet-stricken": [
 "Affected by the influence of planets; blasted"
 ],
+"planet-struck": [
+"___planet-stricken"
+],
 "planetarium": [
 "An orrery. See Orrery"
 ],
@@ -16741,6 +17486,9 @@
 ],
 "planetic": [
 "Of or pertaining to planets"
+],
+"planetical": [
+"___planetic"
 ],
 "planetoid": [
 "A body resembling a planet; an asteroid"
@@ -16771,6 +17519,9 @@
 ],
 "planimetric": [
 "Of or pertaining to planimetry"
+],
+"planimetrical": [
+"___planimetric"
 ],
 "planimetry": [
 "The mensuration of plane surfaces; -- distinguished from stereometry, or the mensuration of volumes"
@@ -16828,6 +17579,7 @@
 "One who plans; a projector"
 ],
 "plano-": [
+"___plani-",
 "___plani-"
 ],
 "plano-concave": [
@@ -16999,6 +17751,9 @@
 "Forming; shaping; molding",
 "Of or pertaining to plasma; having the character of plasma; containing, or conveying, plasma"
 ],
+"plasmatical": [
+"___plasmatic"
+],
 "plasmation": [
 "The act of forming or molding"
 ],
@@ -17029,6 +17784,9 @@
 ],
 "plasmon": [
 "A flourlike food preparation made from skim milk, and consisting essentially of the unaltered proteid of milk. It is also used in making biscuits and crackers, for mixing with cocoa, etc. A mixture of this with butter, water, and salt is called Plasmon butter, and resembles clotted cream in appearance"
+],
+"plasmon butter": [
+"___plasmon"
 ],
 "plasson": [
 "The albuminous material composing the body of a cytode"
@@ -17078,6 +17836,9 @@
 "plastid": [
 "A formative particle of albuminous matter; a monad; a cytode. See the Note under Morphon",
 "any of several types of minute granules found in the protoplasm of vegetable cells, having their own membrane, robosomes, and DNA. Among plant cells the most common are chloroplasts, which contain the chlorophyll and the photosynthetic machinery of the cell.  They are divided by their colors into three classes, chloroplastids, chromoplastids, and leucoplastids"
+],
+"plastide": [
+"___plastid"
 ],
 "plastidozoa": [
 "___protoza"
@@ -17280,6 +18041,9 @@
 "Pure, passionless; nonsexual; philosophical",
 "A follower of Plato; a Platonist"
 ],
+"platonical": [
+"___platonic"
+],
 "platonically": [
 "In a Platonic manner"
 ],
@@ -17327,6 +18091,9 @@
 ],
 "platycephalic": [
 "Broad-headed"
+],
+"platycephalous": [
+"___platycephalic"
 ],
 "platycnemic": [
 "Of, relating to, or characterized by, platycnemism"
@@ -17643,6 +18410,9 @@
 "The commonalty of ancient Rome who were citizens without the usual political rights; the plebeians; -- distinguished from the patricians",
 "Hence, the common people; the populace; -- construed as a pl"
 ],
+"plec-tognathous": [
+"___plectognathic"
+],
 "plectile": [
 "Woven; plaited"
 ],
@@ -17699,6 +18469,9 @@
 "A small plug",
 "A string of oakum used in calking",
 "A compress, or small flat tent of lint, laid over a wound, ulcer, or the like, to exclude air, retain dressings, or absorb the matter discharged"
+],
+"pledgor": [
+"___pledgeor"
 ],
 "plegepoda": [
 "___infusoria"
@@ -17757,6 +18530,9 @@
 ],
 "plenipotence": [
 "The quality or state of being plenipotent"
+],
+"plenipotency": [
+"___plenipotence"
 ],
 "plenipotent": [
 "Possessing full power"
@@ -17843,6 +18619,9 @@
 "pleonastic": [
 "Of or pertaining to pleonasm; of the nature of pleonasm; redundant"
 ],
+"pleonastical": [
+"___pleonastic"
+],
 "pleonastically": [
 "In a pleonastic manner"
 ],
@@ -17904,6 +18683,9 @@
 "plethron": [
 "A long measure of 100 Greek, or 101 English, feet; also, a square measure of 10,000 Greek feet"
 ],
+"plethrum": [
+"___plethron"
+],
 "plethysmograph": [
 "An instrument for determining and registering the variations in the size or volume of a limb, as the arm or leg, and hence the variations in the amount of blood in the limb"
 ],
@@ -17939,6 +18721,9 @@
 "pleuritic": [
 "Of or pertaining to pleurisy; as, pleuritic symptoms"
 ],
+"pleuritical": [
+"___pleuritic"
+],
 "pleuritis": [
 "Pleurisy"
 ],
@@ -17959,6 +18744,9 @@
 ],
 "pleurocarpic": [
 "Side-fruited; -- said of those true mosses in which the pedicels or the capsules are from lateral archegonia; -- opposed to acrocarpous"
+],
+"pleurocarpous": [
+"___pleurocarpic"
 ],
 "pleurocentrum": [
 "One of the lateral elements in the centra of the vertebræ in some fossil batrachians"
@@ -18054,6 +18842,9 @@
 ],
 "plicate": [
 "Plaited; folded like a fan; as, a plicate leaf"
+],
+"plicated": [
+"___plicate"
 ],
 "plication": [
 "A folding or fold; a plait"
@@ -18169,6 +18960,48 @@
 "plough": [
 "___plow"
 ],
+"ploughable": [
+"___plowable"
+],
+"ploughbote": [
+"___plowbote"
+],
+"ploughboy": [
+"___plowboy"
+],
+"plougher": [
+"___plower"
+],
+"ploughfoot": [
+"___plowfoot"
+],
+"ploughgang": [
+"___plowgang"
+],
+"ploughgate": [
+"___plowgate"
+],
+"ploughhead": [
+"___plowhead"
+],
+"ploughman": [
+"___plowman"
+],
+"ploughpoint": [
+"___plowpoint"
+],
+"ploughshare": [
+"___plowshare"
+],
+"ploughtail": [
+"___plowtail"
+],
+"ploughwright": [
+"___plowwright"
+],
+"plougland": [
+"___plowland"
+],
 "plouter": [
 "To wade or move about with splashing; to dabble; also, to potter; trifle; idle",
 "Act of ploutering; floundering; act or sound of splashing"
@@ -18260,6 +19093,9 @@
 "One who, or that which, plucks",
 "A machine for straightening and cleaning wool"
 ],
+"plucker tube": [
+"___pluecker tube"
+],
 "pluckily": [
 "In a plucky manner"
 ],
@@ -18348,6 +19184,9 @@
 "Consisting of, or resembling, lead",
 "Dull; heavy; stupid"
 ],
+"plumbeous": [
+"___plumbean"
+],
 "plumber": [
 "One who works in lead; esp., one who furnishes, fits, and repairs lead pipes",
 "Any worker who installs or repairs piping and related equipment for conveyance of water, gas, or drainage into or out of buildings, or within buildings to fixtures or equipment using water.  The type of material used for the conduits varies with the application, and may be may be of lead, iron, copper, glass, palstic, or other material"
@@ -18434,6 +19273,9 @@
 ],
 "plumosity": [
 "The quality or state of being plumose"
+],
+"plumous": [
+"___plumose"
 ],
 "plump": [
 "Well rounded or filled out; full; fleshy; fat; as, a plump baby; plump cheeks",
@@ -18718,6 +19560,9 @@
 "Fitted to contain air; Having cavities filled with air; as, pneumatic cells; pneumatic bones",
 "Adapted for containing compressed air; inflated with air; as, a pneumatic cushion; a pneumatic tire, a tire formed of an annular tube of flexible fabric, as India rubber, suitable for being inflated with air"
 ],
+"pneumatical": [
+"___pneumatic"
+],
 "pneumaticity": [
 "The state of being pneumatic, or of having a cavity or cavities filled with air; as, the pneumaticity of the bones of birds"
 ],
@@ -18858,6 +19703,9 @@
 "poak": [
 "Waste matter from the preparation of skins, consisting of hair, lime, oil, etc"
 ],
+"poake": [
+"___poak"
+],
 "pocan": [
 "The poke (Phytolacca decandra); -- called also pocan bush"
 ],
@@ -18960,6 +19808,9 @@
 "Pertaining to the gout; gouty; caused by gout",
 "Afflicted with gout"
 ],
+"podagrical": [
+"___podagric"
+],
 "podagrous": [
 "Gouty; podagric"
 ],
@@ -19028,6 +19879,9 @@
 ],
 "podophthalmite": [
 "The eyestalk of a crustacean"
+],
+"podophthalmous": [
+"___podophthalmic"
 ],
 "podophyllin": [
 "A brown bitter gum extracted from the rootstalk of the May apple (Podophyllum peltatum). It is a complex mixture of several substances"
@@ -19116,6 +19970,9 @@
 "Of or pertaining to poetry; suitable for poetry, or for writing poetry; as, poetic talent, theme, work, sentiments",
 "Expressed in metrical form; exhibiting the imaginative or the rhythmical quality of poetry; as, a poetical composition; poetical prose"
 ],
+"poetical": [
+"___poetic"
+],
 "poetically": [
 "In a poetic manner"
 ],
@@ -19177,6 +20034,9 @@
 ],
 "poikilothermal": [
 "Having a varying body temperature. See Homoiothermal"
+],
+"poikilothermic": [
+"___poikilothermal"
 ],
 "poikilothermous": [
 "Poikilothermal"
@@ -19264,6 +20124,9 @@
 "point-device": [
 "Uncommonly nice and exact; precise; particular",
 "Exactly"
+],
+"point-devise": [
+"___point-device"
 ],
 "pointal": [
 "The pistil of a plant",
@@ -19502,9 +20365,10 @@
 "___polarity"
 ],
 "poleax": [
-"Anciently, a kind of battle-ax with a long handle; later, an ax or hatchet with a short handle, and a head variously patterned; -- used by soldiers, and also by sailors in boarding a vessel"
+"___poleaxe"
 ],
 "poleaxe": [
+"___poleax",
 "To fell with or as if with a poleax; -- often used figuratively; as, the entire department was poleaxed after the takeover",
 "Stunned; astonished;; as, we couldn't speak, poleaxed by the sight in fronnt fo us"
 ],
@@ -19821,6 +20685,9 @@
 "polliwig": [
 "A tadpole; -- called also purwiggy and porwigle"
 ],
+"polliwog": [
+"___polliwig"
+],
 "pollock": [
 "A marine gadoid fish (Pollachius carbonarius), native both of the European and American coasts. It is allied to the cod, and like it is salted and dried. In England it is called coalfish, lob, podley, podling, pollack, etc"
 ],
@@ -19886,6 +20753,9 @@
 "polt-foot": [
 "Having a distorted foot, or a clubfoot or clubfeet"
 ],
+"polt-footed": [
+"___polt-foot"
+],
 "poltroon": [
 "An arrant coward; a dastard; a craven; a mean-spirited wretch",
 "Base; vile; contemptible; cowardly"
@@ -19931,6 +20801,9 @@
 ],
 "polyadelphian": [
 "Belonging to the class Polyadelphia; having stamens united in three or more bundles"
+],
+"polyadelphous": [
+"___polyadelphian"
 ],
 "polyandria": [
 "A Linnæan class of monoclinous or hermaphrodite plants, having many stamens, or any number above twenty, inserted in the receptacle"
@@ -19979,6 +20852,9 @@
 ],
 "polycarpic": [
 "Bearing fruit repeatedly, or year after year"
+],
+"polycarpous": [
+"___polycarpic"
 ],
 "polychaeta": [
 "One of the two principal groups of Chætopoda. It includes those that have prominent parapodia and fascicles of setæ. See Illust. under Parapodia"
@@ -20156,6 +21032,9 @@
 "polygenous": [
 "Consisting of, or containing, many kinds; as, a polygenous mountain"
 ],
+"polygeny": [
+"___polygenesis"
+],
 "polyglot": [
 "Containing, or made up, of, several languages; as, a polyglot lexicon, Bible",
 "Versed in, or speaking, many languages",
@@ -20203,6 +21082,9 @@
 "Pertaining to, or employed in, polygraphy; as, a polygraphic instrument",
 "Done with a polygraph; as, a polygraphic copy"
 ],
+"polygraphical": [
+"___polygraphic"
+],
 "polygraphy": [
 "Much writing; writing of many books",
 "The art of writing in various ciphers, and of deciphering the same",
@@ -20223,6 +21105,9 @@
 "polygynist": [
 "One who practices or advocates polygyny"
 ],
+"polygynous": [
+"___polygynian"
+],
 "polygyny": [
 "The state or practice of having several wives at the same time; marriage to several wives"
 ],
@@ -20231,6 +21116,9 @@
 ],
 "polyhedral": [
 "Having many sides, as a solid body"
+],
+"polyhedrical": [
+"___polyhedral"
 ],
 "polyhedron": [
 "A body or solid contained by many sides or planes",
@@ -20369,6 +21257,9 @@
 "polyoptron": [
 "A glass through which objects appear multiplied, but diminished in size"
 ],
+"polyoptrum": [
+"___polyoptron"
+],
 "polyorama": [
 "A view of many objects; also, a sort of panorama with dissolving views"
 ],
@@ -20440,6 +21331,9 @@
 "polyphotal": [
 "Pertaining to or designating arc lamps so constructed that more than one can be used on a single circuit"
 ],
+"polyphote": [
+"___polyphotal"
+],
 "polyphyletic": [
 "Pertaining to, or characterized by, descent from more than one root form, or from many different root forms; polygenetic; -- opposed to monophyletic"
 ],
@@ -20505,6 +21399,9 @@
 ],
 "polypragmatic": [
 "Overbusy; officious"
+],
+"polypragmatical": [
+"___polypragmatic"
 ],
 "polypragmaty": [
 "The state of being overbusy"
@@ -20572,6 +21469,9 @@
 "polysyllabic": [
 "Pertaining to a polysyllable; containing, or characterized by, polysyllables; consisting of more than three syllables"
 ],
+"polysyllabical": [
+"___polysyllabic"
+],
 "polysyllabicism": [
 "Polysyllabism"
 ],
@@ -20623,6 +21523,9 @@
 ],
 "polytheistic": [
 "Of or pertaining to polytheism; characterized by polytheism; professing or advocating polytheism; as, polytheistic worship; a polytheistic author, or nation"
+],
+"polytheistical": [
+"___polytheistic"
 ],
 "polytheize": [
 "To adhere to, advocate, or inculcate, the doctrine of polytheism"
@@ -20680,6 +21583,9 @@
 ],
 "polyzoon": [
 "One of the individual zooids forming the compound organism of a polyzoan"
+],
+"pom-pom": [
+"___pompom"
 ],
 "pomace": [
 "The substance of apples, or of similar fruit, crushed by grinding"
@@ -21018,6 +21924,9 @@
 "A translation or a key used to avoid study in getting lessons; a crib; a trot",
 "A small glass of beer"
 ],
+"poo": [
+"___poopoo"
+],
 "pooch": [
 "A dog",
 "To round one's lips as if intending to kiss"
@@ -21069,14 +21978,14 @@
 "A kind of oil used in India for lamps, and for boiling with dammar for pitching vessels. It is pressed from the seeds of a leguminous tree (Pongamia glabra)"
 ],
 "poop": [
+"___poopoo",
 "___poppy",
 "To make a noise; to pop; also, to break wind",
 "A deck raised above the after part of a vessel; the hindmost or after part of a vessel's hull; also, a cabin covered by such a deck. See Poop deck, under Deck. See also Roundhouse",
 "To break over the poop or stern, as a wave"
 ],
 "pooped": [
-"Having a poop; furnished with a poop",
-"Struck on the poop"
+"___pooped out"
 ],
 "pooped out": [
 "Tired; exhausted; fatigued"
@@ -21137,6 +22046,9 @@
 "To cause to pop; to cause to burst open by heat, as grains of Indian corn; as, to pop corn or chestnuts",
 "To eat or swallow; -- of food, especially snacks, in small pieces; as, he popped a whole can of peanuts while watching the movie",
 "Like a pop; suddenly; unexpectedly"
+],
+"pop corn": [
+"___popcorn"
 ],
 "popcorn": [
 "___pop"
@@ -21225,6 +22137,9 @@
 "poppy": [
 "Any plant or species of the genus Papaver, herbs with showy polypetalous flowers and a milky juice.  From one species (Papaver somniferum) opium is obtained, though all the species contain it to some extent; also, a flower of the plant. See Illust. of Capsule",
 "A raised ornament frequently having the form of a final. It is generally used on the tops of the upright ends or elbows which terminate seats, etc., in Gothic churches"
+],
+"poppyhead": [
+"___poppy"
 ],
 "populace": [
 "The common people; the vulgar; the multitude, -- comprehending all persons not distinguished by rank, office, education, or profession"
@@ -21324,6 +22239,12 @@
 "porcelanous": [
 "Porcelaneous"
 ],
+"porcellaneous": [
+"___porcelaneous"
+],
+"porcellanous": [
+"___porcelanous"
+],
 "porch": [
 "A covered and inclosed entrance to a building, whether taken from the interior, and forming a sort of vestibule within the main wall, or projecting without and with a separate roof. Sometimes the porch is large enough to serve as a covered walk. See also Carriage porch, under Carriage, and Loggia",
 "A portico; a covered walk"
@@ -21375,8 +22296,14 @@
 "porismatic": [
 "Of or pertaining to a porism; poristic"
 ],
+"porismatical": [
+"___porismatic"
+],
 "poristic": [
 "Of or pertaining to a porism; of the nature of a porism"
+],
+"poristical": [
+"___poristic"
 ],
 "porite": [
 "Any coral of the genus Porites, or family Poritidæ"
@@ -21632,6 +22559,9 @@
 "portglave": [
 "A sword bearer"
 ],
+"portgrave": [
+"___portgreve"
+],
 "portgreve": [
 "In old English law, the chief magistrate of a port or maritime town.; a portreeve"
 ],
@@ -21799,6 +22729,9 @@
 "poseur": [
 "A person who poses or attitudizes, esp. mentally"
 ],
+"poseuse": [
+"___poseur"
+],
 "posied": [
 "Inscribed with a posy"
 ],
@@ -21861,6 +22794,9 @@
 ],
 "posologic": [
 "Pertaining to posology"
+],
+"posological": [
+"___posologic"
 ],
 "posology": [
 "The science or doctrine of doses; dosology"
@@ -21992,6 +22928,9 @@
 "post-obit": [
 "A bond in which the obligor, in consideration of having received a certain sum of money, binds himself to pay a larger sum, on unusual interest, on the death of some specified individual from whom he has expectations"
 ],
+"post-obit bond": [
+"___post-obit"
+],
 "post-temporal": [
 "Situated back of the temporal bone or the temporal region of the skull; -- applied especially to a bone which usually connects the supraclavicle with the skull in the pectoral arch of fishes"
 ],
@@ -22049,6 +22988,7 @@
 "Being or happening after the flood in Noah's days"
 ],
 "postdiluvian": [
+"___postdiluvial",
 "One who lived after the flood"
 ],
 "postea": [
@@ -22099,6 +23039,9 @@
 ],
 "postexilian": [
 "After the exile"
+],
+"postexilic": [
+"___postexilian"
 ],
 "postexist": [
 "To exist after; to live subsequently"
@@ -22152,6 +23095,9 @@
 "posthume": [
 "Posthumous"
 ],
+"posthumed": [
+"___posthume"
+],
 "posthumous": [
 "Born after the death of the father, or taken from the dead body of the mother; as, a posthumous son or daughter",
 "Published after the death of the author; as, posthumous works; a posthumous edition",
@@ -22202,6 +23148,9 @@
 "postliminium": [
 "The return to his own country, and his former privileges, of a person who had gone to sojourn in a foreign country, or had been banished, or taken by an enemy",
 "The right by virtue of which persons and things taken by an enemy in war are restored to their former state when coming again under the power of the nation to which they belonged"
+],
+"postliminy": [
+"___postliminium"
 ],
 "postlude": [
 "A voluntary at the end of a service"
@@ -22580,6 +23529,7 @@
 "An apothecary"
 ],
 "potheen": [
+"___poteen",
 "___poteen"
 ],
 "pother": [
@@ -22602,6 +23552,9 @@
 ],
 "potichomania": [
 "The art or process of coating the inside of glass vessels with engravings or paintings, so as to give them the appearance of painted ware"
+],
+"potichomanie": [
+"___potichomania"
 ],
 "potion": [
 "A draught; a dose; usually, a draught or dose of a liquid medicine",
@@ -22638,6 +23591,9 @@
 ],
 "potshard": [
 "A potsherd"
+],
+"potshare": [
+"___potshard"
 ],
 "potsherd": [
 "A piece or fragment of a broken pot"
@@ -22731,6 +23687,9 @@
 "pouf": [
 "Lit., a puff"
 ],
+"pouffe": [
+"___pouf"
+],
 "poulaine": [
 "A long pointed shoe. See Cracowes"
 ],
@@ -22748,6 +23707,9 @@
 ],
 "poulp": [
 "___octopus"
+],
+"poulpe": [
+"___poulp"
 ],
 "poult": [
 "A young chicken, partridge, grouse, or the like"
@@ -22960,6 +23922,9 @@
 "powdry": [
 "___powdery"
 ],
+"powen": [
+"___powan"
+],
 "power": [
 "___poor",
 "Ability to act, regarded as latent or inherent; the faculty of doing or performing something; capacity for action or performance; capability of producing an effect, whether physical or moral: potency; might; as, a man of great power; the power of capillary attraction; money gives power",
@@ -22982,6 +23947,9 @@
 "An airplane maneuver in which the pilot deads downward at a steep angle while the engines are operating at or near full power; -- a method to descend rapidly",
 "To make a power dive, as of an airplane",
 "To cause (an airplane) to make a power dive; as, he power-dived his plane to escape the attackers"
+],
+"power-dive": [
+"___power dive"
 ],
 "powerable": [
 "Capable of being effected or accomplished by the application of power; possible",
@@ -23030,6 +23998,9 @@
 "poynd": [
 "___poind"
 ],
+"poynder": [
+"___poynd"
+],
 "poyntel": [
 "Paving or flooring made of small squares or lozenges set diagonally"
 ],
@@ -23038,6 +24009,9 @@
 ],
 "poze": [
 "___pose"
+],
+"pozzolana": [
+"___pozzuolana"
 ],
 "pozzuolana": [
 "Volcanic ashes from Pozzuoli, in Italy, used in the manufacture of a kind of mortar which hardens under water"
@@ -23212,6 +24186,18 @@
 "praeoral": [
 "___preoral"
 ],
+"praepubis": [
+"___praeoral"
+],
+"praescapula": [
+"___praeoral"
+],
+"praescutum": [
+"___praeoral"
+],
+"praesternum": [
+"___praeoral"
+],
 "praeter-": [
 "A prefix. See Preter-"
 ],
@@ -23245,6 +24231,9 @@
 "Philosophical; dealing with causes, reasons, and effects, rather than with details and circumstances; -- said of literature",
 "One skilled in affairs",
 "A solemn public ordinance or decree"
+],
+"pragmatical": [
+"___pragmatic"
 ],
 "pragmatically": [
 "In a pragmatical manner"
@@ -23326,6 +24315,9 @@
 "pram": [
 "___praam",
 "a perambulator{3}; -- British informal shortened form"
+],
+"prame": [
+"___pram"
 ],
 "prance": [
 "To spring or bound, as a horse in high mettle",
@@ -23446,6 +24438,9 @@
 ],
 "pre-": [
 "A prefix denoting priority (of time, place, or rank); as, precede, to go before; precursor, a forerunner; prefix, to fix or place before; preëminent eminent before or above others. Pre- is sometimes used intensively, as in prepotent, very potent"
+],
+"pre-isolate": [
+"___preisolate"
 ],
 "preaccusation": [
 "Previous accusation"
@@ -23620,6 +24615,9 @@
 "precative": [
 "Suppliant; beseeching"
 ],
+"precatory": [
+"___precative"
+],
 "precaution": [
 "Previous caution or care; caution previously employed to prevent mischief or secure good; as, his life was saved by precaution",
 "A measure taken beforehand to ward off evil or secure good or success; a precautionary act; as, to take precautions against accident",
@@ -23647,6 +24645,9 @@
 "The act or state of preceding or going before in order of time; priority; as, one event has precedence of another",
 "The act or state of going or being before in rank or dignity, or the place of honor; right to a more honorable place; superior rank; as, barons have precedence of commoners"
 ],
+"precedency": [
+"___precedence"
+],
 "precedent": [
 "Going before; anterior; preceding; antecedent; as, precedent services",
 "Something done or said that may serve as an example to authorize a subsequent act of the same kind; an authoritative example",
@@ -23672,6 +24673,9 @@
 ],
 "precellence": [
 "Excellence; superiority"
+],
+"precellency": [
+"___precellence"
 ],
 "precellent": [
 "Excellent; surpassing"
@@ -23760,6 +24764,9 @@
 ],
 "precipitance": [
 "The quality or state of being precipitant, or precipitate; headlong hurry; excessive or rash haste in resolving, forming an opinion, or executing a purpose; precipitation; as, the precipitancy of youth"
+],
+"precipitancy": [
+"___precipitance"
 ],
 "precipitant": [
 "Falling or rushing headlong; rushing swiftly, violently, or recklessly; moving precipitately",
@@ -23856,6 +24863,9 @@
 ],
 "precociousness": [
 "The quality or state of being precocious; untimely ripeness; premature development, especially of the mental powers; forwardness"
+],
+"precocity": [
+"___precociousness"
 ],
 "precoetanean": [
 "One contemporary with, but older than, another"
@@ -24610,6 +25620,9 @@
 "prelatic": [
 "Of or pertaining to prelates or prelacy; as, prelatical authority"
 ],
+"prelatical": [
+"___prelatic"
+],
 "prelatically": [
 "In a prelatical manner; with reference to prelates"
 ],
@@ -24631,6 +25644,9 @@
 ],
 "prelature": [
 "The state or dignity of a prelate; prelacy"
+],
+"prelatureship": [
+"___prelature"
 ],
 "prelaty": [
 "Prelacy"
@@ -24722,6 +25738,9 @@
 ],
 "premial": [
 "Serving to reward; rewarding"
+],
+"premiant": [
+"___premial"
 ],
 "premices": [
 "First fruits"
@@ -24988,6 +26007,9 @@
 "prepollence": [
 "The quality or state of being prepollent; superiority of power; predominance; prevalence"
 ],
+"prepollency": [
+"___prepollence"
+],
 "prepollent": [
 "Having superior influence or power; prevailing; predominant",
 "An extra first digit, or rudiment of a digit, on the preaxial side of the pollex"
@@ -24998,6 +26020,9 @@
 "preponderance": [
 "The quality or state of being preponderant; superiority or excess of weight, influence, or power, etc.; an outweighing",
 "The excess of weight of that part of a canon behind the trunnions over that in front of them"
+],
+"preponderancy": [
+"___preponderance"
 ],
 "preponderant": [
 "Preponderating; outweighing; overbalancing; -- used literally and figuratively; as, a preponderant weight; of preponderant importance"
@@ -25084,6 +26109,9 @@
 "Of or pertaining to the style called preraphaelitism; as, a preraphaelite figure; a preraphaelite landscape",
 "One who favors or practices art as it was before Raphael; one who favors or advocates preraphaelitism",
 "Popularly, any modern artist thought to be a would-be restorer of early ideas or methods, as one of the German painters often called Nazarenes, or one who paints and draws with extreme minuteness of detail"
+],
+"preraphaelitism": [
+"___preraphaelism"
 ],
 "preregnant": [
 "One who reigns before another; a sovereign predecessor"
@@ -25304,6 +26332,9 @@
 "present value": [
 "The principal which, drawing interest at a given rate, will amount to the given sum at the date on which this is to be paid; thus, interest being at 6%, the present value of $106 due one year hence is $100"
 ],
+"present worth": [
+"___present value"
+],
 "presentable": [
 "Capable or admitting of being presented; suitable to be exhibited, represented, or offered; fit to be brought forward or set forth; hence, fitted to be introduced to another, or to go into society; as, ideas that are presentable in simple language; she is not presentable in such a gown",
 "Admitting of the presentation of a clergiman; as, a church presentable"
@@ -25439,6 +26470,7 @@
 "Of or pertaining to a garrison; having a garrison"
 ],
 "presidiary": [
+"___presidial",
 "A guard"
 ],
 "presiding": [
@@ -25570,6 +26602,9 @@
 "To increase the pressure on (a gas or liquid); as, pressurized oxygen",
 "To increase and maintain a pressure in (a compartment or container), above that of the ambient pressure; -- of airplanes, space suits, and diving bells, for example; as, the airplane cabin was pressurized for the comfort of the passengers; the sterile room was pressurized to prevent contamination"
 ],
+"presswork": [
+"___press work"
+],
 "prest": [
 "imp. & p. p. of Press",
 "Ready; prompt; prepared",
@@ -25699,6 +26734,12 @@
 ],
 "pretence": [
 "___pretense"
+],
+"pretenceful": [
+"___pretence"
+],
+"pretenceless": [
+"___pretence"
 ],
 "pretend": [
 "To lay a claim to; to allege a title to; to claim",
@@ -26125,6 +27166,9 @@
 "prickleback": [
 "The stickleback"
 ],
+"pricklefish": [
+"___prickleback"
+],
 "prickliness": [
 "The quality of being prickly, or of having many prickles"
 ],
@@ -26393,6 +27437,9 @@
 "primigenious": [
 "First formed or generated; original; primigenial"
 ],
+"primigenous": [
+"___primigenious"
+],
 "primine": [
 "The outermost of the two integuments of an ovule"
 ],
@@ -26603,6 +27650,9 @@
 "princock": [
 "A coxcomb; a pert boy"
 ],
+"princox": [
+"___princock"
+],
 "prink": [
 "To dress or adjust one's self for show; to prank",
 "To prank or dress up; to deck fantastically"
@@ -26713,6 +27763,9 @@
 "Resembling, or pertaining to, a prism; as, a prismatic form or cleavage",
 "Separated or distributed by a prism; formed by a prism; as, prismatic colors",
 "___orthorhombic"
+],
+"prismatical": [
+"___prismatic"
 ],
 "prismatically": [
 "In the form or manner of a prism; by means of a prism"
@@ -26905,6 +27958,9 @@
 "proach": [
 "___approach"
 ],
+"proant": [
+"___provand"
+],
 "proatlas": [
 "A vertebral rudiment in front of the atlas in some reptiles"
 ],
@@ -27004,6 +28060,9 @@
 "problematic": [
 "Having the nature of a problem; not shown in fact; questionable; uncertain; unsettled; doubtful; as, his theory is problematic because it fails to explain several facts",
 "Having characteristics which will create difficulties or undesirable consequences; -- of a proposed action; as, the proposed law is problematic because it will cause many people to lose their jobs"
+],
+"problematical": [
+"___problematic"
 ],
 "problematist": [
 "One who proposes problems"
@@ -27172,6 +28231,9 @@
 "procidence": [
 "A falling down; a prolapsus"
 ],
+"procidentia": [
+"___procidence"
+],
 "prociduous": [
 "Falling from its proper place"
 ],
@@ -27223,6 +28285,9 @@
 "proconsular": [
 "Of or pertaining of a proconsul; as, proconsular powers",
 "Under the government of a proconsul; as, a proconsular province"
+],
+"proconsulary": [
+"___proconsular"
 ],
 "proconsulate": [
 "The office jurisdiction of a proconsul, or the term of his office"
@@ -27465,6 +28530,9 @@
 "producer's goods": [
 "Goods that satisfy wants only indirectly as factors in the production of other goods, such as tools and raw material; -- called also instrumental goods, auxiliary goods, intermediate goods, or goods of the second and higher orders, and disting. from consumers' goods"
 ],
+"producer's rent": [
+"___producer's surplus"
+],
 "producer's surplus": [
 "Any profit above the normal rate of interest and wages accruing to a producer on account of some monopoly (temporary or permanent) of the means or materials of production; -- called also Producer's rent"
 ],
@@ -27635,6 +28703,9 @@
 ],
 "proficience": [
 "The quality of state of being proficient; advance in the acquisition of any art, science, or knowledge; progression in knowledge; improvement; adeptness; as, to acquire proficiency in music"
+],
+"proficiency": [
+"___proficience"
 ],
 "proficient": [
 "One who has made considerable advances in any business, art, science, or branch of learning; an expert; an adept; as, proficient in a trade; a proficient in mathematics, music, etc",
@@ -27976,6 +29047,9 @@
 "Previous; antecedent",
 "Anticipating the usual time; -- applied to a periodical disease whose paroxysms return at an earlier hour at every repetition"
 ],
+"proleptical": [
+"___proleptic"
+],
 "proleptically": [
 "In a proleptical manner"
 ],
@@ -28140,6 +29214,9 @@
 "prominence": [
 "The quality or state of being prominent; a standing out from something; conspicuousness",
 "That which is prominent; a protuberance"
+],
+"prominency": [
+"___prominence"
 ],
 "prominent": [
 "Standing out, or projecting, beyond the line surface of something; jutting; protuberant; in high relief; as, a prominent figure on a vase",
@@ -28320,6 +29397,9 @@
 "pronephric": [
 "Of or pertaining to the pronephros"
 ],
+"pronephron": [
+"___pronephros"
+],
 "pronephros": [
 "The head kidney. See under Head"
 ],
@@ -28458,6 +29538,9 @@
 ],
 "propaedeutic": [
 "Of, pertaining to, or conveying, preliminary instruction; introductory to any art or science; instructing beforehand"
+],
+"propaedeutical": [
+"___propaedeutic"
 ],
 "propaedeutics": [
 "The preliminary learning connected with any art or science; preparatory instruction"
@@ -28623,6 +29706,9 @@
 "prophetic": [
 "Containing, or pertaining to, prophecy; foretelling events; as, prophetic writings; prophetic dreams; -- used with of before the thing foretold"
 ],
+"prophetical": [
+"___prophetic"
+],
 "propheticality": [
 "Propheticalness"
 ],
@@ -28644,6 +29730,9 @@
 "prophylactic": [
 "A medicine which preserves or defends against disease; a preventive",
 "Defending or preserving from disease; preventive"
+],
+"prophylactical": [
+"___prophylactic"
 ],
 "prophylaxis": [
 "The art of preserving from, or of preventing, disease; the observance of the rules necessary for the preservation of health; preservative or preventive treatment"
@@ -28959,6 +30048,9 @@
 "prosaic": [
 "Of or pertaining to prose; resembling prose; in the form of prose; unpoetical; writing or using prose; as, a prosaic composition",
 "Dull; uninteresting; commonplace; unimaginative; prosy; as, a prosaic person"
+],
+"prosaical": [
+"___prosaic"
 ],
 "prosaicism": [
 "The quality or state of being prosaic; a prosaic manner or style"
@@ -29366,8 +30458,14 @@
 "protectress": [
 "A woman who protects"
 ],
+"protectrix": [
+"___protectress"
+],
 "protege": [
 "One under the care and protection of another, especially one receiving counseling and assistance in career development"
+],
+"protegée": [
+"___protege"
 ],
 "proteid": [
 "An older, imprecise term replaced by protein"
@@ -29481,6 +30579,9 @@
 "prothalamion": [
 "A song in celebration of a marriage"
 ],
+"prothalamium": [
+"___prothalamion"
+],
 "prothallium": [
 "___prothallus"
 ],
@@ -29579,6 +30680,7 @@
 "The primary growth from the spore of a moss, usually consisting of branching confervoid filaments, on any part of which stem and leaf buds may be developed"
 ],
 "protonotary": [
+"___prothonotary",
 "___prothonotary"
 ],
 "protoorganism": [
@@ -30172,6 +31274,7 @@
 "A kind of small and very acid French plum; -- applied especially to the stoned and dried fruit"
 ],
 "prunello": [
+"___prunella",
 "A species of dried plum; prunelle"
 ],
 "pruner": [
@@ -30190,6 +31293,9 @@
 ],
 "prurience": [
 "The quality or state of being prurient"
+],
+"pruriency": [
+"___prurience"
 ],
 "prurient": [
 "Uneasy with desire; itching; especially, having a lascivious curiosity or propensity; lustful"
@@ -30257,6 +31363,9 @@
 "psalmodic": [
 "Relating to psalmody"
 ],
+"psalmodical": [
+"___psalmodic"
+],
 "psalmodist": [
 "One who sings sacred songs; a psalmist"
 ],
@@ -30271,6 +31380,9 @@
 ],
 "psalmographer": [
 "A writer of psalms, or sacred songs and hymns"
+],
+"psalmographist": [
+"___psalmographer"
 ],
 "psalmography": [
 "The act or practice of writing psalms, or sacred songs"
@@ -30308,6 +31420,7 @@
 "A false embryo"
 ],
 "pseudepigraphic": [
+"___pseudepigraphic",
 "Of or pertaining to pseudepigraphy"
 ],
 "pseudepigraphous": [
@@ -30529,6 +31642,9 @@
 "psittaci": [
 "The order of birds which comprises the parrots"
 ],
+"psittacid": [
+"___psittaceous"
+],
 "psoas": [
 "An internal muscle arising from the lumbar vertebræ and inserted into the femur. In man there are usually two on each side, and the larger one, or great psoas, forms a part of the iliopsoas"
 ],
@@ -30570,9 +31686,15 @@
 "psychiatric": [
 "Of or pertaining to psychiatry"
 ],
+"psychiatry": [
+"___psychiatria"
+],
 "psychic": [
 "Of or pertaining to the human soul, or to the living principle in man",
 "Of or pertaining to the mind, or its functions and diseases; mental; -- contrasted with physical"
+],
+"psychical": [
+"___psychic"
 ],
 "psychics": [
 "Psychology"
@@ -30607,6 +31729,9 @@
 ],
 "psychologic": [
 "Of or pertaining to psychology. See Note under Psychic"
+],
+"psychological": [
+"___psychologic"
 ],
 "psychologist": [
 "One who is versed in, devoted to, psychology"
@@ -31005,6 +32130,9 @@
 "pudding fish": [
 "A large, handsomely colored, blue and bronze, labroid fish (Iridio radiatus, syn. Platyglossus radiatus) of Florida, Bermuda, and the West Indies. Called also pudiano, doncella, and, at Bermuda, bluefish"
 ],
+"pudding wife": [
+"___pudding fish"
+],
 "pudding-headed": [
 "Stupid"
 ],
@@ -31186,6 +32314,9 @@
 "Mortar or the like, laid between the joists under the boards of a floor, or within a partition, to deaden sound; -- in the United States usually called deafening",
 "Thieving"
 ],
+"puggree": [
+"___puggry"
+],
 "puggry": [
 "A light scarf wound around a hat or helmet to protect the head from the sun"
 ],
@@ -31273,6 +32404,9 @@
 "pulicose": [
 "Abounding with fleas"
 ],
+"pulicous": [
+"___pulicose"
+],
 "puling": [
 "A cry, as of a chicken,; a whining or whimpering",
 "Whimpering; whining; childish"
@@ -31344,6 +32478,9 @@
 ],
 "pulmobranchiata": [
 "___pulmonibranchiata"
+],
+"pulmobranchiate": [
+"___pulmobranchiata"
 ],
 "pulmocutaneous": [
 "Of or pertaining to the lungs and the akin; as, the pulmocutaneous arteries of the frog"
@@ -31502,6 +32639,9 @@
 "pultesse": [
 "Poultry"
 ],
+"pultise": [
+"___pultesse"
+],
 "pulu": [
 "A vegetable substance consisting of soft, elastic, yellowish brown chaff, gathered in the Hawaiian Islands from the young fronds of free ferns of the genus Cibotium, chiefly Cibotium Menziesii; -- used for stuffing mattresses, cushions, etc., and as an absorbent"
 ],
@@ -31546,6 +32686,9 @@
 "pulvillio": [
 "A kind of perfume in the form of a powder, formerly much used, -- often in little bags"
 ],
+"pulvillo": [
+"___pulvillio"
+],
 "pulvillus": [
 "One of the minute cushions on the feet of certain insects"
 ],
@@ -31555,6 +32698,9 @@
 "pulvinate": [
 "Curved convexly or swelled; as, a pulvinated frieze",
 "Having the form of a cushion"
+],
+"pulvinated": [
+"___pulvinate"
 ],
 "pulvinic": [
 "Pertaining to, or designating, an acid obtained by the decomposition of vulpinic acid, as a white crystalline substance"
@@ -31668,6 +32814,7 @@
 "Short and thick, or fat"
 ],
 "punctated": [
+"___punctated",
 "Pointed; ending in a point or points",
 "Dotted with small spots of color, or with minute depressions or pits"
 ],
@@ -31731,6 +32878,9 @@
 "punctulate": [
 "Marked with small spots"
 ],
+"punctulated": [
+"___punctulate"
+],
 "punctum": [
 "A point"
 ],
@@ -31788,6 +32938,9 @@
 ],
 "puniceous": [
 "Of a bright red or purple color"
+],
+"punicial": [
+"___puniceous"
 ],
 "puniness": [
 "The quality or state of being puny; littleness; pettiness; feebleness"
@@ -31861,6 +33014,9 @@
 ],
 "punt-out": [
 "A punt made from the goal line by a player of the side which has made a touchdown to one of his own side for a fair catch, from which an attempt to kick a goal may be made"
+],
+"puntel": [
+"___puntil"
 ],
 "puntello": [
 "One of the points sometimes drilled as guides for cutting away superfluous stone"
@@ -32059,6 +33215,9 @@
 "purfled": [
 "Ornamented; decorated; esp., embroidered on the edges"
 ],
+"purflew": [
+"___purfle"
+],
 "purfling": [
 "Ornamentation on the border of a thing; specifically, the inlaid border of a musical instrument, as a violin"
 ],
@@ -32080,6 +33239,7 @@
 "Of or pertaining to purgatory; expiatory"
 ],
 "purgatorian": [
+"___purgatorial",
 "One who holds to the doctrine of purgatory"
 ],
 "purgatory": [
@@ -32152,6 +33312,9 @@
 "puristic": [
 "Of or pertaining to purists or purism"
 ],
+"puristical": [
+"___puristic"
+],
 "puritan": [
 "One who, in the time of Queen Elizabeth and the first two Stuarts, opposed traditional and formal usages, and advocated simpler forms of faith and worship than those established by law; -- originally, a term of reproach. The Puritans formed the bulk of the early population of New England",
 "One who is scrupulous and strict in his religious life; -- often used reproachfully or in contempt; one who has overstrict notions",
@@ -32160,6 +33323,9 @@
 "puritanic": [
 "Of or pertaining to the Puritans, or to their doctrines and practice",
 "Precise in observance of legal or religious requirements; strict; overscrupulous; rigid; -- often used by way of reproach or contempt"
+],
+"puritanical": [
+"___puritanic"
 ],
 "puritanically": [
 "In a puritanical manner"
@@ -32193,6 +33359,9 @@
 ],
 "purlin": [
 "In root construction, a horizontal member supported on the principals and supporting the common rafters"
+],
+"purline": [
+"___purlin"
 ],
 "purling": [
 "The motion of a small stream running among obstructions; also, the murmur it makes in so doing"
@@ -32372,6 +33541,9 @@
 "Acting in consequence or in prosecution (of anything); hence, agreeable; conformable; following; according; -- with to or of",
 "Agreeably; conformably"
 ],
+"pursuantly": [
+"___pursuant"
+],
 "pursue": [
 "To follow with a view to overtake; to follow eagerly, or with haste; to chase; as, to pursue a hare",
 "To seek; to use or adopt measures to obtain; as, to pursue a remedy at law",
@@ -32407,6 +33579,9 @@
 "purulence": [
 "The quality or state of being purulent; the generation of pus; also, the pus itself"
 ],
+"purulency": [
+"___purulence"
+],
 "purulent": [
 "Consisting of pus, or matter; partaking of the nature of pus; attended with suppuration; as, purulent inflammation"
 ],
@@ -32415,6 +33590,9 @@
 ],
 "purveance": [
 "Purveyance"
+],
+"purveiaunce": [
+"___purveance"
 ],
 "purvey": [
 "To furnish or provide, as with a convenience, provisions, or the like",
@@ -32449,6 +33627,7 @@
 "Of or pertaining to Puseyism"
 ],
 "puseyite": [
+"___puseyistic",
 "One who holds the principles of Puseyism; -- often used opprobriously"
 ],
 "push": [
@@ -32517,6 +33696,9 @@
 "pustulate": [
 "To form into pustules, or blisters",
 "Covered with pustulelike prominences; pustular; pustulous; as, a pustulate leaf; a pustulate shell or coral"
+],
+"pustulated": [
+"___pustulate"
 ],
 "pustulation": [
 "The act of producing pustules; the state of being pustulated"
@@ -32592,6 +33774,9 @@
 ],
 "putidity": [
 "The quality or state of being putrid"
+],
+"putidness": [
+"___putidity"
 ],
 "putlog": [
 "One of the short pieces of timber on which the planks forming the floor of a scaffold are laid, -- one end resting on the ledger of the scaffold, and the other in a hole left in the wall temporarily for the purpose"
@@ -32737,8 +33922,14 @@
 "puzzolan": [
 "___pozzuolana"
 ],
+"puzzolana": [
+"___puzzolan"
+],
 "pyaemia": [
 "A form of blood poisoning produced by the absorption of pyogenic microorganisms into the blood, usually from a wound or local inflammation. It is characterized by multiple abscesses throughout the body, and is attended with irregularly recurring chills, fever, profuse sweating, and exhaustion"
+],
+"pyaemic": [
+"___pyemic"
 ],
 "pycnaspidean": [
 "Having the posterior side of the tarsus covered with small irregular scales; -- said of certain birds"
@@ -32777,6 +33968,7 @@
 "Inflammation of the pelvis of the kidney"
 ],
 "pyemia": [
+"___pyaemia",
 "___pyaemia"
 ],
 "pyemic": [
@@ -32792,8 +33984,14 @@
 "A quadruped, probably the addax, an antelope having a white rump",
 "The female of the hen harrier"
 ],
+"pygargus": [
+"___pygarg"
+],
 "pygidium": [
 "The caudal plate of trilobites, crustacean, and certain insects. See Illust. of Limulus and Trilobite"
+],
+"pygmean": [
+"___pygmy"
 ],
 "pygmy": [
 "Of or pertaining to a pygmy; resembling a pygmy or dwarf; dwarfish; very small",
@@ -32874,6 +34072,9 @@
 "pyoxanthose": [
 "A greenish yellow crystalline coloring matter found with pyocyanin in pus"
 ],
+"pyr-": [
+"___pyro-"
+],
 "pyracanth": [
 "The evergreen thorn (Cratægus Pyracantha), a shrub native of Europe"
 ],
@@ -32901,6 +34102,9 @@
 ],
 "pyramidic": [
 "Of or pertaining to a pyramid; having the form of a pyramid; pyramidal"
+],
+"pyramidical": [
+"___pyramidic"
 ],
 "pyramidion": [
 "The small pyramid which crowns or completes an obelisk"
@@ -32954,6 +34158,9 @@
 "pyrexial": [
 "Of or pertaining to fever; feverish"
 ],
+"pyrexical": [
+"___pyrexial"
+],
 "pyrgom": [
 "A variety of pyroxene; -- called also fassaite"
 ],
@@ -32983,6 +34190,9 @@
 ],
 "pyritic": [
 "Of or pertaining to pyrites; consisting of, or resembling, pyrites"
+],
+"pyritical": [
+"___pyritic"
 ],
 "pyritiferous": [
 "Containing or producing pyrites"
@@ -33097,6 +34307,9 @@
 "pyroligneous": [
 "Pertaining to, or designating, the acid liquid obtained in the distillation of wood, consisting essentially of impure acetic acid"
 ],
+"pyrolignic": [
+"___pyroligneous"
+],
 "pyrolignite": [
 "A crude acetate produced by treating pyroligneous acid with a metal or basic compound; as, pyrolignite of iron (iron liquor)"
 ],
@@ -33141,6 +34354,9 @@
 "pyrometric": [
 "Pertaining to, or obtained by, the pyrometer; as, pyrometrical instruments; pyrometrical measurements"
 ],
+"pyrometrical": [
+"___pyrometric"
+],
 "pyrometry": [
 "The art of measuring degrees of heat, or the expansion of bodies by heat"
 ],
@@ -33176,6 +34392,9 @@
 ],
 "pyrophoric": [
 "Light-producing; of or pertaining to pyrophorus"
+],
+"pyrophorous": [
+"___pyrophoric"
 ],
 "pyrophorus": [
 "Any one of several substances or mixtures which phosphoresce or ignite spontaneously on exposure to air, as a heated mixture of alum, potash, and charcoal, or a mixture of charcoal and finely divided lead"
@@ -33218,6 +34437,9 @@
 ],
 "pyrotechnic": [
 "Of or pertaining to fireworks, or the art of forming them"
+],
+"pyrotechnical": [
+"___pyrotechnic"
 ],
 "pyrotechnician": [
 "A pyrotechnist"
@@ -33280,6 +34502,9 @@
 "pyrrhonean": [
 "Of or pertaining to pyrrhonism"
 ],
+"pyrrhonic": [
+"___pyrrhonean"
+],
 "pyrrhonism": [
 "Skepticism; universal doubt"
 ],
@@ -33289,8 +34514,14 @@
 "pyrrhotine": [
 "A bronze-colored mineral, of metallic luster.  It is a sulphide of iron, and is remarkable for being attracted by the magnet.  Called also magnetic pyrites"
 ],
+"pyrrhotite": [
+"___pyrrhotine"
+],
 "pyrrol": [
 "A nitrogenous heterocyclic base found in coal tar, bone oil, and other distillates of organic substances, and also produced synthetically as a colorless liquid, C4H5N, having on odor like that of chloroform.  It is the nucleus and origin of a large number of derivatives.  So called because it colors a splinter of wood moistened with hydrochloric acid a deep red"
+],
+"pyrrole": [
+"___pyrrol"
 ],
 "pyrroline": [
 "A nitrogenous base, C4H7N, obtained as a colorless liquid by the reduction of pyrrole"
@@ -33319,6 +34550,9 @@
 ],
 "pythagoric": [
 "___pythagorean"
+],
+"pythagorical": [
+"___pythagoric"
 ],
 "pythagorism": [
 "The doctrines taught by Pythagoras"
@@ -33378,5 +34612,11 @@
 "A box; a pyx",
 "A pyxidium",
 "The acetabulum. See Acetabulum, 2"
+],
+"quasi-public corporation": [
+"___public-service corporation"
+],
+"the pits": [
+"___pits"
 ]
 }

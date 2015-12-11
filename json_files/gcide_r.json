@@ -55,6 +55,9 @@
 "Of or pertaining to the rabbins or rabbis, or pertaining to the opinions, learning, or language of the rabbins",
 "The language or dialect of the rabbins; the later Hebrew"
 ],
+"rabbinical": [
+"___rabbinic"
+],
 "rabbinically": [
 "In a rabbinical manner; after the manner of the rabbins"
 ],
@@ -210,6 +213,9 @@
 ],
 "rach": [
 "A dog that pursued his prey by scent, as distinguished from the greyhound"
+],
+"rache": [
+"___rach"
 ],
 "rachialgia": [
 "A painful affection of the spine; especially, Pott's disease; also, formerly, lead colic"
@@ -396,6 +402,9 @@
 ],
 "radiance": [
 "The quality of being radiant; brilliancy; effulgence; vivid brightness; as, the radiance of the sun"
+],
+"radiancy": [
+"___radiance"
 ],
 "radiant": [
 "Emitting or proceeding as from a center; resembling rays; radiating; radiate",
@@ -723,6 +732,9 @@
 "ragabash": [
 "An idle, ragged person"
 ],
+"ragabrash": [
+"___ragabash"
+],
 "ragamuffin": [
 "A paltry or disreputable fellow; a mean wretch",
 "A person who wears ragged clothing",
@@ -755,6 +767,12 @@
 "raggie": [
 "Ragged; rough"
 ],
+"ragguled": [
+"___raguled"
+],
+"raggy": [
+"___raggie"
+],
 "raghuvansa": [
 "A celebrated Sanskrit poem having for its subject the Raghu dynasty"
 ],
@@ -779,6 +797,7 @@
 "The rolls of deeds on parchment in which the Scottish nobility and gentry subscribed allegiance to Edward I. of England, A. D. 1296"
 ],
 "ragnarok": [
+"___ragnarok",
 "The so-called “Twilight of the Gods” (called in German Götterdämmerung), the final destruction of the world in the great conflict between the Aesir (gods) on the one hand, and on the other, the giants and the powers of Hel under the leadership of Loki (who is escaped from bondage)"
 ],
 "ragout": [
@@ -859,6 +878,9 @@
 ],
 "railroading": [
 "The construction of a railroad; the business of managing or operating a railroad"
+],
+"railway": [
+"___railroad"
 ],
 "raiment": [
 "Clothing in general; vesture; garments; -- usually singular in form, with a collective sense",
@@ -966,6 +988,9 @@
 "rajpoot": [
 "A Hindoo of the second, or royal and military, caste; a Kshatriya; especially, an inhabitant of the country of Rajpootana, in northern central India"
 ],
+"rajput": [
+"___rajpoot"
+],
 "rake": [
 "An implement consisting of a headpiece having teeth, and a long handle at right angles to it, -- used for collecting hay, or other light things which are spread over a large surface, or for breaking and smoothing the earth",
 "A toothed machine drawn by a horse, -- used for collecting hay or grain; a horserake",
@@ -987,9 +1012,15 @@
 "rake-vein": [
 "___rake"
 ],
+"rakee": [
+"___raki"
+],
 "rakehell": [
 "A lewd, dissolute fellow; a debauchee; a rake",
 "Dissolute; wild; lewd; rakish"
+],
+"rakehelly": [
+"___rakehell"
 ],
 "rakel": [
 "Hasty; reckless; rash"
@@ -1645,6 +1676,9 @@
 "rapid-fire mount": [
 "A mount permitting easy and quick elevation or depression and training of the gun, and fitted with a device for taking up the recoil"
 ],
+"rapid-firing": [
+"___rapid-fire"
+],
 "rapidity": [
 "The quality or state of being rapid; swiftness; celerity; velocity; as, the rapidity of a current; rapidity of speech; rapidity of growth or improvement"
 ],
@@ -1653,6 +1687,9 @@
 ],
 "rapidness": [
 "Quality of being rapid; rapidity"
+],
+"rapids": [
+"___rapid"
 ],
 "rapier": [
 "A straight sword, with a narrow and finely pointed blade, used only for thrusting"
@@ -1984,6 +2021,9 @@
 "Coming before others, or before the usual time; early",
 "Early; soon; betimes"
 ],
+"rathe": [
+"___rath"
+],
 "rather": [
 "Prior; earlier; former",
 "Earlier; sooner; before",
@@ -2052,6 +2092,9 @@
 "rationalistic": [
 "Belonging to, or in accordance with, the principles of rationalism"
 ],
+"rationalistical": [
+"___rationalistic"
+],
 "rationality": [
 "The quality or state of being rational; agreement with reason; possession of reason; due exercise of reason; reasonableness"
 ],
@@ -2082,6 +2125,9 @@
 ],
 "ratlines": [
 "The small transverse ropes attached to the shrouds and forming the steps of a rope ladder"
+],
+"ratlins": [
+"___ratlines"
 ],
 "raton": [
 "A small rat"
@@ -2274,6 +2320,7 @@
 "___raven"
 ],
 "ravine": [
+"___ravin",
 "A torrent of water",
 "A deep and narrow hollow, usually worn by a stream or torrent of water; a gorge; a mountain cleft"
 ],
@@ -2447,6 +2494,7 @@
 "To assemble again; -- usually after having taking something apart.  Usually used without the hyphen"
 ],
 "re-assess": [
+"___re-assess",
 "To revise or renew one's assessment of; as, we need to reassess our position to include the new information.  Usually used without the hyphen"
 ],
 "re-attribute": [
@@ -2482,6 +2530,7 @@
 "To emerge again"
 ],
 "re-emphasise": [
+"___re-emphasise",
 "___reemphasize"
 ],
 "re-emphasize": [
@@ -2784,6 +2833,12 @@
 "reaffirmance": [
 "A second affirmation"
 ],
+"reaffirmation": [
+"___reaffirmance"
+],
+"reafforest": [
+"___re-afforest"
+],
 "reafforestation": [
 "The act or process of converting again into a forest"
 ],
@@ -2812,6 +2867,9 @@
 ],
 "realgar": [
 "Arsenic sulphide, a mineral of a brilliant red color; red orpiment. It is also an artificial product"
+],
+"realign": [
+"___re-align"
 ],
 "realism": [
 "As opposed to nominalism, the doctrine that genera and species are real things or entities, existing independently of our conceptions. According to realism the Universal exists ante rem (Plato), or in re (Aristotle)",
@@ -2974,8 +3032,14 @@
 "reardorse": [
 "A reredos"
 ],
+"reardoss": [
+"___reardorse"
+],
 "rearer": [
 "One who, or that which, rears"
+],
+"reargue": [
+"___re-argue"
 ],
 "reargument": [
 "An arguing over again, as of a motion made in court"
@@ -2983,8 +3047,17 @@
 "rearly": [
 "Early"
 ],
+"rearm": [
+"___re-arm"
+],
 "rearmost": [
 "Farthest in the rear; last"
+],
+"rearmouse": [
+"___reremouse"
+],
+"rearrange": [
+"___re-arrange"
 ],
 "rearrangement": [
 "The act of rearranging, or the state of being rearranged"
@@ -3044,8 +3117,14 @@
 "Destitute of reason; as, a reasonless man or mind",
 "Void of reason; not warranted or supported by reason; unreasonable"
 ],
+"reassail": [
+"___re-assail"
+],
 "reassemblage": [
 "Assemblage a second time or again"
+],
+"reassemble": [
+"___re-assemble"
 ],
 "reassert": [
 "To assert again or anew; to maintain after an omission to do so"
@@ -3103,6 +3182,9 @@
 "reattempt": [
 "To attempt again"
 ],
+"reattribute": [
+"___re-attribute"
+],
 "reaume": [
 "Realm"
 ],
@@ -3117,6 +3199,9 @@
 ],
 "reawake": [
 "To awake again"
+],
+"reawaken": [
+"___re-awaken"
 ],
 "rebanish": [
 "To banish again"
@@ -3182,6 +3267,9 @@
 "rebellow": [
 "To bellow again; to repeat or echo a bellow"
 ],
+"rebind": [
+"___re-bind"
+],
 "rebiting": [
 "The act or process of deepening worn lines in an etched plate by submitting it again to the action of acid"
 ],
@@ -3229,6 +3317,9 @@
 "Repercussion, or beating back; a quick and sudden resistance",
 "Sudden check; unexpected repulse; defeat; refusal; repellence; rejection of solicitation",
 "To beat back; to offer sudden resistance to; to check; to repel or repulse violently, harshly, or uncourteously"
+],
+"rebuild": [
+"___re-build"
 ],
 "rebuilder": [
 "One who rebuilds"
@@ -3593,6 +3684,9 @@
 "recipience": [
 "The quality or state of being recipient; a receiving; reception; receptiveness"
 ],
+"recipiency": [
+"___recipience"
+],
 "recipient": [
 "A receiver; the person or thing that receives; one to whom, or that to which, anything is given or communicated; specifically, the receiver of a still",
 "Receiving; receptive"
@@ -3945,6 +4039,9 @@
 "recommitment": [
 "A second or renewed commitment; a renewed reference to a committee"
 ],
+"recommittal": [
+"___recommitment"
+],
 "recompact": [
 "To compact or join anew"
 ],
@@ -4047,9 +4144,15 @@
 "reconnaissance": [
 "The act of reconnoitering; preliminary examination or survey"
 ],
+"reconnoissance": [
+"___reconnaissance"
+],
 "reconnoiter": [
 "To examine with the eye to make a preliminary examination or survey of; esp., to survey with a view to military or engineering operations",
 "To recognize"
+],
+"reconnoitre": [
+"___reconnoiter"
 ],
 "reconquer": [
 "To conquer again; to recover by conquest; as, to reconquer a revolted province"
@@ -4170,6 +4273,9 @@
 "To get an equivalent or compensation for; as, to recoup money lost at the gaming table; to recoup one's losses in the share market",
 "To reimburse; to indemnify; -- often used reflexively and in the passive"
 ],
+"recoupe": [
+"___recoup"
+],
 "recouper": [
 "One who recoups"
 ],
@@ -4284,6 +4390,9 @@
 "The state or condition of being recrudescent",
 "Increased severity of a disease after temporary remission"
 ],
+"recrudescency": [
+"___recrudescence"
+],
 "recrudescent": [
 "Growing raw, sore, or painful again",
 "Breaking out again after temporary abatement or supression; as, a recrudescent epidemic"
@@ -4350,6 +4459,9 @@
 ],
 "rectilineal": [
 "Straight; consisting of a straight line or lines; bounded by straight lines; as, a rectineal angle; a rectilinear figure or course"
+],
+"rectilinear": [
+"___rectilineal"
 ],
 "rectilinearity": [
 "The quality or state of being rectilinear"
@@ -4441,6 +4553,9 @@
 "To recoil",
 "Recoil"
 ],
+"reculement": [
+"___recule"
+],
 "recumb": [
 "To lean; to recline; to repose"
 ],
@@ -4469,6 +4584,9 @@
 "recuperator": [
 "___regenerator"
 ],
+"recuperatory": [
+"___recuperative"
+],
 "recur": [
 "To come back; to return again or repeatedly; to come again to mind",
 "To occur at a stated interval, or according to some regular rule; as, the fever will recur to-night",
@@ -4486,6 +4604,9 @@
 ],
 "recurrence": [
 "The act of recurring, or state of being recurrent; return; resort; recourse"
+],
+"recurrency": [
+"___recurrence"
 ],
 "recurrent": [
 "Returning from time to time; recurring; as, recurrent pains",
@@ -4566,12 +4687,18 @@
 "the condition of a traffic light when the signal visible to the driver of a vehicle is red, signalling that the vehicle must stop and not enter the intersection; I got seven red lights on the way to work",
 "figuratively, a sign or signal that one must stop doing what one is presently doing; as, a fatal side effect is often a red light to continuation of a clinical trial"
 ],
+"red-dog flour": [
+"___red dog"
+],
 "red-gum": [
 "An eruption of red pimples upon the face, neck, and arms, in early infancy; tooth rash; strophulus",
 "A name of rust on grain. See Rust"
 ],
 "red-hand": [
 "Having hands red with blood; in the very act, as if with red or bloody hands; -- said of a person taken in the act of homicide; hence, fresh from the commission of crime; as, he was taken red-hand or red-handed"
+],
+"red-handed": [
+"___red-hand"
 ],
 "red-hot": [
 "Red with heat; heated to redness; as, red-hot iron; red-hot balls. Hence, figuratively, excited; violent; as, a red-hot radical"
@@ -4880,6 +5007,9 @@
 "redleg": [
 "The redshank"
 ],
+"redlegs": [
+"___redleg"
+],
 "redly": [
 "In a red manner; with redness"
 ],
@@ -4891,6 +5021,9 @@
 ],
 "redolence": [
 "The quality of being redolent; sweetness of scent; pleasant odor; fragrance"
+],
+"redolency": [
+"___redolence"
 ],
 "redolent": [
 "Diffusing odor or fragrance; spreading sweet scent; scented; odorous; smelling; -- usually followed by of"
@@ -5060,6 +5193,9 @@
 "That which is redundant or in excess; anything superfluous or superabundant",
 "Surplusage inserted in a pleading which may be rejected by the court without impairing the validity of what remains"
 ],
+"redundancy": [
+"___redundance"
+],
 "redundant": [
 "Exceeding what is natural or necessary; superabundant; exuberant; as, a redundant quantity of bile or food",
 "Using more worrds or images than are necessary or useful; pleonastic"
@@ -5104,6 +5240,7 @@
 "The peele"
 ],
 "reecho": [
+"___re-echo",
 "The echo of an echo; a repeated or second echo"
 ],
 "reechy": [
@@ -5127,6 +5264,9 @@
 ],
 "reedbird": [
 "The bobolink"
+],
+"reedbuck": [
+"___reedbird"
 ],
 "reeded": [
 "Civered with reeds; reedy",
@@ -5228,8 +5368,17 @@
 "To embrace again",
 "to appear once more"
 ],
+"reemerge": [
+"___re-emerge"
+],
 "reemergence": [
 "Act of reemerging"
+],
+"reemphasize": [
+"___re-emphasize"
+],
+"reenact": [
+"___re-enact"
 ],
 "reenaction": [
 "The act of reenacting; the state of being reenacted"
@@ -5245,6 +5394,7 @@
 "to make stronger; \"reinforced concrete\""
 ],
 "reenforce": [
+"___re-enforce",
 "Something which reenforces or strengthens"
 ],
 "reenforced concrete": [
@@ -5283,6 +5433,7 @@
 "To enslave again"
 ],
 "reenter": [
+"___re-enter",
 "To enter anew or again"
 ],
 "reentering": [
@@ -5305,6 +5456,9 @@
 "A resuming or retaking possession of what one has lately foregone; -- applied especially to land; the entry by a lessor upon the premises leased, on failure of the tenant to pay rent or perform the covenants in the lease",
 "To enter (the Earth's atmosphere) after having passed beyond the atmosphere, as when in orbit or returning from another planet"
 ],
+"reequip": [
+"___re-equip"
+],
 "reerect": [
 "To erect again"
 ],
@@ -5322,6 +5476,9 @@
 ],
 "reestate": [
 "To reestablish"
+],
+"reevaluate": [
+"___re-evaluate"
 ],
 "reeve": [
 "The female of the ruff",
@@ -5348,6 +5505,12 @@
 ],
 "reexperience": [
 "A renewed or repeated experience"
+],
+"reexplain": [
+"___re-explain"
+],
+"reexplore": [
+"___re-explore"
 ],
 "reexport": [
 "To export again, as what has been imported",
@@ -5586,6 +5749,9 @@
 ],
 "refluence": [
 "The quality of being refluent; a flowing back"
+],
+"refluency": [
+"___refluence"
 ],
 "refluent": [
 "Flowing back; returning; ebbing"
@@ -5839,6 +6005,9 @@
 ],
 "refulgence": [
 "The quality of being refulgent; brilliancy; splender; radiance"
+],
+"refulgency": [
+"___refulgence"
 ],
 "refulgent": [
 "Casting a bright light; radiant; brilliant; resplendent; shining; splendid; as, refulgent beams"
@@ -6296,6 +6465,9 @@
 "regretful": [
 "Full of regret; indulging in regrets; repining"
 ],
+"regroup": [
+"___re-group"
+],
 "regrow": [
 "To grow again"
 ],
@@ -6451,6 +6623,9 @@
 "reigner": [
 "One who reigns"
 ],
+"reignite": [
+"___re-ignite"
+],
 "reillume": [
 "To light again; to cause to shine anew; to relume; to reillumine"
 ],
@@ -6598,6 +6773,9 @@
 ],
 "reinspirit": [
 "To give fresh spirit to"
+],
+"reinstall": [
+"___re-install"
 ],
 "reinstallment": [
 "A renewed installment"
@@ -7011,6 +7189,9 @@
 "The quality or state of being relevant; pertinency; applicability",
 "Sufficiency to infer the conclusion"
 ],
+"relevancy": [
+"___relevance"
+],
 "relevant": [
 "Relieving; lending aid or support",
 "Bearing upon, or properly applying to, the case in hand; pertinent; applicable",
@@ -7101,6 +7282,9 @@
 "religieuse": [
 "A person bound by monastic vows; a nun; a monk"
 ],
+"religieux": [
+"___religieuse"
+],
 "religion": [
 "The outward act or form by which men indicate their recognition of the existence of a god or of gods having power over their destiny, to whom obedience, service, and honor are due; the feeling or expression of human love, fear, or awe of some superhuman and overruling power, whether by profession of belief, by observance of rites and ceremonies, or by the conduct of life; a system of faith and worship; a manifestation of piety; as, ethical religions; monotheistic religions; natural religion; revealed religion; the religion of the Jews; the religion of idol worshipers",
 "Specifically, conformity in faith and life to the precepts inculcated in the Bible, respecting the conduct of life and duty toward God and man; the Christian faith and practice",
@@ -7110,6 +7294,9 @@
 "religionary": [
 "Relating to religion; pious; as, religionary professions",
 "A religionist"
+],
+"religioner": [
+"___religionary"
 ],
 "religionism": [
 "The practice of, or devotion to, religion",
@@ -7222,6 +7409,9 @@
 "The state or quality of being reluctant; repugnance; aversion of mind; unwillingness; -- often followed by an infinitive, or by to and a noun, formerly sometimes by against",
 "Magnetic resistance, being equal to the ratio of magnetomotive force to magnetic flux"
 ],
+"reluctancy": [
+"___reluctance"
+],
 "reluctant": [
 "Striving against; opposed in desire; unwilling; disinclined; loth",
 "Proceeding from an unwilling mind; granted with reluctance; as, reluctant obedience"
@@ -7282,6 +7472,9 @@
 "remanence": [
 "The state of being remanent; continuance; permanence"
 ],
+"remanency": [
+"___remanence"
+],
 "remanent": [
 "That which remains; a remnant; a residue",
 "Remaining; residual"
@@ -7290,12 +7483,7 @@
 "A case for trial which can not be tried during the term; a postponed case"
 ],
 "remark": [
-"To mark in a notable manner; to distinquish clearly; to make noticeable or conspicuous; to piont out",
-"To take notice of, or to observe, mentally; as, to remark the manner of a speaker",
-"To express in words or writing, as observed or noticed; to state; to say; -- often with a substantive clause; as, he remarked that it was time to go",
-"To make a remark or remarks; to comment",
-"Act of remarking or attentively noticing; notice or observation",
-"The expression, in speech or writing, of something remarked or noticed; the mention of that which is worthy of attention or notice; hence, also, a casual observation, comment, or statement; as, a pertinent remark"
+"___remarque"
 ],
 "remarkable": [
 "Worthy of being remarked or noticed; noticeable; conspicuous; hence, uncommon; extraordinary"
@@ -7305,6 +7493,9 @@
 ],
 "remarque": [
 "A small design etched on the margin of a plate and supposed to be removed after the earliest proofs have been taken; also, any feature distinguishing a particular stage of the plate"
+],
+"remarque proof": [
+"___remarque"
 ],
 "remarriage": [
 "A second or repeated marriage"
@@ -7411,11 +7602,17 @@
 "remercie": [
 "To thank"
 ],
+"remercy": [
+"___remercie"
+],
 "remerge": [
 "To merge again"
 ],
 "remeve": [
 "To remove"
+],
+"remewe": [
+"___remeve"
 ],
 "remiform": [
 "Shaped like an oar"
@@ -7636,7 +7833,11 @@
 "The act of removing; removal",
 "The state of being remote; remoteness"
 ],
+"remoulad": [
+"___remolade"
+],
 "remould": [
+"___remold",
 "___remold"
 ],
 "remount": [
@@ -7878,6 +8079,9 @@
 "renitence": [
 "The state or quality of being renitent; resistance; reluctance"
 ],
+"renitency": [
+"___renitence"
+],
 "renitent": [
 "Resisting pressure or the effect of it; acting against impulse by elastic force",
 "Persistently opposed"
@@ -8016,7 +8220,7 @@
 "Pertaining to renunciation; containing or declaring a renunciation; as, renunciatory vows"
 ],
 "renverse": [
-"To reverse",
+"___renverse",
 "Reversed; set with the head downward; turned contrary to the natural position"
 ],
 "renversement": [
@@ -8055,6 +8259,9 @@
 ],
 "reorganization": [
 "The act of reorganizing; a reorganized existence; as, reorganization of the troops"
+],
+"reorganize": [
+"___re-organize"
 ],
 "reorient": [
 "Rising again"
@@ -8231,6 +8438,9 @@
 "repellence": [
 "The principle of repulsion; the quality or capacity of repelling; repulsion"
 ],
+"repellency": [
+"___repellence"
+],
 "repellent": [
 "Driving back; able or tending to repel",
 "That which repels",
@@ -8320,6 +8530,9 @@
 ],
 "repetitional": [
 "Of the nature of, or containing, repetition"
+],
+"repetitionary": [
+"___repetitional"
 ],
 "repetitioner": [
 "One who repeats"
@@ -8439,6 +8652,9 @@
 "replicate": [
 "To reply",
 "Folded over or backward; folded back upon itself; as, a replicate leaf or petal; a replicate margin of a shell"
+],
+"replicated": [
+"___replicate"
 ],
 "replication": [
 "An answer; a reply",
@@ -8900,6 +9116,9 @@
 "repugnance": [
 "The state or condition of being repugnant; opposition; contrariety; especially, a strong instinctive antagonism; aversion; reluctance; unwillingness, as of mind, passions, principles, qualities, and the like"
 ],
+"repugnancy": [
+"___repugnance"
+],
 "repugnant": [
 "Disposed to fight against; hostile; at war with; being at variance; contrary; inconsistent; refractory; disobedient; also, distasteful in a high degree; offensive; -- usually followed by to, rarely and less properly by with; as, all rudeness was repugnant to her nature"
 ],
@@ -9053,6 +9272,9 @@
 "requiter": [
 "One who requites"
 ],
+"reread": [
+"___re-read"
+],
 "rerebrace": [
 "Armor for the upper part of the arm"
 ],
@@ -9074,6 +9296,9 @@
 ],
 "rereward": [
 "The rear guard of an army"
+],
+"rerun": [
+"___re-run"
 ],
 "res": [
 "A thing; the particular thing; a matter; a point"
@@ -9334,6 +9559,7 @@
 "One who reserves; a reserver"
 ],
 "reset": [
+"___re-set",
 "The act of resetting",
 "That which is reset; matter set up again",
 "The receiving of stolen goods, or harboring an outlaw",
@@ -9471,6 +9697,9 @@
 "The power or inherent property of returning to the form from which a substance is bent, stretched, compressed, or twisted; elasticity[1]; springiness; -- of objects and substances",
 "The power or ability to recover quickly from a setback, depression, illness, overwork or other adversity; buoyancy; elasticity[2]; -- of people",
 "The mechanical work required to strain an elastic body, as a deflected beam, stretched spring, etc., to the elastic limit; also, the work performed by the body in recovering from such strain"
+],
+"resiliency": [
+"___resilience"
 ],
 "resilient": [
 "Leaping back; rebounding; recoiling"
@@ -9841,6 +10070,9 @@
 "resplendence": [
 "The quality or state of being resplendent; brilliant luster; vivid brightness; splendor"
 ],
+"resplendency": [
+"___resplendence"
+],
 "resplendent": [
 "Shining with brilliant luster; very bright"
 ],
@@ -9865,6 +10097,9 @@
 ],
 "respondence": [
 "The act of responding; the state of being respondent; an answering"
+],
+"respondency": [
+"___respondence"
 ],
 "respondent": [
 "Disposed or expected to respond; answering; according; corresponding",
@@ -10456,6 +10691,9 @@
 "Resembling network; having the form or appearance of a net; netted; as, a reticulated structure",
 "Having veins, fibers, or lines crossing like the threads or fibers of a network; as, a reticulate leaf; a reticulated surface; a reticulated wing of an insect"
 ],
+"reticulated": [
+"___reticulate"
+],
 "reticulation": [
 "The quality or state of being reticulated, or netlike; that which is reticulated; network; an organization resembling a net"
 ],
@@ -10492,6 +10730,9 @@
 ],
 "retinasphalt": [
 "Retinite"
+],
+"retinasphaltum": [
+"___retinasphalt"
 ],
 "retinerved": [
 "Having reticulated veins"
@@ -10712,6 +10953,9 @@
 "retributive": [
 "Of or pertaining to retribution; of the nature of retribution; involving retribution or repayment; as, retributive justice; retributory comforts"
 ],
+"retributory": [
+"___retributive"
+],
 "retrievable": [
 "That may be retrieved or recovered; admitting of retrieval"
 ],
@@ -10782,11 +11026,17 @@
 "retroflex": [
 "Reflexed; bent or turned abruptly backward"
 ],
+"retroflexed": [
+"___retroflex"
+],
 "retroflexion": [
 "The act of reflexing; the state of being retroflexed.  Cf. Retroversion"
 ],
 "retrofract": [
 "Refracted; as, a retrofract stem"
+],
+"retrofracted": [
+"___retrofract"
 ],
 "retrogenerative": [
 "Begetting young by retrocopulation"
@@ -11235,6 +11485,7 @@
 "Reverting, or tending to revert; returning"
 ],
 "revery": [
+"___reverie",
 "___reverie"
 ],
 "revest": [
@@ -11347,6 +11598,9 @@
 "revisional": [
 "Of or pertaining to revision; revisory"
 ],
+"revisionary": [
+"___revisional"
+],
 "revisit": [
 "To visit again",
 "To revise"
@@ -11406,6 +11660,9 @@
 ],
 "reviviscence": [
 "The act of reviving, or the state of being revived; renewal of life"
+],
+"reviviscency": [
+"___reviviscence"
 ],
 "reviviscent": [
 "Able or disposed to revive; reviving"
@@ -11612,6 +11869,9 @@
 "rhabarbarin": [
 "Chrysophanic acid"
 ],
+"rhabarbarine": [
+"___rhabarbarin"
+],
 "rhabdite": [
 "A minute smooth rodlike or fusiform structure found in the tissues of many Turbellaria",
 "One of the hard parts forming the ovipositor of insects"
@@ -11718,6 +11978,7 @@
 "A rhapsodist"
 ],
 "rhapsodic": [
+"___rhapsodic",
 "Of or pertaining to rhapsody; consisting of rhapsody; hence, confused; unconnected"
 ],
 "rhapsodist": [
@@ -11736,6 +11997,9 @@
 "A recitation or song of a rhapsodist; a portion of an epic poem adapted for recitation, or usually recited, at one time; hence, a division of the Iliad or the Odyssey; -- called also a book",
 "A disconnected series of sentences or statements composed under excitement, and without dependence or natural connection; rambling composition",
 "A composition irregular in form, like an improvisation; as, Liszt's “Hungarian Rhapsodies.”"
+],
+"rhatanhy": [
+"___rhatany"
 ],
 "rhatany": [
 "The powerfully astringent root of a half-shrubby Peruvian plant (Krameria triandra). It is used in medicine and to color port wine"
@@ -11907,6 +12171,9 @@
 "rhinocerial": [
 "Of or pertaining to the rhinoceros; resembling the rhinoceros, or his horn"
 ],
+"rhinocerical": [
+"___rhinocerial"
+],
 "rhinoceros": [
 "Any pachyderm belonging to the genera Rhinoceros, Atelodus, and several allied genera of the family Rhinocerotidae, of which several living, and many extinct, species are known. They are large and powerful, and usually have either one or two stout conical median horns on the snout"
 ],
@@ -11918,6 +12185,9 @@
 ],
 "rhinolite": [
 "A concretion formed within the cavities of the nose"
+],
+"rhinolith": [
+"___rhinolite"
 ],
 "rhinological": [
 "Of or pertaining to rhinology"
@@ -12246,6 +12516,9 @@
 "rhythmic": [
 "Pertaining to, or of the nature of, rhythm"
 ],
+"rhythmical": [
+"___rhythmic"
+],
 "rhythmically": [
 "In a rhythmical manner"
 ],
@@ -12317,6 +12590,9 @@
 ],
 "ribaudred": [
 "Filthy; obscene; ribald"
+],
+"ribaudrous": [
+"___ribaudred"
 ],
 "ribaudry": [
 "Ribaldry"
@@ -12587,6 +12863,9 @@
 ],
 "ridgepiece": [
 "___ridgepole"
+],
+"ridgeplate": [
+"___ridgepiece"
 ],
 "ridgepole": [
 "The timber forming the ridge of a roof, into which the rafters are secured"
@@ -13257,13 +13536,20 @@
 "In fencing, a return thrust after a parry",
 "A quick and sharp refort; a repartee"
 ],
+"riposte": [
+"___ripost"
+],
 "ripper": [
+"___ripler",
 "One who, or that which, rips; a ripping tool",
 "A tool for trimming the edges of roofing slates",
 "Anything huge, extreme, startling, etc"
 ],
 "ripper act": [
 "An act or a bill conferring upon a chief executive, as a governor or mayor, large powers of appointment and removal of heads of departments or other subordinate officials"
+],
+"ripper bill": [
+"___ripper act"
 ],
 "ripping cord": [
 "same as Rip cord"
@@ -13408,6 +13694,9 @@
 "risque": [
 "Hazardous; risky; esp., fig., verging upon impropriety; dangerously close to, or suggestive of, what is indecent or of doubtful morality; as, a risqué story"
 ],
+"risquee": [
+"___risque"
+],
 "risse": [
 "imp. of Rise"
 ],
@@ -13434,6 +13723,9 @@
 ],
 "ritornelle": [
 "A short return or repetition; a concluding symphony to an air, often consisting of the burden of the song"
+],
+"ritornello": [
+"___ritornelle"
 ],
 "ritratto": [
 "A picture"
@@ -13676,6 +13968,9 @@
 "To deprive of, or withhold from, unjustly or injuriously; to defraud; as, to rob one of his rest, or of his good name; a tree robs the plants near it of sunlight",
 "To take that which belongs to another, without right or permission, esp. by violence"
 ],
+"robalito": [
+"___robalo"
+],
 "robalo": [
 "Any of several pikelike marine fishes of the West Indies and tropical America constituting the family Oxylabracidae, esp. the largest species (Oxylabrax undecimalis, syn. Centropomus undecimalis), a valuable food fish called also snook, the smaller species being called Rob`a*li\"to (&unr_;)"
 ],
@@ -13707,6 +14002,9 @@
 "robert": [
 "___herb"
 ],
+"robertsman": [
+"___roberdsman"
+],
 "robin": [
 "A small European singing bird (Erythacus rubecula), having a reddish breast; -- called also robin redbreast, robinet, and ruddock"
 ],
@@ -13737,6 +14035,9 @@
 ],
 "roborean": [
 "Made of oak"
+],
+"roboreous": [
+"___roborean"
 ],
 "robust": [
 "Evincing strength; indicating vigorous health; strong; sinewy; muscular; vigorous; sound; as, a robust body; robust youth; robust health",
@@ -13860,6 +14161,9 @@
 ],
 "rocking-stone": [
 "A stone, often of great size and weight, resting upon another stone, and so exactly poised that it can be rocked, or slightly moved, with but little force"
+],
+"rocklay": [
+"___rockelay"
 ],
 "rockless": [
 "Being without rocks"
@@ -14067,6 +14371,9 @@
 "rokeage": [
 "Parched Indian corn, pounded up and mixed with sugar; -- called also yokeage"
 ],
+"rokee": [
+"___rokeage"
+],
 "rokelay": [
 "A short cloak"
 ],
@@ -14113,6 +14420,9 @@
 "rollable": [
 "Capable of being rolled"
 ],
+"rollejee": [
+"___rolliche"
+],
 "roller": [
 "One who, or that which, rolls; especially, a cylinder, sometimes grooved, of wood, stone, metal, etc., used in husbandry and the arts",
 "A bandage; a fillet; properly, a long and broad bandage used in surgery",
@@ -14149,6 +14459,9 @@
 ],
 "rolliche": [
 "A kind of sausage, made in a bag of tripe, sliced and fried, famous among the Dutch of New Amsterdam and still known, esp. in New Jersey"
+],
+"rollichie": [
+"___rolliche"
 ],
 "rolling": [
 "Rotating on an axis, or moving along a surface by rotation; turning over and over as if on an axis or a pivot; as, a rolling wheel or ball",
@@ -14288,8 +14601,14 @@
 "rome penny": [
 "___peter"
 ],
+"rome scot": [
+"___rome penny"
+],
 "romeine": [
 "A mineral of a hyacinth or honey-yellow color, occuring in square octahedrons. It is an antimonate of calcium"
+],
+"romeite": [
+"___romeine"
 ],
 "romekin": [
 "A drinking cup"
@@ -14380,8 +14699,14 @@
 "ronne": [
 "obs. imp. pl"
 ],
+"ronnen": [
+"___ronne"
+],
 "ront": [
 "A runt"
+],
+"ronyon": [
+"___ronion"
 ],
 "rood": [
 "A representation in sculpture or in painting of the cross with Christ hanging on it",
@@ -14490,6 +14815,9 @@
 ],
 "roop": [
 "___roup"
+],
+"roorbach": [
+"___roorback"
 ],
 "roorback": [
 "A defamatory forgery or falsehood published for purposes of political intrigue"
@@ -14609,6 +14937,9 @@
 ],
 "roque": [
 "A form of croquet modified for greater accuracy of play. The court has a wood border often faced with rubber, used as a cushion in bank shots. The balls are 31/4 in. in diameter, the cage (center arches or wickets) 33/8 in. wide, the other arches 31/2 in. wide"
+],
+"roquefort": [
+"___roquefort cheese"
 ],
 "roquefort cheese": [
 "A highly flavored blue-molded cheese, made at Roquefort, department of Aveyron, France. It is made from milk of ewes, sometimes with cow's milk added, and is cured in caves. Improperly, a cheese made in imitation of it"
@@ -14770,6 +15101,9 @@
 "rosenmueller's organ": [
 "The parovarium"
 ],
+"rosenmuller's organ": [
+"___rosenmueller's organ"
+],
 "roseo-": [
 "A prefix (also used adjectively) signifying rose-red; specifically used to designate certain rose-red compounds (called roseo-cobaltic compounds) of cobalt with ammonia.  Cf. Luteo-"
 ],
@@ -14884,6 +15218,9 @@
 "rostrate": [
 "Having a process resembling the beak of a bird; beaked; rostellate",
 "Furnished or adorned with beaks; as, rostrated galleys"
+],
+"rostrated": [
+"___rostrate"
 ],
 "rostrifera": [
 "A division of pectinibranchiate gastropods, having the head prolonged into a snout which is not retractile"
@@ -15296,6 +15633,9 @@
 "round-backed": [
 "Having a round back or shoulders; round-shouldered"
 ],
+"round-robin": [
+"___round robin"
+],
 "round-shouldered": [
 "Having the shoulders stooping or projecting; round-backed"
 ],
@@ -15577,6 +15917,7 @@
 "One of the rings of masonry included in an arch having more than one ring"
 ],
 "rown": [
+"___roun",
 "see Roun"
 ],
 "rowport": [
@@ -15640,6 +15981,9 @@
 ],
 "royster": [
 "same as Roister, Roisterer"
+],
+"roysterer": [
+"___royster"
 ],
 "royston crow": [
 "___hooded"
@@ -15809,6 +16153,9 @@
 "rubiginose": [
 "Having the appearance or color of iron rust; rusty-looking"
 ],
+"rubiginous": [
+"___rubiginose"
+],
 "rubigo": [
 "same as Rust, n., 2"
 ],
@@ -15831,12 +16178,18 @@
 "Colored in, or marked with, red; placed in rubrics",
 "Of or pertaining to the rubric or rubrics"
 ],
+"rubrical": [
+"___rubric"
+],
 "rubricate": [
 "Marked with red",
 "To mark or distinguished with red; to arrange as in a rubric; to establish in a settled and unchangeable form"
 ],
 "rubrician": [
 "One skilled in, or tenaciously adhering to, the rubric or rubrics"
+],
+"rubricist": [
+"___rubrician"
 ],
 "rubricity": [
 "Redness"
@@ -15965,6 +16318,9 @@
 "rudesby": [
 "An uncivil, turbulent fellow"
 ],
+"rudesheimer": [
+"___ruedesheimer"
+],
 "rudiment": [
 "That which is unformed or undeveloped; the principle which lies at the bottom of any development; an unfinished beginning",
 "Hence, an element or first principle of any art or science; a beginning of any knowledge; a first step",
@@ -16035,6 +16391,9 @@
 "To hit, as the prey, without fixing it",
 "To play a trump card at bridge; as, he ruffed his partner's ace",
 "A small freshwater European perch (Acerina vulgaris); -- called also pope, blacktail, and stone perch, or striped perch"
+],
+"ruffe": [
+"___ruff"
 ],
 "ruffed": [
 "Furnished with a ruff"
@@ -16307,6 +16666,9 @@
 "To chew over again",
 "To meditate or ponder over; to muse on",
 "Having a hard albumen penetrated by irregular channels filled with softer matter, as the nutmeg and the seeds of the North American papaw"
+],
+"ruminated": [
+"___ruminate"
 ],
 "rumination": [
 "The act or process of ruminating, or chewing the cud; the habit of chewing the cud",
@@ -16741,6 +17103,9 @@
 "russian church": [
 "The established church of the Russian empire up to the revolution of 1917, at which time the ruling Communist party tried to suppress all religious worship.  The czar was the nominal head of the church, but he never claimed the right of deciding questions of theology and dogma. It still forms a portion, by far the largest, of the Orthodox (Eastern) Church and is governed by the Patriarch and the Holy Synod. In 1988 the church, with official approval, celebrated the 1000 year anniversary of the baptism of Russia.  After breakup of the Soviet Union in 1991 the Russian Church began to regain some its old influence in Russian life, and the government turned over some of the confiscated churches back to church control.  The Russian Church was recognized anew as the official church of Russia, with special priveleges, by an act of the Russian Duma in 1997.  The Metropolitan of Moscow, as Patriarch of the church, is regarded as the first among equals in order of deference among bishops of the church"
 ],
+"russian orthodox church": [
+"___russian church"
+],
 "russian roulette": [
 "An act of bravado played by loading one bullet into one chamber of a revolver in which the cylinder has five or six positions, spinning the cylinder (thus moving the bullet randomly to one of the six positions of the cylinder), pointing the gun to one's head, and pulling the trigger.  If the bullet is in firing position, the \"player\" is usually killed. Such a \"game\" may be played on a dare, or, in some places, as part of a gamble"
 ],
@@ -16756,11 +17121,17 @@
 "russophile": [
 "One who, not being a Russian, favors Russian policy and aggrandizement"
 ],
+"russophilist": [
+"___russophile"
+],
 "russophobe": [
 "One who dreads Russia or Russian influence"
 ],
 "russophobia": [
 "Morbid dread of Russia or of Russian influence"
+],
+"russophobist": [
+"___russophobe"
 ],
 "rust": [
 "The reddish yellow coating formed on iron when exposed to moist air, consisting of ferric oxide or hydroxide; hence, by extension, any metallic film of corrosion",

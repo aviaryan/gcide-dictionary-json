@@ -4,10 +4,10 @@ from bs4 import BeautifulSoup
 
 indent = 0 # indent of output alphabet-wise json ; make it to None for single-line compressed output
 indent_main = None # indent of dictionary.json
-remove_as = True # remove example sentences from defn .. like 'as, a valuable item' . These give examples of how the word is used
+remove_as = False # remove example sentences from defn .. like 'as, a valuable item' . These give examples of how the word is used
 remove_prefix = False # remove words that don't start with alphabet . e.g. suffixes (-ing in i, -s in s)
 all_lowercase = True # make all words lowercase (not their definitions)
-only_alpha = True # words consisting of only alphabets allowed. e.g. removes words having spaces or dashes etc.
+only_alpha = False # words consisting of only alphabets allowed. e.g. removes words having spaces or dashes etc.
 
 fix_er = True # Fix entry reference,hyperlinks . convert (Bacteria : See Bacterium.) to (Bacteria : ___Bacterium)
 remove_orphans = True # remove words without definition
@@ -36,8 +36,6 @@ def gcide_xml2json(xml, alphabet):
 			ents = [i.get_text().lower() if all_lowercase else i.get_text() for i in p.find_all('ent')]
 			ents = [i for i in ents[:-1] if i[0:1].isalpha()] + [ents[-1]] # remove suffixes from same words cuz they are not my job
 			ent = ents[-1] # get the root word, last one
-			if all_lowercase:
-				ent = ent.lower()
 			for _ent in ents[:-1]: # init all same words
 				dic[_ent] = ['___' + ent]
 			if ent not in dic:
