@@ -47,6 +47,11 @@ If you want to have control over the output json files, there are some variables
 * To cleanup generated dictionary, you can use variables like `only_alpha`, `remove_prefix` and `remove_as` from the [script](gcide_parser.py).
 
 
+### Bonus
+
+* You can use [dict.py](dict.py) as a command-line dictionary. It doesn't support word correction though.
+
+
 ### Similar Projects
 
 * [adambom/dictionary](https://github.com/adambom/dictionary)
